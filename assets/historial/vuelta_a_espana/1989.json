@@ -1,0 +1,282 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1989,
+    "distancia": 3477.0,
+    "desnivel": 53963,
+    "tiempo": "93h 01' 47\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 143,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Reynolds - Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vargas Óscar de Jesús",
+            "pais": "Colombia",
+            "equipo": "Manzana Postobón",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 3 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 4 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ivanov Ivan",
+            "pais": "Rusia",
+            "equipo": "Alfa Lum",
+            "ventaja": "+ 5 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 7 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Morales Pedro Saúl",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 7 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bagot Jean-Claude",
+            "pais": "Francia",
+            "equipo": "RMO - Mavic - Liberia",
+            "ventaja": "+ 8 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Suykerbuyk Luc",
+            "pais": "Países Bajos",
+            "equipo": "Lotus - Zahor",
+            "ventaja": "+ 9 min 44 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Elliott Malcolm",
+        "pais": "Reino Unido",
+        "equipo": "Teka"
+    },
+    "ganadorMontana": {
+        "nombre": "Vargas Óscar de Jesús",
+        "pais": "Colombia",
+        "equipo": "Manzana Postobón"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme",
+        "pais": "Colombia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Lameire Marnix",
+            "pais": "Bélgica",
+            "distancia": 20.1,
+            "desnivel": 588,
+            "velocidadMedia": 47.668
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hernández Joaquín",
+            "pais": "España",
+            "distancia": 209.0,
+            "desnivel": 3500,
+            "velocidadMedia": 36.276
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 34.4,
+            "desnivel": 564,
+            "velocidadMedia": 48.21
+        },
+        {
+            "etapa": 3,
+            "nombre": "Elliott Malcolm",
+            "pais": "Reino Unido",
+            "distancia": 101.0,
+            "desnivel": 2255,
+            "velocidadMedia": 40.12
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pagnin Roberto",
+            "pais": "Italia",
+            "distancia": 160.5,
+            "desnivel": 3000,
+            "velocidadMedia": 38.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 247.0,
+            "desnivel": 2345,
+            "velocidadMedia": 45.43
+        },
+        {
+            "etapa": 6,
+            "nombre": "Suykerbuyk Luc",
+            "pais": "Países Bajos",
+            "distancia": 197.5,
+            "desnivel": 4759,
+            "velocidadMedia": 37.097
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ghirotto Massimo",
+            "pais": "Italia",
+            "distancia": 157.0,
+            "desnivel": 2186,
+            "velocidadMedia": 45.4
+        },
+        {
+            "etapa": 8,
+            "nombre": "Allocchio Stefano",
+            "pais": "Italia",
+            "distancia": 235.5,
+            "desnivel": 1324,
+            "velocidadMedia": 40.988
+        },
+        {
+            "etapa": 9,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "distancia": 228.0,
+            "desnivel": 2500,
+            "velocidadMedia": 41.907
+        },
+        {
+            "etapa": 10,
+            "nombre": "Díaz Zabala Herminio",
+            "pais": "España",
+            "distancia": 202.0,
+            "desnivel": 2000,
+            "velocidadMedia": 37.82
+        },
+        {
+            "etapa": 11,
+            "nombre": "Elliott Malcolm",
+            "pais": "Reino Unido",
+            "distancia": 179.0,
+            "desnivel": 2525,
+            "velocidadMedia": 40.995
+        },
+        {
+            "etapa": 12,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 186.5,
+            "desnivel": 4931,
+            "velocidadMedia": 34.076
+        },
+        {
+            "etapa": 13,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 161.0,
+            "desnivel": 2500,
+            "velocidadMedia": 41.179
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 165.0,
+            "desnivel": 1540,
+            "velocidadMedia": 41.368
+        },
+        {
+            "etapa": 15,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 24.0,
+            "desnivel": 1523,
+            "velocidadMedia": 26.983
+        },
+        {
+            "etapa": 16,
+            "nombre": "Hilse Peter",
+            "pais": "Alemania",
+            "distancia": 193.5,
+            "desnivel": 2500,
+            "velocidadMedia": 40.842
+        },
+        {
+            "etapa": 17,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 228.0,
+            "desnivel": 4000,
+            "velocidadMedia": 36.968
+        },
+        {
+            "etapa": 18,
+            "nombre": "Ivanov Ivan",
+            "pais": "Rusia",
+            "distancia": 153.0,
+            "desnivel": 3500,
+            "velocidadMedia": 34.703
+        },
+        {
+            "etapa": 19,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 159.0,
+            "desnivel": 851,
+            "velocidadMedia": 43.505
+        },
+        {
+            "etapa": 20,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 47.5,
+            "desnivel": 377,
+            "velocidadMedia": 46.721
+        },
+        {
+            "etapa": 21,
+            "nombre": null,
+            "pais": null,
+            "distancia": 188.5,
+            "desnivel": 4695,
+            "velocidadMedia": 35.34
+        },
+        {
+            "etapa": 22,
+            "nombre": "Heynderickx Jean-Pierre",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.627
+        }
+    ]
+}

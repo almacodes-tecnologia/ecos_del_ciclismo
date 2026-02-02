@@ -1,0 +1,162 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2010,
+    "distancia": 929.8,
+    "desnivel": 0,
+    "tiempo": "28h 06' 28\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "RadioShack",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Coppel Jérôme",
+            "pais": "Francia",
+            "equipo": "Saur - Sojasun",
+            "ventaja": "+ 4 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vogondy Nicolas",
+            "pais": "Francia",
+            "equipo": "Bbox Bouygues Telecom",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rolland Pierre",
+            "pais": "Francia",
+            "equipo": "Bbox Bouygues Telecom",
+            "ventaja": "+ 6 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack",
+            "ventaja": "+ 6 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Szmyd Sylwester",
+            "pais": "Polonia",
+            "equipo": "Liquigas - Doimo",
+            "ventaja": "+ 6 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Contador Alberto",
+        "pais": "España",
+        "equipo": "Astana"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Egoi",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Euskaltel - Euskadi",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 6.8,
+            "desnivel": 0,
+            "velocidadMedia": 47.63
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bole Grega",
+            "pais": "Eslovenia",
+            "distancia": 191.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.977
+        },
+        {
+            "etapa": 3,
+            "nombre": "Haedo Juan José",
+            "pais": "Argentina",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.202
+        },
+        {
+            "etapa": 4,
+            "nombre": "Janez Brajkovič",
+            "pais": "Eslovenia",
+            "distancia": 49.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.534
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vogondy Nicolas",
+            "pais": "Francia",
+            "distancia": 210.5,
+            "desnivel": 0,
+            "velocidadMedia": 34.755
+        },
+        {
+            "etapa": 6,
+            "nombre": "Navarro Daniel",
+            "pais": "España",
+            "distancia": 143.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.742
+        },
+        {
+            "etapa": 7,
+            "nombre": "Alberto Contador",
+            "pais": "España",
+            "distancia": 151.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.077
+        },
+        {
+            "etapa": 8,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7598
+        }
+    ]
+}

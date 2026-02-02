@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2001,
+    "distancia": 757.0,
+    "desnivel": 0,
+    "tiempo": "18h 34' 20\"",
+    "ciclistasInscritos": 96,
+    "ciclistasFinalizados": 81,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hundertmarck Kai",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sacchi Fabio",
+            "pais": "Italia",
+            "equipo": "Saeco",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jenner Christopher",
+            "pais": "Nueva Zelanda",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Botcharov Alexandre",
+            "pais": "Rusia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "BigMat - Auber 93",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Poilvet Benoît",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "D'Hollander Glenn",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Sunsmart - Mitsubishi",
+            "ventaja": "+ 24 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Brown Graeme Allen",
+        "pais": "Australia",
+        "equipo": "United Water"
+    },
+    "ganadorMontana": {
+        "nombre": "Tighello Robert",
+        "pais": "Australia",
+        "equipo": "Sunsmart - Mitsubishi"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bates Gene",
+        "pais": "Australia",
+        "equipo": "Team UniSA"
+    },
+    "ganadorEquipos": {
+        "nombre": " Crédit Agricole",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Brown Graeme Allen",
+            "pais": "Australia",
+            "distancia": 47.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.974
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sacchi Fabio",
+            "pais": "Italia",
+            "distancia": 142.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.246
+        },
+        {
+            "etapa": 3,
+            "nombre": "Galletti Alessio",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.342
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roberts Luke",
+            "pais": "Australia",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.032
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hundertmarck Kai",
+            "pais": "Alemania",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.924
+        },
+        {
+            "etapa": 6,
+            "nombre": "McKenzie David",
+            "pais": "Australia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.45
+        }
+    ]
+}

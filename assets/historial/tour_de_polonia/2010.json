@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2010,
+    "distancia": 1092.6,
+    "desnivel": 0,
+    "tiempo": "30h 38' 48\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 158,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bole Grega",
+            "pais": "Eslovenia",
+            "equipo": "Lampre - Farnese Vini",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Szmyd Sylwester",
+            "pais": "Polonia",
+            "equipo": "Liquigas - Doimo",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rutkiewicz Marek",
+            "pais": "Polonia",
+            "equipo": "Poland",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "RadioShack",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lagutin Sergey",
+            "pais": "Uzbekistán",
+            "equipo": "Vacansoleil",
+            "ventaja": "+ 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Davis Allan",
+        "pais": "Australia",
+        "equipo": "Astana"
+    },
+    "ganadorMontana": {
+        "nombre": "Hoogerland Johnny",
+        "pais": "Países Bajos",
+        "equipo": "Vacansoleil"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Guarnieri Jacopo",
+            "pais": "Italia",
+            "distancia": 175.1,
+            "desnivel": 0,
+            "velocidadMedia": 42.788
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.684
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hutarovich Yauheni",
+            "pais": "Bielorrusia",
+            "distancia": 122.1,
+            "desnivel": 0,
+            "velocidadMedia": 44.38
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lorenzetto Mirco",
+            "pais": "Italia",
+            "distancia": 177.9,
+            "desnivel": 0,
+            "velocidadMedia": 43.11
+        },
+        {
+            "etapa": 5,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.67
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 228.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.674
+        },
+        {
+            "etapa": 7,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9958
+        }
+    ]
+}

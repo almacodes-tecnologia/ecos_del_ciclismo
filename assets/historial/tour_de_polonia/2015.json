@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2015,
+    "distancia": 1051.0,
+    "desnivel": 13270,
+    "tiempo": "26h 04' 38\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 113,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "De Clercq Bart",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hermans Ben",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "Team Cannondale - Garmin ",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kittel Marcel",
+        "pais": "Alemania",
+        "equipo": "Team Giant - Alpecin"
+    },
+    "ganadorMontana": {
+        "nombre": "Paterski Maciej",
+        "pais": "Polonia",
+        "equipo": "CCC Sprandi Polkowice "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Lotto Soudal",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 122.0,
+            "desnivel": 988,
+            "velocidadMedia": 44.85
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pelucchi Matteo",
+            "pais": "Italia",
+            "distancia": 146.0,
+            "desnivel": 776,
+            "velocidadMedia": 43.76
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pelucchi Matteo",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 944,
+            "velocidadMedia": 43.55
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bodnar Maciej",
+            "pais": "Polonia",
+            "distancia": 220.0,
+            "desnivel": 2516,
+            "velocidadMedia": 41.97
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Clercq Bart",
+            "pais": "Bélgica",
+            "distancia": 223.0,
+            "desnivel": 4186,
+            "velocidadMedia": 38.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "distancia": 174.0,
+            "desnivel": 3860,
+            "velocidadMedia": 37.49
+        },
+        {
+            "etapa": 7,
+            "nombre": "Białobłocki Marcin",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.2621
+        }
+    ]
+}

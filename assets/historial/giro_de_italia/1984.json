@@ -1,0 +1,254 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1984,
+    "distancia": 3461.0,
+    "desnivel": 0,
+    "tiempo": "98h 32' 20\"",
+    "ciclistasInscritos": 172,
+    "ciclistasFinalizados": 143,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Gis - Gelati",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Renault - Elf",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "equipo": "Sammontana",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Alfa Lum",
+            "ventaja": "+ 4 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "equipo": "Metauro Mobili - Pinarello",
+            "ventaja": "+ 6 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Murella",
+            "ventaja": "+ 7 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Metauro Mobili - Pinarello",
+            "ventaja": "+ 10 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 11 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "+ 11 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pedersen Dag Erik",
+            "pais": "Noruega",
+            "equipo": "Murella",
+            "ventaja": "+ 13 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Freuler Urs",
+        "pais": "Suiza",
+        "equipo": "Atala - Campagnolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Fignon Laurent",
+        "pais": "Francia",
+        "equipo": "Renault - Elf"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mottet Charly",
+        "pais": "Francia",
+        "equipo": "Renault - Elf"
+    },
+    "ganadorEquipos": {
+        "nombre": " Renault - Elf",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "distancia": 55.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.39
+        },
+        {
+            "etapa": 3,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.289
+        },
+        {
+            "etapa": 4,
+            "nombre": "Mutter Stefan",
+            "pais": "Suiza",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.172
+        },
+        {
+            "etapa": 5,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.217
+        },
+        {
+            "etapa": 6,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.291
+        },
+        {
+            "etapa": 7,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.031
+        },
+        {
+            "etapa": 8,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.916
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pedersen Dag Erik",
+            "pais": "Noruega",
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.51
+        },
+        {
+            "etapa": 10,
+            "nombre": "Gayant Martial",
+            "pais": "Francia",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.78
+        },
+        {
+            "etapa": 11,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.585
+        },
+        {
+            "etapa": 12,
+            "nombre": "Rosola Paolo",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.51
+        },
+        {
+            "etapa": 13,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "distancia": 269.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.107
+        },
+        {
+            "etapa": 15,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.849
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bruggmann Jürg",
+            "pais": "Suiza",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.757
+        },
+        {
+            "etapa": 18,
+            "nombre": "Leali Bruno",
+            "pais": "Italia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.167
+        },
+        {
+            "etapa": 19,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "distancia": 74.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.052
+        },
+        {
+            "etapa": 20,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.612
+        },
+        {
+            "etapa": 21,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.391
+        },
+        {
+            "etapa": 22,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.978
+        }
+    ]
+}

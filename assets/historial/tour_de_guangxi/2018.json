@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-of-guangxi",
+    "anio": 2018,
+    "distancia": 742.4,
+    "desnivel": 4925,
+    "tiempo": "20h 39' 56\"",
+    "ciclistasInscritos": 124,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Moscon Gianni",
+            "pais": "Italia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Chernetski Sergei",
+            "pais": "Rusia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cavagna Rémi",
+            "pais": "Francia",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Verona Carlos",
+            "pais": "España",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Team EF Education First - Drapac p/b Cannondale",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Devenyns Dries",
+            "pais": "Bélgica",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Berhane Natnael",
+            "pais": "Eritrea",
+            "equipo": "Team Dimension Data",
+            "ventaja": "+ 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jakobsen Fabio",
+        "pais": "Países Bajos",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorMontana": {
+        "nombre": "Dillier Silvan",
+        "pais": "Suiza",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorJovenes": {
+        "nombre": "Moscon Gianni",
+        "pais": "Italia",
+        "equipo": "Team Sky"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 107.4,
+            "desnivel": 339,
+            "velocidadMedia": 45.46
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 145.2,
+            "desnivel": 485,
+            "velocidadMedia": 43.79
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 125.4,
+            "desnivel": 798,
+            "velocidadMedia": 45.91
+        },
+        {
+            "etapa": 4,
+            "nombre": "Moscon Gianni",
+            "pais": "Italia",
+            "distancia": 152.2,
+            "desnivel": 1178,
+            "velocidadMedia": 41.88
+        },
+        {
+            "etapa": 5,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 212.2,
+            "desnivel": 2125,
+            "velocidadMedia": 43.22
+        },
+        {
+            "etapa": 6,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.0964
+        }
+    ]
+}

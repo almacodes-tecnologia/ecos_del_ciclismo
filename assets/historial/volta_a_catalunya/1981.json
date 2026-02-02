@@ -1,0 +1,175 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1981,
+    "distancia": 1127.5,
+    "desnivel": 0,
+    "tiempo": "34h 56' 11\"",
+    "ciclistasInscritos": 35,
+    "ciclistasFinalizados": 38,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Zor - Helios - Novostil",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Demierre Serge",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 12 min 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "+ 12 min 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Kelme - Gios",
+            "ventaja": "+ 15 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 16 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lienhard Erwin",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 18 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lejarreta Ismael",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 18 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Suárez Jesús",
+            "pais": "España",
+            "equipo": "Kelme - Gios",
+            "ventaja": "+ 20 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zúñiga Ricardo",
+            "pais": "España",
+            "equipo": "Reynolds - Galli ",
+            "ventaja": "+ 21 min 24 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van der Velde Johan",
+        "pais": "Países Bajos",
+        "equipo": "TI - Raleigh - Creda"
+    },
+    "ganadorMontana": {
+        "nombre": "Lejarreta Marino",
+        "pais": "España",
+        "equipo": "Teka"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Gisiger Daniel",
+            "pais": "Suiza",
+            "distancia": 3.8,
+            "desnivel": 0,
+            "velocidadMedia": 43.155
+        },
+        {
+            "etapa": 1,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.418
+        },
+        {
+            "etapa": 2,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.207
+        },
+        {
+            "etapa": 2,
+            "nombre": "van den Hoek Aad",
+            "pais": "Países Bajos",
+            "distancia": 30.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.541
+        },
+        {
+            "etapa": 3,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "distancia": 155.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.28
+        },
+        {
+            "etapa": 4,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 180.5,
+            "desnivel": 0,
+            "velocidadMedia": 30.106
+        },
+        {
+            "etapa": 5,
+            "nombre": "Demierre Serge",
+            "pais": "Suiza",
+            "distancia": 179.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.704
+        },
+        {
+            "etapa": 6,
+            "nombre": "Janiszewski Guy",
+            "pais": "Bélgica",
+            "distancia": 183.3,
+            "desnivel": 0,
+            "velocidadMedia": 39.462
+        },
+        {
+            "etapa": 7,
+            "nombre": "Demierre Serge",
+            "pais": "Suiza",
+            "distancia": 36.9,
+            "desnivel": 0,
+            "velocidadMedia": 43.383
+        },
+        {
+            "etapa": 7,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

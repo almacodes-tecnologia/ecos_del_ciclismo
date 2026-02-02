@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2018,
+    "distancia": 3350.5,
+    "desnivel": 48000,
+    "tiempo": "83h 17' 13\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 145,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 2 min 24 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 3 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 6 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 6 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 7 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 9 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 12 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 14 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Alaphilippe Julian",
+        "pais": "Francia",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorJovenes": {
+        "nombre": "Latour Pierre",
+        "pais": "Francia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 201.0,
+            "desnivel": 454,
+            "velocidadMedia": 45.76
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 182.5,
+            "desnivel": 1395,
+            "velocidadMedia": 44.4
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 35.5,
+            "desnivel": 387,
+            "velocidadMedia": 54.944
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 195.0,
+            "desnivel": 1155,
+            "velocidadMedia": 44.15
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 204.5,
+            "desnivel": 2704,
+            "velocidadMedia": 42.59
+        },
+        {
+            "etapa": 6,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 181.0,
+            "desnivel": 2027,
+            "velocidadMedia": 42.804
+        },
+        {
+            "etapa": 7,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 231.0,
+            "desnivel": 2255,
+            "velocidadMedia": 40.33
+        },
+        {
+            "etapa": 8,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 181.0,
+            "desnivel": 1284,
+            "velocidadMedia": 41.2
+        },
+        {
+            "etapa": 9,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 156.5,
+            "desnivel": 618,
+            "velocidadMedia": 45.93
+        },
+        {
+            "etapa": 10,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 158.5,
+            "desnivel": 4254,
+            "velocidadMedia": 35.83
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 108.5,
+            "desnivel": 4093,
+            "velocidadMedia": 31.06
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 175.5,
+            "desnivel": 5362,
+            "velocidadMedia": 33.05
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 169.5,
+            "desnivel": 1302,
+            "velocidadMedia": 45.02
+        },
+        {
+            "etapa": 14,
+            "nombre": "Fraile Omar",
+            "pais": "España",
+            "distancia": 188.0,
+            "desnivel": 3365,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 15,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 181.0,
+            "desnivel": 2917,
+            "velocidadMedia": 40.85
+        },
+        {
+            "etapa": 16,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 218.0,
+            "desnivel": 3521,
+            "velocidadMedia": 41.74
+        },
+        {
+            "etapa": 17,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 65.0,
+            "desnivel": 3274,
+            "velocidadMedia": 27.57
+        },
+        {
+            "etapa": 18,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 171.0,
+            "desnivel": 1312,
+            "velocidadMedia": 45.23
+        },
+        {
+            "etapa": 19,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 200.5,
+            "desnivel": 5046,
+            "velocidadMedia": 36.65
+        },
+        {
+            "etapa": 20,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 31.0,
+            "desnivel": 543,
+            "velocidadMedia": 45.51
+        },
+        {
+            "etapa": 21,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 116.0,
+            "desnivel": 732,
+            "velocidadMedia": 41.78
+        }
+    ]
+}

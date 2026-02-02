@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2022,
+    "distancia": 712.4,
+    "desnivel": 12578,
+    "tiempo": "18h 00' 59\"",
+    "ciclistasInscritos": 137,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mäder Gino",
+            "pais": "Suiza",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Geschke Simon",
+            "pais": "Alemania",
+            "equipo": "Cofidis",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Plapp Luke",
+            "pais": "Australia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rubio Einer",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hayter Ethan",
+        "pais": "Reino Unido",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorMontana": {
+        "nombre": "Skujiņš Toms",
+        "pais": "Letonia",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ayuso Juan",
+        "pais": "España",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Jumbo-Visma",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hayter Ethan",
+            "pais": "Reino Unido",
+            "distancia": 5.12,
+            "desnivel": 39,
+            "velocidadMedia": 52.364
+        },
+        {
+            "etapa": 1,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "distancia": 178.0,
+            "desnivel": 2729,
+            "velocidadMedia": 40.46
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hayter Ethan",
+            "pais": "Reino Unido",
+            "distancia": 168.2,
+            "desnivel": 2327,
+            "velocidadMedia": 41.206
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bevin Patrick",
+            "pais": "Nueva Zelanda",
+            "distancia": 165.1,
+            "desnivel": 2441,
+            "velocidadMedia": 42.433
+        },
+        {
+            "etapa": 4,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "distancia": 180.1,
+            "desnivel": 4158,
+            "velocidadMedia": 36.157
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "distancia": 15.84,
+            "desnivel": 884,
+            "velocidadMedia": 28.23
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2004,
+  "distancia": 3429,
+  "desnivel": 0,
+  "tiempo": "83h 40' 20\"",
+  "ciclistasInscritos": 188,
+  "ciclistasFinalizados": 147,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Sin Ganador",
+      "pais": "",
+      "equipo": "",
+      "ventaja": ""
+    },
+    {
+      "puesto": 2,
+      "nombre": "Andreas Klöden",
+      "pais": "Alemania",
+      "equipo": "T-Mobile Team",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Ivan Basso",
+      "pais": "Italia",
+      "equipo": "Team CSC",
+      "ventaja": "+21 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Jan Ullrich",
+      "pais": "Alemania",
+      "equipo": "T-Mobile Team",
+      "ventaja": "+2 min 31 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "José Azevedo",
+      "pais": "Portugal",
+      "equipo": "US Postal p/b Berry Floor",
+      "ventaja": "+8 min 11 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Francisco Mancebo",
+      "pais": "España",
+      "equipo": "Illes Balears-Banesto",
+      "ventaja": "+11 min 42 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Georg Totschnig",
+      "pais": "Austria",
+      "equipo": "Gerolsteiner",
+      "ventaja": "+12 min 08 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Carlos Sastre",
+      "pais": "España",
+      "equipo": "Team CSC",
+      "ventaja": "+13 min 32 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Óscar Pereiro",
+      "pais": "España",
+      "equipo": "Phonak Hearing Systems",
+      "ventaja": "+16 min 35 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Christophe Moreau",
+      "pais": "Francia",
+      "equipo": "Crédit Agricole",
+      "ventaja": "+19 min 00 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Robbie McEwen",
+    "pais": "Australia",
+    "equipo": "Lotto-Domo"
+  },
+  "ganadorMontana": {
+    "nombre": "Richard Virenque",
+    "pais": "Francia",
+    "equipo": "Quick Step-Davitamon"
+  },
+  "ganadorJovenes": {
+    "nombre": "Vladímir Karpets",
+    "pais": "Rusia",
+    "equipo": "Illes Balears-Banesto"
+  },
+  "ganadorEquipos": {
+    "nombre": "T-Mobile",
+    "pais": "Alemania"
+  },
+  "etapas": [
+    {
+      "etapa": 0,
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 1,
+      "nombre": "Jaan Kirsipuu",
+      "pais": "Estonia"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Robbie McEwen",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Jean-Patrick Nazon",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "US Postal p/b Berry Floor",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Stuart O'Grady",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Tom Boonen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Filippo Pozzato",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Thor Hushovd",
+      "pais": "Noruega"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Robbie McEwen",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Richard Virenque",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "David Moncoutié",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Ivan Basso",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Lance Armstrong",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Aitor González",
+      "pais": "España"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Lance Armstrong",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Lance Armstrong",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Lance Armstrong",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Juan Miguel Mercado",
+      "pais": "España"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Lance Armstrong",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Tom Boonen",
+      "pais": "Bélgica"
+    }
+  ]
+}

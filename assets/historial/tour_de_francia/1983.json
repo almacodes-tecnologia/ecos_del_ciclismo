@@ -1,0 +1,278 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1983,
+    "distancia": 3556.5,
+    "desnivel": 49139,
+    "tiempo": "105h 07' 52\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 88,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo",
+            "ventaja": "+ 4 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Metauro Mobili - Pinarello",
+            "ventaja": "+ 4 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Alban Robert",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 7 min 53 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bernaudeau Jean-René",
+            "pais": "Francia",
+            "equipo": "Wolber - Spidel",
+            "ventaja": "+ 8 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Sem - Mavic - Reydel",
+            "ventaja": "+ 12 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Madiot Marc",
+            "pais": "Francia",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "+ 14 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "Peugeot - Shell - Michelin",
+            "ventaja": "+ 16 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo",
+            "ventaja": "+ 18 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Sem - Mavic - Reydel"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Metauro Mobili - Pinarello"
+    },
+    "ganadorJovenes": {
+        "nombre": "Fignon Laurent",
+        "pais": "Francia",
+        "equipo": "Renault - Elf - Gitane"
+    },
+    "ganadorEquipos": {
+        "nombre": " TI - Raleigh - Campagnolo",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 5.0,
+            "desnivel": 154,
+            "velocidadMedia": 42.76
+        },
+        {
+            "etapa": 1,
+            "nombre": "Pirard Frits",
+            "pais": "Países Bajos",
+            "distancia": 163.0,
+            "desnivel": 1287,
+            "velocidadMedia": 42.59
+        },
+        {
+            "etapa": 3,
+            "nombre": "Matthijs Rudy",
+            "pais": "Bélgica",
+            "distancia": 152.0,
+            "desnivel": 800,
+            "velocidadMedia": 40.336
+        },
+        {
+            "etapa": 4,
+            "nombre": "Demierre Serge",
+            "pais": "Suiza",
+            "distancia": 299.0,
+            "desnivel": 2469,
+            "velocidadMedia": 37.52
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gaigne Dominique",
+            "pais": "Francia",
+            "distancia": 257.0,
+            "desnivel": 2658,
+            "velocidadMedia": 35.87
+        },
+        {
+            "etapa": 6,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 58.0,
+            "desnivel": 506,
+            "velocidadMedia": 44.29
+        },
+        {
+            "etapa": 7,
+            "nombre": "Magrini Riccardo",
+            "pais": "Italia",
+            "distancia": 216.0,
+            "desnivel": 881,
+            "velocidadMedia": 37.5
+        },
+        {
+            "etapa": 8,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 222.0,
+            "desnivel": 1617,
+            "velocidadMedia": 35.43
+        },
+        {
+            "etapa": 9,
+            "nombre": "Chevallier Philippe",
+            "pais": "Francia",
+            "distancia": 207.0,
+            "desnivel": 1461,
+            "velocidadMedia": 35.82
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.0,
+            "desnivel": 5500,
+            "velocidadMedia": 31.45
+        },
+        {
+            "etapa": 11,
+            "nombre": "Clère Régis",
+            "pais": "Francia",
+            "distancia": 177.0,
+            "desnivel": 1202,
+            "velocidadMedia": 39.76
+        },
+        {
+            "etapa": 12,
+            "nombre": "Andersen Kim",
+            "pais": "Dinamarca",
+            "distancia": 254.0,
+            "desnivel": 2500,
+            "velocidadMedia": 34.81
+        },
+        {
+            "etapa": 13,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 3500,
+            "velocidadMedia": 34.99
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 149.0,
+            "desnivel": 2500,
+            "velocidadMedia": 40.77
+        },
+        {
+            "etapa": 15,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "distancia": 15.0,
+            "desnivel": 1101,
+            "velocidadMedia": 22.1
+        },
+        {
+            "etapa": 16,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "distancia": 144.5,
+            "desnivel": 3028,
+            "velocidadMedia": 37.76
+        },
+        {
+            "etapa": 17,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "distancia": 223.5,
+            "desnivel": 6500,
+            "velocidadMedia": 30.37
+        },
+        {
+            "etapa": 18,
+            "nombre": "Michaud Jacques",
+            "pais": "Francia",
+            "distancia": 247.5,
+            "desnivel": 6589,
+            "velocidadMedia": 31.91
+        },
+        {
+            "etapa": 19,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 15.0,
+            "desnivel": 1069,
+            "velocidadMedia": 25.6
+        },
+        {
+            "etapa": 20,
+            "nombre": "Leleu Philippe",
+            "pais": "Francia",
+            "distancia": 291.0,
+            "desnivel": 3000,
+            "velocidadMedia": 39.42
+        },
+        {
+            "etapa": 21,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "distancia": 50.0,
+            "desnivel": 817,
+            "velocidadMedia": 41.89
+        },
+        {
+            "etapa": 22,
+            "nombre": "Glaus Gilbert",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.6194
+        }
+    ]
+}

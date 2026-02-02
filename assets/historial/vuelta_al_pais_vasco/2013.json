@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2013,
+    "distancia": 809.1,
+    "desnivel": 13607,
+    "tiempo": "21h 39' 35\"",
+    "ciclistasInscritos": 164,
+    "ciclistasFinalizados": 70,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Betancur Carlos",
+            "pais": "Colombia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gadret John",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Quintana Nairo",
+        "pais": "Colombia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Txurruka Amets",
+        "pais": "España",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 156.5,
+            "desnivel": 2729,
+            "velocidadMedia": 38.086
+        },
+        {
+            "etapa": 2,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "distancia": 170.2,
+            "desnivel": 2080,
+            "velocidadMedia": 38.753
+        },
+        {
+            "etapa": 3,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "distancia": 164.7,
+            "desnivel": 2308,
+            "velocidadMedia": 42.16
+        },
+        {
+            "etapa": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 151.6,
+            "desnivel": 2775,
+            "velocidadMedia": 38.08
+        },
+        {
+            "etapa": 5,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 166.1,
+            "desnivel": 3715,
+            "velocidadMedia": 35.502
+        },
+        {
+            "etapa": 6,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.4631
+        }
+    ]
+}

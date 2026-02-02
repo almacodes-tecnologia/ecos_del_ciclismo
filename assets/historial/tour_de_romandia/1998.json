@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1998,
+    "distancia": 627.1,
+    "desnivel": 0,
+    "tiempo": "20h 09' 33\"",
+    "ciclistasInscritos": 136,
+    "ciclistasFinalizados": 107,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Meier Roland",
+            "pais": "Suiza",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Polti",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gotti Ivan",
+            "pais": "Italia",
+            "equipo": "Saeco Macchine da Caffe' - Cannondale",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 2 min 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Saeco Macchine da Caffe' - Cannondale",
+            "ventaja": "+ 2 min 53 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Dufaux Laurent",
+        "pais": "Suiza",
+        "equipo": "Festina - Lotus"
+    },
+    "ganadorMontana": {
+        "nombre": "Meier Roland",
+        "pais": "Suiza",
+        "equipo": "Cofidis"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 4.8,
+            "desnivel": 0,
+            "velocidadMedia": 50.23
+        },
+        {
+            "etapa": 1,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 169.9,
+            "desnivel": 0,
+            "velocidadMedia": 36.64
+        },
+        {
+            "etapa": 2,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 183.3,
+            "desnivel": 0,
+            "velocidadMedia": 43.57
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 151.1,
+            "desnivel": 0,
+            "velocidadMedia": 33.93
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 100.4,
+            "desnivel": 0,
+            "velocidadMedia": 46.6
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 17.6,
+            "desnivel": 0,
+            "velocidadMedia": 44.81
+        },
+        {
+            "etapa": 5,
+            "nombre": "Agnolutto Christophe",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5001
+        }
+    ]
+}

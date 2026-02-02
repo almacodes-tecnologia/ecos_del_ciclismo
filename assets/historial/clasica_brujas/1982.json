@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 1982,
+    "distancia": 510.8,
+    "desnivel": 0,
+    "tiempo": "12h 45' 06\"",
+    "ciclistasInscritos": 112,
+    "ciclistasFinalizados": 64,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "equipo": "Boule d'Or - Sunair",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vandenbroucke Jean-Luc",
+            "pais": "Bélgica",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "De Wilde Etienne",
+            "pais": "Bélgica",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Verlinden Gery",
+            "pais": "Bélgica",
+            "equipo": "Boule d'Or - Sunair",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo ",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "DAF Trucks - Tévé Blad - Rossin",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mutter Stefan",
+            "pais": "Suiza",
+            "equipo": "Puch - Eorotex - Campagnolo",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Boule d'Or - Sunair",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Delcroix Ludo",
+            "pais": "Bélgica",
+            "equipo": "Capri Sonne - Campagnolo - Merckx",
+            "ventaja": "+ 1 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Planckaert Eddy",
+        "pais": "Bélgica",
+        "equipo": "Splendor - Wickes Bouwmarkt"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Holen Ronny",
+        "pais": "Bélgica",
+        "equipo": "Safir - Marc - Concorde"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "distancia": 109.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.412
+        },
+        {
+            "etapa": 1,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 12.8,
+            "desnivel": 0,
+            "velocidadMedia": 50.861
+        },
+        {
+            "etapa": 2,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.057
+        },
+        {
+            "etapa": 3,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.278
+        }
+    ]
+}

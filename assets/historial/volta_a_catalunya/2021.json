@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2021,
+    "distancia": 1094.4,
+    "desnivel": 18777,
+    "tiempo": "26h 16' 41\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 131,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Carthy Hugh",
+            "pais": "Reino Unido",
+            "equipo": "EF Education - Nippo",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Hamilton Lucas",
+            "pais": "Australia",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 1 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Chaves Esteban",
+        "pais": "Colombia",
+        "equipo": "Team BikeExchange"
+    },
+    "ganadorMontana": {
+        "nombre": "Chaves Esteban",
+        "pais": "Colombia",
+        "equipo": "Team BikeExchange"
+    },
+    "ganadorJovenes": {
+        "nombre": "Almeida João",
+        "pais": "Portugal",
+        "equipo": "Deceuninck - Quick Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kron Andreas",
+            "pais": "Dinamarca",
+            "distancia": 178.4,
+            "desnivel": 2819,
+            "velocidadMedia": 41.13
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 18.5,
+            "desnivel": 198,
+            "velocidadMedia": 49.44
+        },
+        {
+            "etapa": 3,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 203.1,
+            "desnivel": 3755,
+            "velocidadMedia": 40.49
+        },
+        {
+            "etapa": 4,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "distancia": 166.5,
+            "desnivel": 3980,
+            "velocidadMedia": 37.03
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kämna Lennard",
+            "pais": "Alemania",
+            "distancia": 201.1,
+            "desnivel": 2952,
+            "velocidadMedia": 44.82
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 193.8,
+            "desnivel": 2671,
+            "velocidadMedia": 44.16
+        },
+        {
+            "etapa": 7,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 133.0,
+            "desnivel": 2402,
+            "velocidadMedia": 42.86
+        }
+    ]
+}

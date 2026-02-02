@@ -1,0 +1,142 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2007,
+    "distancia": 644.0,
+    "desnivel": 0,
+    "tiempo": "15h 46' 38\"",
+    "ciclistasInscritos": 112,
+    "ciclistasFinalizados": 105,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Elmiger Martin",
+            "pais": "Suiza",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Menzies Karl",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bak Lars Ytting",
+            "pais": "Dinamarca",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lloyd Matthew",
+            "pais": "Australia",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Larsson Gustav Erik",
+            "pais": "Suecia",
+            "equipo": "Unibet.com",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Roberts Luke",
+            "pais": "Australia",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bates Gene",
+            "pais": "Australia",
+            "equipo": "SouthAustralia.com-AIS",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Longo Borghini Paolo",
+            "pais": "Italia",
+            "equipo": "Barloworld",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Talabardon Yannick",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Clarke Simon",
+            "pais": "Australia",
+            "equipo": "SouthAustralia.com-AIS",
+            "ventaja": "+ 1 min 43 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Brochard Laurent",
+        "pais": "Francia",
+        "equipo": "Bouygues Telecom"
+    },
+    "ganadorMontana": {
+        "nombre": "Pauwels Serge",
+        "pais": "Bélgica",
+        "equipo": "Chocolade Jacques / Topsport Vlaanderen"
+    },
+    "ganadorJovenes": {
+        "nombre": "Clarke Simon",
+        "pais": "Australia",
+        "equipo": "SouthAustralia.com-AIS"
+    },
+    "ganadorEquipos": {
+        "nombre": " SouthAustralia.com-AIS",
+        "pais": "Australia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Menzies Karl",
+            "pais": "Australia",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.506
+        },
+        {
+            "etapa": 2,
+            "nombre": "Caethoven Steven",
+            "pais": "Bélgica",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.574
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 128.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.633
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ghyllebert Pieter",
+            "pais": "Bélgica",
+            "distancia": 124.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.181
+        },
+        {
+            "etapa": 5,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.708
+        }
+    ]
+}

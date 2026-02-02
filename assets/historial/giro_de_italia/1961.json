@@ -1,0 +1,262 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1961,
+    "distancia": 3790.0,
+    "desnivel": 0,
+    "tiempo": "111h 25' 28\"",
+    "ciclistasInscritos": 166,
+    "ciclistasFinalizados": 92,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pambianco Arnaldo",
+            "pais": "Italia",
+            "equipo": "Fides",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Helyett - Fynsec - Hutchinson",
+            "ventaja": "+ 3 min 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 4 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Gazzola - Fiorelli",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "equipo": "Philco",
+            "ventaja": "+ 8 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "Gazzola - Fiorelli",
+            "ventaja": "+ 12 min 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "equipo": "Emi - Faema",
+            "ventaja": "+ 12 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Tongerloo Guillaume",
+            "pais": "Bélgica",
+            "equipo": "Emi - Faema",
+            "ventaja": "+ 14 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brugnami Carlo",
+            "pais": "Italia",
+            "equipo": "Torpado",
+            "ventaja": "+ 16 min 5 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 16 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Taccone Vito",
+        "pais": "Italia",
+        "equipo": "Atala"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Emi - Faema",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.077
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.433
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.939
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.416
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.066
+        },
+        {
+            "etapa": 6,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.603
+        },
+        {
+            "etapa": 7,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.891
+        },
+        {
+            "etapa": 8,
+            "nombre": "van Est Piet",
+            "pais": "Países Bajos",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.169
+        },
+        {
+            "etapa": 9,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 53.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 10,
+            "nombre": "Taccone Vito",
+            "pais": "Italia",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.656
+        },
+        {
+            "etapa": 11,
+            "nombre": "Chiodini Pietro",
+            "pais": "Italia",
+            "distancia": 252.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.413
+        },
+        {
+            "etapa": 12,
+            "nombre": "Giusti Renato",
+            "pais": "Italia",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.799
+        },
+        {
+            "etapa": 13,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 279.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.988
+        },
+        {
+            "etapa": 14,
+            "nombre": "Ciampi Silvano",
+            "pais": "Italia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.575
+        },
+        {
+            "etapa": 15,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.024
+        },
+        {
+            "etapa": 16,
+            "nombre": "Zamboni Adriano",
+            "pais": "Italia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.14
+        },
+        {
+            "etapa": 18,
+            "nombre": "Giusti Renato",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.93
+        },
+        {
+            "etapa": 19,
+            "nombre": "Schroeders Willy",
+            "pais": "Bélgica",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.439
+        },
+        {
+            "etapa": 20,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.701
+        },
+        {
+            "etapa": 21,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.934
+        }
+    ]
+}

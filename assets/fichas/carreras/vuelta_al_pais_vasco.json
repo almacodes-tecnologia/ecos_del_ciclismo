@@ -1,0 +1,23 @@
+{
+  "id": "vuelta_al_pais_vasco",
+  "nombre": "Vuelta al País Vasco",
+  "pais": "España",
+  "categoria": "World Tour",
+  "tipo": "Carrera por etapas",
+  "descripcion": "La Vuelta al País Vasco (Itzulia Basque Country) es una carrera por etapas disputada en el País Vasco (España) desde 1924 con interrupciones. Es una de las pruebas de una semana de categoría World Tour y reúne terreno de media montaña, contrarreloj y perfiles exigentes.",
+  "anio_inicio": 1924,
+  "edicionesDisponibles": [
+    2025, 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012,
+    2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000,
+    1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990, 1989, 1988, 1987,
+    1986, 1985, 1984, 1983, 1982, 1981, 1980, 1979, 1978, 1977, 1976, 1975,
+    1974, 1973, 1972, 1971, 1970, 1969, 1935, 1930, 1929, 1928, 1927, 1926, 1925, 1924
+  ],
+  "imagenes": ["assets/imagenes/vuelta_al_pais_vasco.webp"],
+  "records": {
+    "mas_victorias_generales": {
+      "valor": "4",
+      "descripcion": "Alberto Contador y José Antonio González Linares comparten el récord con 4 victorias cada uno."
+    }
+  }
+}

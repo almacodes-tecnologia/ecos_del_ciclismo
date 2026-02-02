@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2024,
+    "distancia": 1036.2,
+    "desnivel": 13487,
+    "tiempo": "24h 26' 22\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Grégoire Romain",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sheffield Magnus",
+            "pais": "Estados Unidos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zambanini Edoardo",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Voisard Yannis",
+            "pais": "Suiza",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Honoré Mikkel Frølich",
+            "pais": "Dinamarca",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team dsm-firmenich PostNL",
+            "ventaja": "+ 53 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ulissi Diego",
+        "pais": "Italia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorMontana": {
+        "nombre": "Paluta Michał",
+        "pais": "Polonia",
+        "equipo": "Poland"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Nys Thibau",
+            "pais": "Bélgica",
+            "distancia": 156.1,
+            "desnivel": 1838,
+            "velocidadMedia": 43.118
+        },
+        {
+            "etapa": 2,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 15.4,
+            "desnivel": 461,
+            "velocidadMedia": 38.527
+        },
+        {
+            "etapa": 3,
+            "nombre": "Nys Thibau",
+            "pais": "Bélgica",
+            "distancia": 156.5,
+            "desnivel": 3159,
+            "velocidadMedia": 38.586
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 195.3,
+            "desnivel": 1734,
+            "velocidadMedia": 40.924
+        },
+        {
+            "etapa": 5,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 187.6,
+            "desnivel": 1634,
+            "velocidadMedia": 45.943
+        },
+        {
+            "etapa": 6,
+            "nombre": "Nys Thibau",
+            "pais": "Bélgica",
+            "distancia": 183.2,
+            "desnivel": 3134,
+            "velocidadMedia": 41.308
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 142.1,
+            "desnivel": 1527,
+            "velocidadMedia": 46.303
+        }
+    ]
+}

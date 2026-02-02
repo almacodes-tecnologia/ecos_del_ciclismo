@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2005,
+    "distancia": 817.3,
+    "desnivel": 0,
+    "tiempo": "22h 36' 56\"",
+    "ciclistasInscritos": 179,
+    "ciclistasFinalizados": 123,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Popovych Yaroslav",
+            "pais": "Ucrania",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Osa Aitor",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martín Perdiguero Miguel Ángel",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jiménez Eladio",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cuesta Iñigo",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "equipo": "Kaiku",
+            "ventaja": "+ 2 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hushovd Thor",
+        "pais": "Noruega",
+        "equipo": "Crédit Agricole"
+    },
+    "ganadorMontana": {
+        "nombre": "Cuesta Iñigo",
+        "pais": "España",
+        "equipo": "Saunier Duval - Prodir"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Cofidis, le Crédit par Téléphone",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 19.2,
+            "desnivel": 0,
+            "velocidadMedia": 53.05
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gasparotto Enrico",
+            "pais": "Italia",
+            "distancia": 186.8,
+            "desnivel": 0,
+            "velocidadMedia": 38.829
+        },
+        {
+            "etapa": 3,
+            "nombre": "Horrillo Pedro",
+            "pais": "España",
+            "distancia": 157.8,
+            "desnivel": 0,
+            "velocidadMedia": 43.837
+        },
+        {
+            "etapa": 4,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "distancia": 237.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.32
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cuesta Iñigo",
+            "pais": "España",
+            "distancia": 17.1,
+            "desnivel": 0,
+            "velocidadMedia": 27.507
+        },
+        {
+            "etapa": 6,
+            "nombre": "Charteau Anthony",
+            "pais": "Francia",
+            "distancia": 198.7,
+            "desnivel": 0,
+            "velocidadMedia": 46.407
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.1368
+        }
+    ]
+}

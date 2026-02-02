@@ -1,0 +1,127 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1974,
+    "distancia": 762.0,
+    "desnivel": 0,
+    "tiempo": "20h 18' 09\"",
+    "ciclistasInscritos": 23,
+    "ciclistasFinalizados": 20,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fraccaro Simone",
+            "pais": "Italia",
+            "equipo": "Filcas",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Filotex",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Carpenter - Confortluxe - Flandria",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ritter Ole",
+            "pais": "Dinamarca",
+            "equipo": "Filotex",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Watney - Maes Pils",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Planckaert Walter",
+            "pais": "Bélgica",
+            "equipo": "Watney - Maes Pils",
+            "ventaja": "+ 1 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Planckaert Walter",
+            "pais": "Bélgica",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Fontanelli Sigfrido",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2020,
+    "distancia": 718.7,
+    "desnivel": 10663,
+    "tiempo": "20h 37' 08\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 132,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Geschke Simon",
+            "pais": "Alemania",
+            "equipo": "CCC Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Baarle Dylan",
+            "pais": "Países Bajos",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hamilton Lucas",
+            "pais": "Australia",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pernsteiner Hermann",
+            "pais": "Austria",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Philipsen Jasper",
+        "pais": "Bélgica",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorMontana": {
+        "nombre": "Rosskopf Joey",
+        "pais": "Estados Unidos",
+        "equipo": "CCC Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Sivakov Pavel",
+        "pais": "Rusia",
+        "equipo": "Team INEOS"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team INEOS",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 150.0,
+            "desnivel": 1245,
+            "velocidadMedia": 43.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 135.8,
+            "desnivel": 2486,
+            "velocidadMedia": 39.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 131.0,
+            "desnivel": 2881,
+            "velocidadMedia": 40.48
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 152.8,
+            "desnivel": 2001,
+            "velocidadMedia": 43.84
+        },
+        {
+            "etapa": 5,
+            "nombre": "Nizzolo Giacomo",
+            "pais": "Italia",
+            "distancia": 149.1,
+            "desnivel": 2050,
+            "velocidadMedia": 42.05
+        },
+        {
+            "etapa": 6,
+            "nombre": "Holmes Matthew",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.1949
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1973,
+    "distancia": 1394.6,
+    "desnivel": 0,
+    "tiempo": "36h 36' 47\"",
+    "ciclistasInscritos": 53,
+    "ciclistasFinalizados": 51,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Giuliani Donato",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 4 min 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 5 min 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 6 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 6 min 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Schiavon Silvano",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 7 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "equipo": "",
+            "ventaja": "+ 7 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fabbri Fabrizio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 8 min 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Farisato Lino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 10 min 5 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Conati Luciano",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 11 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Paolini Enrico",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Fuente José Manuel",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Barras Sid",
+            "pais": "Reino Unido",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.35
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Geest Willy",
+            "pais": "Bélgica",
+            "distancia": 98.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.41
+        },
+        {
+            "etapa": 2,
+            "nombre": "Fabbri Fabrizio",
+            "pais": "Italia",
+            "distancia": 13.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.06
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 253.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.27
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.77
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.84
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Roosbroeck Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 121.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.82
+        },
+        {
+            "etapa": 8,
+            "nombre": "Sorlini Roberto",
+            "pais": "Italia",
+            "distancia": 97.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.72
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "distancia": 24.6,
+            "desnivel": 0,
+            "velocidadMedia": 42.6
+        }
+    ]
+}

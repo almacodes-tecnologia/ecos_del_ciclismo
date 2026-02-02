@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2017,
+    "distancia": 1036.5,
+    "desnivel": 17494,
+    "tiempo": "29h 05' 54\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Meintjes Louis",
+            "pais": "Sudáfrica",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Valls Rafael",
+            "pais": "España",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 4 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Démare Arnaud",
+        "pais": "Francia",
+        "equipo": "FDJ"
+    },
+    "ganadorMontana": {
+        "nombre": "Bouwman Koen",
+        "pais": "Países Bajos",
+        "equipo": "Team LottoNL-Jumbo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Buchmann Emanuel",
+        "pais": "Alemania",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R La Mondiale",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 3011,
+            "velocidadMedia": 39.68
+        },
+        {
+            "etapa": 2,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 171.0,
+            "desnivel": 2544,
+            "velocidadMedia": 40.41
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bouwman Koen",
+            "pais": "Países Bajos",
+            "distancia": 184.0,
+            "desnivel": 1990,
+            "velocidadMedia": 44.86
+        },
+        {
+            "etapa": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 23.5,
+            "desnivel": 321,
+            "velocidadMedia": 50.15
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bauhaus Phil",
+            "pais": "Alemania",
+            "distancia": 175.0,
+            "desnivel": 2319,
+            "velocidadMedia": 42.94
+        },
+        {
+            "etapa": 6,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 145.5,
+            "desnivel": 2592,
+            "velocidadMedia": 39.36
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kennaugh Peter",
+            "pais": "Reino Unido",
+            "distancia": 167.5,
+            "desnivel": 4717,
+            "velocidadMedia": 35.39
+        },
+        {
+            "etapa": 8,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5652
+        }
+    ]
+}

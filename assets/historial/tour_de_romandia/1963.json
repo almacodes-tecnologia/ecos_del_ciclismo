@@ -1,0 +1,134 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1963,
+    "distancia": 580.7,
+    "desnivel": 0,
+    "tiempo": "20h 56' 54\"",
+    "ciclistasInscritos": 50,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bocklant Willy",
+            "pais": "Bélgica",
+            "equipo": "Faema - Flandria",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Margnat - Paloma - Dunlop",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "De Rosso Guido",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fontana Marino",
+            "pais": "Italia",
+            "equipo": "San Pellegrino Sport - Firte",
+            "ventaja": "+ 3 min 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "equipo": "Faema - Flandria",
+            "ventaja": "+ 4 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Grunewald Jean-Louis",
+            "pais": "Francia",
+            "equipo": "Tigra - Meltina",
+            "ventaja": "+ 7 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sartore Giuseppe",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 7 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Velly Joseph",
+            "pais": "Francia",
+            "equipo": "Margnat - Paloma - Dunlop",
+            "ventaja": "+ 8 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Villiger Walter",
+            "pais": "Suiza",
+            "equipo": "Gritzner - Veith",
+            "ventaja": "+ 9 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 10 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Dotto Jean",
+        "pais": "Francia",
+        "equipo": "Margnat - Paloma - Dunlop"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Faema - Flandria",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.991
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.383
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 108.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.544
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 32.7,
+            "desnivel": 0,
+            "velocidadMedia": 42.87
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2010,
+    "distancia": 886.0,
+    "desnivel": 0,
+    "tiempo": "23h 27' 30\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 119,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pinotti Marco",
+            "pais": "Italia",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "equipo": "Francaise des Jeux",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Devenyns Dries",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "QOmega Pharma-Lotto",
+            "ventaja": "+ 2 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sánchez Samuel",
+        "pais": "España",
+        "equipo": "Euskaltel-Euskadi"
+    },
+    "ganadorMontana": {
+        "nombre": "Rabuñal Gonzalo",
+        "pais": "España",
+        "equipo": "Xacobeo - Galicia"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team HTC - Columbia ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.32
+        },
+        {
+            "etapa": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.814
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gavazzi Francesco",
+            "pais": "Italia",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.707
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.141
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.151
+        },
+        {
+            "etapa": 6,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.7069
+        }
+    ]
+}

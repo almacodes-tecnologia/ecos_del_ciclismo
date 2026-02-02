@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2002,
+    "distancia": 527.0,
+    "desnivel": 0,
+    "tiempo": "12h 24' 23\"",
+    "ciclistasInscritos": 187,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Petegem Peter",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zanini Stefano",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Eeckhout Niko",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hunter Robert",
+            "pais": "Sudáfrica",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bodrogi László",
+            "pais": "Hungría",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wauters Marc",
+            "pais": "Bélgica",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dierckxsens Ludo",
+            "pais": "Bélgica",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 1 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zanini Stefano",
+        "pais": "Italia",
+        "equipo": "Mapei - Quickstep"
+    },
+    "ganadorMontana": {
+        "nombre": "Dierckxsens Ludo",
+        "pais": "Bélgica",
+        "equipo": "Lampre - Daikin"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zanini Stefano",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ruškys Saulius",
+            "pais": "Lituania",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.87
+        },
+        {
+            "etapa": 3,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.95
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Petegem Peter",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.5968
+        }
+    ]
+}

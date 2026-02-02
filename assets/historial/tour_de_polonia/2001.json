@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2001,
+    "distancia": 1230.0,
+    "desnivel": 0,
+    "tiempo": "9h 56' 58\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 65,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sosenka Ondřej",
+            "pais": "República Checa",
+            "equipo": "CCC - Mat",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Przydział Piotr",
+            "pais": "Polonia",
+            "equipo": "CCC - Mat",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 4 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vainšteins Romāns",
+            "pais": "Letonia",
+            "equipo": "Domo - Farm Frites",
+            "ventaja": "+ 5 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Szmyd Sylwester",
+            "pais": "Polonia",
+            "equipo": "Tacconi Sport - Vini Caldirola",
+            "ventaja": "+ 6 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Piątek Zbigniew",
+            "pais": "Polonia",
+            "equipo": "Mróz - Supradyn Witaminy",
+            "ventaja": "+ 6 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Itera",
+            "ventaja": "+ 6 min 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Baguet Serge",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 9 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gustov Volodymyr",
+            "pais": "Ucrania",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 10 min 6 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Voigt Jens",
+        "pais": "Alemania",
+        "equipo": "Crédit Agricole"
+    },
+    "ganadorMontana": {
+        "nombre": "Marzoli Ruggero",
+        "pais": "Italia",
+        "equipo": "Cantina Tollo - Acqua e Sapone"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " CCC - Mat",
+        "pais": "Polonia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.78
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 246.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.75
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 256.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.2
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 160.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.85
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.49
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 61.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.12
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.7206
+        }
+    ]
+}

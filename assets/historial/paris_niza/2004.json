@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2004,
+    "distancia": 1304.2,
+    "desnivel": 0,
+    "tiempo": "28h 00' 01\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 85,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "Team CSC",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "equipo": "Team CSC",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "Team CSC",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Quickstep - Davitamon",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "Team CSC",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 1 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Rebellin Davide",
+        "pais": "Italia",
+        "equipo": "Gerolsteiner"
+    },
+    "ganadorMontana": {
+        "nombre": "Osa Aitor",
+        "pais": "España",
+        "equipo": "Illes Balears - Banesto"
+    },
+    "ganadorJovenes": {
+        "nombre": "Rogers Michael",
+        "pais": "Australia",
+        "equipo": "Quickstep - Davitamon"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team CSC",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "distancia": 13.2,
+            "desnivel": 0,
+            "velocidadMedia": 45.736
+        },
+        {
+            "etapa": 2,
+            "nombre": "Horrillo Pedro",
+            "pais": "España",
+            "distancia": 166.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.832
+        },
+        {
+            "etapa": 3,
+            "nombre": "van Bon Léon",
+            "pais": "Países Bajos",
+            "distancia": 227.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.349
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.122
+        },
+        {
+            "etapa": 6,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 35.606
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 185.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.888
+        },
+        {
+            "etapa": 8,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.053
+        }
+    ]
+}

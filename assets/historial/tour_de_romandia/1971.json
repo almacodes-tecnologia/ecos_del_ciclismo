@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1971,
+    "distancia": 982.3,
+    "desnivel": 0,
+    "tiempo": "24h 20' 37\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 82,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Salutini Antonio",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Mars",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tosello Guerrino",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bellone Gilbert",
+            "pais": "Francia",
+            "equipo": "Sonolor - Lejeune ",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ducreux Francis",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pettersson Erik",
+            "pais": "Suecia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Cosatto",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Moser Aldo",
+            "pais": "Italia",
+            "equipo": "G.B.C. - Zimba",
+            "ventaja": "+ 2 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sercu Patrick",
+        "pais": "Bélgica",
+        "equipo": "Dreher"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Sonolor - Lejeune "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Filotex",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 4.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.538
+        },
+        {
+            "etapa": 1,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 131.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.541
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 79.6,
+            "desnivel": 0,
+            "velocidadMedia": 37.508
+        },
+        {
+            "etapa": 2,
+            "nombre": "Tumellero Romano",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bergamo Marcello",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.107
+        },
+        {
+            "etapa": 4,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.922
+        },
+        {
+            "etapa": 5,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.921
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pettersson Tomas",
+            "pais": "Suecia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.096
+        }
+    ]
+}

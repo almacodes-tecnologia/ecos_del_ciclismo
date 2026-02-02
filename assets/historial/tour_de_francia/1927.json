@@ -1,0 +1,279 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1927,
+    "distancia": 4916.0,
+    "desnivel": 0,
+    "tiempo": "198h 16' 42\"",
+    "ciclistasInscritos": 142,
+    "ciclistasFinalizados": 39,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 48 min 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vervaecke Julien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 25 min 6 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 h 2 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Benoît Adelin",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 4 h 45 min 1 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 4 h 48 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Verhaegen Pé",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 6 h 18 min 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moineau Julien",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 6 h 36 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Martin Hector",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 7 h 7 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Geldhof Maurice",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 7 h 16 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Pélissier Francis",
+            "pais": "Francia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.36
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.02
+        },
+        {
+            "etapa": 3,
+            "nombre": "Martin Hector",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.61
+        },
+        {
+            "etapa": 4,
+            "nombre": "Van de Casteele Camille",
+            "pais": "Bélgica",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.21
+        },
+        {
+            "etapa": 5,
+            "nombre": "Le Drogo Ferdinand",
+            "pais": "Francia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.23
+        },
+        {
+            "etapa": 6,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.73
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Slembrouck Gustave",
+            "pais": "Bélgica",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.01
+        },
+        {
+            "etapa": 8,
+            "nombre": "De Corte Raymond",
+            "pais": "Bélgica",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.66
+        },
+        {
+            "etapa": 9,
+            "nombre": "Benoît Adelin",
+            "pais": "Bélgica",
+            "distancia": 285.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.87
+        },
+        {
+            "etapa": 10,
+            "nombre": "Verhaegen Pé",
+            "pais": "Bélgica",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.15
+        },
+        {
+            "etapa": 11,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 19.85
+        },
+        {
+            "etapa": 12,
+            "nombre": "Van Slembrouck Gustave",
+            "pais": "Bélgica",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.54
+        },
+        {
+            "etapa": 13,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "distancia": 360.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.04
+        },
+        {
+            "etapa": 14,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.07
+        },
+        {
+            "etapa": 15,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 18.86
+        },
+        {
+            "etapa": 16,
+            "nombre": "Vervaecke Julien",
+            "pais": "Bélgica",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.21
+        },
+        {
+            "etapa": 17,
+            "nombre": "Verhaegen Pé",
+            "pais": "Bélgica",
+            "distancia": 283.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.68
+        },
+        {
+            "etapa": 18,
+            "nombre": "Benoît Adelin",
+            "pais": "Bélgica",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.75
+        },
+        {
+            "etapa": 19,
+            "nombre": "Geldhof Maurice",
+            "pais": "Bélgica",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.66
+        },
+        {
+            "etapa": 20,
+            "nombre": "De Corte Raymond",
+            "pais": "Bélgica",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.56
+        },
+        {
+            "etapa": 21,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.47
+        },
+        {
+            "etapa": 22,
+            "nombre": "Martin Hector",
+            "pais": "Bélgica",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.75
+        },
+        {
+            "etapa": 23,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 270.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.47
+        },
+        {
+            "etapa": 24,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.5391
+        }
+    ]
+}

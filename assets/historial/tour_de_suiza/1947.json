@@ -1,0 +1,175 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1947,
+    "distancia": 1612.5,
+    "desnivel": 0,
+    "tiempo": "47h 35' 55\"",
+    "ciclistasInscritos": 43,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bresci Giulio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 21 min 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 24 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 25 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 40 min 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pasquini Bruno",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 45 min 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Depredomme Prosper",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 45 min 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Geus Jacques",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 47 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Stettler Ernst",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 48 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Dupont Marcel",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 51 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 88.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Diggelmann Walter",
+            "pais": "Suiza",
+            "distancia": 73.1,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 83.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bresci Giulio",
+            "pais": "Italia",
+            "distancia": 233.4,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lang Robert",
+            "pais": "Suiza",
+            "distancia": 158.2,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 60.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Keteleer Désiré",
+            "pais": "Bélgica",
+            "distancia": 271.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Keteleer Désiré",
+            "pais": "Bélgica",
+            "distancia": 253.1,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

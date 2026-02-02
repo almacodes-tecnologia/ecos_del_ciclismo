@@ -1,0 +1,274 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1961,
+    "distancia": 4145.0,
+    "desnivel": 54393,
+    "tiempo": "122h 01' 33\"",
+    "ciclistasInscritos": 132,
+    "ciclistasFinalizados": 72,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 12 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Switzerland/Luxembourg",
+            "ventaja": "+ 12 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Massignan Imerio",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 15 min 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "West Germany",
+            "ventaja": "+ 16 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 16 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 20 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Dotto Jean",
+            "pais": "Francia",
+            "equipo": "Centre-Midi",
+            "ventaja": "+ 21 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pauwels Eddy",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 26 min 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Adriaensens Jan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 28 min 5 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Darrigade André",
+        "pais": "Francia",
+        "equipo": "France"
+    },
+    "ganadorMontana": {
+        "nombre": "Massignan Imerio",
+        "pais": "Italia",
+        "equipo": "Italy"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " France",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 136.5,
+            "desnivel": 1638,
+            "velocidadMedia": 41.94
+        },
+        {
+            "etapa": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 28.5,
+            "desnivel": 374,
+            "velocidadMedia": 43.05
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 230.5,
+            "desnivel": 1881,
+            "velocidadMedia": 41.73
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.5,
+            "desnivel": 1958,
+            "velocidadMedia": 39.39
+        },
+        {
+            "etapa": 4,
+            "nombre": "Novak Anatole",
+            "pais": "Francia",
+            "distancia": 237.5,
+            "desnivel": 2500,
+            "velocidadMedia": 37.16
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bergaud Louis",
+            "pais": "Francia",
+            "distancia": 221.0,
+            "desnivel": 2902,
+            "velocidadMedia": 38.09
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 180.5,
+            "desnivel": 2830,
+            "velocidadMedia": 39.29
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 214.5,
+            "desnivel": 2076,
+            "velocidadMedia": 40.07
+        },
+        {
+            "etapa": 8,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "distancia": 240.5,
+            "desnivel": 4000,
+            "velocidadMedia": 33.94
+        },
+        {
+            "etapa": 9,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 230.0,
+            "desnivel": 4500,
+            "velocidadMedia": 32.47
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 250.5,
+            "desnivel": 5000,
+            "velocidadMedia": 33.33
+        },
+        {
+            "etapa": 11,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 3000,
+            "velocidadMedia": 33.58
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 199.0,
+            "desnivel": 3000,
+            "velocidadMedia": 34.8
+        },
+        {
+            "etapa": 13,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 177.5,
+            "desnivel": 1261,
+            "velocidadMedia": 38.22
+        },
+        {
+            "etapa": 14,
+            "nombre": "Pauwels Eddy",
+            "pais": "Bélgica",
+            "distancia": 174.0,
+            "desnivel": 1271,
+            "velocidadMedia": 39.89
+        },
+        {
+            "etapa": 15,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 1500,
+            "velocidadMedia": 37.01
+        },
+        {
+            "etapa": 16,
+            "nombre": "Massignan Imerio",
+            "pais": "Italia",
+            "distancia": 208.0,
+            "desnivel": 4000,
+            "velocidadMedia": 29.84
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.0,
+            "desnivel": 5000,
+            "velocidadMedia": 30.31
+        },
+        {
+            "etapa": 18,
+            "nombre": "Van Geneugden Martin",
+            "pais": "Bélgica",
+            "distancia": 207.0,
+            "desnivel": 1659,
+            "velocidadMedia": 36.82
+        },
+        {
+            "etapa": 19,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 74.5,
+            "desnivel": 1043,
+            "velocidadMedia": 43.6
+        },
+        {
+            "etapa": 20,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 309.5,
+            "desnivel": 3000,
+            "velocidadMedia": 35.99
+        },
+        {
+            "etapa": 21,
+            "nombre": "Cazala Robert",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.0233
+        }
+    ]
+}

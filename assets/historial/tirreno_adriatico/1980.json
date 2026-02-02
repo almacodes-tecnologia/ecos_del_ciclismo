@@ -1,0 +1,135 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1980,
+    "distancia": 796.3,
+    "desnivel": 0,
+    "tiempo": "21h 17' 28\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 43,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "equipo": "Boule d'Or - Sunair - Colnago",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Morandi Dante",
+            "pais": "Italia",
+            "equipo": "Hoonved - Bottecchia",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Segersall Alf",
+            "pais": "Suecia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Gis",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Johansson Bernt",
+            "pais": "Suecia",
+            "equipo": "Magniflex - Olmo",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Splendor - Admiral - TV Ekspres",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lualdi Valerio",
+            "pais": "Italia",
+            "equipo": "Gis",
+            "ventaja": "+ 2 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bortolotto Claudio",
+            "pais": "Italia",
+            "equipo": "San Giacomo",
+            "ventaja": "+ 2 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 7.2,
+            "desnivel": 0,
+            "velocidadMedia": 48.539
+        },
+        {
+            "etapa": 1,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.358
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.952
+        },
+        {
+            "etapa": 3,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 192.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.887
+        },
+        {
+            "etapa": 4,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "distancia": 223.4,
+            "desnivel": 0,
+            "velocidadMedia": 38.852
+        },
+        {
+            "etapa": 5,
+            "nombre": "Braun Gregor",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.241
+        }
+    ]
+}

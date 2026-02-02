@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1962,
+    "distancia": 1287.1,
+    "desnivel": 0,
+    "tiempo": "36h 33' 00\"",
+    "ciclistasInscritos": 52,
+    "ciclistasFinalizados": 50,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moser Aldo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 4 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Desmet Gilbert",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 6 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Campillo Juan",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 12 min 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hugens Jan",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 12 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 14 min 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fezzardi Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 15 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 17 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 18 min 44 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Junkermann Hans",
+        "pais": "Alemania",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Junkermann Hans",
+        "pais": "Alemania",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Carpano",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.686
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.257
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.786
+        },
+        {
+            "etapa": 4,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "distancia": 9.1,
+            "desnivel": 0,
+            "velocidadMedia": 23.3
+        },
+        {
+            "etapa": 5,
+            "nombre": "Desmet Gilbert",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.479
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.658
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kemper Dieter",
+            "pais": "Alemania",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.543
+        }
+    ]
+}

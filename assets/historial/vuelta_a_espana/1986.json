@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1986,
+    "distancia": 3644.5,
+    "desnivel": 52212,
+    "tiempo": "98h 16' 04\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 107,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "Zor - BH",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Panasonic",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Kas",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "equipo": "Teka",
+            "ventaja": "+ 5 min 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Seat - Orbea ",
+            "ventaja": "+ 7 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "Seat - Orbea ",
+            "ventaja": "+ 7 min 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 7 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia - Varta",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fuerte Anselmo",
+            "pais": "España",
+            "equipo": "Zor - BH",
+            "ventaja": "+ 10 min 50 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "PDM - Concorde",
+            "ventaja": "+ 11 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Kas"
+    },
+    "ganadorMontana": {
+        "nombre": "Laguía José Luis",
+        "pais": "España",
+        "equipo": "Reynolds"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Zor - BH",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 5.7,
+            "desnivel": 135,
+            "velocidadMedia": 50.92
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 190.0,
+            "desnivel": 2407,
+            "velocidadMedia": 40.05
+        },
+        {
+            "etapa": 2,
+            "nombre": "Domínguez Manuel Jorge",
+            "pais": "España",
+            "distancia": 182.0,
+            "desnivel": 2500,
+            "velocidadMedia": 41.25
+        },
+        {
+            "etapa": 3,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 212.0,
+            "desnivel": 1980,
+            "velocidadMedia": 37.76
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gutiérrez Alfonso",
+            "pais": "España",
+            "distancia": 192.0,
+            "desnivel": 1810,
+            "velocidadMedia": 36.61
+        },
+        {
+            "etapa": 5,
+            "nombre": "Blanco Jesús",
+            "pais": "España",
+            "distancia": 202.0,
+            "desnivel": 2500,
+            "velocidadMedia": 34.37
+        },
+        {
+            "etapa": 6,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "distancia": 191.0,
+            "desnivel": 4000,
+            "velocidadMedia": 32.35
+        },
+        {
+            "etapa": 7,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 3500,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "distancia": 9.7,
+            "desnivel": 494,
+            "velocidadMedia": 31.52
+        },
+        {
+            "etapa": 9,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 180.0,
+            "desnivel": 4000,
+            "velocidadMedia": 36.85
+        },
+        {
+            "etapa": 10,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 193.0,
+            "desnivel": 1025,
+            "velocidadMedia": 41.15
+        },
+        {
+            "etapa": 11,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 29.1,
+            "desnivel": 234,
+            "velocidadMedia": 47.66
+        },
+        {
+            "etapa": 12,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "distancia": 258.0,
+            "desnivel": 4880,
+            "velocidadMedia": 35.55
+        },
+        {
+            "etapa": 13,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 148.0,
+            "desnivel": 3181,
+            "velocidadMedia": 36.58
+        },
+        {
+            "etapa": 14,
+            "nombre": "Recio José",
+            "pais": "España",
+            "distancia": 165.0,
+            "desnivel": 2411,
+            "velocidadMedia": 40.77
+        },
+        {
+            "etapa": 15,
+            "nombre": "Eguiarte Juan María",
+            "pais": "España",
+            "distancia": 207.0,
+            "desnivel": 1176,
+            "velocidadMedia": 44.39
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bondue Alain",
+            "pais": "Francia",
+            "distancia": 264.0,
+            "desnivel": 2500,
+            "velocidadMedia": 39.6
+        },
+        {
+            "etapa": 17,
+            "nombre": "Yáñez Felipe",
+            "pais": "España",
+            "distancia": 172.0,
+            "desnivel": 4979,
+            "velocidadMedia": 30.39
+        },
+        {
+            "etapa": 18,
+            "nombre": "Demidenko Víctor",
+            "pais": "Rusia",
+            "distancia": 191.0,
+            "desnivel": 2500,
+            "velocidadMedia": 40.94
+        },
+        {
+            "etapa": 19,
+            "nombre": "Blanco Jesús",
+            "pais": "España",
+            "distancia": 234.0,
+            "desnivel": 2000,
+            "velocidadMedia": 43.07
+        },
+        {
+            "etapa": 20,
+            "nombre": "Gomez Marc",
+            "pais": "Francia",
+            "distancia": 239.0,
+            "desnivel": 4000,
+            "velocidadMedia": 38.99
+        },
+        {
+            "etapa": 21,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.119
+        }
+    ]
+}

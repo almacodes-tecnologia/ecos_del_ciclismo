@@ -1,0 +1,271 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2006,
+    "distancia": 3503.6,
+    "desnivel": 44647,
+    "tiempo": "89h 39' 30\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 139,
+    "clasificacionGeneral": [
+
+        {
+            "puesto": 1,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 5 min 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 7 min 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dessel Cyril",
+            "pais": "Francia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 8 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 9 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 12 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 15 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fränk Schleck",
+            "pais": "Luxemburgo",
+            "equipo": "CSC",
+            "ventaja": "+ 16 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "McEwen Robbie",
+        "pais": "Australia",
+        "equipo": "Davitamon - Lotto"
+    },
+    "ganadorMontana": {
+        "nombre": "Rasmussen Michael",
+        "pais": "Dinamarca",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {
+        "nombre": "Cunego Damiano",
+        "pais": "Italia",
+        "equipo": "Lampre-Fondital"
+    },
+    "ganadorEquipos": {
+        "nombre": " T-Mobile Team",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 7.1,
+            "desnivel": 5,
+            "velocidadMedia": 51.43
+        },
+        {
+            "etapa": 1,
+            "nombre": "Casper Jimmy",
+            "pais": "Francia",
+            "distancia": 184.5,
+            "desnivel": 913,
+            "velocidadMedia": 44.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 228.5,
+            "desnivel": 2679,
+            "velocidadMedia": 40.78
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kessler Matthias",
+            "pais": "Alemania",
+            "distancia": 216.5,
+            "desnivel": 2423,
+            "velocidadMedia": 43.61
+        },
+        {
+            "etapa": 4,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 207.0,
+            "desnivel": 1736,
+            "velocidadMedia": 41.42
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 225.0,
+            "desnivel": 1595,
+            "velocidadMedia": 42.34
+        },
+        {
+            "etapa": 6,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 189.0,
+            "desnivel": 1378,
+            "velocidadMedia": 45.31
+        },
+        {
+            "etapa": 7,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "distancia": 52.0,
+            "desnivel": 389,
+            "velocidadMedia": 50.55
+        },
+        {
+            "etapa": 8,
+            "nombre": "Calzati Sylvain",
+            "pais": "Francia",
+            "distancia": 181.0,
+            "desnivel": 1465,
+            "velocidadMedia": 42.87
+        },
+        {
+            "etapa": 9,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 169.5,
+            "desnivel": 326,
+            "velocidadMedia": 47.21
+        },
+        {
+            "etapa": 10,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "distancia": 190.5,
+            "desnivel": 3595,
+            "velocidadMedia": 39.53
+        },
+        {
+            "etapa": 11,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 206.5,
+            "desnivel": 5721,
+            "velocidadMedia": 33.81
+        },
+        {
+            "etapa": 12,
+            "nombre": "Popovych Yaroslav",
+            "pais": "Ucrania",
+            "distancia": 211.5,
+            "desnivel": 1750,
+            "velocidadMedia": 46.15
+        },
+        {
+            "etapa": 13,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "distancia": 231.0,
+            "desnivel": 1647,
+            "velocidadMedia": 42.7
+        },
+        {
+            "etapa": 14,
+            "nombre": "Fédrigo Pierrick",
+            "pais": "Francia",
+            "distancia": 180.5,
+            "desnivel": 2644,
+            "velocidadMedia": 42.57
+        },
+        {
+            "etapa": 15,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "distancia": 187.0,
+            "desnivel": 4442,
+            "velocidadMedia": 38.376
+        },
+        {
+            "etapa": 16,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "distancia": 182.0,
+            "desnivel": 5456,
+            "velocidadMedia": 32.49
+        },
+        {
+            "etapa": 17,
+            "nombre": "Landis Floyd",
+            "pais": "Estados Unidos",
+            "distancia": 200.5,
+            "desnivel": 4356,
+            "velocidadMedia": 36.53
+        },
+        {
+            "etapa": 18,
+            "nombre": "Tosatto Matteo",
+            "pais": "Italia",
+            "distancia": 197.0,
+            "desnivel": 1751,
+            "velocidadMedia": 46.13
+        },
+        {
+            "etapa": 19,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "distancia": 57.0,
+            "desnivel": 376,
+            "velocidadMedia": 50.48
+        },
+        {
+            "etapa": 20,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.79
+        }
+    ]
+}

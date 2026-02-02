@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2014,
+  "distancia": 3660.5,
+  "desnivel": 0,
+  "tiempo": "89h 59' 06\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 164,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia",
+      "equipo": "Astana Pro Team",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Jean-Christophe Péraud",
+      "pais": "Francia",
+      "equipo": "AG2R La Mondiale",
+      "ventaja": "+7 min 37 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Thibaut Pinot",
+      "pais": "Francia",
+      "equipo": "FDJ.fr",
+      "ventaja": "+8 min 15 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+9 min 40 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Tejay van Garderen",
+      "pais": "Estados Unidos",
+      "equipo": "BMC Racing Team",
+      "ventaja": "+11 min 24 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Romain Bardet",
+      "pais": "Francia",
+      "equipo": "AG2R La Mondiale",
+      "ventaja": "+11 min 26 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Leopold König",
+      "pais": "República Checa",
+      "equipo": "Team NetApp - Endura",
+      "ventaja": "+14 min 32 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Haimar Zubeldia",
+      "pais": "España",
+      "equipo": "Trek Factory Racing",
+      "ventaja": "+17 min 57 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Laurens ten Dam",
+      "pais": "Países Bajos",
+      "equipo": "Belkin Pro Cycling Team",
+      "ventaja": "+18 min 11 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Bauke Mollema",
+      "pais": "Países Bajos",
+      "equipo": "Belkin Pro Cycling Team",
+      "ventaja": "+21 min 15 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Peter Sagan",
+    "pais": "Eslovaquia",
+    "equipo": "Cannondale"
+  },
+  "ganadorMontana": {
+    "nombre": "Rafał Majka",
+    "pais": "Polonia",
+    "equipo": "Tinkoff - Saxo"
+  },
+  "ganadorJovenes": {
+    "nombre": "Thibaut Pinot",
+    "pais": "Francia",
+    "equipo": "FDJ.fr"
+  },
+  "ganadorEquipos": {
+    "nombre": "AG2R La Mondiale",
+    "pais": "Francia"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Marcel Kittel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Marcel Kittel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Marcel Kittel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Lars Boom",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 6,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Matteo Trentin",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Blel Kadri",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Tony Martin",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Tony Gallopin",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Alexander Kristoff",
+      "pais": "Noruega"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Rafał Majka",
+      "pais": "Polonia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Alexander Kristoff",
+      "pais": "Noruega"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Michael Rogers",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Rafał Majka",
+      "pais": "Polonia"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Ramūnas Navardauskas",
+      "pais": "Lituania"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Tony Martin",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Marcel Kittel",
+      "pais": "Alemania"
+    }
+  ]
+}

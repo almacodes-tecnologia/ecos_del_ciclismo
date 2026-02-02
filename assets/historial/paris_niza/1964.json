@@ -1,0 +1,179 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1964,
+    "distancia": 1356.0,
+    "desnivel": 0,
+    "tiempo": "41h 56' 28\"",
+    "ciclistasInscritos": 45,
+    "ciclistasFinalizados": 28,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Annaert Jean-Claude",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Gitane - Dunlop",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Englebert",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Planckaert Joseph",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Romeo",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ramsbottom Alan",
+            "pais": "Reino Unido",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 4 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Gitane - Dunlop",
+            "ventaja": "+ 4 min 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 4 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 4 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Milesi Jean",
+            "pais": "Francia",
+            "equipo": "Margnat - Paloma - Dunlop",
+            "ventaja": "+ 6 min 39 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Brands Frans",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Romeo",
+            "ventaja": "+ 8 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Janssen Jan",
+        "pais": "Países Bajos",
+        "equipo": "Pelforth - Sauvage - Lejeune"
+    },
+    "ganadorMontana": {
+        "nombre": "Ignolin Guy",
+        "pais": "Francia",
+        "equipo": "Saint-Raphaël - Gitane - Dunlop"
+    },
+    "ganadorJovenes": {
+        "nombre": "Sauvage Lejeune Pelfort",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vannitsen Willy",
+            "pais": "Bélgica",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Melckenbeeck Frans",
+            "pais": "Bélgica",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Zilverberg Huub",
+            "pais": "Países Bajos",
+            "distancia": 82.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Novak Anatole",
+            "pais": "Francia",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Van de Kerckhove Bernard",
+            "pais": "Bélgica",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 34.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

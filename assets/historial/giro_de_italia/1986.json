@@ -1,0 +1,110 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1986,
+    "distancia": 50.0,
+    "desnivel": 0,
+    "tiempo": "102h 33' 55\"",
+    "ciclistasInscritos": 171,
+    "ciclistasFinalizados": 143,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Del Tongo",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Supermercati Brianzoli",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Corti Claudio",
+            "pais": "Italia",
+            "equipo": "Supermercati Brianzoli",
+            "ventaja": "+ 4 min 49 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "equipo": "Ecoflam-Jolly",
+            "ventaja": "+ 6 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "+ 7 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "equipo": "Gis Gelati",
+            "ventaja": "+ 8 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 9 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Muñoz Pedro",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 11 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bontempi Guido",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Vagabond"
+    },
+    "ganadorMontana": {
+        "nombre": "Muñoz Pedro",
+        "pais": "España",
+        "equipo": "Fagor"
+    },
+    "ganadorJovenes": {
+        "nombre": "Giovannetti Marco",
+        "pais": "Italia",
+        "equipo": "Gis Gelati"
+    },
+    "ganadorEquipos": {
+        "nombre": " Supermercati Brianzoli",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 3,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 50.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.26
+        }
+    ]
+}

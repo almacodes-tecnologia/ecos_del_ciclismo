@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2019,
+  "distancia": 3365.8,
+  "desnivel": 0,
+  "tiempo": "82h 57' 00\"",
+  "ciclistasInscritos": 176,
+  "ciclistasFinalizados": 155,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Egan Bernal",
+      "pais": "Colombia",
+      "equipo": "Team Ineos",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Geraint Thomas",
+      "pais": "Reino Unido",
+      "equipo": "Team Ineos",
+      "ventaja": "+1 min 11 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Steven Kruijswijk",
+      "pais": "Países Bajos",
+      "equipo": "Team Jumbo-Visma",
+      "ventaja": "+1 min 31 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Emanuel Buchmann",
+      "pais": "Alemania",
+      "equipo": "Bora - Hansgrohe",
+      "ventaja": "+1 min 56 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Julian Alaphilippe",
+      "pais": "Francia",
+      "equipo": "Deceuninck-Quick Step",
+      "ventaja": "+4 min 05 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Mikel Landa",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+4 min 23 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Rigoberto Urán",
+      "pais": "Colombia",
+      "equipo": "EF Education First",
+      "ventaja": "+5 min 15 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Nairo Quintana",
+      "pais": "Colombia",
+      "equipo": "Movistar Team",
+      "ventaja": "+5 min 30 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+6 min 12 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Warren Barguil",
+      "pais": "Francia",
+      "equipo": "Team Arkéa - Samsic",
+      "ventaja": "+7 min 32 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Peter Sagan",
+    "pais": "Eslovaquia",
+    "equipo": "Bora - Hansgrohe"
+  },
+  "ganadorMontana": {
+    "nombre": "Romain Bardet",
+    "pais": "Francia",
+    "equipo": "AG2R La Mondiale"
+  },
+  "ganadorJovenes": {
+    "nombre": "Egan Bernal",
+    "pais": "Colombia",
+    "equipo": "Team Ineos"
+  },
+  "ganadorEquipos": {
+    "nombre": "Movistar Team",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Mike Teunissen",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Team Jumbo-Visma",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Julian Alaphilippe",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Elia Viviani",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Peter Sagan",
+      "pais": "Eslovaquia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Dylan Teuns",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Dylan Groenewegen",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Thomas De Gendt",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Daryl Impey",
+      "pais": "Sudáfrica"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Wout van Aert",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Caleb Ewan",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Simon Yates",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Julian Alaphilippe",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Thibaut Pinot",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Simon Yates",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Caleb Ewan",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Matteo Trentin",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Nairo Quintana",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Sin ganador (etapa neutralizada)",
+      "pais": ""
+    },
+    {
+      "etapa": 20,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Caleb Ewan",
+      "pais": "Australia"
+    }
+  ]
+}

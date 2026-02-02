@@ -1,0 +1,179 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1975,
+    "distancia": 1361.0,
+    "desnivel": 0,
+    "tiempo": "34h 35' 54\"",
+    "ciclistasInscritos": 50,
+    "ciclistasFinalizados": 10,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mytnik Tadeusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hartnick Hans-Joachim",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Majkowski Marian",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Raczkowski Jan",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 11 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schiffner Michael",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 4 min 52 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mikolajczyk Stanislaw",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kaczmarek Jozef",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 5 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Piasecki Stefan",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 5 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Puzio Stanisław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 5 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ebel Bronisław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 6 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Sýkora Miroslav",
+        "pais": "República Checa",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Mytnik Tadeusz",
+            "pais": "Polonia",
+            "distancia": 56.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Lauke Gerhard",
+            "pais": "Alemania",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.341
+        },
+        {
+            "etapa": 2,
+            "nombre": "Raczkowski Jan",
+            "pais": "Polonia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.682
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boniecki Stanisław",
+            "pais": "Polonia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.452
+        },
+        {
+            "etapa": 4,
+            "nombre": "Boniecki Stanisław",
+            "pais": "Polonia",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.241
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mytnik Tadeusz",
+            "pais": "Polonia",
+            "distancia": 29.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.71
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kaczmarek Jozef",
+            "pais": "Polonia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.609
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kalis Frantisek",
+            "pais": "República Checa",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.778
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kołopajło Józef",
+            "pais": "Polonia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.201
+        },
+        {
+            "etapa": 9,
+            "nombre": "Grygianiec Walenty",
+            "pais": "Polonia",
+            "distancia": 142.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.735
+        },
+        {
+            "etapa": 10,
+            "nombre": "Szczepkowski Zbigniew",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.006
+        }
+    ]
+}

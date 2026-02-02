@@ -1,0 +1,167 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1970,
+    "distancia": 1169.0,
+    "desnivel": 0,
+    "tiempo": "32h 11' 08\"",
+    "ciclistasInscritos": 78,
+    "ciclistasFinalizados": 75,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 2 min 6 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Faema - Faemino",
+            "ventaja": "+ 2 min 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 3 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pintens Georges",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Faema - Faemino",
+            "ventaja": "+ 4 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 5 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Bic",
+            "ventaja": "+ 5 min 46 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Letort Désiré",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 6 min 43 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "distancia": 5.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Schepers Wim",
+            "pais": "Países Bajos",
+            "distancia": 62.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Schepers Wim",
+            "pais": "Países Bajos",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Genty Jean-Claude",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.73
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 34.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.41
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pintens Georges",
+            "pais": "Bélgica",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vianen Gerard",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

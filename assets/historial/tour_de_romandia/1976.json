@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1976,
+    "distancia": 803.8,
+    "desnivel": 0,
+    "tiempo": "23h 25' 53\"",
+    "ciclistasInscritos": 34,
+    "ciclistasFinalizados": 56,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni - Campagnolo",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 4 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Salm Roland",
+            "pais": "Suiza",
+            "equipo": "Zonca - Santini",
+            "ventaja": "+ 5 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 8 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pujol Juan",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 8 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 9 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "De Witte Ronald",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 10 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sutter Ueli",
+            "pais": "Suiza",
+            "equipo": "Zonca - Santini",
+            "ventaja": "+ 10 min 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Vlaeminck Roger",
+        "pais": "Bélgica",
+        "equipo": "Brooklyn"
+    },
+    "ganadorMontana": {
+        "nombre": "Bellini Giancarlo",
+        "pais": "Italia",
+        "equipo": "Brooklyn"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Brooklyn",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 3.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.042
+        },
+        {
+            "etapa": 1,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 173.8,
+            "desnivel": 0,
+            "velocidadMedia": 35.25
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "distancia": 155.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 86.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "distancia": 28.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

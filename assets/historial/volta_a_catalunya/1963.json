@@ -1,0 +1,186 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1963,
+    "distancia": 1141.0,
+    "desnivel": 0,
+    "tiempo": "35h 01' 05\"",
+    "ciclistasInscritos": 25,
+    "ciclistasFinalizados": 40,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Novales Joseph",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 5 min 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 5 min 39 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 6 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 6 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 6 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 8 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Crinnion Peter",
+            "pais": "Irlanda",
+            "equipo": "",
+            "ventaja": "+ 9 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 10 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 10 min 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Segu José",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Manzaneque Fernando",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Faema - Flandria",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 39.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.11
+        },
+        {
+            "etapa": 1,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 77.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.11
+        },
+        {
+            "etapa": 2,
+            "nombre": "Brands Frans",
+            "pais": "Bélgica",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.07
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.85
+        },
+        {
+            "etapa": 3,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.95
+        },
+        {
+            "etapa": 4,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bertran Antonio",
+            "pais": "España",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.33
+        },
+        {
+            "etapa": 6,
+            "nombre": "Alomar Jaime",
+            "pais": "España",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.29
+        },
+        {
+            "etapa": 7,
+            "nombre": "Alomar Jaime",
+            "pais": "España",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.68
+        },
+        {
+            "etapa": 7,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.06
+        },
+        {
+            "etapa": 8,
+            "nombre": "Barrutia Antonio",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.075
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1928,
+    "distancia": 5045.0,
+    "desnivel": 0,
+    "tiempo": "192h 48' 58\"",
+    "ciclistasInscritos": 162,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 50 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 56 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mertens Jan",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 19 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vervaecke Julien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 53 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 h 14 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fontan Victor",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 5 h 7 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bidot Marcel",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 5 h 18 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Huot Marcel",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 5 h 37 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Magne Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 5 h 41 min 20 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.92
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.27
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rebry Gaston",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.67
+        },
+        {
+            "etapa": 4,
+            "nombre": "Verhaegen Pé",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.3
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bidot Marcel",
+            "pais": "Francia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.9
+        },
+        {
+            "etapa": 7,
+            "nombre": "Fontan Victor",
+            "pais": "Francia",
+            "distancia": 285.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.45
+        },
+        {
+            "etapa": 8,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.14
+        },
+        {
+            "etapa": 9,
+            "nombre": "Fontan Victor",
+            "pais": "Francia",
+            "distancia": 387.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.86
+        },
+        {
+            "etapa": 10,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.93
+        },
+        {
+            "etapa": 11,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 363.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.7
+        },
+        {
+            "etapa": 12,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 330.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.12
+        },
+        {
+            "etapa": 13,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 333.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.77
+        },
+        {
+            "etapa": 14,
+            "nombre": "Moineau Julien",
+            "pais": "Francia",
+            "distancia": 329.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.13
+        },
+        {
+            "etapa": 15,
+            "nombre": "Magne Pierre",
+            "pais": "Francia",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.66
+        },
+        {
+            "etapa": 16,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.46
+        },
+        {
+            "etapa": 17,
+            "nombre": "Mauclair Joseph",
+            "pais": "Francia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.89
+        },
+        {
+            "etapa": 18,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.08
+        },
+        {
+            "etapa": 19,
+            "nombre": "Huot Marcel",
+            "pais": "Francia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.53
+        },
+        {
+            "etapa": 20,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "distancia": 271.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.82
+        },
+        {
+            "etapa": 21,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.29
+        },
+        {
+            "etapa": 22,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.8815
+        }
+    ]
+}

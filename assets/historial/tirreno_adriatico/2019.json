@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2019,
+    "distancia": 1038.5,
+    "desnivel": 13562,
+    "tiempo": "25h 28' 00\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 140,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Clarke Simon",
+            "pais": "Australia",
+            "equipo": "EF Education First",
+            "ventaja": "+ 3 min 1 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Oomen Sam",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maestri Mirco",
+        "pais": "Italia",
+        "equipo": "Bardiani - CSF"
+    },
+    "ganadorMontana": {
+        "nombre": "Lutsenko Alexey",
+        "pais": "Kazajistán",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Oomen Sam",
+        "pais": "Países Bajos",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorEquipos": {
+        "nombre": " EF Education First",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.5,
+            "desnivel": 12,
+            "velocidadMedia": 57.546
+        },
+        {
+            "etapa": 2,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 2168,
+            "velocidadMedia": 40.604
+        },
+        {
+            "etapa": 3,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 226.0,
+            "desnivel": 2873,
+            "velocidadMedia": 41.5
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "distancia": 221.0,
+            "desnivel": 3350,
+            "velocidadMedia": 41.898
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 180.0,
+            "desnivel": 2902,
+            "velocidadMedia": 38.636
+        },
+        {
+            "etapa": 6,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 2257,
+            "velocidadMedia": 41.462
+        },
+        {
+            "etapa": 7,
+            "nombre": "Campenaerts Victor",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.1709
+        }
+    ]
+}

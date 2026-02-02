@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2024,
+    "distancia": 1187.6,
+    "desnivel": 21462,
+    "tiempo": "25h 35' 40\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gee Derek",
+            "pais": "Canadá",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "De Plus Laurens",
+            "pais": "Bélgica",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 6 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 2 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lazkano Oier",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 4 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Fortunato Lorenzo",
+        "pais": "Italia",
+        "equipo": "Astana Qazaqstan Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Jorgenson Matteo",
+        "pais": "Estados Unidos",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorEquipos": {
+        "nombre": " BORA - hansgrohe",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "distancia": 172.5,
+            "desnivel": 1891,
+            "velocidadMedia": 42.857
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 142.0,
+            "desnivel": 2499,
+            "velocidadMedia": 42.241
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gee Derek",
+            "pais": "Canadá",
+            "distancia": 181.7,
+            "desnivel": 2833,
+            "velocidadMedia": 41.563
+        },
+        {
+            "etapa": 4,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 34.4,
+            "desnivel": 427,
+            "velocidadMedia": 49.358
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "distancia": 167.0,
+            "desnivel": 2306,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 174.1,
+            "desnivel": 3439,
+            "velocidadMedia": 40.18
+        },
+        {
+            "etapa": 7,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 155.3,
+            "desnivel": 4316,
+            "velocidadMedia": 34.605
+        },
+        {
+            "etapa": 8,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "distancia": 160.6,
+            "desnivel": 3751,
+            "velocidadMedia": 37.344
+        }
+    ]
+}

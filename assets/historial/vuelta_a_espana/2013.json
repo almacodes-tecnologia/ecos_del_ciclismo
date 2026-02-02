@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2013,
+    "distancia": 3240.5,
+    "desnivel": 52417,
+    "tiempo": "84h 36' 04\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 144,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 3 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 7 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 8 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ.fr ",
+            "ventaja": "+ 8 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 9 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "König Leopold",
+            "pais": "República Checa",
+            "equipo": "Team NetApp - Endura",
+            "ventaja": "+ 10 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 13 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Edet Nicolas",
+        "pais": "Francia",
+        "equipo": "Cofidis, Solutions Crédits"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Euskaltel - Euskadi",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 27.4,
+            "desnivel": 291,
+            "velocidadMedia": 54.83
+        },
+        {
+            "etapa": 2,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "distancia": 177.7,
+            "desnivel": 2317,
+            "velocidadMedia": 38.47
+        },
+        {
+            "etapa": 3,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "distancia": 184.8,
+            "desnivel": 1878,
+            "velocidadMedia": 41.02
+        },
+        {
+            "etapa": 4,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "distancia": 189.0,
+            "desnivel": 2799,
+            "velocidadMedia": 40.82
+        },
+        {
+            "etapa": 5,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 174.3,
+            "desnivel": 3200,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mørkøv Michael",
+            "pais": "Dinamarca",
+            "distancia": 175.0,
+            "desnivel": 1620,
+            "velocidadMedia": 44.82
+        },
+        {
+            "etapa": 7,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "distancia": 205.9,
+            "desnivel": 1779,
+            "velocidadMedia": 42.39
+        },
+        {
+            "etapa": 8,
+            "nombre": "König Leopold",
+            "pais": "República Checa",
+            "distancia": 166.6,
+            "desnivel": 2680,
+            "velocidadMedia": 40.02
+        },
+        {
+            "etapa": 9,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "distancia": 163.7,
+            "desnivel": 2677,
+            "velocidadMedia": 37.93
+        },
+        {
+            "etapa": 10,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "distancia": 178.0,
+            "desnivel": 3755,
+            "velocidadMedia": 39.5
+        },
+        {
+            "etapa": 11,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 38.8,
+            "desnivel": 687,
+            "velocidadMedia": 45.65
+        },
+        {
+            "etapa": 12,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 164.2,
+            "desnivel": 1765,
+            "velocidadMedia": 40.42
+        },
+        {
+            "etapa": 13,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "distancia": 169.0,
+            "desnivel": 2392,
+            "velocidadMedia": 42.21
+        },
+        {
+            "etapa": 14,
+            "nombre": "Ratto Daniele",
+            "pais": "Italia",
+            "distancia": 155.7,
+            "desnivel": 3340,
+            "velocidadMedia": 35.39
+        },
+        {
+            "etapa": 15,
+            "nombre": "Geniez Alexandre",
+            "pais": "Francia",
+            "distancia": 224.9,
+            "desnivel": 5278,
+            "velocidadMedia": 35.49
+        },
+        {
+            "etapa": 16,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "distancia": 146.8,
+            "desnivel": 3220,
+            "velocidadMedia": 39.41
+        },
+        {
+            "etapa": 17,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "distancia": 189.0,
+            "desnivel": 2080,
+            "velocidadMedia": 39.86
+        },
+        {
+            "etapa": 18,
+            "nombre": "Kiryienka Vasil",
+            "pais": "Bielorrusia",
+            "distancia": 186.5,
+            "desnivel": 3879,
+            "velocidadMedia": 39.02
+        },
+        {
+            "etapa": 19,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 3052,
+            "velocidadMedia": 42.39
+        },
+        {
+            "etapa": 20,
+            "nombre": "Elissonde Kenny",
+            "pais": "Francia",
+            "distancia": 142.2,
+            "desnivel": 3728,
+            "velocidadMedia": 36.21
+        },
+        {
+            "etapa": 21,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5949
+        }
+    ]
+}

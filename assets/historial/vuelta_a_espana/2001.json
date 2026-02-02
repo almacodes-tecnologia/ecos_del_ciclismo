@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2001,
+    "distancia": 2969.5,
+    "desnivel": 36151,
+    "tiempo": "70h 49' 05\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 139,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Casero Ángel Luis",
+            "pais": "España",
+            "equipo": "Festina",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 2 min 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 3 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 5 min 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Plaza David",
+            "pais": "España",
+            "equipo": "Festina",
+            "ventaja": "+ 5 min 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 6 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Møller Claus Michael",
+            "pais": "Dinamarca",
+            "equipo": "Milaneza - MSS",
+            "ventaja": "+ 7 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Osa Aitor",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 8 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 10 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jiménez José María",
+        "pais": "España",
+        "equipo": "iBanesto.com"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez José María",
+        "pais": "España",
+        "equipo": "iBanesto.com"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " iBanesto.com",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 12.3,
+            "desnivel": 95,
+            "velocidadMedia": 49.42
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 147.2,
+            "desnivel": 673,
+            "velocidadMedia": 41.181
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 140.5,
+            "desnivel": 567,
+            "velocidadMedia": 46.108
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 175.0,
+            "desnivel": 1942,
+            "velocidadMedia": 42.039
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "distancia": 160.8,
+            "desnivel": 2946,
+            "velocidadMedia": 37.306
+        },
+        {
+            "etapa": 6,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 180.6,
+            "desnivel": 2382,
+            "velocidadMedia": 44.666
+        },
+        {
+            "etapa": 7,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 44.2,
+            "desnivel": 516,
+            "velocidadMedia": 48.087
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 195.0,
+            "desnivel": 2472,
+            "velocidadMedia": 41.338
+        },
+        {
+            "etapa": 9,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "distancia": 179.2,
+            "desnivel": 650,
+            "velocidadMedia": 55.176
+        },
+        {
+            "etapa": 10,
+            "nombre": "Blanco Santiago",
+            "pais": "España",
+            "distancia": 168.4,
+            "desnivel": 3669,
+            "velocidadMedia": 38.804
+        },
+        {
+            "etapa": 11,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 154.2,
+            "desnivel": 3728,
+            "velocidadMedia": 37.236
+        },
+        {
+            "etapa": 12,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 17.1,
+            "desnivel": 943,
+            "velocidadMedia": 28.007
+        },
+        {
+            "etapa": 13,
+            "nombre": "Zberg Beat",
+            "pais": "Suiza",
+            "distancia": 206.0,
+            "desnivel": 2050,
+            "velocidadMedia": 46.099
+        },
+        {
+            "etapa": 14,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "distancia": 170.5,
+            "desnivel": 1376,
+            "velocidadMedia": 43.323
+        },
+        {
+            "etapa": 15,
+            "nombre": "Møller Claus Michael",
+            "pais": "Dinamarca",
+            "distancia": 207.2,
+            "desnivel": 3575,
+            "velocidadMedia": 36.108
+        },
+        {
+            "etapa": 16,
+            "nombre": "Konečný Tomáš",
+            "pais": "República Checa",
+            "distancia": 153.3,
+            "desnivel": 1118,
+            "velocidadMedia": 48.019
+        },
+        {
+            "etapa": 17,
+            "nombre": "Hunter Robert",
+            "pais": "Sudáfrica",
+            "distancia": 159.5,
+            "desnivel": 1387,
+            "velocidadMedia": 48.147
+        },
+        {
+            "etapa": 18,
+            "nombre": "Simeoni Filippo",
+            "pais": "Italia",
+            "distancia": 154.2,
+            "desnivel": 1197,
+            "velocidadMedia": 49.348
+        },
+        {
+            "etapa": 19,
+            "nombre": "Trenti Guido",
+            "pais": "Estados Unidos",
+            "distancia": 168.0,
+            "desnivel": 1874,
+            "velocidadMedia": 43.909
+        },
+        {
+            "etapa": 20,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 176.3,
+            "desnivel": 2991,
+            "velocidadMedia": 39.894
+        },
+        {
+            "etapa": 21,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.4678
+        }
+    ]
+}

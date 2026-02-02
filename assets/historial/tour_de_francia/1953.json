@@ -1,0 +1,274 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1953,
+    "distancia": 4151.0,
+    "desnivel": 47770,
+    "tiempo": "129h 23' 25\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 76,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Malléjac Jean",
+            "pais": "Francia",
+            "equipo": "France Ouest",
+            "ventaja": "+ 14 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 15 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Close Alex",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 17 min 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "equipo": "Netherlands",
+            "ventaja": "+ 18 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 18 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rolland Antonin",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 23 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lauredi Nello",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 26 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 27 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "equipo": "France Ouest",
+            "ventaja": "+ 28 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Schär Fritz",
+        "pais": "Suiza",
+        "equipo": "Switzerland"
+    },
+    "ganadorMontana": {
+        "nombre": "Loroño Jesús",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Netherlands",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "distancia": 195.0,
+            "desnivel": 2159,
+            "velocidadMedia": 39.661
+        },
+        {
+            "etapa": 2,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "distancia": 227.0,
+            "desnivel": 2875,
+            "velocidadMedia": 35.761
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bober Stanislas",
+            "pais": "Francia",
+            "distancia": 221.0,
+            "desnivel": 1079,
+            "velocidadMedia": 36.19
+        },
+        {
+            "etapa": 4,
+            "nombre": "Voorting Gerrit",
+            "pais": "Países Bajos",
+            "distancia": 188.0,
+            "desnivel": 1195,
+            "velocidadMedia": 35.22
+        },
+        {
+            "etapa": 5,
+            "nombre": "Malléjac Jean",
+            "pais": "Francia",
+            "distancia": 200.0,
+            "desnivel": 1614,
+            "velocidadMedia": 35.44
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.0,
+            "desnivel": 1427,
+            "velocidadMedia": 39.76
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 1177,
+            "velocidadMedia": 37.95
+        },
+        {
+            "etapa": 8,
+            "nombre": "Nolten Jan",
+            "pais": "Países Bajos",
+            "distancia": 345.0,
+            "desnivel": 1806,
+            "velocidadMedia": 34.69
+        },
+        {
+            "etapa": 9,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "distancia": 197.0,
+            "desnivel": 1360,
+            "velocidadMedia": 38.13
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 103.0,
+            "desnivel": 3000,
+            "velocidadMedia": 31.77
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 115.0,
+            "desnivel": 3500,
+            "velocidadMedia": 29.99
+        },
+        {
+            "etapa": 12,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 228.0,
+            "desnivel": 1776,
+            "velocidadMedia": 40.16
+        },
+        {
+            "etapa": 13,
+            "nombre": "Lauredi Nello",
+            "pais": "Francia",
+            "distancia": 189.0,
+            "desnivel": 3000,
+            "velocidadMedia": 35.58
+        },
+        {
+            "etapa": 14,
+            "nombre": "Quennehen Bernard",
+            "pais": "Francia",
+            "distancia": 214.0,
+            "desnivel": 2500,
+            "velocidadMedia": 33.67
+        },
+        {
+            "etapa": 15,
+            "nombre": "Quentin Maurice",
+            "pais": "Francia",
+            "distancia": 173.0,
+            "desnivel": 1949,
+            "velocidadMedia": 38.08
+        },
+        {
+            "etapa": 16,
+            "nombre": "van Est Wim",
+            "pais": "Países Bajos",
+            "distancia": 236.0,
+            "desnivel": 2500,
+            "velocidadMedia": 32.12
+        },
+        {
+            "etapa": 17,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "distancia": 261.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.41
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 165.0,
+            "desnivel": 4000,
+            "velocidadMedia": 31.8
+        },
+        {
+            "etapa": 19,
+            "nombre": "Meunier Georges",
+            "pais": "Francia",
+            "distancia": 227.0,
+            "desnivel": 2500,
+            "velocidadMedia": 36.01
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 70.0,
+            "desnivel": 1299,
+            "velocidadMedia": 38.53
+        },
+        {
+            "etapa": 21,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 2554,
+            "velocidadMedia": 33.15
+        },
+        {
+            "etapa": 22,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.6051
+        }
+    ]
+}

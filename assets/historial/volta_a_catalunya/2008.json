@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2008,
+    "distancia": 908.0,
+    "desnivel": 0,
+    "tiempo": "24h 29' 22\"",
+    "ciclistasInscritos": 174,
+    "ciclistasFinalizados": 139,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "César Veloso Gustavo",
+            "pais": "España",
+            "equipo": "Karpin - Galicia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pauriol Rémi",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jufré Josep",
+            "pais": "España",
+            "equipo": "Saunier Duval - Scott",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Navarro Daniel",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Astana",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fédrigo Pierrick",
+            "pais": "Francia",
+            "equipo": "Bouygues Telecom",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Team High Road",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Verdugo Gorka",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 34 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hushovd Thor",
+        "pais": "Noruega",
+        "equipo": "Crédit Agricole"
+    },
+    "ganadorMontana": {
+        "nombre": "Moreau Christophe",
+        "pais": "Francia",
+        "equipo": "Agritubel"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 3.7,
+            "desnivel": 0,
+            "velocidadMedia": 51.986
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 167.8,
+            "desnivel": 0,
+            "velocidadMedia": 40.665
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dessel Cyril",
+            "pais": "Francia",
+            "distancia": 191.9,
+            "desnivel": 0,
+            "velocidadMedia": 37.082
+        },
+        {
+            "etapa": 3,
+            "nombre": "Fédrigo Pierrick",
+            "pais": "Francia",
+            "distancia": 217.2,
+            "desnivel": 0,
+            "velocidadMedia": 42.586
+        },
+        {
+            "etapa": 4,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "distancia": 163.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.239
+        },
+        {
+            "etapa": 5,
+            "nombre": "Chicchi Francesco",
+            "pais": null,
+            "distancia": 163.9,
+            "desnivel": 0,
+            "velocidadMedia": 43.846
+        },
+        {
+            "etapa": 6,
+            "nombre": "Carrasco José Luis",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.4172
+        }
+    ]
+}

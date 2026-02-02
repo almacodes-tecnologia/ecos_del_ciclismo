@@ -1,0 +1,263 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1969,
+    "distancia": 2874.5,
+    "desnivel": 0,
+    "tiempo": "73h 18' 45\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 68,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Wagtmans Rini",
+            "pais": "Países Bajos",
+            "equipo": "Willem II - Gazelle",
+            "ventaja": "+ 5 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lasa José Manuel",
+            "pais": "España",
+            "equipo": "Pepsi Cola",
+            "ventaja": "+ 5 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "equipo": "Bic",
+            "ventaja": "+ 5 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Wolfshohl Rolf",
+            "pais": "Alemania",
+            "equipo": "Bic",
+            "ventaja": "+ 6 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bellone Gilbert",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 6 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 7 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 7 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 7 min 51 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Steegmans Raymond",
+        "pais": "Bélgica",
+        "equipo": "Goldor - Hertekamp - Gerka"
+    },
+    "ganadorMontana": {
+        "nombre": "Ocaña Luis",
+        "pais": "España",
+        "equipo": "Fagor"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 6.5,
+            "desnivel": 0,
+            "velocidadMedia": 50.76
+        },
+        {
+            "etapa": 1,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "distancia": 246.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.95
+        },
+        {
+            "etapa": 2,
+            "nombre": "Salina Felice",
+            "pais": "Italia",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.17
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sgarbozza Luigi",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.16
+        },
+        {
+            "etapa": 4,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 124.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.3
+        },
+        {
+            "etapa": 5,
+            "nombre": "Steegmans Raymond",
+            "pais": "Bélgica",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.84
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.59
+        },
+        {
+            "etapa": 7,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 233.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.04
+        },
+        {
+            "etapa": 8,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.8
+        },
+        {
+            "etapa": 9,
+            "nombre": "López Rodríguez José Manuel",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.96
+        },
+        {
+            "etapa": 10,
+            "nombre": "Martín Manuel",
+            "pais": "España",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.42
+        },
+        {
+            "etapa": 11,
+            "nombre": "Jiménez Nemesio",
+            "pais": "España",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.95
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.15
+        },
+        {
+            "etapa": 13,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.8
+        },
+        {
+            "etapa": 14,
+            "nombre": "Steegmans Raymond",
+            "pais": "Bélgica",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.23
+        },
+        {
+            "etapa": 14,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.81
+        },
+        {
+            "etapa": 15,
+            "nombre": "Díaz Mariano",
+            "pais": "España",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.65
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.57
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9
+        },
+        {
+            "etapa": 18,
+            "nombre": "Gualazzini Ercole",
+            "pais": "Italia",
+            "distancia": 76.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.69
+        },
+        {
+            "etapa": 18,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7434
+        }
+    ]
+}

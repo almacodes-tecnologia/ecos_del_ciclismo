@@ -1,0 +1,31 @@
+{
+  "id": "lagos_de_covadonga",
+  "nombre": "Lagos de Covadonga",
+  "pais": "España",
+  "longitud_km": 14.0,
+  "desnivel_m": 964,
+  "altura_maxima_m": 1124,
+  "pendiente_media_porcentaje": 6.9,
+  "pendiente_maxima_porcentaje": 14.0,
+  "descripcion": "El mítico final de etapa de la Vuelta a España. Es un ascenso durísimo que incluye las rampas de La Huesera (15%).",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 160},
+    {"kilometro": 1.0, "altitud": 200},
+    {"kilometro": 2.0, "altitud": 280},
+    {"kilometro": 3.0, "altitud": 370},
+    {"kilometro": 4.0, "altitud": 460},
+    {"kilometro": 5.0, "altitud": 530},
+    {"kilometro": 6.0, "altitud": 620},
+    {"kilometro": 7.0, "altitud": 740},
+    {"kilometro": 8.0, "altitud": 860},
+    {"kilometro": 9.0, "altitud": 900},
+    {"kilometro": 10.0, "altitud": 1000},
+    {"kilometro": 11.0, "altitud": 1030},
+    {"kilometro": 12.0, "altitud": 1110},
+    {"kilometro": 13.0, "altitud": 1090},
+    {"kilometro": 14.0, "altitud": 1124}
+  ],
+  "puntos_clave": [
+    {"kilometro": 7.2, "pendiente_porcentaje": 13.7, "nombre": "La Huesera"}
+  ]
+}

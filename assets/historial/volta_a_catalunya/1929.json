@@ -1,0 +1,143 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1929,
+    "distancia": 1025.0,
+    "desnivel": 0,
+    "tiempo": "40h 01' 44\"",
+    "ciclistasInscritos": 88,
+    "ciclistasFinalizados": 75,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bresciani Arturo",
+            "pais": "Italia",
+            "equipo": "Bianchi - Pirelli",
+            "ventaja": "+ 8 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mateu Juan",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 16 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Trueba Vicente",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 17 min 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sans José María",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 27 min 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Buttafocchi Adrien",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 30 min 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Venot Lazare",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 31 min 30 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Figueras José Maria",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 38 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mauclair Joseph",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 40 min 24 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.64
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sans José María",
+            "pais": "España",
+            "distancia": 124.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.87
+        },
+        {
+            "etapa": 3,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.86
+        },
+        {
+            "etapa": 4,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.91
+        },
+        {
+            "etapa": 5,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.21
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.08
+        },
+        {
+            "etapa": 7,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.0371
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2024,
+    "distancia": 1118.0,
+    "desnivel": 15012,
+    "tiempo": "26h 22' 23\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 2 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 3 min 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kämna Lennard",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 4 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pidcock Thomas",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 4 min 5 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "equipo": "Arkéa - B&B Hotels",
+            "ventaja": "+ 4 min 24 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Milan Jonathan",
+        "pais": "Italia",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorMontana": {
+        "nombre": "Vingegaard Jonas",
+        "pais": "Dinamarca",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ayuso Juan",
+        "pais": "España",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 10.0,
+            "desnivel": 5,
+            "velocidadMedia": 52.632
+        },
+        {
+            "etapa": 2,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 198.0,
+            "desnivel": 1401,
+            "velocidadMedia": 43.658
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bauhaus Phil",
+            "pais": "Alemania",
+            "distancia": 225.0,
+            "desnivel": 2616,
+            "velocidadMedia": 41.43
+        },
+        {
+            "etapa": 4,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 207.0,
+            "desnivel": 2923,
+            "velocidadMedia": 41.856
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 144.0,
+            "desnivel": 3015,
+            "velocidadMedia": 41.449
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 180.0,
+            "desnivel": 3544,
+            "velocidadMedia": 39.713
+        },
+        {
+            "etapa": 7,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 154.0,
+            "desnivel": 1508,
+            "velocidadMedia": 47.179
+        }
+    ]
+}

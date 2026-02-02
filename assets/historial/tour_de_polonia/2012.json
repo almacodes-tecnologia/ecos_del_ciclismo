@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2012,
+    "distancia": 1100.2,
+    "desnivel": 0,
+    "tiempo": "30h 15' 49\"",
+    "ciclistasInscritos": 200,
+    "ciclistasFinalizados": 154,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Moser Moreno",
+            "pais": "Italia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kolobnev Alexandr",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gerdemann Linus",
+            "pais": "Alemania",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Nocentini Rinaldo",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Geniez Alexandre",
+            "pais": "Francia",
+            "equipo": "Argos - Shimano",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 29 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Swift Ben",
+        "pais": "Reino Unido",
+        "equipo": "Sky Procycling"
+    },
+    "ganadorMontana": {
+        "nombre": "Marczyński Tomasz",
+        "pais": "Polonia",
+        "equipo": "Vacansoleil - DCM"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Moser Moreno",
+            "pais": "Italia",
+            "distancia": 179.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.467
+        },
+        {
+            "etapa": 2,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "distancia": 239.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.046
+        },
+        {
+            "etapa": 3,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "distancia": 201.7,
+            "desnivel": 0,
+            "velocidadMedia": 40.093
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kruopis Aidis",
+            "pais": "Lituania",
+            "distancia": 124.7,
+            "desnivel": 0,
+            "velocidadMedia": 45.883
+        },
+        {
+            "etapa": 5,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "distancia": 163.1,
+            "desnivel": 0,
+            "velocidadMedia": 40.544
+        },
+        {
+            "etapa": 6,
+            "nombre": "Moser Moreno",
+            "pais": "Italia",
+            "distancia": 191.8,
+            "desnivel": 0,
+            "velocidadMedia": 36.356
+        },
+        {
+            "etapa": 7,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6875
+        }
+    ]
+}

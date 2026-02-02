@@ -1,0 +1,134 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2017,
+    "distancia": 516.9,
+    "desnivel": 2806,
+    "tiempo": "12h 08' 57\"",
+    "ciclistasInscritos": 188,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Brändle Matthias",
+            "pais": "Austria",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Direct Energie",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Périchon Pierre-Luc",
+            "pais": "Francia",
+            "equipo": "Fortuneo - Oscaro",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vantomme Maxime",
+            "pais": "Bélgica",
+            "equipo": "WB Veranclassic Aqua Protect",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Theuns Edward",
+            "pais": "Bélgica",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ligthart Pim",
+            "pais": "Países Bajos",
+            "equipo": "Roompot - Nederlandse Loterij",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "van Poppel Boy",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 2 min 24 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "De Buyst Jasper",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 2 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kristoff Alexander",
+        "pais": "Noruega",
+        "equipo": "Team Katusha Alpecin"
+    },
+    "ganadorMontana": {
+        "nombre": "Allegaert Piet",
+        "pais": "Bélgica",
+        "equipo": "Sport Vlaanderen - Baloise"
+    },
+    "ganadorJovenes": {
+        "nombre": "Consonni Simone",
+        "pais": "Italia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Trek - Segafredo",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 205.5,
+            "desnivel": 1676,
+            "velocidadMedia": 44.63
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 192.9,
+            "desnivel": 913,
+            "velocidadMedia": 41.71
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 118.5,
+            "desnivel": 217,
+            "velocidadMedia": 45.15
+        },
+        {
+            "etapa": 3,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.6959
+        }
+    ]
+}

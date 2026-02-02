@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 1997,
+    "distancia": 524.2,
+    "desnivel": 0,
+    "tiempo": "11h 51' 36\"",
+    "ciclistasInscritos": 124,
+    "ciclistasFinalizados": 118,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Museeuw Johan",
+            "pais": "Bélgica",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bomans Carlo",
+            "pais": "Bélgica",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Milesi Marco",
+            "pais": "Italia",
+            "equipo": "Brescialat - Oyster",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zanette Denis",
+            "pais": "Italia",
+            "equipo": "AKI - Safi",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Dietz Bert",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "De Clercq Hans",
+            "pais": "Bélgica",
+            "equipo": "Palmans - Lystex ",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Desmet Tom",
+            "pais": "Bélgica",
+            "equipo": "Collstrop",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tchmil Andrei",
+            "pais": "Ucrania",
+            "equipo": "Lotto - Mobistar",
+            "ventaja": "+ 5 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "equipo": "Scrigno - Gaerne",
+            "ventaja": "+ 5 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Magnien Emmanuel",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 5 min 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Milesi Marco",
+        "pais": "Italia",
+        "equipo": "Brescialat - Oyster"
+    },
+    "ganadorMontana": {
+        "nombre": "Capiot Johan",
+        "pais": "Bélgica",
+        "equipo": "TVM - Farm Frites"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.67
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.88
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.49
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 16.2,
+            "desnivel": 0,
+            "velocidadMedia": 49.47
+        }
+    ]
+}

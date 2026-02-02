@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2000,
+    "distancia": 2854.9,
+    "desnivel": 32643,
+    "tiempo": "70h 26' 14\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 124,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Casero Ángel Luis",
+            "pais": "España",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 4 min 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "González Santos",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 5 min 52 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 7 min 38 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Laiseka Roberto",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 10 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 11 min 17 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 12 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gentili Massimiliano",
+            "pais": "Italia",
+            "equipo": "Cantina Tollo - Regain",
+            "ventaja": "+ 13 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 13 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Heras Roberto",
+        "pais": "España",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorMontana": {
+        "nombre": "Sastre Carlos",
+        "pais": "España",
+        "equipo": "O.N.C.E. - Deutsche Bank"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme - Costa Blanca",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 13.3,
+            "desnivel": 146,
+            "velocidadMedia": 46.58
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 167.5,
+            "desnivel": 1495,
+            "velocidadMedia": 41.64
+        },
+        {
+            "etapa": 3,
+            "nombre": "Koerts Jans",
+            "pais": "Países Bajos",
+            "distancia": 198.0,
+            "desnivel": 1495,
+            "velocidadMedia": 38.52
+        },
+        {
+            "etapa": 4,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 159.0,
+            "desnivel": 596,
+            "velocidadMedia": 42.12
+        },
+        {
+            "etapa": 5,
+            "nombre": "Jiménez Eladio",
+            "pais": "España",
+            "distancia": 152.0,
+            "desnivel": 1113,
+            "velocidadMedia": 38.81
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bossoni Paolo",
+            "pais": "Italia",
+            "distancia": 155.5,
+            "desnivel": 794,
+            "velocidadMedia": 45.01
+        },
+        {
+            "etapa": 7,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 1530,
+            "velocidadMedia": 44.62
+        },
+        {
+            "etapa": 8,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 1269,
+            "velocidadMedia": 43.93
+        },
+        {
+            "etapa": 9,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 38.0,
+            "desnivel": 167,
+            "velocidadMedia": 50.629
+        },
+        {
+            "etapa": 10,
+            "nombre": "Cárdenas Félix Rafael",
+            "pais": "Colombia",
+            "distancia": 165.8,
+            "desnivel": 3321,
+            "velocidadMedia": 36.28
+        },
+        {
+            "etapa": 11,
+            "nombre": "Laiseka Roberto",
+            "pais": "España",
+            "distancia": 136.5,
+            "desnivel": 3628,
+            "velocidadMedia": 36.66
+        },
+        {
+            "etapa": 12,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 132.0,
+            "desnivel": 392,
+            "velocidadMedia": 48.12
+        },
+        {
+            "etapa": 13,
+            "nombre": "Piccoli Mariano",
+            "pais": "Italia",
+            "distancia": 143.3,
+            "desnivel": 1447,
+            "velocidadMedia": 43.93
+        },
+        {
+            "etapa": 14,
+            "nombre": "Zintchenko Andrei",
+            "pais": "Rusia",
+            "distancia": 146.5,
+            "desnivel": 2412,
+            "velocidadMedia": 40.3
+        },
+        {
+            "etapa": 15,
+            "nombre": "González de Galdeano Álvaro",
+            "pais": "España",
+            "distancia": 164.0,
+            "desnivel": 2193,
+            "velocidadMedia": 43.12
+        },
+        {
+            "etapa": 16,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 168.0,
+            "desnivel": 4005,
+            "velocidadMedia": 36.32
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bramati Davide",
+            "pais": "Italia",
+            "distancia": 155.5,
+            "desnivel": 632,
+            "velocidadMedia": 45.61
+        },
+        {
+            "etapa": 18,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 160.0,
+            "desnivel": 2713,
+            "velocidadMedia": 41.22
+        },
+        {
+            "etapa": 19,
+            "nombre": "Piccoli Mariano",
+            "pais": "Italia",
+            "distancia": 130.0,
+            "desnivel": 919,
+            "velocidadMedia": 40.45
+        },
+        {
+            "etapa": 20,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 125.0,
+            "desnivel": 2376,
+            "velocidadMedia": 38.13
+        },
+        {
+            "etapa": 21,
+            "nombre": "González Santos",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.0648
+        }
+    ]
+}

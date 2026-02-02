@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2019,
+    "distancia": 799.2,
+    "desnivel": 2438,
+    "tiempo": "21h 29' 55\"",
+    "ciclistasInscritos": 164,
+    "ciclistasFinalizados": 104,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Plus Laurens",
+            "pais": "Bélgica",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Naesen Oliver",
+            "pais": "Bélgica",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "CCC Team",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hirschi Marc",
+            "pais": "Suiza",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Teunissen Mike",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "García Cortina Iván",
+            "pais": "España",
+            "equipo": "Bahrain Merida",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Clarke Simon",
+            "pais": "Australia",
+            "equipo": "EF Education First",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Valgren Michael",
+            "pais": "Dinamarca",
+            "equipo": "Team Dimension Data",
+            "ventaja": "+ 1 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennett Sam",
+        "pais": "Irlanda",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Sunweb",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 167.2,
+            "desnivel": 139,
+            "velocidadMedia": 44.997
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 169.1,
+            "desnivel": 258,
+            "velocidadMedia": 45.027
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 166.9,
+            "desnivel": 285,
+            "velocidadMedia": 44.692
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 96.2,
+            "desnivel": 1547,
+            "velocidadMedia": 41.028
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hodeg Álvaro José",
+            "pais": "Colombia",
+            "distancia": 191.4,
+            "desnivel": 193,
+            "velocidadMedia": 48.91
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 8.4,
+            "desnivel": 16,
+            "velocidadMedia": 54.388
+        },
+        {
+            "etapa": 7,
+            "nombre": "Naesen Oliver",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.2157
+        }
+    ]
+}

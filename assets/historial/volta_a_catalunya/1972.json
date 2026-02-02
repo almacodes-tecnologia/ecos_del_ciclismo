@@ -1,0 +1,162 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1972,
+    "distancia": 895.2,
+    "desnivel": 0,
+    "tiempo": "26h 01' 43\"",
+    "ciclistasInscritos": 64,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martos Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lazcano Santiago",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Castello Eduardo",
+            "pais": "España",
+            "equipo": "Karpy - Licor",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Santamarina Luis Pedro",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Houbrechts Antoon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Aimar Lucien",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Perurena Domingo",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorMontana": {
+        "nombre": "Abilleira José Luis",
+        "pais": "España",
+        "equipo": "La Casera - Peña Bahamontes"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Kaskol",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 6.2,
+            "desnivel": 0,
+            "velocidadMedia": 11.154
+        },
+        {
+            "etapa": 1,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.408
+        },
+        {
+            "etapa": 2,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.776
+        },
+        {
+            "etapa": 2,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.288
+        },
+        {
+            "etapa": 3,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.364
+        },
+        {
+            "etapa": 4,
+            "nombre": "Santisteban Juan Manuel",
+            "pais": "España",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.099
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lazcano Santiago",
+            "pais": "España",
+            "distancia": 93.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.132
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.7024
+        }
+    ]
+}

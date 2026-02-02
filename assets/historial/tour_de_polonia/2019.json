@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2019,
+    "distancia": 883.0,
+    "desnivel": 9988,
+    "tiempo": "26h 20' 58\"",
+    "ciclistasInscritos": 153,
+    "ciclistasFinalizados": 110,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sivakov Pavel",
+            "pais": "Rusia",
+            "equipo": "Team INEOS",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "equipo": "EF Education First",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Latour Pierre",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hamilton Chris",
+            "pais": "Australia",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Knox James",
+            "pais": "Reino Unido",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 16 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sarreau Marc",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ"
+    },
+    "ganadorMontana": {
+        "nombre": "Geschke Simon",
+        "pais": "Alemania",
+        "equipo": "CCC Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team INEOS",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 132.3,
+            "desnivel": 1236,
+            "velocidadMedia": 44.604
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mezgec Luka",
+            "pais": "Eslovenia",
+            "distancia": 152.7,
+            "desnivel": 894,
+            "velocidadMedia": 43.07
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 150.5,
+            "desnivel": 822,
+            "velocidadMedia": 43.065
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 133.7,
+            "desnivel": 1537,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mezgec Luka",
+            "pais": "Eslovenia",
+            "distancia": 153.8,
+            "desnivel": 2141,
+            "velocidadMedia": 40.136
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 160.0,
+            "desnivel": 3358,
+            "velocidadMedia": 38.832
+        },
+        {
+            "etapa": 7,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.9469
+        }
+    ]
+}

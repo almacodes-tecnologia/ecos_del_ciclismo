@@ -1,0 +1,143 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1935,
+    "distancia": 1173.0,
+    "desnivel": 0,
+    "tiempo": "35h 23' 14\"",
+    "ciclistasInscritos": 92,
+    "ciclistasFinalizados": 36,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dignef Antoon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lesueur Raoul",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 min 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Level Léon",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 7 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Buttafocchi Adrien",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 10 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 11 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 14 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Magne Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 15 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fontenay Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 18 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Deloor Alfons",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 23 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Le Calvez Léon",
+            "pais": "Francia",
+            "distancia": 304.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.917
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dignef Antoon",
+            "pais": "Bélgica",
+            "distancia": 253.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.287
+        },
+        {
+            "etapa": 3,
+            "nombre": "Puppo Henri",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.3
+        },
+        {
+            "etapa": 4,
+            "nombre": "Louviot Raymond",
+            "pais": "Francia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.394
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lesueur Raoul",
+            "pais": "Francia",
+            "distancia": 71.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.12
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.556
+        },
+        {
+            "etapa": 6,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

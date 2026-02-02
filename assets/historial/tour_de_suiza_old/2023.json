@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2023,
+    "distancia": 1043.8,
+    "desnivel": 16789,
+    "tiempo": "21h 17' 19\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 110,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "Team DSM",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "Bora - Hansgrohe",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 3 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 4 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Tejada Harold",
+            "pais": "Colombia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 4 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van Aert Wout",
+        "pais": "Bélgica",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Eenkhoorn Pascal",
+        "pais": "Países Bajos",
+        "equipo": "Lotto Dstny"
+    },
+    "ganadorJovenes": {
+        "nombre": "Skjelmose Mattias",
+        "pais": "Dinamarca",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R Citroën Team",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 12.7,
+            "desnivel": 76,
+            "velocidadMedia": 56.375
+        },
+        {
+            "etapa": 2,
+            "nombre": "Girmay Biniam",
+            "pais": "Eritrea",
+            "distancia": 173.7,
+            "desnivel": 1893,
+            "velocidadMedia": 44.612
+        },
+        {
+            "etapa": 3,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "distancia": 143.8,
+            "desnivel": 2617,
+            "velocidadMedia": 41.236
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "distancia": 152.5,
+            "desnivel": 2795,
+            "velocidadMedia": 41.148
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 211.0,
+            "desnivel": 4654,
+            "velocidadMedia": 39.193
+        },
+        {
+            "etapa": 7,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 183.5,
+            "desnivel": 2453,
+            "velocidadMedia": 45.672
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 25.7,
+            "desnivel": 363,
+            "velocidadMedia": 47.568
+        }
+    ]
+}

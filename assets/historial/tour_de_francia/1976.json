@@ -1,0 +1,310 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1976,
+    "distancia": 3948.2,
+    "desnivel": 57542,
+    "tiempo": "116h 22' 23\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 87,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Gitane - Campagnolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 12 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 12 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Riccomi Walter",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 12 min 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 14 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Velda - Flandria",
+            "ventaja": "+ 14 min 59 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Velda - Flandria",
+            "ventaja": "+ 16 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bertoglio Fausto",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 16 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 19 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maertens Freddy",
+        "pais": "Bélgica",
+        "equipo": "Velda - Flandria"
+    },
+    "ganadorMontana": {
+        "nombre": "Bellini Giancarlo",
+        "pais": "Italia",
+        "equipo": "Brooklyn"
+    },
+    "ganadorJovenes": {
+        "nombre": "Martinez Enrique",
+        "pais": "España",
+        "equipo": "Kas - Campagnolo"
+    },
+    "ganadorEquipos": {
+        "nombre": " Kas - Campagnolo",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 8.0,
+            "desnivel": 66,
+            "velocidadMedia": 43.44
+        },
+        {
+            "etapa": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 173.0,
+            "desnivel": 1208,
+            "velocidadMedia": 36.599
+        },
+        {
+            "etapa": 2,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 236.5,
+            "desnivel": 2301,
+            "velocidadMedia": 35.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 37.0,
+            "desnivel": 169,
+            "velocidadMedia": 47.1
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "distancia": 258.0,
+            "desnivel": 1215,
+            "velocidadMedia": 34.29
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 144.0,
+            "desnivel": 1961,
+            "velocidadMedia": 37.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Parecchini Aldo",
+            "pais": "Italia",
+            "distancia": 209.0,
+            "desnivel": 2195,
+            "velocidadMedia": 38.88
+        },
+        {
+            "etapa": 7,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 205.5,
+            "desnivel": 3275,
+            "velocidadMedia": 36.14
+        },
+        {
+            "etapa": 8,
+            "nombre": "Esclassan Jacques",
+            "pais": "Francia",
+            "distancia": 220.5,
+            "desnivel": 3000,
+            "velocidadMedia": 37.35
+        },
+        {
+            "etapa": 9,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 258.0,
+            "desnivel": 6481,
+            "velocidadMedia": 30.25
+        },
+        {
+            "etapa": 10,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 166.0,
+            "desnivel": 4500,
+            "velocidadMedia": 32.94
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 244.0,
+            "desnivel": 2500,
+            "velocidadMedia": 42.74
+        },
+        {
+            "etapa": 12,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "distancia": 205.5,
+            "desnivel": 4500,
+            "velocidadMedia": 30.26
+        },
+        {
+            "etapa": 13,
+            "nombre": "Teirlinck Willy",
+            "pais": "Bélgica",
+            "distancia": 188.0,
+            "desnivel": 2500,
+            "velocidadMedia": 37.93
+        },
+        {
+            "etapa": 14,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 139.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.97
+        },
+        {
+            "etapa": 15,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 4500,
+            "velocidadMedia": 32.35
+        },
+        {
+            "etapa": 16,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 152.0,
+            "desnivel": 1587,
+            "velocidadMedia": 32.74
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bracke Ferdinand",
+            "pais": "Bélgica",
+            "distancia": 38.75,
+            "desnivel": 522,
+            "velocidadMedia": 44.13
+        },
+        {
+            "etapa": 18,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 86.0,
+            "desnivel": 869,
+            "velocidadMedia": 33.37
+        },
+        {
+            "etapa": 18,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 123.0,
+            "desnivel": 445,
+            "velocidadMedia": 35.65
+        },
+        {
+            "etapa": 18,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 70.5,
+            "desnivel": 293,
+            "velocidadMedia": 41.38
+        },
+        {
+            "etapa": 19,
+            "nombre": "Mathis Hubert",
+            "pais": "Francia",
+            "distancia": 219.5,
+            "desnivel": 2939,
+            "velocidadMedia": 32.44
+        },
+        {
+            "etapa": 20,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 220.0,
+            "desnivel": 4867,
+            "velocidadMedia": 31.97
+        },
+        {
+            "etapa": 21,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 145.5,
+            "desnivel": 1063,
+            "velocidadMedia": 34.09
+        },
+        {
+            "etapa": 22,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 6.0,
+            "desnivel": 86,
+            "velocidadMedia": 46.35
+        },
+        {
+            "etapa": 22,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.7439
+        }
+    ]
+}

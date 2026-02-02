@@ -1,0 +1,151 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2000,
+    "distancia": 1151.1,
+    "desnivel": 0,
+    "tiempo": "28h 19' 50\"",
+    "ciclistasInscritos": 157,
+    "ciclistasFinalizados": 126,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Brochard Laurent",
+            "pais": "Francia",
+            "equipo": "Jean Delatour",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Simon François",
+            "pais": "Francia",
+            "equipo": "Bonjour - Toupargel",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pascual Rodríguez Javier",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vaughters Jonathan",
+            "pais": "Estados Unidos",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rittsel Martin",
+            "pais": "Suecia",
+            "equipo": "MemoryCard - Jack & Jones",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Andreu Frankie",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Brożyna Tomasz",
+            "pais": "Polonia",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Brochard Laurent",
+            "pais": "Francia",
+            "distancia": 7.9,
+            "desnivel": 0,
+            "velocidadMedia": 49.72
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.741
+        },
+        {
+            "etapa": 2,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 203.7,
+            "desnivel": 0,
+            "velocidadMedia": 42.24
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hamburger Bo",
+            "pais": "Dinamarca",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.764
+        },
+        {
+            "etapa": 4,
+            "nombre": "Tosatto Matteo",
+            "pais": "Italia",
+            "distancia": 194.2,
+            "desnivel": 0,
+            "velocidadMedia": 38.894
+        },
+        {
+            "etapa": 5,
+            "nombre": "Simon François",
+            "pais": "Francia",
+            "distancia": 196.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.575
+        },
+        {
+            "etapa": 6,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "distancia": 10.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.866
+        },
+        {
+            "etapa": 7,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 160.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.189
+        }
+    ]
+}

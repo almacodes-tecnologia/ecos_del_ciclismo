@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2019,
+    "distancia": 1016.9,
+    "desnivel": 16869,
+    "tiempo": "29h 14' 17\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 100,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "EF Education First",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Guillaume",
+            "pais": "Francia",
+            "equipo": "Wanty - Gobert Cycling Team",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Matthews Michael",
+        "pais": "Australia",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "López Miguel Ángel",
+        "pais": "Colombia",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 163.7,
+            "desnivel": 3015,
+            "velocidadMedia": 38.588
+        },
+        {
+            "etapa": 2,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 166.7,
+            "desnivel": 1725,
+            "velocidadMedia": 40.077
+        },
+        {
+            "etapa": 3,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 179.0,
+            "desnivel": 3899,
+            "velocidadMedia": 35.528
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 150.3,
+            "desnivel": 3500,
+            "velocidadMedia": 37.247
+        },
+        {
+            "etapa": 5,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "distancia": 188.1,
+            "desnivel": 2705,
+            "velocidadMedia": 42.468
+        },
+        {
+            "etapa": 6,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 169.1,
+            "desnivel": 2025,
+            "velocidadMedia": 42.883
+        },
+        {
+            "etapa": 7,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6706
+        }
+    ]
+}

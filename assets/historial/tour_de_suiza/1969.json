@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1969,
+    "distancia": 1493.9,
+    "desnivel": 0,
+    "tiempo": "40h 30' 21\"",
+    "ciclistasInscritos": 78,
+    "ciclistasFinalizados": 72,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 3 min 48 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vifian Bernard",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 9 min 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "David Wilfried",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 10 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Galera Joaquín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 10 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 11 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Puschel Dieter",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 11 min 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 11 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 12 min 5 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 12 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Janssen Jan",
+        "pais": "Países Bajos",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "González Aurelio",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Armani Luciano",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.06
+        },
+        {
+            "etapa": 2,
+            "nombre": "Portalupi Ambrogio",
+            "pais": "Italia",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.85
+        },
+        {
+            "etapa": 3,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 64.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.41
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 11.9,
+            "desnivel": 0,
+            "velocidadMedia": 25.24
+        },
+        {
+            "etapa": 4,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "distancia": 172.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.21
+        },
+        {
+            "etapa": 5,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.32
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.67
+        },
+        {
+            "etapa": 7,
+            "nombre": "Díaz Mariano",
+            "pais": "España",
+            "distancia": 196.5,
+            "desnivel": 0,
+            "velocidadMedia": 31.37
+        },
+        {
+            "etapa": 8,
+            "nombre": "Stevens Julien",
+            "pais": "Bélgica",
+            "distancia": 174.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.07
+        },
+        {
+            "etapa": 9,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "distancia": 44.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.55
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 87.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.03
+        }
+    ]
+}

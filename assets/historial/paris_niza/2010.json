@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2010,
+    "distancia": 1116.5,
+    "desnivel": 0,
+    "tiempo": "28h 35' 34\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 97,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas - Doimo",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Cofidis, le Crédit en Ligne",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Coppel Jérôme",
+            "pais": "Francia",
+            "equipo": "Saur - Sojasun",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nicolas Roche",
+            "pais": "Irlanda",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Liquigas - Doimo"
+    },
+    "ganadorMontana": {
+        "nombre": "Moinard Amaël",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit en Ligne"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kreuziger Roman",
+        "pais": "República Checa",
+        "equipo": "Liquigas - Doimo"
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R La Mondiale",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.902
+        },
+        {
+            "etapa": 1,
+            "nombre": "Henderson Gregory",
+            "pais": "Nueva Zelanda",
+            "distancia": 201.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.095
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bonnet William",
+            "pais": "Francia",
+            "distancia": 201.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.48
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.43
+        },
+        {
+            "etapa": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.683
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.971
+        },
+        {
+            "etapa": 6,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.759
+        },
+        {
+            "etapa": 7,
+            "nombre": "Moinard Amaël",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.2056
+        }
+    ]
+}

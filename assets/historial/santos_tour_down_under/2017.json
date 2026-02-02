@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2017,
+    "distancia": 712.0,
+    "desnivel": 8405,
+    "tiempo": "19h 55' 49\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 131,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "equipo": "ORICA-Scott",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "McCarthy Jay",
+            "pais": "Australia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Haas Nathan",
+            "pais": "Australia",
+            "equipo": "Team Dimension Data",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Valls Rafael",
+            "pais": "España",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Restrepo Jhonatan",
+            "pais": "Colombia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 1 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ewan Caleb",
+        "pais": "Australia",
+        "equipo": "ORICA-Scott"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Restrepo Jhonatan",
+        "pais": "Colombia",
+        "equipo": "Team Katusha Alpecin"
+    },
+    "ganadorEquipos": {
+        "nombre": " UniSA-Australia",
+        "pais": "Australia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 118.5,
+            "desnivel": 1311,
+            "velocidadMedia": 34.8
+        },
+        {
+            "etapa": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 148.5,
+            "desnivel": 2498,
+            "velocidadMedia": 39.41
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 144.0,
+            "desnivel": 1387,
+            "velocidadMedia": 42.2
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 149.5,
+            "desnivel": 1854,
+            "velocidadMedia": 39.81
+        },
+        {
+            "etapa": 5,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 151.5,
+            "desnivel": 1355,
+            "velocidadMedia": 41.28
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.2291
+        }
+    ]
+}

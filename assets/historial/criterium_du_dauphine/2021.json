@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2021,
+    "distancia": 1056.9,
+    "desnivel": 17023,
+    "tiempo": "29h 37' 05\"",
+    "ciclistasInscritos": 147,
+    "ciclistasFinalizados": 118,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "equipo": "Astana - Premier Tech",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Astana - Premier Tech",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Colbrelli Sonny",
+        "pais": "Italia",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorMontana": {
+        "nombre": "Padun Mark",
+        "pais": "Ucrania",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorJovenes": {
+        "nombre": "Gaudu David",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Van Moer Brent",
+            "pais": "Bélgica",
+            "distancia": 181.8,
+            "desnivel": 2308,
+            "velocidadMedia": 43.115
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pöstlberger Lukas",
+            "pais": "Austria",
+            "distancia": 172.8,
+            "desnivel": 3224,
+            "velocidadMedia": 39.075
+        },
+        {
+            "etapa": 3,
+            "nombre": "Colbrelli Sonny",
+            "pais": "Italia",
+            "distancia": 172.2,
+            "desnivel": 2096,
+            "velocidadMedia": 43.669
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "distancia": 16.4,
+            "desnivel": 317,
+            "velocidadMedia": 45.556
+        },
+        {
+            "etapa": 5,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 175.4,
+            "desnivel": 2209,
+            "velocidadMedia": 43.443
+        },
+        {
+            "etapa": 6,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 167.2,
+            "desnivel": 2706,
+            "velocidadMedia": 43.077
+        },
+        {
+            "etapa": 7,
+            "nombre": "Padun Mark",
+            "pais": "Ucrania",
+            "distancia": 171.1,
+            "desnivel": 4163,
+            "velocidadMedia": 37.315
+        },
+        {
+            "etapa": 8,
+            "nombre": "Padun Mark",
+            "pais": "Ucrania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6452
+        }
+    ]
+}

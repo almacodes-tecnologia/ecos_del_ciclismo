@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 1996,
+    "distancia": 810.0,
+    "desnivel": 0,
+    "tiempo": "20h 50' 21\"",
+    "ciclistasInscritos": 143,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "equipo": "Saeco - Estro - AS Juvenes San Marino",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hervé Pascal",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gianetti Mauro",
+            "pais": "Suiza",
+            "equipo": "Polti",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Berzin Evgeni",
+            "pais": "Rusia",
+            "equipo": "Gewiss - Playbus",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Montoya Jesús",
+            "pais": "España",
+            "equipo": "Motorola",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Della Santa Stefano",
+            "pais": "Italia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gontchenkov Alexander",
+            "pais": "Ucrania",
+            "equipo": "Roslotto-ZG Mobili",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Domínguez Juan Carlos",
+            "pais": "España",
+            "equipo": "Kelme-Artiach-Costa Blanca",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 1 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Olano Abraham",
+        "pais": "España",
+        "equipo": "Mapei-GB   "
+    },
+    "ganadorMontana": {
+        "nombre": "Frattini Francesco",
+        "pais": "Italia",
+        "equipo": "Gewiss - Playbus"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mapei-GB   ",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zanini Stefano",
+            "pais": "Italia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Frattini Francesco",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Stephens Neil",
+            "pais": "Australia",
+            "distancia": 97.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

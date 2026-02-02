@@ -1,0 +1,159 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1998,
+    "distancia": 1063.2,
+    "desnivel": 0,
+    "tiempo": "28h 08' 56\"",
+    "ciclistasInscritos": 120,
+    "ciclistasFinalizados": 80,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "de Las Cuevas Armand",
+            "pais": "Francia",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Peña Miguel Ángel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Teteriouk Andrei",
+            "pais": "Kazajistán",
+            "equipo": "Lotto - Mobistar",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Baranowski Dariusz",
+            "pais": "Polonia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 2 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 2 min 45 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "GAN",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bourguignon Thierry",
+            "pais": "Francia",
+            "equipo": "BigMat - Auber 93",
+            "ventaja": "+ 4 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Robin Jean-Cyril",
+            "pais": "Francia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 4 min 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Moreau Christophe",
+        "pais": "Francia",
+        "equipo": "Festina - Lotus"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez José María",
+        "pais": "España",
+        "equipo": "Banesto"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 5.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Sciandri Maximilian",
+            "pais": "Reino Unido",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.18
+        },
+        {
+            "etapa": 2,
+            "nombre": "Nazon Damien",
+            "pais": "Francia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 41.2,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sciandri Maximilian",
+            "pais": "Reino Unido",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Peña Miguel Ángel",
+            "pais": "España",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

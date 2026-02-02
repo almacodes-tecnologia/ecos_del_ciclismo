@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2004,
+    "distancia": 645.0,
+    "desnivel": 0,
+    "tiempo": "16h 32' 19\"",
+    "ciclistasInscritos": 94,
+    "ciclistasFinalizados": 80,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "Team UniSA",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "equipo": "Lotto - Domo",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "equipo": "Fdjeux.com",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Fdjeux.com",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Giunti Massimo",
+            "pais": "Italia",
+            "equipo": "Domina Vacanze",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fischer Murilo Antonio",
+            "pais": "Brasil",
+            "equipo": "Domina Vacanze",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Figueras Giuliano",
+            "pais": "Italia",
+            "equipo": "Ceramica Panaria - Margres",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Botcharov Alexandre",
+            "pais": "Rusia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Roberts Luke",
+            "pais": "Australia",
+            "equipo": "Team UniSA",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bates Gene",
+            "pais": "Australia",
+            "equipo": "Team UniSA",
+            "ventaja": "+ 2 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "McEwen Robbie",
+        "pais": "Australia",
+        "equipo": "Lotto - Domo"
+    },
+    "ganadorMontana": {
+        "nombre": "Tiralongo Paolo",
+        "pais": "Italia",
+        "equipo": "Ceramica Panaria - Margres"
+    },
+    "ganadorJovenes": {
+        "nombre": "Gilbert Philippe",
+        "pais": "Bélgica",
+        "equipo": "Fdjeux.com"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team UniSA",
+        "pais": "Australia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 50.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.141
+        },
+        {
+            "etapa": 2,
+            "nombre": "McPartland David",
+            "pais": "Australia",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.204
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.097
+        },
+        {
+            "etapa": 4,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.545
+        },
+        {
+            "etapa": 5,
+            "nombre": "Day Benjamin",
+            "pais": "Australia",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.1
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.8914
+        }
+    ]
+}

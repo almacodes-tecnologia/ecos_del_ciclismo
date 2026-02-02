@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2025,
+    "distancia": 673.1,
+    "desnivel": 12886,
+    "tiempo": "16h 50' 44\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fortunato Lorenzo",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "López Juan Pedro",
+            "pais": "España",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lecerf Junior",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 2 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rondel Mathys",
+            "pais": "Francia",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 2 min 43 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Romo Javier",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vine Jay",
+        "pais": "Australia",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorMontana": {
+        "nombre": "Zwiehoff Ben",
+        "pais": "Alemania",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorJovenes": {
+        "nombre": "Martinez Lenny",
+        "pais": "Francia",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates - XRG",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Watson Samuel",
+            "pais": "Reino Unido",
+            "distancia": 3.44,
+            "desnivel": 42,
+            "velocidadMedia": 45.363
+        },
+        {
+            "etapa": 1,
+            "nombre": "Brennan Matthew",
+            "pais": "Reino Unido",
+            "distancia": 194.3,
+            "desnivel": 3224,
+            "velocidadMedia": 41.262
+        },
+        {
+            "etapa": 2,
+            "nombre": "Fortunato Lorenzo",
+            "pais": "Italia",
+            "distancia": 157.0,
+            "desnivel": 2753,
+            "velocidadMedia": 40.142
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "distancia": 183.1,
+            "desnivel": 2457,
+            "velocidadMedia": 45.102
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "distancia": 118.2,
+            "desnivel": 4182,
+            "velocidadMedia": 31.694
+        },
+        {
+            "etapa": 5,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 17.1,
+            "desnivel": 228,
+            "velocidadMedia": 49.927
+        }
+    ]
+}

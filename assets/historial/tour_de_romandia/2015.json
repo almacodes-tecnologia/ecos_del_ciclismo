@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2015,
+    "distancia": 694.4,
+    "desnivel": 10961,
+    "tiempo": "18h 36' 30\"",
+    "ciclistasInscritos": 144,
+    "ciclistasFinalizados": 124,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Belkov Maxim",
+        "pais": "Rusia",
+        "equipo": "Team Katusha "
+    },
+    "ganadorJovenes": {
+        "nombre": "Pinot Thibaut",
+        "pais": "Francia",
+        "equipo": "FDJ"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 19.2,
+            "desnivel": 117,
+            "velocidadMedia": 54.04
+        },
+        {
+            "etapa": 2,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 166.1,
+            "desnivel": 2603,
+            "velocidadMedia": 38.08
+        },
+        {
+            "etapa": 3,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 173.2,
+            "desnivel": 2337,
+            "velocidadMedia": 40.76
+        },
+        {
+            "etapa": 4,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 169.8,
+            "desnivel": 2216,
+            "velocidadMedia": 37.02
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 166.1,
+            "desnivel": 3688,
+            "velocidadMedia": 35.73
+        },
+        {
+            "etapa": 6,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.2429
+        }
+    ]
+}

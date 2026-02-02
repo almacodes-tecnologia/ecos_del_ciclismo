@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2021,
+    "distancia": 3380.6,
+    "desnivel": 47473,
+    "tiempo": "86h 17' 28\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 143,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 4 min 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "Astana - Premier Tech",
+            "ventaja": "+ 6 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 7 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 7 min 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "Team DSM",
+            "ventaja": "+ 8 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Carthy Hugh",
+            "pais": "Reino Unido",
+            "equipo": "EF Education - Nippo",
+            "ventaja": "+ 8 min 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Foss Tobias",
+            "pais": "Noruega",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 11 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Israel Start-Up Nation",
+            "ventaja": "+ 18 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Bouchard Geoffrey",
+        "pais": "Francia",
+        "equipo": "AG2R Citroën Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernal Egan",
+        "pais": "Colombia",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 8.6,
+            "desnivel": 48,
+            "velocidadMedia": 58.748
+        },
+        {
+            "etapa": 2,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 179.0,
+            "desnivel": 707,
+            "velocidadMedia": 41.126
+        },
+        {
+            "etapa": 3,
+            "nombre": "van der Hoorn Taco",
+            "pais": "Países Bajos",
+            "distancia": 190.0,
+            "desnivel": 1870,
+            "velocidadMedia": 43.597
+        },
+        {
+            "etapa": 4,
+            "nombre": "Dombrowski Joe",
+            "pais": "Estados Unidos",
+            "distancia": 187.0,
+            "desnivel": 3138,
+            "velocidadMedia": 37.571
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 177.0,
+            "desnivel": 363,
+            "velocidadMedia": 42.993
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mäder Gino",
+            "pais": "Suiza",
+            "distancia": 160.0,
+            "desnivel": 3595,
+            "velocidadMedia": 37.229
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 181.0,
+            "desnivel": 1725,
+            "velocidadMedia": 38.483
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lafay Victor",
+            "pais": "Francia",
+            "distancia": 170.0,
+            "desnivel": 3085,
+            "velocidadMedia": 41.332
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "distancia": 158.0,
+            "desnivel": 3503,
+            "velocidadMedia": 38.167
+        },
+        {
+            "etapa": 10,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 139.0,
+            "desnivel": 1460,
+            "velocidadMedia": 43.68
+        },
+        {
+            "etapa": 11,
+            "nombre": "Schmid Mauro",
+            "pais": "Suiza",
+            "distancia": 162.0,
+            "desnivel": 2364,
+            "velocidadMedia": 40.179
+        },
+        {
+            "etapa": 12,
+            "nombre": "Vendrame Andrea",
+            "pais": "Italia",
+            "distancia": 212.0,
+            "desnivel": 4433,
+            "velocidadMedia": 36.998
+        },
+        {
+            "etapa": 13,
+            "nombre": "Nizzolo Giacomo",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 199,
+            "velocidadMedia": 42.08
+        },
+        {
+            "etapa": 14,
+            "nombre": "Fortunato Lorenzo",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 3580,
+            "velocidadMedia": 38.756
+        },
+        {
+            "etapa": 15,
+            "nombre": "Campenaerts Victor",
+            "pais": "Bélgica",
+            "distancia": 147.0,
+            "desnivel": 1682,
+            "velocidadMedia": 42.937
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "distancia": 153.0,
+            "desnivel": 3942,
+            "velocidadMedia": 34.947
+        },
+        {
+            "etapa": 17,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 193.0,
+            "desnivel": 3703,
+            "velocidadMedia": 39.303
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bettiol Alberto",
+            "pais": "Italia",
+            "distancia": 231.0,
+            "desnivel": 1398,
+            "velocidadMedia": 44.04
+        },
+        {
+            "etapa": 19,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 166.0,
+            "desnivel": 2811,
+            "velocidadMedia": 41.002
+        },
+        {
+            "etapa": 20,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 3867,
+            "velocidadMedia": 36.732
+        },
+        {
+            "etapa": 21,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.523
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1966,
+    "distancia": 1476.0,
+    "desnivel": 0,
+    "tiempo": "42h 27' 11\"",
+    "ciclistasInscritos": 38,
+    "ciclistasFinalizados": 35,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Portalupi Ambrogio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chiappano Carlo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zollinger Rudi",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Brand Karl",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 2 min 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zollinger Paul",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ferretti Giancarlo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 5 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Taccone Vito",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 6 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Moser Aldo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 6 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Zollinger Rudi",
+        "pais": "Suiza",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Portalupi Ambrogio",
+            "pais": "Italia",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.93
+        },
+        {
+            "etapa": 2,
+            "nombre": "Chiappano Carlo",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.15
+        },
+        {
+            "etapa": 3,
+            "nombre": "Da Dalt Mario",
+            "pais": "Italia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.75
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "distancia": 253.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.16
+        },
+        {
+            "etapa": 5,
+            "nombre": "Da Dalt Mario",
+            "pais": "Italia",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.71
+        },
+        {
+            "etapa": 6,
+            "nombre": "Taccone Vito",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.9
+        },
+        {
+            "etapa": 7,
+            "nombre": "Weber Werner",
+            "pais": "Suiza",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.79
+        }
+    ]
+}

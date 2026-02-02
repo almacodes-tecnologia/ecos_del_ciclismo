@@ -1,0 +1,314 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1973,
+    "distancia": 4061.2,
+    "desnivel": 59411,
+    "tiempo": "122h 25' 34\"",
+    "ciclistasInscritos": 132,
+    "ciclistasFinalizados": 87,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 15 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 17 min 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gitane - Frigécrème",
+            "ventaja": "+ 26 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Sonolor",
+            "ventaja": "+ 30 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Rokado",
+            "ventaja": "+ 32 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Périn Michel",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 33 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Bic",
+            "ventaja": "+ 35 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 36 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ovion Régis",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 36 min 59 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Springel Herman",
+        "pais": "Bélgica",
+        "equipo": "Rokado"
+    },
+    "ganadorMontana": {
+        "nombre": "Torres Pedro",
+        "pais": "España",
+        "equipo": "La Casera - Peña Bahamontes"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Bic",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 7.1,
+            "desnivel": 65,
+            "velocidadMedia": 42.74
+        },
+        {
+            "etapa": 1,
+            "nombre": "Teirlinck Willy",
+            "pais": "Bélgica",
+            "distancia": 84.0,
+            "desnivel": 332,
+            "velocidadMedia": 46.78
+        },
+        {
+            "etapa": 1,
+            "nombre": "Catieau José",
+            "pais": "Francia",
+            "distancia": 137.5,
+            "desnivel": 405,
+            "velocidadMedia": 38.609
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.4,
+            "desnivel": 71,
+            "velocidadMedia": 10.26
+        },
+        {
+            "etapa": 2,
+            "nombre": "Verstraeten Eddy",
+            "pais": "Bélgica",
+            "distancia": 138.0,
+            "desnivel": 1013,
+            "velocidadMedia": 38.54
+        },
+        {
+            "etapa": 3,
+            "nombre": "Guimard Cyrille",
+            "pais": "Francia",
+            "distancia": 226.0,
+            "desnivel": 1998,
+            "velocidadMedia": 39.66
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 214.0,
+            "desnivel": 1854,
+            "velocidadMedia": 34.73
+        },
+        {
+            "etapa": 5,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 188.0,
+            "desnivel": 2956,
+            "velocidadMedia": 36.12
+        },
+        {
+            "etapa": 6,
+            "nombre": "Danguillaume Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 244.5,
+            "desnivel": 3000,
+            "velocidadMedia": 35.52
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 86.5,
+            "desnivel": 1669,
+            "velocidadMedia": 36.9
+        },
+        {
+            "etapa": 7,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 150.5,
+            "desnivel": 3500,
+            "velocidadMedia": 31.74
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 237.5,
+            "desnivel": 6500,
+            "velocidadMedia": 29.95
+        },
+        {
+            "etapa": 9,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "distancia": 234.5,
+            "desnivel": 6000,
+            "velocidadMedia": 28.11
+        },
+        {
+            "etapa": 10,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "distancia": 222.5,
+            "desnivel": 3000,
+            "velocidadMedia": 30.44
+        },
+        {
+            "etapa": 11,
+            "nombre": "Hoban Barry",
+            "pais": "Reino Unido",
+            "distancia": 238.0,
+            "desnivel": 2329,
+            "velocidadMedia": 30.69
+        },
+        {
+            "etapa": 12,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 28.3,
+            "desnivel": 270,
+            "velocidadMedia": 45.4
+        },
+        {
+            "etapa": 12,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 76.0,
+            "desnivel": 2880,
+            "velocidadMedia": 29.41
+        },
+        {
+            "etapa": 13,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 235.0,
+            "desnivel": 5000,
+            "velocidadMedia": 34.24
+        },
+        {
+            "etapa": 14,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "distancia": 227.5,
+            "desnivel": 4500,
+            "velocidadMedia": 31.69
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 137.0,
+            "desnivel": 1861,
+            "velocidadMedia": 36.6
+        },
+        {
+            "etapa": 16,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 210.0,
+            "desnivel": 1556,
+            "velocidadMedia": 32.83
+        },
+        {
+            "etapa": 16,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "distancia": 12.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.41
+        },
+        {
+            "etapa": 17,
+            "nombre": "Tollet Claude",
+            "pais": "Francia",
+            "distancia": 248.0,
+            "desnivel": 3000,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 18,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 216.5,
+            "desnivel": 4000,
+            "velocidadMedia": 32.77
+        },
+        {
+            "etapa": 19,
+            "nombre": "Hoban Barry",
+            "pais": "Reino Unido",
+            "distancia": 233.5,
+            "desnivel": 1442,
+            "velocidadMedia": 33.4
+        },
+        {
+            "etapa": 20,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 16.0,
+            "desnivel": 210,
+            "velocidadMedia": 45.82
+        },
+        {
+            "etapa": 20,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.5639
+        }
+    ]
+}

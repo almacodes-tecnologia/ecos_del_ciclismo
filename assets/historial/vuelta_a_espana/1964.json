@@ -1,0 +1,247 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1964,
+    "distancia": 2782.0,
+    "desnivel": 0,
+    "tiempo": "78h 23' 35\"",
+    "ciclistasInscritos": 80,
+    "ciclistasFinalizados": 49,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 4 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Momeñe José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 9 min 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 9 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bertran Antonio",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 11 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pérez Francés José",
+        "pais": "España",
+        "equipo": "Ferrys"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez Julio",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.74
+        },
+        {
+            "etapa": 1,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "distancia": 11.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.26
+        },
+        {
+            "etapa": 2,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.3
+        },
+        {
+            "etapa": 3,
+            "nombre": "Melckenbeeck Frans",
+            "pais": "Bélgica",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.04
+        },
+        {
+            "etapa": 4,
+            "nombre": "Desmet Armand",
+            "pais": "Bélgica",
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.48
+        },
+        {
+            "etapa": 4,
+            "nombre": "Barrutia Antonio",
+            "pais": "España",
+            "distancia": 49.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.7
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.79
+        },
+        {
+            "etapa": 6,
+            "nombre": "Melckenbeeck Frans",
+            "pais": "Bélgica",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.33
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.511
+        },
+        {
+            "etapa": 8,
+            "nombre": "Stolker Michel",
+            "pais": "Países Bajos",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.68
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 10,
+            "nombre": "De Wolf Henri",
+            "pais": "Bélgica",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.58
+        },
+        {
+            "etapa": 11,
+            "nombre": "Van Schil Victor",
+            "pais": "Bélgica",
+            "distancia": 107.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.72
+        },
+        {
+            "etapa": 12,
+            "nombre": "Hoban Barry",
+            "pais": "Reino Unido",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.61
+        },
+        {
+            "etapa": 13,
+            "nombre": "Hoban Barry",
+            "pais": "Reino Unido",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.16
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.55
+        },
+        {
+            "etapa": 15,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 65.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.87
+        },
+        {
+            "etapa": 16,
+            "nombre": "Barrutia Antonio",
+            "pais": "España",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.76
+        },
+        {
+            "etapa": 17,
+            "nombre": "Melckenbeeck Frans",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.3557
+        }
+    ]
+}

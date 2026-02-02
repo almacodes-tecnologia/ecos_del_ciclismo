@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2003,
+    "distancia": 759.9,
+    "desnivel": 0,
+    "tiempo": "22h 15' 13\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 88,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pecharromán José Antonio",
+            "pais": "España",
+            "equipo": "Paternina - Costa de Almería",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gil Koldo",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Casero Rafael",
+            "pais": "España",
+            "equipo": "Paternina - Costa de Almería",
+            "ventaja": "+ 4 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 4 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Noval Benjamín",
+            "pais": "España",
+            "equipo": "Relax - Fuenlabrada",
+            "ventaja": "+ 4 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Trentin Guido",
+            "pais": "Italia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 4 min 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Blanco Santiago",
+            "pais": "España",
+            "equipo": "Relax - Fuenlabrada",
+            "ventaja": "+ 5 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Atienza Daniel",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 5 min 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Petrov Evgeni",
+            "pais": "Rusia",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 5 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vicioso Ángel",
+        "pais": "España",
+        "equipo": "O.N.C.E. - Eroski"
+    },
+    "ganadorMontana": {
+        "nombre": "Rasmussen Michael",
+        "pais": "Dinamarca",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Paternina - Costa de Almería",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 22.9,
+            "desnivel": 0,
+            "velocidadMedia": 53.81
+        },
+        {
+            "etapa": 2,
+            "nombre": "de Groot Bram",
+            "pais": "Países Bajos",
+            "distancia": 183.6,
+            "desnivel": 0,
+            "velocidadMedia": 42.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kintana Aitor",
+            "pais": "España",
+            "distancia": 216.6,
+            "desnivel": 0,
+            "velocidadMedia": 37.05
+        },
+        {
+            "etapa": 4,
+            "nombre": "Manzano Jesus Maria",
+            "pais": "España",
+            "distancia": 157.4,
+            "desnivel": 0,
+            "velocidadMedia": 36.62
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 166.3,
+            "desnivel": 0,
+            "velocidadMedia": 44.03
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pecharromán José Antonio",
+            "pais": "España",
+            "distancia": 13.1,
+            "desnivel": 0,
+            "velocidadMedia": 36.03
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vicioso Ángel",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.8972
+        }
+    ]
+}

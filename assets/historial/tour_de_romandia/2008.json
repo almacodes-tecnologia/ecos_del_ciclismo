@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2008,
+    "distancia": 488.0,
+    "desnivel": 0,
+    "tiempo": "16h 43' 20\"",
+    "ciclistasInscritos": 150,
+    "ciclistasFinalizados": 121,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pinotti Marco",
+            "pais": "Italia",
+            "equipo": "Team High Road",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Astarloza Mikel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gadret John",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Iglinskiy Maxim",
+            "pais": "Kazajistán",
+            "equipo": "Astana",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Scott",
+            "ventaja": "+ 1 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennati Daniele",
+        "pais": "Italia",
+        "equipo": "Liquigas"
+    },
+    "ganadorMontana": {
+        "nombre": "de Bonis Francesco",
+        "pais": "Italia",
+        "equipo": "Gerolsteiner"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 1.9,
+            "desnivel": 0,
+            "velocidadMedia": 53.86
+        },
+        {
+            "etapa": 1,
+            "nombre": "Iglinskiy Maxim",
+            "pais": "Kazajistán",
+            "distancia": 182.8,
+            "desnivel": 0,
+            "velocidadMedia": 38.15
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 172.1,
+            "desnivel": 0,
+            "velocidadMedia": 40.29
+        },
+        {
+            "etapa": 3,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "distancia": 18.8,
+            "desnivel": 0,
+            "velocidadMedia": 44.18
+        },
+        {
+            "etapa": 4,
+            "nombre": "de Bonis Francesco",
+            "pais": "Italia",
+            "distancia": 112.4,
+            "desnivel": 0,
+            "velocidadMedia": 32.41
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.715
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2023,
+    "distancia": 1000.0,
+    "desnivel": 18324,
+    "tiempo": "24h 45' 24\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 102,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Knox James",
+            "pais": "Reino Unido",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 1 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vingegaard Jonas",
+        "pais": "Dinamarca",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Barrenetxea Jon",
+        "pais": "España",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {
+        "nombre": "McNulty Brandon",
+        "pais": "Estados Unidos",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Soudal Quick-Step",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hayter Ethan",
+            "pais": "Reino Unido",
+            "distancia": 165.4,
+            "desnivel": 2514,
+            "velocidadMedia": 41.11
+        },
+        {
+            "etapa": 2,
+            "nombre": "Schelling Ide",
+            "pais": "Países Bajos",
+            "distancia": 193.8,
+            "desnivel": 3261,
+            "velocidadMedia": 39.612
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 162.8,
+            "desnivel": 2799,
+            "velocidadMedia": 42.109
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 175.7,
+            "desnivel": 3091,
+            "velocidadMedia": 40.17
+        },
+        {
+            "etapa": 5,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "distancia": 164.5,
+            "desnivel": 3187,
+            "velocidadMedia": 41.134
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 137.8,
+            "desnivel": 3472,
+            "velocidadMedia": 38.154
+        }
+    ]
+}

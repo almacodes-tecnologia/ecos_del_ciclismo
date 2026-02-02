@@ -1,0 +1,278 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1993,
+    "distancia": 3537.0,
+    "desnivel": 1410,
+    "tiempo": "98h 09' 44\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 132,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "equipo": "Mecair-Ballan",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 5 min 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lelli Massimiliano",
+            "pais": "Italia",
+            "equipo": "Ariostea",
+            "ventaja": "+ 6 min 9 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Lampre-Polti",
+            "ventaja": "+ 7 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "equipo": "Mecair-Ballan",
+            "ventaja": "+ 9 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pulnikov Vladimir",
+            "pais": "Ucrania",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 11 min 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "equipo": "Lampre-Polti",
+            "ventaja": "+ 12 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 13 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "equipo": "GB-MG Maglificio",
+            "ventaja": "+ 13 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Baffi Adriano",
+        "pais": "Italia",
+        "equipo": "Mercatone Uno - Mendeghini - Zucchini"
+    },
+    "ganadorMontana": {
+        "nombre": "Chiappucci Claudio",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Tassoni"
+    },
+    "ganadorJovenes": {
+        "nombre": "Tonkov Pavel",
+        "pais": "Rusia",
+        "equipo": "Lampre-Polti"
+    },
+    "ganadorEquipos": {
+        "nombre": " Lampre-Polti",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 85.0,
+            "desnivel": 1410,
+            "velocidadMedia": 41.531
+        },
+        {
+            "etapa": 1,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "distancia": 9.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.784
+        },
+        {
+            "etapa": 2,
+            "nombre": "Baffi Adriano",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.084
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.35
+        },
+        {
+            "etapa": 4,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.458
+        },
+        {
+            "etapa": 5,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.535
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 130.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.771
+        },
+        {
+            "etapa": 7,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.961
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.27
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.85
+        },
+        {
+            "etapa": 10,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 28.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.637
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.84
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.76
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.84
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.84
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 263.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.7
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.57
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.46
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.55
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 55.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.2
+        },
+        {
+            "etapa": 20,
+            "nombre": null,
+            "pais": null,
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.63
+        },
+        {
+            "etapa": 21,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 55.7594
+        }
+    ]
+}

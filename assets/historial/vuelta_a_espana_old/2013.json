@@ -1,0 +1,203 @@
+{
+  "idCarrera": "vuelta_a_espana",
+  "anio": 2013,
+  "distancia": 3319.1,
+  "desnivel": 0,
+  "tiempo": "84h 36' 04\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 144,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Chris Horner",
+      "pais": "Estados Unidos",
+      "equipo": "RadioShack-Leopard",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia",
+      "equipo": "Astana Pro Team",
+      "ventaja": "+37 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+1 min 36 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España",
+      "equipo": "Katusha Team",
+      "ventaja": "+3 min 22 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Nicolas Roche",
+      "pais": "Irlanda",
+      "equipo": "Team Saxo - Tinkoff",
+      "ventaja": "+7 min 11 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Domenico Pozzovivo",
+      "pais": "Italia",
+      "equipo": "AG2R La Mondiale",
+      "ventaja": "+8 min 00 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Thibaut Pinot",
+      "pais": "Francia",
+      "equipo": "FDJ.fr",
+      "ventaja": "+8 min 41 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Samuel Sánchez",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+9 min 51 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Leopold König",
+      "pais": "República Checa",
+      "equipo": "Team NetApp - Endura",
+      "ventaja": "+10 min 11 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Daniel Moreno",
+      "pais": "España",
+      "equipo": "Katusha Team",
+      "ventaja": "+13 min 11 s"
+    }
+  ],
+  "ganadorMontana": {
+    "nombre": "Nicolas Edet",
+    "pais": "Francia",
+    "equipo": "Cofidis"
+  },
+  "ganadorPuntos": {
+    "nombre": "Alejandro Valverde",
+    "pais": "España",
+    "equipo": "Movistar Team"
+  },
+  "ganadorEquipos": {
+    "nombre": "Euskaltel Euskadi",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Astana Pro Team",
+      "pais": "Kazajistán",
+      "equipo": "Astana Pro Team"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Nicolas Roche",
+      "pais": "Irlanda"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Chris Horner",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Daniel Moreno",
+      "pais": "España"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Michael Matthews",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Michael Mørkøv",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Zdeněk Štybar",
+      "pais": "República Checa"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Leopold König",
+      "pais": "República Checa"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Daniel Moreno",
+      "pais": "España"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Chris Horner",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Philippe Gilbert",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Warren Barguil",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Daniele Ratto",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Alexandre Geniez",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Warren Barguil",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Bauke Mollema",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Vasil Kiryienka",
+      "pais": "Bielorrusia"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Kenny Elissonde",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Michael Matthews",
+      "pais": "Australia"
+    }
+  ]
+}

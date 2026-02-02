@@ -1,0 +1,259 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1936,
+    "distancia": 4114.0,
+    "desnivel": 0,
+    "tiempo": "150h 07' 54\"",
+    "ciclistasInscritos": 50,
+    "ciclistasFinalizados": 26,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Deloor Alfons",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 11 min 39 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bertola Antonio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 17 min 54 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Berrendero Julián",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 23 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Escuriet Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 28 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ramos Rafael",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 49 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Schepers Alfons",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 58 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Álvarez Emiliano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 5 min 47 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Trueba Fermín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 7 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 18 min 5 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Molina Salvador",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Huts Joseph",
+            "pais": "Bélgica",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.94
+        },
+        {
+            "etapa": 2,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.03
+        },
+        {
+            "etapa": 3,
+            "nombre": "Carretero Vicente",
+            "pais": "España",
+            "distancia": 270.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.38
+        },
+        {
+            "etapa": 4,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.76
+        },
+        {
+            "etapa": 5,
+            "nombre": "Carretero Vicente",
+            "pais": "España",
+            "distancia": 132.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.22
+        },
+        {
+            "etapa": 6,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.56
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 306.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.06
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bertola Antonio",
+            "pais": "Italia",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.36
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "distancia": 279.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.92
+        },
+        {
+            "etapa": 10,
+            "nombre": "Carretero Vicente",
+            "pais": "España",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.23
+        },
+        {
+            "etapa": 11,
+            "nombre": "Schepers Alfons",
+            "pais": "Bélgica",
+            "distancia": 293.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.03
+        },
+        {
+            "etapa": 12,
+            "nombre": "Schepers Alfons",
+            "pais": "Bélgica",
+            "distancia": 265.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.74
+        },
+        {
+            "etapa": 13,
+            "nombre": "Carretero Vicente",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.72
+        },
+        {
+            "etapa": 14,
+            "nombre": "Deloor Alfons",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.61
+        },
+        {
+            "etapa": 15,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.09
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ramos Rafael",
+            "pais": "España",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.56
+        },
+        {
+            "etapa": 17,
+            "nombre": "Schepers Alfons",
+            "pais": "Bélgica",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.01
+        },
+        {
+            "etapa": 18,
+            "nombre": "Carretero Vicente",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.38
+        },
+        {
+            "etapa": 19,
+            "nombre": "Trueba Fermín",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.19
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bertola Antonio",
+            "pais": "Italia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.86
+        },
+        {
+            "etapa": 21,
+            "nombre": "Álvarez Emiliano",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.0605
+        }
+    ]
+}

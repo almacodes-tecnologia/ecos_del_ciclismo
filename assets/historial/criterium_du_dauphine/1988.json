@@ -1,0 +1,151 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1988,
+    "distancia": 1020.1,
+    "desnivel": 0,
+    "tiempo": "28h 46' 27\"",
+    "ciclistasInscritos": 52,
+    "ciclistasFinalizados": 48,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "equipo": "Weinmann - La Suisse",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sánchez Mariano",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 4 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "+ 4 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Caritoux Éric",
+            "pais": "Francia",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "+ 5 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sanders Gilles",
+            "pais": "Francia",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Madiot Yvon",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 6 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Simon Pascal",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 8 min 5 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "distancia": 108.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.347
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bauer Steve",
+            "pais": "Canadá",
+            "distancia": 93.2,
+            "desnivel": 0,
+            "velocidadMedia": 38.788
+        },
+        {
+            "etapa": 2,
+            "nombre": "Manin Christophe",
+            "pais": "Francia",
+            "distancia": 181.4,
+            "desnivel": 0,
+            "velocidadMedia": 39.569
+        },
+        {
+            "etapa": 3,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 178.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "distancia": 195.8,
+            "desnivel": 0,
+            "velocidadMedia": 35.368
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.877
+        },
+        {
+            "etapa": 6,
+            "nombre": "Maassen Frans",
+            "pais": "Países Bajos",
+            "distancia": 82.5,
+            "desnivel": 0,
+            "velocidadMedia": 44.528
+        },
+        {
+            "etapa": 6,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "distancia": 26.7,
+            "desnivel": 0,
+            "velocidadMedia": 28.421
+        }
+    ]
+}

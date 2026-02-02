@@ -1,0 +1,247 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1956,
+    "distancia": 3477.0,
+    "desnivel": 0,
+    "tiempo": "105h 37' 52\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 40,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Conterno Angelo",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Impanis Raymond",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 3 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 7 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chacón Miguel",
+            "pais": "España",
+            "equipo": "Pyrenees",
+            "ventaja": "+ 8 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 19 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Robinson Brian",
+            "pais": "Reino Unido",
+            "equipo": "Switzerland/Mixed",
+            "ventaja": "+ 20 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Serra José",
+            "pais": "España",
+            "equipo": "Pyrenees",
+            "ventaja": "+ 23 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rodríguez Manuel",
+            "pais": "España",
+            "equipo": "Cantabria",
+            "ventaja": "+ 24 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Steenbergen Rik",
+        "pais": "Bélgica",
+        "equipo": "Belgium"
+    },
+    "ganadorMontana": {
+        "nombre": "Defilippis Nino",
+        "pais": "Italia",
+        "equipo": "Italy"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.057
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.106
+        },
+        {
+            "etapa": 3,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.454
+        },
+        {
+            "etapa": 4,
+            "nombre": "Le Ber Claude",
+            "pais": "Francia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.476
+        },
+        {
+            "etapa": 5,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 241.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.698
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.693
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.564
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.812
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 124.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.41
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.87
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.066
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.723
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 274.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.454
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 43.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.652
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 111.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.773
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.304
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.581
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.889
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.212
+        }
+    ]
+}

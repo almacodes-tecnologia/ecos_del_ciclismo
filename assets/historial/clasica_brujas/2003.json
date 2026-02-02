@@ -1,0 +1,134 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2003,
+    "distancia": 534.0,
+    "desnivel": 0,
+    "tiempo": "13h 44' 53\"",
+    "ciclistasInscritos": 183,
+    "ciclistasFinalizados": 77,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Belohvoščiks Raivis",
+            "pais": "Letonia",
+            "equipo": "Marlux-Wincor Nixdorf",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bortolami Gianluca",
+            "pais": "Italia",
+            "equipo": "Vini Caldirola - So.di",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Petegem Peter",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Domo",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pollack Olaf",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mattan Nico",
+            "pais": "Bélgica",
+            "equipo": "Cofidis",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mengin Christophe",
+            "pais": "Francia",
+            "equipo": "Fdjeux.com",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "equipo": "De Nardi - Colpack",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wauters Marc",
+            "pais": "Bélgica",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Baldato Fabio",
+        "pais": "Italia",
+        "equipo": "Alessio"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Dyck Hendrik",
+        "pais": "Bélgica",
+        "equipo": "Palmans - Collstrop"
+    },
+    "ganadorJovenes": {
+        "nombre": "Cancellara Fabian",
+        "pais": "Suiza",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorEquipos": {
+        "nombre": " Rabobank ProTeam",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bortolami Gianluca",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.56
+        },
+        {
+            "etapa": 2,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.1
+        },
+        {
+            "etapa": 3,
+            "nombre": "de Jongh Steven",
+            "pais": "Países Bajos",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.42
+        },
+        {
+            "etapa": 3,
+            "nombre": "Belohvoščiks Raivis",
+            "pais": "Letonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.848
+        }
+    ]
+}

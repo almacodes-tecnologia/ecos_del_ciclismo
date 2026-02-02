@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2014,
+    "distancia": 3283.7,
+    "desnivel": 43798,
+    "tiempo": "88h 14' 32\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 156,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rolland Pierre",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 5 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 6 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 7 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 11 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 11 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 13 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kišerlovski Robert",
+            "pais": "Croacia",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 15 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bouhanni Nacer",
+        "pais": "Francia",
+        "equipo": "FDJ.fr "
+    },
+    "ganadorMontana": {
+        "nombre": "Arredondo Julián David",
+        "pais": "Colombia",
+        "equipo": "Trek Factory Racing "
+    },
+    "ganadorJovenes": {
+        "nombre": "Quintana Nairo",
+        "pais": "Colombia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R La Mondiale",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.7,
+            "desnivel": 119,
+            "velocidadMedia": 52.713
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 219.0,
+            "desnivel": 1349,
+            "velocidadMedia": 41.95
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 187.0,
+            "desnivel": 1243,
+            "velocidadMedia": 41.75
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 112.0,
+            "desnivel": 309,
+            "velocidadMedia": 47.29
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "distancia": 203.0,
+            "desnivel": 2413,
+            "velocidadMedia": 38.96
+        },
+        {
+            "etapa": 6,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 257.0,
+            "desnivel": 1997,
+            "velocidadMedia": 38.84
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 211.0,
+            "desnivel": 2645,
+            "velocidadMedia": 40.05
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 3515,
+            "velocidadMedia": 37.32
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 172.0,
+            "desnivel": 2409,
+            "velocidadMedia": 38.82
+        },
+        {
+            "etapa": 10,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 173.0,
+            "desnivel": 403,
+            "velocidadMedia": 43.03
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 249.0,
+            "desnivel": 3435,
+            "velocidadMedia": 42.92
+        },
+        {
+            "etapa": 12,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "distancia": 42.2,
+            "desnivel": 654,
+            "velocidadMedia": 43.98
+        },
+        {
+            "etapa": 13,
+            "nombre": "Canola Marco",
+            "pais": "Italia",
+            "distancia": 157.0,
+            "desnivel": 780,
+            "velocidadMedia": 43.34
+        },
+        {
+            "etapa": 14,
+            "nombre": "Battaglin Enrico",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 3691,
+            "velocidadMedia": 35.82
+        },
+        {
+            "etapa": 15,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 2344,
+            "velocidadMedia": 40.53
+        },
+        {
+            "etapa": 16,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 139.0,
+            "desnivel": 4545,
+            "velocidadMedia": 29.51
+        },
+        {
+            "etapa": 17,
+            "nombre": "Pirazzi Stefano",
+            "pais": "Italia",
+            "distancia": 208.0,
+            "desnivel": 1823,
+            "velocidadMedia": 44.86
+        },
+        {
+            "etapa": 18,
+            "nombre": "Arredondo Julián David",
+            "pais": "Colombia",
+            "distancia": 171.0,
+            "desnivel": 4295,
+            "velocidadMedia": 35.4
+        },
+        {
+            "etapa": 19,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 26.8,
+            "desnivel": 1679,
+            "velocidadMedia": 24.51
+        },
+        {
+            "etapa": 20,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "distancia": 167.0,
+            "desnivel": 4150,
+            "velocidadMedia": 35.54
+        },
+        {
+            "etapa": 21,
+            "nombre": "Mezgec Luka",
+            "pais": "Eslovenia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.1598
+        }
+    ]
+}

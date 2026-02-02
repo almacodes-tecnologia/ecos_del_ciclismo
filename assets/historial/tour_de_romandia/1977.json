@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1977,
+    "distancia": 635.0,
+    "desnivel": 0,
+    "tiempo": "21h 02' 21\"",
+    "ciclistasInscritos": 29,
+    "ciclistasFinalizados": 59,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 2 min 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Bianchi - Campagnolo",
+            "ventaja": "+ 3 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Fiat France",
+            "ventaja": "+ 4 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Lejeune - BP",
+            "ventaja": "+ 4 min 45 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 4 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Flandria Velda",
+            "ventaja": "+ 4 min 53 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 2.55,
+            "desnivel": 0,
+            "velocidadMedia": 33.87
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 168.8,
+            "desnivel": 0,
+            "velocidadMedia": 39.43
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.1,
+            "desnivel": 0,
+            "velocidadMedia": 32.66
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dillen René",
+            "pais": "Bélgica",
+            "distancia": 165.4,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "distancia": 94.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 22.9,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Delcroix Ludo",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

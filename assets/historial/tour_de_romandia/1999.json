@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1999,
+    "distancia": 763.7,
+    "desnivel": 0,
+    "tiempo": "19h 23' 31\"",
+    "ciclistasInscritos": 134,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zberg Beat",
+            "pais": "Suiza",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Saeco - Cannondale",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Camenzind Oscar",
+            "pais": "Suiza",
+            "equipo": "Lampre - Daikin - Colnago",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "Banesto",
+            "ventaja": "+ 2 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 3 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Missaglia Gabriele",
+            "pais": "Italia",
+            "equipo": "Lampre - Daikin - Colnago",
+            "ventaja": "+ 4 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E. - Deutsche Bank"
+    },
+    "ganadorMontana": {
+        "nombre": "González José Jaime",
+        "pais": "Colombia",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Lampre - Daikin - Colnago",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 4.9,
+            "desnivel": 0,
+            "velocidadMedia": 51.28
+        },
+        {
+            "etapa": 1,
+            "nombre": "Figueras Giuliano",
+            "pais": "Italia",
+            "distancia": 165.4,
+            "desnivel": 0,
+            "velocidadMedia": 38.42
+        },
+        {
+            "etapa": 2,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 171.3,
+            "desnivel": 0,
+            "velocidadMedia": 38.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 66.6,
+            "desnivel": 0,
+            "velocidadMedia": 44.89
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 18.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.54
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "distancia": 156.8,
+            "desnivel": 0,
+            "velocidadMedia": 36.96
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 180.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.26
+        }
+    ]
+}

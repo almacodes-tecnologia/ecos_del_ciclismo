@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2014,
+    "distancia": 1318.5,
+    "desnivel": 15937,
+    "tiempo": "35h 11' 45\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 124,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Betancur Carlos",
+            "pais": "Colombia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vichot Arthur",
+            "pais": "Francia",
+            "equipo": "FDJ.fr ",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rojas José Joaquín",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gautier Cyril",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Denifl Stefan",
+            "pais": "Austria",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Velits Peter",
+            "pais": "Eslovaquia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "equipo": "Lotto Belisol ",
+            "ventaja": "+ 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Degenkolb John",
+        "pais": "Alemania",
+        "equipo": "Team Giant - Shimano"
+    },
+    "ganadorMontana": {
+        "nombre": "Ligthart Pim",
+        "pais": "Países Bajos",
+        "equipo": "Lotto Belisol "
+    },
+    "ganadorJovenes": {
+        "nombre": "Betancur Carlos",
+        "pais": "Colombia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 162.5,
+            "desnivel": 1235,
+            "velocidadMedia": 41.81
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hofland Moreno",
+            "pais": "Países Bajos",
+            "distancia": 205.0,
+            "desnivel": 1515,
+            "velocidadMedia": 41.87
+        },
+        {
+            "etapa": 3,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 180.0,
+            "desnivel": 2011,
+            "velocidadMedia": 40.38
+        },
+        {
+            "etapa": 4,
+            "nombre": "Slagter Tom-Jelte",
+            "pais": "Países Bajos",
+            "distancia": 201.5,
+            "desnivel": 2070,
+            "velocidadMedia": 40.28
+        },
+        {
+            "etapa": 5,
+            "nombre": "Betancur Carlos",
+            "pais": "Colombia",
+            "distancia": 152.5,
+            "desnivel": 2389,
+            "velocidadMedia": 41.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Betancur Carlos",
+            "pais": "Colombia",
+            "distancia": 221.5,
+            "desnivel": 2789,
+            "velocidadMedia": 42.57
+        },
+        {
+            "etapa": 7,
+            "nombre": "Slagter Tom-Jelte",
+            "pais": "Países Bajos",
+            "distancia": 195.5,
+            "desnivel": 3928,
+            "velocidadMedia": 39.09
+        },
+        {
+            "etapa": 8,
+            "nombre": "Vichot Arthur",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.0908
+        }
+    ]
+}

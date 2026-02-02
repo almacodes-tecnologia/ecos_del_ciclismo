@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2025,
+    "distancia": 1092.5,
+    "desnivel": 16035,
+    "tiempo": "24h 46' 21\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 122,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "De Plus Laurens",
+            "pais": "Bélgica",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Eetvelt Lennert",
+            "pais": "Bélgica",
+            "equipo": "Lotto",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 1 min 59 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ayuso Juan",
+        "pais": "España",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Brennan Matthew",
+            "pais": "Reino Unido",
+            "distancia": 178.6,
+            "desnivel": 2632,
+            "velocidadMedia": 40.395
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vernon Ethan",
+            "pais": "Reino Unido",
+            "distancia": 180.5,
+            "desnivel": 1808,
+            "velocidadMedia": 42.261
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 218.6,
+            "desnivel": 4796,
+            "velocidadMedia": 37.53
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 188.7,
+            "desnivel": 2988,
+            "velocidadMedia": 42.865
+        },
+        {
+            "etapa": 5,
+            "nombre": "Brennan Matthew",
+            "pais": "Reino Unido",
+            "distancia": 165.9,
+            "desnivel": 1105,
+            "velocidadMedia": 47.802
+        },
+        {
+            "etapa": 6,
+            "nombre": "Simmons Quinn",
+            "pais": "Estados Unidos",
+            "distancia": 72.0,
+            "desnivel": 1143,
+            "velocidadMedia": 47.872
+        },
+        {
+            "etapa": 7,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 88.2,
+            "desnivel": 1563,
+            "velocidadMedia": 44.677
+        }
+    ]
+}

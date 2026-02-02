@@ -1,0 +1,338 @@
+[
+  {
+    "id": "tour_de_francia",
+    "nombre": "Tour de Francia",
+    "pais": "Francia",
+    "categoria": "World Tour",
+    "tipo": "Gran Vuelta",
+    "imagen": "assets/imagenes/tour_de_francia.webp"
+  },
+  {
+    "id": "giro_de_italia",
+    "nombre": "Giro de Italia",
+    "pais": "Italia",
+    "categoria": "World Tour",
+    "tipo": "Gran Vuelta",
+    "imagen": "assets/imagenes/giro_de_italia.webp"
+  },
+  {
+    "id": "vuelta_a_espana",
+    "nombre": "Vuelta a España",
+    "pais": "España",
+    "categoria": "World Tour",
+    "tipo": "Gran Vuelta",
+    "imagen": "assets/imagenes/vuelta_a_espana.webp"
+  },
+  {
+    "id": "milan_san_remo",
+    "nombre": "Milán-San Remo",
+    "pais": "Italia",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/milan_san_remo.webp"
+  },
+  {
+    "id": "tour_de_flandes",
+    "nombre": "Tour de Flandes",
+    "pais": "Bélgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/tour_de_flandes.webp"
+  },
+  {
+    "id": "paris_roubaix",
+    "nombre": "París-Roubaix",
+    "pais": "Francia",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/paris_roubaix.webp"
+  },
+  {
+    "id": "lieja_bastona_lieja",
+    "nombre": "Lieja-Bastoña-Lieja",
+    "pais": "Bélgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/lieja.webp"
+  },
+  {
+    "id": "giro_de_lombardia",
+    "nombre": "Giro de Lombardía",
+    "pais": "Italia",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/giro_de_lombardia.webp"
+  },
+  {
+    "id": "criterium_du_dauphine",
+    "nombre": "Critérium du Dauphiné",
+    "pais": "Francia",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/criterium_du_dauphine.webp"
+  },
+  {
+    "id": "tour_de_suiza",
+    "nombre": "Tour de Suiza",
+    "pais": "Suiza",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/tour_de_suiza.webp"
+  },
+  {
+    "id": "paris_niza",
+    "nombre": "París-Niza",
+    "pais": "Francia",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/paris_niza.webp"
+  },
+  {
+    "id": "clasica_san_sebastian",
+    "nombre": "Clásica de San Sebastián",
+    "pais": "España",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/clasica_san_sebastian.webp"
+  },
+  {
+    "id": "amstel_gold_race",
+    "nombre": "Amstel Gold Race",
+    "pais": "Países Bajos",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/amstel_gold_race.webp"
+  },
+  {
+    "id": "uae_tour",
+    "nombre": "UAE Tour",
+    "pais": "Emiratos Árabes Unidos",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/uae_tour.webp"
+  },
+  {
+    "id": "santos_tour_down_under",
+    "nombre": "Santos Tour Down Under",
+    "pais": "Australia",
+    "categoria": "World Tour",
+    "tipo": "Carrera por etapas",
+    "imagen": "assets/imagenes/santos_tour_down_under.webp"
+  },
+  {
+    "id": "gp_montreal",
+    "nombre": "GP de Montreal",
+    "pais": "Canadá",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/gp_montreal.webp"
+  },
+  {
+    "id": "gp_quebec",
+    "nombre": "GP de Quebec",
+    "pais": "Canadá",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/gp_quebec.webp"
+  },
+  {
+    "id": "tour_de_polonia",
+    "nombre": "Tour de Polonia",
+    "pais": "Polonia",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/tour_de_polonia.webp"
+  },
+  {
+    "id": "tour_de_guangxi",
+    "nombre": "Tour de Guangxi",
+    "pais": "China",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/tour_guangxi.webp"
+  },
+  {
+    "id": "clasica_hamburgo",
+    "nombre": "Clásica de Hamburgo",
+    "pais": "Alemania",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/clasica_hamburgo.webp"
+  },
+  {
+    "id": "a_traves_flandes",
+    "nombre": "A Través de Flandes",
+    "pais": "Bélgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/a_traves_flandes.webp"
+  },
+  {
+    "id": "cadel_evans_great_ocean",
+    "nombre": "Cadel Evans Great Ocean Road Race",
+    "pais": "Australia",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/cadel_evans_great_ocean.webp"
+  },
+  {
+    "id": "mundial_ciclismo_ruta",
+    "nombre": "Mundial de Ciclismo en Ruta",
+    "pais": "Internacional",
+    "categoria": "Campeonato Mundial",
+    "tipo": "Prueba de un día",
+    "imagen": "assets/imagenes/mundial_ciclismo_ruta.webp"
+  },
+  {
+    "id": "mundial_ciclismo_contrarreloj",
+    "nombre": "Mundial de Ciclismo Contrarreloj",
+    "pais": "Internacional",
+    "categoria": "Campeonato Mundial",
+    "tipo": "Contrarreloj",
+    "imagen": "assets/imagenes/mundial_ciclismo_contrarreloj.webp"
+  },
+  {
+    "id": "europeo_ciclismo_ruta",
+    "nombre": "Europeo de Ciclismo en Ruta",
+    "pais": "Internacional",
+    "categoria": "Campeonato Europeo",
+    "tipo": "Prueba de un día",
+    "imagen": "assets/imagenes/europeo_ciclismo_ruta.webp"
+  },
+  {
+    "id": "europeo_ciclismo_contrarreloj",
+    "nombre": "Europeo de Ciclismo Contrarreloj",
+    "pais": "Internacional",
+    "categoria": "Campeonato Europeo",
+    "tipo": "Contrarreloj",
+    "imagen": "assets/imagenes/europeo_ciclismo_contrarreloj.webp"
+  },
+  {
+    "id": "jjoo_ciclismo_ruta",
+    "nombre": "JJOO de Ciclismo en Ruta",
+    "pais": "Internacional",
+    "categoria": "Juegos Olímpicos",
+    "tipo": "Prueba de un día",
+    "imagen": "assets/imagenes/jjoo_ciclismo_ruta.webp"
+  },
+  {
+    "id": "jjoo_ciclismo_contrarreloj",
+    "nombre": "JJOO de Ciclismo Contrarreloj",
+    "pais": "Internacional",
+    "categoria": "Juegos Olímpicos",
+    "tipo": "Contrarreloj",
+    "imagen": "assets/imagenes/jjoo_ciclismo_contrarreloj.webp"
+  },
+  {
+    "id": "strade_bianche",
+    "nombre": "Strade Bianche",
+    "pais": "Italia",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/strade_bianche.webp"
+  },
+  {
+    "id": "vuelta_al_pais_vasco",
+    "nombre": "Vuelta al País Vasco",
+    "pais": "España",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/vuelta_al_pais_vasco.webp"
+  },
+  {
+    "id": "flecha_valona",
+    "nombre": "Flecha Valona",
+    "pais": "Belgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/flecha_valona.webp"
+  },
+  {
+    "id": "tour_de_romandia",
+    "nombre": "Tour de Romandía",
+    "pais": "Suiza",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/tour_de_romandia.webp"
+  },
+  {
+    "id": "tirreno_adriatico",
+    "nombre": "Tirreno Adriatico",
+    "pais": "Italia",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/tirreno_adriatico.webp"
+  },
+  {
+    "id": "volta_a_catalunya",
+    "nombre": "Volta a Catalunya",
+    "pais": "España",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/volta_a_catalunya.webp"
+  },
+  {
+    "id": "gran_premio_de_francfort",
+    "nombre": "Gran Premio de Fráncfort",
+    "pais": "Alemania",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/gran_premio_de_francfort.webp"
+  },
+  {
+    "id": "omloop_het_nieuwsblad",
+    "nombre": "Omloop Het Nieuwsblad",
+    "pais": "Belgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/omloop_het_nieuwsblad.webp"
+  },
+  {
+    "id": "clasica_brujas",
+    "nombre": "Clásica Brujas-La Panne",
+    "pais": "Belgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/clasica_brujas.webp"
+  },
+  {
+    "id": "e3_harelbeke",
+    "nombre": "E3 Saxo Classic",
+    "pais": "Belgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/e3_saxo_classic.webp"
+  },
+  {
+    "id": "gante_wevelgem",
+    "nombre": "Gante-Wevelgem",
+    "pais": "Belgica",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/gante_wevelgem.webp"
+  },
+  {
+    "id": "copenhagen_sprint",
+    "nombre": "Copenhagen Sprint",
+    "pais": "Dinamarca",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/copenhagen_sprint.webp"
+  },
+  {
+    "id": "benelux_tour",
+    "nombre": "Benelux Tour",
+    "pais": "Alemania",
+    "categoria": "World Tour",
+    "tipo": "Vuelta por etapas",
+    "imagen": "assets/imagenes/benelux_tour.webp"
+  },
+  {
+    "id": "bretagne_classic",
+    "nombre": "Bretagne Classic",
+    "pais": "Francia",
+    "categoria": "World Tour",
+    "tipo": "Clásica",
+    "imagen": "assets/imagenes/bretagne_classic.webp"
+  }
+]

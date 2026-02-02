@@ -1,0 +1,195 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1970,
+    "distancia": 1427.0,
+    "desnivel": 0,
+    "tiempo": "38h 53' 53\"",
+    "ciclistasInscritos": 78,
+    "ciclistasFinalizados": 67,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Stachura Jan",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Polewiak Czesław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 50 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Szpak Tadeusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 7 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Woźniak Henryk",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 7 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Labocha Stanisław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 7 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bochnia Tadeusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 9 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Demel Stanisław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 11 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gawliczek Józef",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 13 min 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Polupanov Yuri",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 14 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barcik Edward",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 15 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Woźniak Henryk",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Polupanov Yuri",
+        "pais": "Rusia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {
+        "nombre": "Barcik Edward",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Czechowski Zenon",
+            "pais": "Polonia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.32
+        },
+        {
+            "etapa": 2,
+            "nombre": "Prasek Tadeusz",
+            "pais": "Polonia",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.719
+        },
+        {
+            "etapa": 3,
+            "nombre": "Miersch Karl-Heinz",
+            "pais": "Alemania",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.345
+        },
+        {
+            "etapa": 4,
+            "nombre": "Czechowski Zenon",
+            "pais": "Polonia",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.279
+        },
+        {
+            "etapa": 5,
+            "nombre": "Stachura Jan",
+            "pais": "Polonia",
+            "distancia": 37.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.152
+        },
+        {
+            "etapa": 6,
+            "nombre": "Czechowski Zenon",
+            "pais": "Polonia",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.221
+        },
+        {
+            "etapa": 7,
+            "nombre": "Surmiński Franciszek",
+            "pais": "Polonia",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.497
+        },
+        {
+            "etapa": 8,
+            "nombre": "Miersch Karl-Heinz",
+            "pais": "Alemania",
+            "distancia": 127.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.899
+        },
+        {
+            "etapa": 9,
+            "nombre": "Winkler Jerzy",
+            "pais": "Polonia",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.293
+        },
+        {
+            "etapa": 10,
+            "nombre": "Woźniak Henryk",
+            "pais": "Polonia",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.227
+        },
+        {
+            "etapa": 11,
+            "nombre": "Gawliczek Józef",
+            "pais": "Polonia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.288
+        },
+        {
+            "etapa": 12,
+            "nombre": "Hertel Jacek",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.665
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2017,
+    "distancia": 990.0,
+    "desnivel": 10505,
+    "tiempo": "27h 07' 47\"",
+    "ciclistasInscritos": 153,
+    "ciclistasFinalizados": 96,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "ORICA-Scott",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Oomen Sam",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "ORICA-Scott",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Rosa Diego",
+        "pais": "Italia",
+        "equipo": "Team Sky"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Lotto Soudal",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 130.0,
+            "desnivel": 1134,
+            "velocidadMedia": 44.25
+        },
+        {
+            "etapa": 2,
+            "nombre": "Modolo Sacha",
+            "pais": "Italia",
+            "distancia": 142.0,
+            "desnivel": 827,
+            "velocidadMedia": 43.61
+        },
+        {
+            "etapa": 3,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 2230,
+            "velocidadMedia": 41.69
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 238.0,
+            "desnivel": 1463,
+            "velocidadMedia": 42.15
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Poppel Danny",
+            "pais": "Países Bajos",
+            "distancia": 130.0,
+            "desnivel": 1393,
+            "velocidadMedia": 43.4
+        },
+        {
+            "etapa": 6,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "distancia": 189.0,
+            "desnivel": 3458,
+            "velocidadMedia": 37.94
+        },
+        {
+            "etapa": 7,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.371
+        }
+    ]
+}

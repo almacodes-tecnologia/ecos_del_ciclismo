@@ -1,0 +1,29 @@
+{
+  "id": "cerler_ampriu_benasque",
+  "nombre": "Cerler-Ampriu",
+  "pais": "España",
+  "longitud_km": 13.5,
+  "desnivel_m": 771,
+  "altura_maxima_m": 1911,
+  "pendiente_media_porcentaje": 5.7,
+  "pendiente_maxima_porcentaje": 12.0,
+  "descripcion": "Subida a la estación de esquí de Cerler (sector Ampriu) con inicio desde la localidad de Benasque. Incluye el tramo inicial suave de conexión.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 1140},
+    {"kilometro": 1.0, "altitud": 1165},
+    {"kilometro": 2.0, "altitud": 1215},
+    {"kilometro": 3.0, "altitud": 1300},
+    {"kilometro": 4.0, "altitud": 1390},
+    {"kilometro": 5.0, "altitud": 1460},
+    {"kilometro": 6.0, "altitud": 1530},
+    {"kilometro": 7.0, "altitud": 1565},
+    {"kilometro": 8.0, "altitud": 1670},
+    {"kilometro": 9.0, "altitud": 1745},
+    {"kilometro": 10.0, "altitud": 1720},
+    {"kilometro": 11.0, "altitud": 1765},
+    {"kilometro": 12.0, "altitud": 1840},
+    {"kilometro": 13.5, "altitud": 1911}
+  ],
+  "puntos_clave": [
+  ]
+}

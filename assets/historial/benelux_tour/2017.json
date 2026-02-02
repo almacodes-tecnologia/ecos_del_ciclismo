@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2017,
+    "distancia": 897.2,
+    "desnivel": 5856,
+    "tiempo": "24h 34' 33\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Naesen Oliver",
+            "pais": "Bélgica",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Valgren Michael",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vakoč Petr",
+            "pais": "República Checa",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 2 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Trek - Segafredo",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 179.7,
+            "desnivel": 280,
+            "velocidadMedia": 46.85
+        },
+        {
+            "etapa": 2,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 9.0,
+            "desnivel": 5,
+            "velocidadMedia": 49.24
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 186.0,
+            "desnivel": 342,
+            "velocidadMedia": 43.93
+        },
+        {
+            "etapa": 4,
+            "nombre": "Theuns Edward",
+            "pais": "Bélgica",
+            "distancia": 160.7,
+            "desnivel": 831,
+            "velocidadMedia": 47.18
+        },
+        {
+            "etapa": 5,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "distancia": 164.9,
+            "desnivel": 1371,
+            "velocidadMedia": 44.22
+        },
+        {
+            "etapa": 6,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 196.9,
+            "desnivel": 3027,
+            "velocidadMedia": 38.79
+        },
+        {
+            "etapa": 7,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.3725
+        }
+    ]
+}

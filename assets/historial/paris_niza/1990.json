@@ -1,0 +1,151 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1990,
+    "distancia": 1059.9,
+    "desnivel": 0,
+    "tiempo": "29h 27' 30\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 67,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "Histor - Sigma",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Boyer Éric",
+            "pais": "Francia",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Simon Pascal",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "equipo": "Ariostea",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kvålsvoll Atle",
+            "pais": "Noruega",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pedersen Alex",
+            "pais": "Dinamarca",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 2 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Moreau Francis",
+            "pais": "Francia",
+            "distancia": 7.9,
+            "desnivel": 0,
+            "velocidadMedia": 51.24
+        },
+        {
+            "etapa": 1,
+            "nombre": "De Wilde Etienne",
+            "pais": "Bélgica",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.0
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bomans Carlo",
+            "pais": "Bélgica",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.79
+        },
+        {
+            "etapa": 4,
+            "nombre": "Baffi Adriano",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.67
+        },
+        {
+            "etapa": 5,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.43
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.31
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ribeiro Mauro",
+            "pais": "Brasil",
+            "distancia": 102.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.42
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 52.4535
+        }
+    ]
+}

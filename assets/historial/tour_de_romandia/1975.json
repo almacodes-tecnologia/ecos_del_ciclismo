@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1975,
+    "distancia": 894.6,
+    "desnivel": 0,
+    "tiempo": "23h 48' 10\"",
+    "ciclistasInscritos": 58,
+    "ciclistasFinalizados": 58,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Filotex",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "David Wilfried",
+            "pais": "Bélgica",
+            "equipo": "Carpenter - Confortluxe - Flandria",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Talbourdet Georges",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 2 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "De Schoenmaecker Jos",
+            "pais": "Bélgica",
+            "equipo": "Molteni - RYC",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Seznec Christian",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 4 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Périn Michel",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 5 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Merckx Eddy",
+        "pais": "Bélgica",
+        "equipo": "Molteni - RYC"
+    },
+    "ganadorMontana": {
+        "nombre": "Bergamo Marcello",
+        "pais": "Italia",
+        "equipo": "Jolly Ceramica"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Gan - Mercier - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.4,
+            "desnivel": 0,
+            "velocidadMedia": 37.986
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.924
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.729
+        },
+        {
+            "etapa": 3,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 25.2,
+            "desnivel": 0,
+            "velocidadMedia": 45.067
+        }
+    ]
+}

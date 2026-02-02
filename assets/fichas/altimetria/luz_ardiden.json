@@ -1,0 +1,30 @@
+{
+  "id": "luz_ardiden",
+  "nombre": "Luz-Ardiden",
+  "pais": "Francia",
+  "longitud_km": 13.6,
+  "desnivel_m": 1030,
+  "altura_maxima_m": 1710,
+  "pendiente_media_porcentaje": 7.5,
+  "pendiente_maxima_porcentaje": 9.5,
+  "descripcion": "Luz-Ardiden es un ejemplo perfecto de una subida con un perfil de pendiente muy homogéneo, casi todos los kilómetros están por encima del 7%.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 682},
+    {"kilometro": 1, "altitud": 728},
+    {"kilometro": 2, "altitud": 784},
+    {"kilometro": 3, "altitud": 865},
+    {"kilometro": 4, "altitud": 930},
+    {"kilometro": 5, "altitud": 1020},
+    {"kilometro": 6, "altitud": 1100},
+    {"kilometro": 7, "altitud": 1188},
+    {"kilometro": 8, "altitud": 1249},
+    {"kilometro": 9, "altitud": 1325},
+    {"kilometro": 10, "altitud": 1419},
+    {"kilometro": 11, "altitud": 1498},
+    {"kilometro": 12, "altitud": 1584},
+    {"kilometro": 13, "altitud": 1660},
+    {"kilometro": 13.6, "altitud": 1710}
+  ],
+  "puntos_clave": [
+  ]
+}

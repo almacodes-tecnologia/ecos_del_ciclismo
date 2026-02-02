@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1988,
+    "distancia": 3226.3,
+    "desnivel": 45418,
+    "tiempo": "89h 19' 23\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "equipo": "Teka",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fuerte Anselmo",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Fagor - MBK",
+            "ventaja": "+ 3 min 22 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Blanco Jesús",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 8 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 8 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Schepers Eddy",
+            "pais": "Bélgica",
+            "equipo": "Fagor - MBK",
+            "ventaja": "+ 9 min 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Córdoba Roberto",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 10 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "KAS - Canal 10 - Mavic"
+    },
+    "ganadorMontana": {
+        "nombre": "Pino Álvaro",
+        "pais": "España",
+        "equipo": "BH"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " BH",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Pastorelli Ettore",
+            "pais": "Italia",
+            "distancia": 17.4,
+            "desnivel": 297,
+            "velocidadMedia": 52.287
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "distancia": 210.0,
+            "desnivel": 4000,
+            "velocidadMedia": 38.688
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 34.0,
+            "desnivel": 1158,
+            "velocidadMedia": 45.946
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 1126,
+            "velocidadMedia": 38.512
+        },
+        {
+            "etapa": 5,
+            "nombre": "Navarro Francisco",
+            "pais": "España",
+            "distancia": 234.0,
+            "desnivel": 1744,
+            "velocidadMedia": 37.62
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 202.0,
+            "desnivel": 818,
+            "velocidadMedia": 49.132
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 160.0,
+            "desnivel": 479,
+            "velocidadMedia": 44.482
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 176.7,
+            "desnivel": 4000,
+            "velocidadMedia": 33.289
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 6.8,
+            "desnivel": 425,
+            "velocidadMedia": 27.787
+        },
+        {
+            "etapa": 10,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 197.3,
+            "desnivel": 2000,
+            "velocidadMedia": 44.356
+        },
+        {
+            "etapa": 11,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 217.2,
+            "desnivel": 4000,
+            "velocidadMedia": 34.96
+        },
+        {
+            "etapa": 12,
+            "nombre": "Yates Sean",
+            "pais": "Reino Unido",
+            "distancia": 197.5,
+            "desnivel": 3353,
+            "velocidadMedia": 35.207
+        },
+        {
+            "etapa": 13,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "distancia": 178.2,
+            "desnivel": 4000,
+            "velocidadMedia": 35.757
+        },
+        {
+            "etapa": 14,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "distancia": 190.3,
+            "desnivel": 4500,
+            "velocidadMedia": 36.309
+        },
+        {
+            "etapa": 15,
+            "nombre": "Weltz Johnny",
+            "pais": "Dinamarca",
+            "distancia": 166.0,
+            "desnivel": 1831,
+            "velocidadMedia": 40.78
+        },
+        {
+            "etapa": 16,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 192.0,
+            "desnivel": 2722,
+            "velocidadMedia": 42.84
+        },
+        {
+            "etapa": 17,
+            "nombre": "Elliott Malcolm",
+            "pais": "Reino Unido",
+            "distancia": 244.4,
+            "desnivel": 1721,
+            "velocidadMedia": 40.57
+        },
+        {
+            "etapa": 18,
+            "nombre": "Martínez Juan",
+            "pais": "España",
+            "distancia": 212.5,
+            "desnivel": 3610,
+            "velocidadMedia": 32.07
+        },
+        {
+            "etapa": 19,
+            "nombre": "Ocaña Ángel",
+            "pais": "España",
+            "distancia": 150.0,
+            "desnivel": 3207,
+            "velocidadMedia": 37.99
+        },
+        {
+            "etapa": 20,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 30.0,
+            "desnivel": 427,
+            "velocidadMedia": 42.22
+        },
+        {
+            "etapa": 21,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6062
+        }
+    ]
+}

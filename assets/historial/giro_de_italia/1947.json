@@ -1,0 +1,254 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1947,
+    "distancia": 3565.0,
+    "desnivel": 0,
+    "tiempo": "115h 55' 07\"",
+    "ciclistasInscritos": 84,
+    "ciclistasFinalizados": 50,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Legnano - Pirelli",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bresci Giulio",
+            "pais": "Italia",
+            "equipo": "Welter - Ursus",
+            "ventaja": "+ 5 min 54 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cecchi Ezio",
+            "pais": "Italia",
+            "equipo": "Welter - Ursus",
+            "ventaja": "+ 15 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "equipo": "Olmo - Fulgor",
+            "ventaja": "+ 15 min 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martini Alfredo",
+            "pais": "Italia",
+            "equipo": "Welter - Ursus",
+            "ventaja": "+ 19 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vicini Mario",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 30 min 46 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Crippa Salvatore",
+            "pais": "Italia",
+            "equipo": "Lygie - Pirelli",
+            "ventaja": "+ 31 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "equipo": "Viscontea",
+            "ventaja": "+ 34 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Menon Angelo",
+            "pais": "Italia",
+            "equipo": "Lygie - Pirelli",
+            "ventaja": "+ 35 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": "Legnano - Pirelli"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Welter - Ursus",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zanazzi Renzo",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Maggini Luciano",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 84.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.58
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zanazzi Renzo",
+            "pais": "Italia",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cottur Giordano",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Conte Oreste",
+            "pais": "Italia",
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bertocchi Elio",
+            "pais": "Italia",
+            "distancia": 288.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 10,
+            "nombre": "Ricci Mario",
+            "pais": "Italia",
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Conte Oreste",
+            "pais": "Italia",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Corrieri Giovanni",
+            "pais": "Italia",
+            "distancia": 267.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 13,
+            "nombre": "Bevilacqua Antonio",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 132.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 15,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bresci Giulio",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 19,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.153
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1992,
+    "distancia": 3766.5,
+    "desnivel": 54164,
+    "tiempo": "100h 49' 30\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 130,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bugno Gianni",
+            "pais": "Italia",
+            "equipo": "Gatorade - Chateau d'Ax ",
+            "ventaja": "+ 10 min 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 13 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lino Pascal",
+            "pais": "Francia",
+            "equipo": "R.M.O.",
+            "ventaja": "+ 14 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 15 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "+ 18 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Perini Giancarlo",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 19 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 20 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Heppner Jens",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 25 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E. - Look - Mavic"
+    },
+    "ganadorMontana": {
+        "nombre": "Chiappucci Claudio",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Vagabond"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bouwmans Eddy",
+        "pais": "Países Bajos",
+        "equipo": "Panasonic - Sportlife"
+    },
+    "ganadorEquipos": {
+        "nombre": " Carrera Jeans - Vagabond",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 8.0,
+            "desnivel": 148,
+            "velocidadMedia": 51.25
+        },
+        {
+            "etapa": 1,
+            "nombre": "Arnould Dominique",
+            "pais": "Francia",
+            "distancia": 194.5,
+            "desnivel": 2500,
+            "velocidadMedia": 42.03
+        },
+        {
+            "etapa": 2,
+            "nombre": "Murguialday Javier",
+            "pais": "España",
+            "distancia": 255.0,
+            "desnivel": 4000,
+            "velocidadMedia": 38.07
+        },
+        {
+            "etapa": 3,
+            "nombre": "Harmeling Rob",
+            "pais": "Países Bajos",
+            "distancia": 218.0,
+            "desnivel": 1285,
+            "velocidadMedia": 37.88
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 63.5,
+            "desnivel": 667,
+            "velocidadMedia": 52.01
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 1538,
+            "velocidadMedia": 47.8
+        },
+        {
+            "etapa": 6,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 167.0,
+            "desnivel": 2168,
+            "velocidadMedia": 46.15
+        },
+        {
+            "etapa": 7,
+            "nombre": "Delion Gilles",
+            "pais": "Francia",
+            "distancia": 196.5,
+            "desnivel": 2010,
+            "velocidadMedia": 45.04
+        },
+        {
+            "etapa": 8,
+            "nombre": "Nevens Jan",
+            "pais": "Bélgica",
+            "distancia": 206.5,
+            "desnivel": 2609,
+            "velocidadMedia": 43.42
+        },
+        {
+            "etapa": 9,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 65.0,
+            "desnivel": 880,
+            "velocidadMedia": 49.05
+        },
+        {
+            "etapa": 10,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 217.0,
+            "desnivel": 2000,
+            "velocidadMedia": 43.01
+        },
+        {
+            "etapa": 11,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "distancia": 249.5,
+            "desnivel": 4500,
+            "velocidadMedia": 38.3
+        },
+        {
+            "etapa": 12,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "distancia": 192.0,
+            "desnivel": 4500,
+            "velocidadMedia": 26.73
+        },
+        {
+            "etapa": 13,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "distancia": 254.5,
+            "desnivel": 6974,
+            "velocidadMedia": 32.85
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "distancia": 186.5,
+            "desnivel": 6000,
+            "velocidadMedia": 32.72
+        },
+        {
+            "etapa": 15,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 2662,
+            "velocidadMedia": 41.83
+        },
+        {
+            "etapa": 16,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "distancia": 212.0,
+            "desnivel": 3500,
+            "velocidadMedia": 36.11
+        },
+        {
+            "etapa": 17,
+            "nombre": "Colotti Jean-Claude",
+            "pais": "Francia",
+            "distancia": 189.0,
+            "desnivel": 2500,
+            "velocidadMedia": 41.25
+        },
+        {
+            "etapa": 18,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 212.0,
+            "desnivel": 1610,
+            "velocidadMedia": 41.4
+        },
+        {
+            "etapa": 19,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 64.0,
+            "desnivel": 624,
+            "velocidadMedia": 52.35
+        },
+        {
+            "etapa": 20,
+            "nombre": "De Clercq Peter",
+            "pais": "Bélgica",
+            "distancia": 222.0,
+            "desnivel": 1489,
+            "velocidadMedia": 36.63
+        },
+        {
+            "etapa": 21,
+            "nombre": "Ludwig Olaf",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.7553
+        }
+    ]
+}

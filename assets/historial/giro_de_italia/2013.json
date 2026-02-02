@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2013,
+    "distancia": 3298.8,
+    "desnivel": 47179,
+    "tiempo": "84h 53' 28\"",
+    "ciclistasInscritos": 207,
+    "ciclistasFinalizados": 168,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 4 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 5 min 52 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 6 min 48 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Betancur Carlos",
+            "pais": "Colombia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 7 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Niemiec Przemysław",
+            "pais": "Polonia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 7 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 8 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 10 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 10 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Franco Pellizotti",
+            "pais": "Italia",
+            "equipo": "Androni Giocattoli-Venezuela",
+            "ventaja": "+ 11 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cavendish Mark",
+        "pais": "Reino Unido",
+        "equipo": "Omega Pharma - Quick-Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Pirazzi Stefano",
+        "pais": "Italia",
+        "equipo": "Bardiani Valvole - CSF Inox "
+    },
+    "ganadorJovenes": {
+        "nombre": "Betancur Carlos",
+        "pais": "Colombia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorEquipos": {
+        "nombre": " Sky Procycling",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 130.0,
+            "desnivel": 1114,
+            "velocidadMedia": 43.66
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 17.4,
+            "desnivel": 307,
+            "velocidadMedia": 47.28
+        },
+        {
+            "etapa": 3,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 3908,
+            "velocidadMedia": 38.74
+        },
+        {
+            "etapa": 4,
+            "nombre": "Battaglin Enrico",
+            "pais": "Italia",
+            "distancia": 246.0,
+            "desnivel": 3519,
+            "velocidadMedia": 39.43
+        },
+        {
+            "etapa": 5,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 203.0,
+            "desnivel": 1490,
+            "velocidadMedia": 43.84
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 169.0,
+            "desnivel": 550,
+            "velocidadMedia": 42.96
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hansen Adam",
+            "pais": "Australia",
+            "distancia": 177.0,
+            "desnivel": 3115,
+            "velocidadMedia": 38.5
+        },
+        {
+            "etapa": 8,
+            "nombre": "Dowsett Alex",
+            "pais": "Reino Unido",
+            "distancia": 54.8,
+            "desnivel": 887,
+            "velocidadMedia": 43.01
+        },
+        {
+            "etapa": 9,
+            "nombre": "Belkov Maxim",
+            "pais": "Rusia",
+            "distancia": 170.0,
+            "desnivel": 3032,
+            "velocidadMedia": 37.57
+        },
+        {
+            "etapa": 10,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "distancia": 167.0,
+            "desnivel": 3678,
+            "velocidadMedia": 36.08
+        },
+        {
+            "etapa": 11,
+            "nombre": "Navardauskas Ramūnas",
+            "pais": "Lituania",
+            "distancia": 182.0,
+            "desnivel": 2824,
+            "velocidadMedia": 41.48
+        },
+        {
+            "etapa": 12,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 134.0,
+            "desnivel": 1064,
+            "velocidadMedia": 44.23
+        },
+        {
+            "etapa": 13,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 254.0,
+            "desnivel": 1896,
+            "velocidadMedia": 41.2
+        },
+        {
+            "etapa": 14,
+            "nombre": "Santambrogio Mauro",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 2952,
+            "velocidadMedia": 38.39
+        },
+        {
+            "etapa": 15,
+            "nombre": "Visconti Giovanni",
+            "pais": "Italia",
+            "distancia": 149.0,
+            "desnivel": 4069,
+            "velocidadMedia": 31.84
+        },
+        {
+            "etapa": 16,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "distancia": 238.0,
+            "desnivel": 2803,
+            "velocidadMedia": 40.48
+        },
+        {
+            "etapa": 17,
+            "nombre": "Visconti Giovanni",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 887,
+            "velocidadMedia": 40.69
+        },
+        {
+            "etapa": 18,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 20.6,
+            "desnivel": 1086,
+            "velocidadMedia": 27.79
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 160.0,
+            "desnivel": 4335,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 20,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 3663,
+            "velocidadMedia": 38.45
+        },
+        {
+            "etapa": 21,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.1739
+        }
+    ]
+}

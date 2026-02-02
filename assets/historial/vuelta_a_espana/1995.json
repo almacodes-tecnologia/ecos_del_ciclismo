@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1995,
+    "distancia": 3465.9,
+    "desnivel": 48437,
+    "tiempo": "95h 30' 33\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 118,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E.",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 6 min 48 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 8 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 11 min 38 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pistore Roberto",
+            "pais": "Italia",
+            "equipo": "Polti - Granarolo - Santini",
+            "ventaja": "+ 11 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "García David",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 13 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Clavero Daniel",
+            "pais": "España",
+            "equipo": "Artiach",
+            "ventaja": "+ 15 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno - Saeco",
+            "ventaja": "+ 19 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Della Santa Stefano",
+            "pais": "Italia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 19 min 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E."
+    },
+    "ganadorMontana": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E."
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E.",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 7.0,
+            "desnivel": 19,
+            "velocidadMedia": 53.5
+        },
+        {
+            "etapa": 1,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 186.6,
+            "desnivel": 1251,
+            "velocidadMedia": 32.67
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pianegonda Gianluca",
+            "pais": "Italia",
+            "distancia": 223.5,
+            "desnivel": 2590,
+            "velocidadMedia": 36.0
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 2722,
+            "velocidadMedia": 40.84
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 82.6,
+            "desnivel": 2429,
+            "velocidadMedia": 36.48
+        },
+        {
+            "etapa": 5,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 179.8,
+            "desnivel": 3101,
+            "velocidadMedia": 38.38
+        },
+        {
+            "etapa": 6,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 264.0,
+            "desnivel": 3390,
+            "velocidadMedia": 37.67
+        },
+        {
+            "etapa": 7,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 41.0,
+            "desnivel": 207,
+            "velocidadMedia": 51.66
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 219.8,
+            "desnivel": 3790,
+            "velocidadMedia": 36.13
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 122.5,
+            "desnivel": 2247,
+            "velocidadMedia": 42.83
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 162.5,
+            "desnivel": 775,
+            "velocidadMedia": 37.29
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 187.0,
+            "desnivel": 2465,
+            "velocidadMedia": 43.45
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 238.0,
+            "desnivel": 4251,
+            "velocidadMedia": 34.63
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 1311,
+            "velocidadMedia": 45.04
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 207.0,
+            "desnivel": 1781,
+            "velocidadMedia": 41.33
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 154.0,
+            "desnivel": 3099,
+            "velocidadMedia": 38.53
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.3,
+            "desnivel": 3736,
+            "velocidadMedia": 37.77
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 179.2,
+            "desnivel": 3845,
+            "velocidadMedia": 32.12
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 157.8,
+            "desnivel": 3097,
+            "velocidadMedia": 38.52
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 227.7,
+            "desnivel": 1955,
+            "velocidadMedia": 38.44
+        },
+        {
+            "etapa": 20,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 41.6,
+            "desnivel": 376,
+            "velocidadMedia": 50.31
+        },
+        {
+            "etapa": 21,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.8146
+        }
+    ]
+}

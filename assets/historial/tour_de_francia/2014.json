@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2014,
+    "distancia": 3663.5,
+    "desnivel": 50814,
+    "tiempo": "89h 59' 06\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 164,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 7 min 37 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ.fr ",
+            "ventaja": "+ 8 min 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 9 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 11 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 11 min 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "König Leopold",
+            "pais": "República Checa",
+            "equipo": "Team NetApp - Endura",
+            "ventaja": "+ 14 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 17 min 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "ten Dam Laurens",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 18 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 21 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Cannondale "
+    },
+    "ganadorMontana": {
+        "nombre": "Majka Rafał",
+        "pais": "Polonia",
+        "equipo": "Tinkoff - Saxo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pinot Thibaut",
+        "pais": "Francia",
+        "equipo": "FDJ.fr "
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R La Mondiale",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 190.5,
+            "desnivel": 2092,
+            "velocidadMedia": 40.23
+        },
+        {
+            "etapa": 2,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 201.0,
+            "desnivel": 3347,
+            "velocidadMedia": 39.08
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 155.0,
+            "desnivel": 834,
+            "velocidadMedia": 42.56
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 163.5,
+            "desnivel": 1118,
+            "velocidadMedia": 45.28
+        },
+        {
+            "etapa": 5,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "distancia": 155.5,
+            "desnivel": 475,
+            "velocidadMedia": 46.98
+        },
+        {
+            "etapa": 6,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 194.0,
+            "desnivel": 1422,
+            "velocidadMedia": 46.25
+        },
+        {
+            "etapa": 7,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 234.5,
+            "desnivel": 2076,
+            "velocidadMedia": 44.16
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kadri Blel",
+            "pais": "Francia",
+            "distancia": 161.0,
+            "desnivel": 1872,
+            "velocidadMedia": 42.1
+        },
+        {
+            "etapa": 9,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 170.0,
+            "desnivel": 3373,
+            "velocidadMedia": 40.87
+        },
+        {
+            "etapa": 10,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 161.5,
+            "desnivel": 3906,
+            "velocidadMedia": 36.23
+        },
+        {
+            "etapa": 11,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "distancia": 187.5,
+            "desnivel": 2711,
+            "velocidadMedia": 42.33
+        },
+        {
+            "etapa": 12,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 185.5,
+            "desnivel": 2530,
+            "velocidadMedia": 40.89
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.5,
+            "desnivel": 3865,
+            "velocidadMedia": 37.92
+        },
+        {
+            "etapa": 14,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 177.0,
+            "desnivel": 4838,
+            "velocidadMedia": 34.43
+        },
+        {
+            "etapa": 15,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 222.0,
+            "desnivel": 1675,
+            "velocidadMedia": 44.89
+        },
+        {
+            "etapa": 16,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "distancia": 237.5,
+            "desnivel": 4047,
+            "velocidadMedia": 38.81
+        },
+        {
+            "etapa": 17,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 124.5,
+            "desnivel": 3810,
+            "velocidadMedia": 34.68
+        },
+        {
+            "etapa": 18,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 145.5,
+            "desnivel": 3748,
+            "velocidadMedia": 35.74
+        },
+        {
+            "etapa": 19,
+            "nombre": "Navardauskas Ramūnas",
+            "pais": "Lituania",
+            "distancia": 208.5,
+            "desnivel": 1659,
+            "velocidadMedia": 44.1
+        },
+        {
+            "etapa": 20,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 54.0,
+            "desnivel": 611,
+            "velocidadMedia": 48.83
+        },
+        {
+            "etapa": 21,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 137.5,
+            "desnivel": 805,
+            "velocidadMedia": 41.08
+        }
+    ]
+}

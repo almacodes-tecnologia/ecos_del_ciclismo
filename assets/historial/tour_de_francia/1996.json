@@ -1,0 +1,278 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1996,
+    "distancia": 3616.4,
+    "desnivel": 54012,
+    "tiempo": "95h 57' 16\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 129,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "equipo": "Team Telekom",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 4 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 5 min 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Luttenberger Peter",
+            "pais": "Austria",
+            "equipo": "Carrera Jeans",
+            "ventaja": "+ 7 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Polti",
+            "ventaja": "+ 10 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "equipo": "Roslotto-ZG Mobili",
+            "ventaja": "+ 10 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme-Artiach-Costa Blanca",
+            "ventaja": "+ 10 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 11 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 11 min 53 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Virenque Richard",
+        "pais": "Francia",
+        "equipo": "Festina - Lotus"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ullrich Jan",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorEquipos": {
+        "nombre": " Festina - Lotus",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 9.4,
+            "desnivel": 84,
+            "velocidadMedia": 51.822
+        },
+        {
+            "etapa": 1,
+            "nombre": "Moncassin Frédéric",
+            "pais": "Francia",
+            "distancia": 209.0,
+            "desnivel": 1139,
+            "velocidadMedia": 41.8
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 247.5,
+            "desnivel": 1382,
+            "velocidadMedia": 38.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 195.0,
+            "desnivel": 1512,
+            "velocidadMedia": 35.52
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saugrain Cyril",
+            "pais": "Francia",
+            "distancia": 232.0,
+            "desnivel": 2325,
+            "velocidadMedia": 40.48
+        },
+        {
+            "etapa": 5,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 242.0,
+            "desnivel": 2518,
+            "velocidadMedia": 34.914
+        },
+        {
+            "etapa": 6,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "distancia": 207.0,
+            "desnivel": 1182,
+            "velocidadMedia": 40.64
+        },
+        {
+            "etapa": 7,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "distancia": 199.0,
+            "desnivel": 5000,
+            "velocidadMedia": 34.37
+        },
+        {
+            "etapa": 8,
+            "nombre": "Berzin Evgeni",
+            "pais": "Rusia",
+            "distancia": 30.5,
+            "desnivel": 1556,
+            "velocidadMedia": 35.271
+        },
+        {
+            "etapa": 9,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "distancia": 46.0,
+            "desnivel": 4750,
+            "velocidadMedia": 39.02
+        },
+        {
+            "etapa": 10,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 208.5,
+            "desnivel": 3000,
+            "velocidadMedia": 40.59
+        },
+        {
+            "etapa": 11,
+            "nombre": "González José Jaime",
+            "pais": "Colombia",
+            "distancia": 202.0,
+            "desnivel": 3000,
+            "velocidadMedia": 39.2
+        },
+        {
+            "etapa": 12,
+            "nombre": "Richard Pascal",
+            "pais": "Suiza",
+            "distancia": 143.5,
+            "desnivel": 3000,
+            "velocidadMedia": 26.15
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sørensen Rolf",
+            "pais": "Dinamarca",
+            "distancia": 177.0,
+            "desnivel": 3000,
+            "velocidadMedia": 43.536
+        },
+        {
+            "etapa": 14,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 186.5,
+            "desnivel": 3000,
+            "velocidadMedia": 45.399
+        },
+        {
+            "etapa": 15,
+            "nombre": "Podenzana Massimo",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 2629,
+            "velocidadMedia": 44.962
+        },
+        {
+            "etapa": 16,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "distancia": 199.0,
+            "desnivel": 3541,
+            "velocidadMedia": 40.302
+        },
+        {
+            "etapa": 17,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 262.0,
+            "desnivel": 6000,
+            "velocidadMedia": 36.803
+        },
+        {
+            "etapa": 18,
+            "nombre": "Voskamp Bart",
+            "pais": "Países Bajos",
+            "distancia": 154.5,
+            "desnivel": 3000,
+            "velocidadMedia": 36.927
+        },
+        {
+            "etapa": 19,
+            "nombre": "Moncassin Frédéric",
+            "pais": "Francia",
+            "distancia": 226.5,
+            "desnivel": 1754,
+            "velocidadMedia": 41.792
+        },
+        {
+            "etapa": 20,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 63.5,
+            "desnivel": 640,
+            "velocidadMedia": 50.452
+        },
+        {
+            "etapa": 21,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.425
+        }
+    ]
+}

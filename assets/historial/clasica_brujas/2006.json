@@ -1,0 +1,123 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2006,
+    "distancia": 552.0,
+    "desnivel": 0,
+    "tiempo": "13h 17' 03\"",
+    "ciclistasInscritos": 172,
+    "ciclistasFinalizados": 101,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hoste Leif",
+            "pais": "Bélgica",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rosseler Sébastien",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "de Jongh Steven",
+            "pais": "Países Bajos",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rojas José Joaquín",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Devolder Stijn",
+            "pais": "Bélgica",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Franzoi Enrico",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Corioni Claudio",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 2 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Eisel Bernhard",
+        "pais": "Austria",
+        "equipo": "Française des Jeux"
+    },
+    "ganadorMontana": {
+        "nombre": "Hoste Leif",
+        "pais": "Bélgica",
+        "equipo": "Discovery Channel Pro Cycling Team "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hoste Leif",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.58
+        },
+        {
+            "etapa": 2,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.75
+        },
+        {
+            "etapa": 3,
+            "nombre": "de Jongh Steven",
+            "pais": "Países Bajos",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.4
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hoste Leif",
+            "pais": "Bélgica",
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.41
+        }
+    ]
+}

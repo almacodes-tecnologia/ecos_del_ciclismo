@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2001,
+    "distancia": 541.2,
+    "desnivel": 0,
+    "tiempo": "16h 59' 54\"",
+    "ciclistasInscritos": 125,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "García Casas Félix Miguel",
+            "pais": "España",
+            "equipo": "Festina",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Montgomery Sven",
+            "pais": "Suiza",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Plaza David",
+            "pais": "España",
+            "equipo": "Festina",
+            "ventaja": "+ 2 min 1 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van de Wouwer Kurt",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Camenzind Oscar",
+            "pais": "Suiza",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 2 min 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Piccoli Mariano",
+        "pais": "Italia",
+        "equipo": "Lampre - Daikin"
+    },
+    "ganadorMontana": {
+        "nombre": "Desbiens Laurent",
+        "pais": "Francia",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Fassa Bortolo",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "distancia": 6.9,
+            "desnivel": 0,
+            "velocidadMedia": 46.0
+        },
+        {
+            "etapa": 1,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "distancia": 165.7,
+            "desnivel": 0,
+            "velocidadMedia": 42.0
+        },
+        {
+            "etapa": 2,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "distancia": 171.7,
+            "desnivel": 0,
+            "velocidadMedia": 41.57
+        },
+        {
+            "etapa": 3,
+            "nombre": "Plaza David",
+            "pais": "España",
+            "distancia": 25.45,
+            "desnivel": 0,
+            "velocidadMedia": 48.73
+        },
+        {
+            "etapa": 4,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 171.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.0
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.3116
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1979,
+    "distancia": 3723.5,
+    "desnivel": 53543,
+    "tiempo": "103h 06' 50\"",
+    "ciclistasInscritos": 150,
+    "ciclistasFinalizados": 89,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Miko - Mercier",
+            "ventaja": "+ 13 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Flandria - Ca Va Seul",
+            "ventaja": "+ 26 min 53 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "Peugeot - Esso",
+            "ventaja": "+ 28 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bernaudeau Jean-René",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane",
+            "ventaja": "+ 32 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "+ 38 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Maas Jo",
+            "pais": "Países Bajos",
+            "equipo": "Daf Trucks",
+            "ventaja": "+ 38 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 39 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "equipo": "Kas",
+            "ventaja": "+ 40 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "Ijsboerke - Warncke",
+            "ventaja": "+ 44 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hinault Bernard",
+        "pais": "Francia",
+        "equipo": "Renault - Gitane"
+    },
+    "ganadorMontana": {
+        "nombre": "Battaglin Giovanni",
+        "pais": "Italia",
+        "equipo": "Inoxpran"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernaudeau Jean-René",
+        "pais": "Francia",
+        "equipo": "Renault - Gitane"
+    },
+    "ganadorEquipos": {
+        "nombre": " Renault - Gitane",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 5.0,
+            "desnivel": 116,
+            "velocidadMedia": 50.14
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bittinger René",
+            "pais": "Francia",
+            "distancia": 225.0,
+            "desnivel": 4000,
+            "velocidadMedia": 32.83
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 23.9,
+            "desnivel": 1452,
+            "velocidadMedia": 26.564
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 180.0,
+            "desnivel": 3500,
+            "velocidadMedia": 36.18
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 86.6,
+            "desnivel": 526,
+            "velocidadMedia": 48.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 145.0,
+            "desnivel": 811,
+            "velocidadMedia": 39.91
+        },
+        {
+            "etapa": 6,
+            "nombre": "Jacobs Jos",
+            "pais": "Bélgica",
+            "distancia": 239.0,
+            "desnivel": 1974,
+            "velocidadMedia": 37.32
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Vliet Leo",
+            "pais": "Países Bajos",
+            "distancia": 161.1,
+            "desnivel": 1845,
+            "velocidadMedia": 39.32
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 90.2,
+            "desnivel": 848,
+            "velocidadMedia": 49.0
+        },
+        {
+            "etapa": 9,
+            "nombre": "Delcroix Ludo",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 1137,
+            "velocidadMedia": 42.14
+        },
+        {
+            "etapa": 10,
+            "nombre": "Maas Jo",
+            "pais": "Países Bajos",
+            "distancia": 124.0,
+            "desnivel": 1131,
+            "velocidadMedia": 45.36
+        },
+        {
+            "etapa": 11,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 33.4,
+            "desnivel": 352,
+            "velocidadMedia": 46.59
+        },
+        {
+            "etapa": 12,
+            "nombre": "Seznec Christian",
+            "pais": "Francia",
+            "distancia": 193.0,
+            "desnivel": 2696,
+            "velocidadMedia": 40.967
+        },
+        {
+            "etapa": 13,
+            "nombre": "Villemiane Pierre-Raymond",
+            "pais": "Francia",
+            "distancia": 202.0,
+            "desnivel": 2993,
+            "velocidadMedia": 40.89
+        },
+        {
+            "etapa": 14,
+            "nombre": "Demeyer Marc",
+            "pais": "Bélgica",
+            "distancia": 248.0,
+            "desnivel": 3500,
+            "velocidadMedia": 36.73
+        },
+        {
+            "etapa": 15,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 55.5,
+            "desnivel": 1900,
+            "velocidadMedia": 35.58
+        },
+        {
+            "etapa": 16,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 201.0,
+            "desnivel": 5000,
+            "velocidadMedia": 33.02
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.5,
+            "desnivel": 6000,
+            "velocidadMedia": 26.79
+        },
+        {
+            "etapa": 18,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 119.5,
+            "desnivel": 3500,
+            "velocidadMedia": 27.1
+        },
+        {
+            "etapa": 19,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 162.0,
+            "desnivel": 1568,
+            "velocidadMedia": 33.67
+        },
+        {
+            "etapa": 20,
+            "nombre": "Parsani Serge",
+            "pais": "Italia",
+            "distancia": 234.5,
+            "desnivel": 1949,
+            "velocidadMedia": 34.91
+        },
+        {
+            "etapa": 21,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 50.0,
+            "desnivel": 817,
+            "velocidadMedia": 43.552
+        },
+        {
+            "etapa": 22,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 189.0,
+            "desnivel": 2360,
+            "velocidadMedia": 34.12
+        },
+        {
+            "etapa": 23,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 205.0,
+            "desnivel": 1674,
+            "velocidadMedia": 34.85
+        },
+        {
+            "etapa": 24,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 181.3,
+            "desnivel": 1894,
+            "velocidadMedia": 37.53
+        }
+    ]
+}

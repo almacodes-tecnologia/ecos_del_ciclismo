@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2024,
+    "distancia": 3317.5,
+    "desnivel": 45907,
+    "tiempo": "79h 14' 03\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 142,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 9 min 56 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 10 min 24 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 12 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 12 min 49 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 14 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rubio Einer",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 15 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hirt Jan",
+            "pais": "República Checa",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 18 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "Team dsm-firmenich PostNL",
+            "ventaja": "+ 20 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Storer Michael",
+            "pais": "Australia",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 21 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Milan Jonathan",
+        "pais": "Italia",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorMontana": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorJovenes": {
+        "nombre": "Tiberi Antonio",
+        "pais": "Italia",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorEquipos": {
+        "nombre": " Decathlon AG2R La Mondiale Team",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Narváez Jhonatan",
+            "pais": "Ecuador",
+            "distancia": 140.0,
+            "desnivel": 1851,
+            "velocidadMedia": 43.214
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 161.0,
+            "desnivel": 2310,
+            "velocidadMedia": 41.223
+        },
+        {
+            "etapa": 3,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 166.3,
+            "desnivel": 865,
+            "velocidadMedia": 42.535
+        },
+        {
+            "etapa": 4,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 2151,
+            "velocidadMedia": 44.523
+        },
+        {
+            "etapa": 5,
+            "nombre": "Thomas Benjamin",
+            "pais": "Francia",
+            "distancia": 178.0,
+            "desnivel": 2197,
+            "velocidadMedia": 44.503
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sánchez Pelayo",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 2118,
+            "velocidadMedia": 44.788
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 40.6,
+            "desnivel": 408,
+            "velocidadMedia": 47.088
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 152.0,
+            "desnivel": 3658,
+            "velocidadMedia": 37.644
+        },
+        {
+            "etapa": 9,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 214.0,
+            "desnivel": 1574,
+            "velocidadMedia": 45.153
+        },
+        {
+            "etapa": 10,
+            "nombre": "Paret-Peintre Valentin",
+            "pais": "Francia",
+            "distancia": 142.0,
+            "desnivel": 3029,
+            "velocidadMedia": 38.064
+        },
+        {
+            "etapa": 11,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 207.0,
+            "desnivel": 1830,
+            "velocidadMedia": 47.171
+        },
+        {
+            "etapa": 12,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 193.0,
+            "desnivel": 2162,
+            "velocidadMedia": 46.744
+        },
+        {
+            "etapa": 13,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 202,
+            "velocidadMedia": 44.371
+        },
+        {
+            "etapa": 14,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 31.2,
+            "desnivel": 250,
+            "velocidadMedia": 53.435
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 222.0,
+            "desnivel": 5724,
+            "velocidadMedia": 35.834
+        },
+        {
+            "etapa": 16,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 118.4,
+            "desnivel": 2151,
+            "velocidadMedia": 41.88
+        },
+        {
+            "etapa": 17,
+            "nombre": "Steinhauser Georg",
+            "pais": "Alemania",
+            "distancia": 159.0,
+            "desnivel": 4087,
+            "velocidadMedia": 35.484
+        },
+        {
+            "etapa": 18,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 178.0,
+            "desnivel": 873,
+            "velocidadMedia": 47.312
+        },
+        {
+            "etapa": 19,
+            "nombre": "Vendrame Andrea",
+            "pais": "Italia",
+            "distancia": 157.0,
+            "desnivel": 3251,
+            "velocidadMedia": 40.765
+        },
+        {
+            "etapa": 20,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 184.0,
+            "desnivel": 4540,
+            "velocidadMedia": 36.999
+        },
+        {
+            "etapa": 21,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 125.0,
+            "desnivel": 676,
+            "velocidadMedia": 43.647
+        }
+    ]
+}

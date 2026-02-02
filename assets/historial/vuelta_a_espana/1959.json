@@ -1,0 +1,231 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1959,
+    "distancia": 2802.0,
+    "desnivel": 0,
+    "tiempo": "84h 36' 20\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "equipo": "Licor 43",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Segu José",
+            "pais": "España",
+            "equipo": "Kas",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "equipo": "Faema - Guerra",
+            "ventaja": "+ 7 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Everaert Pierre",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - R. Geminiani - Dunlop",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Busto Emmanuel",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Dunlop",
+            "ventaja": "+ 16 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rivière Roger",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - R. Geminiani - Dunlop",
+            "ventaja": "+ 17 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Couvreur Hilaire",
+            "pais": "Bélgica",
+            "equipo": "Faema - Guerra",
+            "ventaja": "+ 24 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "equipo": "Peugeot - BP - Dunlop",
+            "ventaja": "+ 26 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vloebergs Joseph",
+            "pais": "Bélgica",
+            "equipo": "Faema - Guerra",
+            "ventaja": "+ 27 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Galdeano Jesús",
+            "pais": "España",
+            "equipo": "Faema España",
+            "ventaja": "+ 29 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Looy Rik",
+        "pais": "Bélgica",
+        "equipo": "Faema - Guerra"
+    },
+    "ganadorMontana": {
+        "nombre": "Suárez Antonio",
+        "pais": "España",
+        "equipo": "Licor 43"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 9.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.58
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.4
+        },
+        {
+            "etapa": 2,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Iturat Vicente",
+            "pais": "España",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.05
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.06
+        },
+        {
+            "etapa": 5,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mas Gabriel",
+            "pais": "España",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.3
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 233.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.39
+        },
+        {
+            "etapa": 8,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 130.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.09
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.31
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.88
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.28
+        },
+        {
+            "etapa": 12,
+            "nombre": "Cardoso José Carlos Sousa",
+            "pais": "Portugal",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.84
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rivière Roger",
+            "pais": "Francia",
+            "distancia": 62.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.0
+        },
+        {
+            "etapa": 15,
+            "nombre": "San Emeterio Julián",
+            "pais": "España",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.12
+        },
+        {
+            "etapa": 16,
+            "nombre": "Rivière Roger",
+            "pais": "Francia",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.83
+        },
+        {
+            "etapa": 17,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9225
+        }
+    ]
+}

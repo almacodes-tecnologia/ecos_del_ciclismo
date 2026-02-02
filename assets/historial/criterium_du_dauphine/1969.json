@@ -1,0 +1,178 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1969,
+    "distancia": 1056.0,
+    "desnivel": 0,
+    "tiempo": "29h 42' 55\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 82,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bracke Ferdinand",
+            "pais": "Bélgica",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gutty Paul",
+            "pais": "Francia",
+            "equipo": "Frimatic - Viva - De Gribaldy",
+            "ventaja": "+ 3 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 4 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 4 min 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Theillière Jean-Claude",
+            "pais": "Francia",
+            "equipo": "Sonolor - Lejeune ",
+            "ventaja": "+ 7 min 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Janssen Jan",
+        "pais": "Países Bajos",
+        "equipo": "Bic"
+    },
+    "ganadorMontana": {
+        "nombre": "Pingeon Roger",
+        "pais": "Francia",
+        "equipo": "Peugeot - BP - Michelin"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Peugeot - BP - Michelin",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 11.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.449
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Boever Jaak",
+            "pais": "Bélgica",
+            "distancia": 117.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.476
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bracke Ferdinand",
+            "pais": "Bélgica",
+            "distancia": 85.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.143
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.376
+        },
+        {
+            "etapa": 4,
+            "nombre": "Theillière Jean-Claude",
+            "pais": "Francia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.061
+        },
+        {
+            "etapa": 5,
+            "nombre": "Guerra Pietro",
+            "pais": "Italia",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.466
+        },
+        {
+            "etapa": 6,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 34.6,
+            "desnivel": 0,
+            "velocidadMedia": 43.704
+        },
+        {
+            "etapa": 6,
+            "nombre": "Leman Eric",
+            "pais": "Bélgica",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.787
+        },
+        {
+            "etapa": 7,
+            "nombre": "Huysmans Jos",
+            "pais": "Bélgica",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.07
+        },
+        {
+            "etapa": 7,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

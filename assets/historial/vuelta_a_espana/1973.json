@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1973,
+    "distancia": 3051.3,
+    "desnivel": 0,
+    "tiempo": "84h 40' 50\"",
+    "ciclistasInscritos": 80,
+    "ciclistasFinalizados": 62,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 4 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 7 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Bic",
+            "ventaja": "+ 8 min 15 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 9 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Balagué Luis",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 12 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "+ 13 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 15 min 1 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Merckx Eddy",
+        "pais": "Bélgica",
+        "equipo": "Molteni"
+    },
+    "ganadorMontana": {
+        "nombre": "Abilleira José Luis",
+        "pais": "España",
+        "equipo": "La Casera - Peña Bahamontes"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " La Casera - Peña Bahamontes",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.43
+        },
+        {
+            "etapa": 1,
+            "nombre": "Nassen Pieter",
+            "pais": "Bélgica",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 2,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.89
+        },
+        {
+            "etapa": 3,
+            "nombre": "Nassen Pieter",
+            "pais": "Bélgica",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Schoenmaecker Jos",
+            "pais": "Bélgica",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.16
+        },
+        {
+            "etapa": 5,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.46
+        },
+        {
+            "etapa": 6,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.7
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 5.0,
+            "desnivel": 0,
+            "velocidadMedia": 11.31
+        },
+        {
+            "etapa": 7,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.48
+        },
+        {
+            "etapa": 8,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.53
+        },
+        {
+            "etapa": 9,
+            "nombre": "Santisteban Juan Manuel",
+            "pais": "España",
+            "distancia": 80.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.58
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 37.9,
+            "desnivel": 0,
+            "velocidadMedia": 42.76
+        },
+        {
+            "etapa": 10,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.07
+        },
+        {
+            "etapa": 11,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.66
+        },
+        {
+            "etapa": 12,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 259.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.54
+        },
+        {
+            "etapa": 13,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.17
+        },
+        {
+            "etapa": 14,
+            "nombre": "Zurano Juan Santiago",
+            "pais": "España",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.32
+        },
+        {
+            "etapa": 15,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.78
+        },
+        {
+            "etapa": 15,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 17.4,
+            "desnivel": 0,
+            "velocidadMedia": 46.4
+        },
+        {
+            "etapa": 16,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.99
+        },
+        {
+            "etapa": 17,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 127.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.47
+        },
+        {
+            "etapa": 17,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.4563
+        }
+    ]
+}

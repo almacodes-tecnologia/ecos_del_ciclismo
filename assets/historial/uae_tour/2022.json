@@ -1,0 +1,154 @@
+{
+    "idCarrera": "uae-tour",
+    "anio": 2022,
+    "distancia": 1060.0,
+    "desnivel": 6591,
+    "tiempo": "25h 38' 16\"",
+    "ciclistasInscritos": 126,
+    "ciclistasFinalizados": 122,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Verona Carlos",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bouchard Geoffrey",
+            "pais": "Francia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "Team DSM",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 1 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Philipsen Jasper",
+        "pais": "Bélgica",
+        "equipo": "Alpecin - Fenix"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 184.0,
+            "desnivel": 1303,
+            "velocidadMedia": 39.07
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 176.0,
+            "desnivel": 337,
+            "velocidadMedia": 40.499
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bissegger Stefan",
+            "pais": "Suiza",
+            "distancia": 9.0,
+            "desnivel": 9,
+            "velocidadMedia": 55.575
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 181.0,
+            "desnivel": 2646,
+            "velocidadMedia": 37.526
+        },
+        {
+            "etapa": 5,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 182.0,
+            "desnivel": 544,
+            "velocidadMedia": 42.476
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vacek Mathias",
+            "pais": "República Checa",
+            "distancia": 180.0,
+            "desnivel": 388,
+            "velocidadMedia": 45.346
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 148.0,
+            "desnivel": 1364,
+            "velocidadMedia": 44.311
+        }
+    ]
+}

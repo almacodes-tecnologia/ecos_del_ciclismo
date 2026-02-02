@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2014,
+    "distancia": 885.8,
+    "desnivel": 5503,
+    "tiempo": "25h 30' 15\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 100,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Giant - Shimano",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Grivko Andrey",
+            "pais": "Ucrania",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Keukeleire Jens",
+            "pais": "Bélgica",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Langeveld Sebastian",
+            "pais": "Países Bajos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Marcato Marco",
+            "pais": "Italia",
+            "equipo": "Cannondale ",
+            "ventaja": "+ 1 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Dumoulin Tom",
+        "pais": "Países Bajos",
+        "equipo": "Team Giant - Shimano"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Garmin Sharp",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Guardini Andrea",
+            "pais": "Italia",
+            "distancia": 181.9,
+            "desnivel": 139,
+            "velocidadMedia": 42.88
+        },
+        {
+            "etapa": 2,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "distancia": 177.4,
+            "desnivel": 231,
+            "velocidadMedia": 43.22
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 9.6,
+            "desnivel": 31,
+            "velocidadMedia": 52.76
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 183.3,
+            "desnivel": 417,
+            "velocidadMedia": 43.3
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "distancia": 160.3,
+            "desnivel": 1830,
+            "velocidadMedia": 42.07
+        },
+        {
+            "etapa": 6,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 173.3,
+            "desnivel": 2855,
+            "velocidadMedia": 38.75
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Keirsbulck Guillaume",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.918
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2013,
+    "distancia": 1053.0,
+    "desnivel": 15493,
+    "tiempo": "29h 02' 25\"",
+    "ciclistasInscritos": 174,
+    "ciclistasFinalizados": 120,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Garmin Sharp",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Blanco Pro Cycling Team",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Niemiec Przemysław",
+            "pais": "Polonia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol Team",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 1 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Salerno Cristiano",
+        "pais": "Italia",
+        "equipo": "Cannondale Pro Cycling Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Garmin Sharp",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 159.3,
+            "desnivel": 2101,
+            "velocidadMedia": 40.511
+        },
+        {
+            "etapa": 2,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 160.7,
+            "desnivel": 1473,
+            "velocidadMedia": 42.259
+        },
+        {
+            "etapa": 3,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 180.1,
+            "desnivel": 3486,
+            "velocidadMedia": 35.861
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 217.7,
+            "desnivel": 4777,
+            "velocidadMedia": 36.017
+        },
+        {
+            "etapa": 5,
+            "nombre": "Parisien François",
+            "pais": "Canadá",
+            "distancia": 156.5,
+            "desnivel": 1344,
+            "velocidadMedia": 44.29
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 178.7,
+            "desnivel": 2312,
+            "velocidadMedia": 45.477
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.4664
+        }
+    ]
+}

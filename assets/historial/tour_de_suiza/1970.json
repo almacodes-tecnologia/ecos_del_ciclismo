@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1970,
+    "distancia": 1629.0,
+    "desnivel": 0,
+    "tiempo": "43h 53' 27\"",
+    "ciclistasInscritos": 61,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Poggiali Roberto",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "equipo": "G.B.C. - Zimba",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mori Primo",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "den Hartog Arie",
+            "pais": "Países Bajos",
+            "equipo": "Caballero - Laurens",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rub Kurt",
+            "pais": "Suiza",
+            "equipo": "G.B.C. - Zimba",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 3 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 4 min 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vifian Bernard",
+            "pais": "Suiza",
+            "equipo": "Frimatic - De Gribaldy",
+            "ventaja": "+ 8 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 9 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bitossi Franco",
+        "pais": "Italia",
+        "equipo": "Filotex"
+    },
+    "ganadorMontana": {
+        "nombre": "den Hartog Arie",
+        "pais": "Países Bajos",
+        "equipo": "Caballero - Laurens"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Salvarani",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.67
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.29
+        },
+        {
+            "etapa": 2,
+            "nombre": "Beugels Eddy",
+            "pais": "Países Bajos",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.46
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.28
+        },
+        {
+            "etapa": 4,
+            "nombre": "Caverzasi Arnaldo",
+            "pais": "Italia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.08
+        },
+        {
+            "etapa": 5,
+            "nombre": "Steevens Harry",
+            "pais": "Países Bajos",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.17
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.86
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vianen Gerard",
+            "pais": "Países Bajos",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.72
+        },
+        {
+            "etapa": 8,
+            "nombre": "Zandegù Dino",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.03
+        },
+        {
+            "etapa": 9,
+            "nombre": "Fritz Albert",
+            "pais": "Alemania",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.36
+        }
+    ]
+}

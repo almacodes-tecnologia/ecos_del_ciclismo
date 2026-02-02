@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1982,
+    "distancia": 648.8,
+    "desnivel": 0,
+    "tiempo": "21h 34' 55\"",
+    "ciclistasInscritos": 37,
+    "ciclistasFinalizados": 30,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wilmann Jostein",
+            "pais": "Noruega",
+            "equipo": "Capri Sonne - Campagnolo - Merckx",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Prim Tommy",
+            "pais": "Suecia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Contini Silvano",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Grezet Jean-Marie",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "equipo": "Peugeot - Shell - Michelin",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Peugeot - Shell - Michelin",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Simon Pascal",
+            "pais": "Francia",
+            "equipo": "Peugeot - Shell - Michelin",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Alban Robert",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 3 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Müller Daniel",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Koppert René",
+            "pais": "Países Bajos",
+            "distancia": 3.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Prim Tommy",
+            "pais": "Suecia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Wilmann Jostein",
+            "pais": "Noruega",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jourdan Christian",
+            "pais": "Francia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Glaus Gilbert",
+            "pais": "Suiza",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 27.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bernaudeau Jean-René",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

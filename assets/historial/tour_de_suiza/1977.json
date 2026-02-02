@@ -1,0 +1,194 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1977,
+    "distancia": 1608.7,
+    "desnivel": 0,
+    "tiempo": "41h 39' 25\"",
+    "ciclistasInscritos": 63,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Flandria Velda",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Lejeune - BP",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pronk Bert",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sutter Ueli",
+            "pais": "Suiza",
+            "equipo": "Zonca",
+            "ventaja": "+ 2 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pujol Juan",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 2 min 35 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zweifel Albert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 4 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bergamo Marcello",
+            "pais": "Italia",
+            "equipo": "Zonca",
+            "ventaja": "+ 6 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 6 min 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pollentier Michel",
+        "pais": "Bélgica",
+        "equipo": "Flandria Velda"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Lejeune - BP"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Zonca",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.79
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.38
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 108.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.0
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 9.8,
+            "desnivel": 0,
+            "velocidadMedia": 28.66
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.95
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 226.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.82
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 172.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.47
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.08
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.6
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.79
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 19.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.95
+        }
+    ]
+}

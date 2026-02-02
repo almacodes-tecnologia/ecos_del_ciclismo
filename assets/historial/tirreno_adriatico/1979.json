@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1979,
+    "distancia": 897.5,
+    "desnivel": 0,
+    "tiempo": "24h 40' 33\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 20,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Conti Franco",
+            "pais": "Italia",
+            "equipo": "San Giacomo",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Gis",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Splendor",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Magniflex - Famcucine",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "equipo": "Lano - Boule d'Or",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 1 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 52.747
+        },
+        {
+            "etapa": 1,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "distancia": 197.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Algeri Vittorio",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

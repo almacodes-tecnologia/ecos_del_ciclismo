@@ -1,0 +1,194 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1976,
+    "distancia": 1466.5,
+    "desnivel": 0,
+    "tiempo": "39h 09' 02\"",
+    "ciclistasInscritos": 67,
+    "ciclistasFinalizados": 62,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Velda - West-Vlaams Vleesbedrijf",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Martins José Freitas",
+            "pais": "Portugal",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pronk Bert",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Romero André",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Velda - West-Vlaams Vleesbedrijf",
+            "ventaja": "+ 5 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 8 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Julien Ferdinand",
+            "pais": "Francia",
+            "equipo": "Lejeune - BP",
+            "ventaja": "+ 10 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Martínez Enrique",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 12 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maertens Freddy",
+        "pais": "Bélgica",
+        "equipo": "Flandria - Velda - West-Vlaams Vleesbedrijf"
+    },
+    "ganadorMontana": {
+        "nombre": "Martins José Freitas",
+        "pais": "Portugal",
+        "equipo": "Kas - Campagnolo"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.602
+        },
+        {
+            "etapa": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.344
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.52
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.926
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 108.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.648
+        },
+        {
+            "etapa": 4,
+            "nombre": "Savary René",
+            "pais": "Suiza",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.71
+        },
+        {
+            "etapa": 5,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 186.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.515
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "distancia": 172.5,
+            "desnivel": 0,
+            "velocidadMedia": 33.223
+        },
+        {
+            "etapa": 7,
+            "nombre": "Malfait Geert",
+            "pais": "Bélgica",
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.643
+        },
+        {
+            "etapa": 8,
+            "nombre": "Schmid Iwan",
+            "pais": "Suiza",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.221
+        },
+        {
+            "etapa": 9,
+            "nombre": "van Katwijk Piet",
+            "pais": "Países Bajos",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.005
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 23.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.338
+        }
+    ]
+}

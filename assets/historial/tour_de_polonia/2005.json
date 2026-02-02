@@ -1,0 +1,159 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2005,
+    "distancia": 1246.5,
+    "desnivel": 0,
+    "tiempo": "32h 11' 58\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 73,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hruška Jan",
+            "pais": "República Checa",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rutkiewicz Marek",
+            "pais": "Polonia",
+            "equipo": "Intel - Action",
+            "ventaja": "+ 2 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 3 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kirchen Kim",
+        "pais": "Luxemburgo",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Huzarski Bartosz",
+        "pais": "Polonia",
+        "equipo": "Intel - Action"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 149.6,
+            "desnivel": 0,
+            "velocidadMedia": 44.57
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 226.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.32
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.62
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 213.4,
+            "desnivel": 0,
+            "velocidadMedia": 39.66
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wegmann Fabian",
+            "pais": "Alemania",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.78
+        },
+        {
+            "etapa": 6,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.77
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "distancia": 61.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.97
+        },
+        {
+            "etapa": 7,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "distancia": 19.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.89
+        }
+    ]
+}

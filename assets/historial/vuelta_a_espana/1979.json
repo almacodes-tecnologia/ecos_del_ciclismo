@@ -1,0 +1,282 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1979,
+    "distancia": 3289.6,
+    "desnivel": 0,
+    "tiempo": "94h 57' 03\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 73,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Miko - Mercier",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas",
+            "ventaja": "+ 2 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Splendor",
+            "ventaja": "+ 3 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Moliner - Vereco",
+            "ventaja": "+ 5 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Kas",
+            "ventaja": "+ 6 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Transmallorca - Flavia - Gios",
+            "ventaja": "+ 6 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Yáñez Felipe",
+            "pais": "España",
+            "equipo": "Novostil - Helios",
+            "ventaja": "+ 7 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Seznec Christian",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier",
+            "ventaja": "+ 8 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "equipo": "Lano - Boule d'Or",
+            "ventaja": "+ 10 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Andiano Julián Carlos",
+            "pais": "España",
+            "equipo": "Moliner - Vereco",
+            "ventaja": "+ 10 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Wolf Fons",
+        "pais": "Bélgica",
+        "equipo": "Lano - Boule d'Or"
+    },
+    "ganadorMontana": {
+        "nombre": "Yáñez Felipe",
+        "pais": "España",
+        "equipo": "Novostil - Helios"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 6.3,
+            "desnivel": 0,
+            "velocidadMedia": 45.73
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.75
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Yáñez Felipe",
+            "pais": "España",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.29
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Cnijf Roger",
+            "pais": "Bélgica",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.59
+        },
+        {
+            "etapa": 5,
+            "nombre": "Argudo Juan",
+            "pais": "España",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.44
+        },
+        {
+            "etapa": 6,
+            "nombre": "Levavasseur Christian",
+            "pais": "Francia",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.584
+        },
+        {
+            "etapa": 7,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.63
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.51
+        },
+        {
+            "etapa": 8,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 11.3,
+            "desnivel": 0,
+            "velocidadMedia": 44.9
+        },
+        {
+            "etapa": 9,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.75
+        },
+        {
+            "etapa": 10,
+            "nombre": "Dejonckheere Noël",
+            "pais": "Bélgica",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.9
+        },
+        {
+            "etapa": 11,
+            "nombre": "Dejonckheere Noël",
+            "pais": "Bélgica",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.31
+        },
+        {
+            "etapa": 12,
+            "nombre": "Van Vlierberghe Frans",
+            "pais": "Bélgica",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.99
+        },
+        {
+            "etapa": 13,
+            "nombre": "López Ángel",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.96
+        },
+        {
+            "etapa": 14,
+            "nombre": "Alfonsel Bernardo",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.03
+        },
+        {
+            "etapa": 15,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.69
+        },
+        {
+            "etapa": 16,
+            "nombre": "van Houwelingen Adri",
+            "pais": "Países Bajos",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.06
+        },
+        {
+            "etapa": 16,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "distancia": 22.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.85
+        },
+        {
+            "etapa": 17,
+            "nombre": "Albelda Francisco Ramon",
+            "pais": "España",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.31
+        },
+        {
+            "etapa": 18,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.81
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bal Kees",
+            "pais": "Países Bajos",
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.07
+        },
+        {
+            "etapa": 19,
+            "nombre": "De Wolf Fons",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.5308
+        }
+    ]
+}

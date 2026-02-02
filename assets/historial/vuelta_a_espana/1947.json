@@ -1,0 +1,295 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1947,
+    "distancia": 3673.0,
+    "desnivel": 0,
+    "tiempo": "132h 27' 00\"",
+    "ciclistasInscritos": 47,
+    "ciclistasFinalizados": 26,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Dijck Edward",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Costa Manuel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 11 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 25 min 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Olmos Joaquín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 39 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Berrendero Julián",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 40 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pedrali Domenico",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 52 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Adriano Félix",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 1 h 0 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Renders Rik",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 4 min 30 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pérez Llácer José",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 18 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Rodríguez Delio",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Rodríguez Emilio",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.128
+        },
+        {
+            "etapa": 2,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.382
+        },
+        {
+            "etapa": 3,
+            "nombre": "Berrendero Julián",
+            "pais": "España",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.507
+        },
+        {
+            "etapa": 4,
+            "nombre": "Deledda Adolphe",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.806
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.432
+        },
+        {
+            "etapa": 6,
+            "nombre": "Aguirrezabal Cipriano",
+            "pais": "España",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.101
+        },
+        {
+            "etapa": 7,
+            "nombre": "Aguirrezabal Cipriano",
+            "pais": "España",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.422
+        },
+        {
+            "etapa": 8,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.34
+        },
+        {
+            "etapa": 9,
+            "nombre": "Adriano Félix",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.6
+        },
+        {
+            "etapa": 10,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 107.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.4
+        },
+        {
+            "etapa": 11,
+            "nombre": "Adriano Félix",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.243
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.584
+        },
+        {
+            "etapa": 13,
+            "nombre": "Jiménez Joaquín",
+            "pais": "España",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.121
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.351
+        },
+        {
+            "etapa": 15,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.36
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bertolucci Bruno",
+            "pais": "Italia",
+            "distancia": 101.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.707
+        },
+        {
+            "etapa": 16,
+            "nombre": "Van Dijck Edward",
+            "pais": "Bélgica",
+            "distancia": 70.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.639
+        },
+        {
+            "etapa": 17,
+            "nombre": "Mesa Senén",
+            "pais": "España",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.057
+        },
+        {
+            "etapa": 18,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 70.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.766
+        },
+        {
+            "etapa": 19,
+            "nombre": "Fombellida Alejandro",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.463
+        },
+        {
+            "etapa": 20,
+            "nombre": "Adriano Félix",
+            "pais": "Italia",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.601
+        },
+        {
+            "etapa": 21,
+            "nombre": "Fombellida Alejandro",
+            "pais": "España",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.275
+        },
+        {
+            "etapa": 22,
+            "nombre": "Van Dijck Edward",
+            "pais": "Bélgica",
+            "distancia": 47.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.048
+        },
+        {
+            "etapa": 23,
+            "nombre": "Rodríguez Delio",
+            "pais": "España",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.647
+        },
+        {
+            "etapa": 24,
+            "nombre": "Olmos Joaquín",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.6647
+        }
+    ]
+}

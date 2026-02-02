@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2013,
+    "distancia": 1164.4,
+    "desnivel": 14635,
+    "tiempo": "29h 59' 47\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 151,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Westra Lieuwe",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Velits Peter",
+            "pais": "Eslovaquia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 2 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Chavanel Sylvain",
+        "pais": "Francia",
+        "equipo": "Omega Pharma - Quick-Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Tschopp Johann",
+        "pais": "Suiza",
+        "equipo": "IAM Cycling"
+    },
+    "ganadorJovenes": {
+        "nombre": "Talansky Andrew",
+        "pais": "Estados Unidos",
+        "equipo": "Garmin Sharp"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Gaudin Damien",
+            "pais": "Francia",
+            "distancia": 2.9,
+            "desnivel": 51,
+            "velocidadMedia": 48.111
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 1248,
+            "velocidadMedia": 40.71
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 200.5,
+            "desnivel": 1810,
+            "velocidadMedia": 35.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "distancia": 170.5,
+            "desnivel": 1658,
+            "velocidadMedia": 41.543
+        },
+        {
+            "etapa": 4,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 199.5,
+            "desnivel": 3176,
+            "velocidadMedia": 40.482
+        },
+        {
+            "etapa": 5,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 176.0,
+            "desnivel": 3482,
+            "velocidadMedia": 36.3
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 3210,
+            "velocidadMedia": 41.987
+        },
+        {
+            "etapa": 7,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.1344
+        }
+    ]
+}

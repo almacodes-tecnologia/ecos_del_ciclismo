@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2007,
+    "distancia": 1125.6,
+    "desnivel": 0,
+    "tiempo": "30h 07' 23\"",
+    "ciclistasInscritos": 164,
+    "ciclistasFinalizados": 137,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vladimir Karpets",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Devolder Stijn",
+            "pais": "Bélgica",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Carrara Matteo",
+            "pais": "Italia",
+            "equipo": "Unibet.com",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Efimkin Vladimir",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Glomser Gerrit",
+            "pais": "Austria",
+            "equipo": "Team Volksbank",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Unibet.com",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "+ 3 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennati Daniele",
+        "pais": "Italia",
+        "equipo": "Lampre-Fondital"
+    },
+    "ganadorMontana": {
+        "nombre": "Gusev Vladimir",
+        "pais": "Rusia",
+        "equipo": "Discovery Channel Pro Cycling Team "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Caisse d'Epargne",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 3.8,
+            "desnivel": 0,
+            "velocidadMedia": 52.615
+        },
+        {
+            "etapa": 1,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 158.6,
+            "desnivel": 0,
+            "velocidadMedia": 38.851
+        },
+        {
+            "etapa": 2,
+            "nombre": "Proni Alessandro",
+            "pais": "Italia",
+            "distancia": 228.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.876
+        },
+        {
+            "etapa": 3,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "distancia": 167.2,
+            "desnivel": 0,
+            "velocidadMedia": 38.493
+        },
+        {
+            "etapa": 4,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 194.1,
+            "desnivel": 0,
+            "velocidadMedia": 39.391
+        },
+        {
+            "etapa": 5,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "distancia": 95.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.514
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gusev Vladimir",
+            "pais": "Rusia",
+            "distancia": 125.7,
+            "desnivel": 0,
+            "velocidadMedia": 32.254
+        },
+        {
+            "etapa": 7,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "distancia": 152.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.811
+        },
+        {
+            "etapa": 8,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5024
+        }
+    ]
+}

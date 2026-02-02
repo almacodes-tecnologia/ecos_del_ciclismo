@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2017,
+    "distancia": 3188.5,
+    "desnivel": 50996,
+    "tiempo": "82h 30' 02\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 158,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 6 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 8 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 9 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 11 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 15 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Froome Chris",
+        "pais": "Reino Unido",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "Villella Davide",
+        "pais": "Italia",
+        "equipo": "Cannondale - Drapac Pro Cycling Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 13.7,
+            "desnivel": 122,
+            "velocidadMedia": 51.48
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lampaert Yves",
+            "pais": "Bélgica",
+            "distancia": 203.4,
+            "desnivel": 588,
+            "velocidadMedia": 44.18
+        },
+        {
+            "etapa": 3,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 158.5,
+            "desnivel": 3623,
+            "velocidadMedia": 39.4
+        },
+        {
+            "etapa": 4,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 198.2,
+            "desnivel": 1835,
+            "velocidadMedia": 41.88
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "distancia": 157.7,
+            "desnivel": 2909,
+            "velocidadMedia": 35.71
+        },
+        {
+            "etapa": 6,
+            "nombre": "Marczyński Tomasz",
+            "pais": "Polonia",
+            "distancia": 204.4,
+            "desnivel": 2704,
+            "velocidadMedia": 42.73
+        },
+        {
+            "etapa": 7,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 207.0,
+            "desnivel": 3034,
+            "velocidadMedia": 43.8
+        },
+        {
+            "etapa": 8,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 199.5,
+            "desnivel": 2593,
+            "velocidadMedia": 43.07
+        },
+        {
+            "etapa": 9,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 174.0,
+            "desnivel": 2041,
+            "velocidadMedia": 42.23
+        },
+        {
+            "etapa": 10,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 164.8,
+            "desnivel": 1568,
+            "velocidadMedia": 46.0
+        },
+        {
+            "etapa": 11,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "distancia": 187.5,
+            "desnivel": 3878,
+            "velocidadMedia": 36.87
+        },
+        {
+            "etapa": 12,
+            "nombre": "Marczyński Tomasz",
+            "pais": "Polonia",
+            "distancia": 160.1,
+            "desnivel": 2681,
+            "velocidadMedia": 40.57
+        },
+        {
+            "etapa": 13,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 198.4,
+            "desnivel": 1938,
+            "velocidadMedia": 44.88
+        },
+        {
+            "etapa": 14,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 175.0,
+            "desnivel": 3723,
+            "velocidadMedia": 37.21
+        },
+        {
+            "etapa": 15,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "distancia": 129.4,
+            "desnivel": 3549,
+            "velocidadMedia": 36.14
+        },
+        {
+            "etapa": 16,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 40.2,
+            "desnivel": 411,
+            "velocidadMedia": 51.32
+        },
+        {
+            "etapa": 17,
+            "nombre": "Denifl Stefan",
+            "pais": "Austria",
+            "distancia": 180.5,
+            "desnivel": 4022,
+            "velocidadMedia": 37.49
+        },
+        {
+            "etapa": 18,
+            "nombre": "Armée Sander",
+            "pais": "Bélgica",
+            "distancia": 169.0,
+            "desnivel": 3476,
+            "velocidadMedia": 40.62
+        },
+        {
+            "etapa": 19,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 149.7,
+            "desnivel": 2484,
+            "velocidadMedia": 41.63
+        },
+        {
+            "etapa": 20,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 117.5,
+            "desnivel": 3817,
+            "velocidadMedia": 33.33
+        },
+        {
+            "etapa": 21,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.0702
+        }
+    ]
+}

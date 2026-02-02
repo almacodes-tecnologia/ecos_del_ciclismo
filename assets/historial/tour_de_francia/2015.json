@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2015,
+    "distancia": 3360.3,
+    "desnivel": 48699,
+    "tiempo": "84h 46' 14\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 160,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 5 min 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 8 min 36 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 9 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 10 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 15 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 15 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 16 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rolland Pierre",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 17 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Tinkoff - Saxo"
+    },
+    "ganadorMontana": {
+        "nombre": "Froome Chris",
+        "pais": "Reino Unido",
+        "equipo": "Team Sky"
+    },
+    "ganadorJovenes": {
+        "nombre": "Quintana Nairo",
+        "pais": "Colombia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 13.8,
+            "desnivel": 28,
+            "velocidadMedia": 55.45
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 166.0,
+            "desnivel": 241,
+            "velocidadMedia": 47.64
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 159.5,
+            "desnivel": 1435,
+            "velocidadMedia": 46.25
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 223.5,
+            "desnivel": 1552,
+            "velocidadMedia": 40.76
+        },
+        {
+            "etapa": 5,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 189.5,
+            "desnivel": 1606,
+            "velocidadMedia": 40.75
+        },
+        {
+            "etapa": 6,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "distancia": 191.5,
+            "desnivel": 1694,
+            "velocidadMedia": 39.11
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 190.5,
+            "desnivel": 1694,
+            "velocidadMedia": 42.74
+        },
+        {
+            "etapa": 8,
+            "nombre": "Vuillermoz Alexis",
+            "pais": "Francia",
+            "distancia": 181.5,
+            "desnivel": 2057,
+            "velocidadMedia": 41.74
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 28.0,
+            "desnivel": 401,
+            "velocidadMedia": 52.09
+        },
+        {
+            "etapa": 10,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 167.0,
+            "desnivel": 2655,
+            "velocidadMedia": 38.23
+        },
+        {
+            "etapa": 11,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 188.0,
+            "desnivel": 4099,
+            "velocidadMedia": 37.35
+        },
+        {
+            "etapa": 12,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 195.0,
+            "desnivel": 4948,
+            "velocidadMedia": 34.39
+        },
+        {
+            "etapa": 13,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "distancia": 198.5,
+            "desnivel": 2299,
+            "velocidadMedia": 41.98
+        },
+        {
+            "etapa": 14,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "distancia": 178.5,
+            "desnivel": 2772,
+            "velocidadMedia": 40.61
+        },
+        {
+            "etapa": 15,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 183.0,
+            "desnivel": 1993,
+            "velocidadMedia": 46.41
+        },
+        {
+            "etapa": 16,
+            "nombre": "Plaza Rubén",
+            "pais": "España",
+            "distancia": 201.0,
+            "desnivel": 2322,
+            "velocidadMedia": 44.64
+        },
+        {
+            "etapa": 17,
+            "nombre": "Geschke Simon",
+            "pais": "Alemania",
+            "distancia": 161.0,
+            "desnivel": 4208,
+            "velocidadMedia": 38.29
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "distancia": 186.5,
+            "desnivel": 4424,
+            "velocidadMedia": 36.85
+        },
+        {
+            "etapa": 19,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 138.0,
+            "desnivel": 4545,
+            "velocidadMedia": 31.5
+        },
+        {
+            "etapa": 20,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 110.5,
+            "desnivel": 3164,
+            "velocidadMedia": 33.6
+        },
+        {
+            "etapa": 21,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 109.5,
+            "desnivel": 562,
+            "velocidadMedia": 38.72
+        }
+    ]
+}

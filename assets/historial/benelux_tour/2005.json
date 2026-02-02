@@ -1,0 +1,166 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2005,
+    "distancia": 1203.7,
+    "desnivel": 0,
+    "tiempo": "29h 08' 01\"",
+    "ciclistasInscritos": 181,
+    "ciclistasFinalizados": 136,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "equipo": "CSC ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hoste Leif",
+            "pais": "Bélgica",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Blaudzun Michael",
+            "pais": "Dinamarca",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Verbrugghe Rik",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Barredo Carlos",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Klier Andreas",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ivanov Sergei",
+            "pais": "Rusia",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 2 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Davis Allan",
+        "pais": "Australia",
+        "equipo": "Liberty Seguros - Würth Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Vande Velde Christian",
+        "pais": "Estados Unidos",
+        "equipo": "CSC ProTeam"
+    },
+    "ganadorJovenes": {
+        "nombre": "Dekker Thomas",
+        "pais": "Países Bajos",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorEquipos": {
+        "nombre": " Liberty Seguros - Würth Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Verbrugghe Rik",
+            "pais": "Bélgica",
+            "distancia": 5.7,
+            "desnivel": 0,
+            "velocidadMedia": 50.67
+        },
+        {
+            "etapa": 1,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cadamuro Simone",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.65
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.02
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.41
+        },
+        {
+            "etapa": 6,
+            "nombre": "van Dijk Stefan",
+            "pais": "Países Bajos",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.92
+        },
+        {
+            "etapa": 7,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.2193
+        }
+    ]
+}

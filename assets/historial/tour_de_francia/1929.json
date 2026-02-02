@@ -1,0 +1,263 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1929,
+    "distancia": 4926.0,
+    "desnivel": 0,
+    "tiempo": "186h 39' 15\"",
+    "ciclistasInscritos": 155,
+    "ciclistasFinalizados": 60,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pancera Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 44 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Demuysere Joseph",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 57 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 57 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "+ 58 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Delannoy Louis",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 6 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 1 h 8 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vervaecke Julien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 1 min 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Magne Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 h 3 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rebry Gaston",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 17 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dossche Aimé",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.782
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.2
+        },
+        {
+            "etapa": 3,
+            "nombre": "Taverne Omer",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.33
+        },
+        {
+            "etapa": 4,
+            "nombre": "Delannoy Louis",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.75
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Slembrouck Gustave",
+            "pais": "Bélgica",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.08
+        },
+        {
+            "etapa": 6,
+            "nombre": "Le Drogo Paul",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.25
+        },
+        {
+            "etapa": 7,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 285.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.92
+        },
+        {
+            "etapa": 8,
+            "nombre": "Moineau Julien",
+            "pais": "Francia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.46
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "distancia": 363.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.96
+        },
+        {
+            "etapa": 10,
+            "nombre": "Demuysere Joseph",
+            "pais": "Bélgica",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.58
+        },
+        {
+            "etapa": 11,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 366.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.86
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bidot Marcel",
+            "pais": "Francia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.03
+        },
+        {
+            "etapa": 13,
+            "nombre": "Faure Benoît",
+            "pais": "Francia",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.3
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rebry Gaston",
+            "pais": "Bélgica",
+            "distancia": 333.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.0
+        },
+        {
+            "etapa": 15,
+            "nombre": "Vervaecke Julien",
+            "pais": "Bélgica",
+            "distancia": 329.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.0
+        },
+        {
+            "etapa": 16,
+            "nombre": "Pélissier Charles",
+            "pais": "Francia",
+            "distancia": 283.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.58
+        },
+        {
+            "etapa": 17,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.54
+        },
+        {
+            "etapa": 18,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.52
+        },
+        {
+            "etapa": 19,
+            "nombre": "Van Rysselberghe Bernard",
+            "pais": "Bélgica",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.58
+        },
+        {
+            "etapa": 20,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "distancia": 270.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.12
+        },
+        {
+            "etapa": 21,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.82
+        },
+        {
+            "etapa": 22,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.1689
+        }
+    ]
+}

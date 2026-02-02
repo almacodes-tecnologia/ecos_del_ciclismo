@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2014,
+    "distancia": 614.9,
+    "desnivel": 9120,
+    "tiempo": "16h 18' 46\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 122,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Herrada Jesús",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ.fr ",
+            "ventaja": "+ 2 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Tschopp Johann",
+        "pais": "Suiza",
+        "equipo": "IAM Cycling"
+    },
+    "ganadorJovenes": {
+        "nombre": "Herrada Jesús",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 5.57,
+            "desnivel": 6,
+            "velocidadMedia": 52.49
+        },
+        {
+            "etapa": 1,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 88.6,
+            "desnivel": 1012,
+            "velocidadMedia": 40.52
+        },
+        {
+            "etapa": 2,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 166.5,
+            "desnivel": 1834,
+            "velocidadMedia": 39.59
+        },
+        {
+            "etapa": 3,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "distancia": 180.2,
+            "desnivel": 3768,
+            "velocidadMedia": 34.95
+        },
+        {
+            "etapa": 4,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 174.0,
+            "desnivel": 2500,
+            "velocidadMedia": 41.05
+        },
+        {
+            "etapa": 5,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8227
+        }
+    ]
+}

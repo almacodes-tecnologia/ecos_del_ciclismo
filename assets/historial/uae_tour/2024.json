@@ -1,0 +1,154 @@
+{
+    "idCarrera": "uae-tour",
+    "anio": 2024,
+    "distancia": 978.1,
+    "desnivel": 6130,
+    "tiempo": "22h 31' 18\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 129,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Eetvelt Lennert",
+            "pais": "Bélgica",
+            "equipo": "Lotto Dstny",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Wilder Ilan",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valter Attila",
+            "pais": "Hungría",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Storer Michael",
+            "pais": "Australia",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Poole Max",
+            "pais": "Reino Unido",
+            "equipo": "Team dsm-firmenich PostNL",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rivera Brandon Smith",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Verona Carlos",
+            "pais": "España",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lemmen Bart",
+            "pais": "Países Bajos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Merlier Tim",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Van Eetvelt Lennert",
+        "pais": "Bélgica",
+        "equipo": "Lotto Dstny"
+    },
+    "ganadorEquipos": {
+        "nombre": " Lidl - Trek",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 141.0,
+            "desnivel": 1391,
+            "velocidadMedia": 44.546
+        },
+        {
+            "etapa": 2,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "distancia": 12.1,
+            "desnivel": 2,
+            "velocidadMedia": 53.978
+        },
+        {
+            "etapa": 3,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "distancia": 176.0,
+            "desnivel": 2029,
+            "velocidadMedia": 41.194
+        },
+        {
+            "etapa": 4,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 168.0,
+            "desnivel": 288,
+            "velocidadMedia": 41.69
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 182.0,
+            "desnivel": 1043,
+            "velocidadMedia": 43.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 138.0,
+            "desnivel": 110,
+            "velocidadMedia": 45.436
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Eetvelt Lennert",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 1267,
+            "velocidadMedia": 44.217
+        }
+    ]
+}

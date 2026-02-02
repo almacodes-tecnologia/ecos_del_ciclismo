@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1986,
+    "distancia": 1775.1,
+    "desnivel": 0,
+    "tiempo": "48h 24' 12\"",
+    "ciclistasInscritos": 86,
+    "ciclistasFinalizados": 74,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Panasonic",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zimmermann Urs",
+            "pais": "Suiza",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 3 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "PDM - Concorde",
+            "ventaja": "+ 7 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Brykt Stefan",
+            "pais": "Suecia",
+            "equipo": "",
+            "ventaja": "+ 8 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Schmutz Gottfried",
+            "pais": "Suiza",
+            "equipo": "Cilo",
+            "ventaja": "+ 9 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Leclercq Jean-Claude",
+            "pais": "Francia",
+            "equipo": "Kas",
+            "ventaja": "+ 11 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "equipo": "Kas",
+            "ventaja": "+ 12 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "LeMond Greg",
+        "pais": "Estados Unidos",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Breukink Erik",
+        "pais": "Países Bajos",
+        "equipo": "Panasonic"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Panasonic",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.24
+        },
+        {
+            "etapa": 1,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 177.6,
+            "desnivel": 0,
+            "velocidadMedia": 41.99
+        },
+        {
+            "etapa": 2,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 136.5,
+            "desnivel": 0,
+            "velocidadMedia": 33.06
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rosola Paolo",
+            "pais": "Italia",
+            "distancia": 217.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.02
+        },
+        {
+            "etapa": 4,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "distancia": 256.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.85
+        },
+        {
+            "etapa": 5,
+            "nombre": "Leclercq Jean-Claude",
+            "pais": "Francia",
+            "distancia": 24.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.72
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.06
+        },
+        {
+            "etapa": 7,
+            "nombre": "Nulens Guy",
+            "pais": "Bélgica",
+            "distancia": 142.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9
+        },
+        {
+            "etapa": 8,
+            "nombre": "Winterberg Guido",
+            "pais": "Suiza",
+            "distancia": 226.5,
+            "desnivel": 0,
+            "velocidadMedia": 33.38
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Lancker Eric",
+            "pais": "Bélgica",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 11,
+            "nombre": "Ghirotto Massimo",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.82
+        }
+    ]
+}

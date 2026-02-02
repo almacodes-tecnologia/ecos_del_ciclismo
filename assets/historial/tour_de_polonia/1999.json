@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1999,
+    "distancia": 1164.0,
+    "desnivel": 0,
+    "tiempo": "27h 52' 53\"",
+    "ciclistasInscritos": 139,
+    "ciclistasFinalizados": 70,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Brożyna Tomasz",
+            "pais": "Polonia",
+            "equipo": "Mróz",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zamana Cezary",
+            "pais": "Polonia",
+            "equipo": "Mróz",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "equipo": "Mróz",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wadecki Piotr",
+            "pais": "Polonia",
+            "equipo": "Mróz",
+            "ventaja": "+ 3 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Nozal Isidro",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 4 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Voskamp Bart",
+            "pais": "Países Bajos",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "+ 5 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Leproux Denis",
+            "pais": "Francia",
+            "equipo": "BigMat - Auber 93",
+            "ventaja": "+ 5 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Piątek Zbigniew",
+            "pais": "Polonia",
+            "equipo": "Mróz",
+            "ventaja": "+ 6 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Wadecki Piotr",
+        "pais": "Polonia",
+        "equipo": "Mróz"
+    },
+    "ganadorMontana": {
+        "nombre": "Przydział Piotr",
+        "pais": "Polonia",
+        "equipo": "Mróz"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mróz",
+        "pais": "Polonia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Mondini Gianpaolo",
+            "pais": "Italia",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.163
+        },
+        {
+            "etapa": 2,
+            "nombre": "Strazzer Massimo",
+            "pais": "Italia",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 44.614
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.297
+        },
+        {
+            "etapa": 4,
+            "nombre": "Krasiński Artur",
+            "pais": "Polonia",
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.987
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wadecki Piotr",
+            "pais": "Polonia",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.818
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "distancia": 171.5,
+            "desnivel": 0,
+            "velocidadMedia": 35.556
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "distancia": 23.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8
+        }
+    ]
+}

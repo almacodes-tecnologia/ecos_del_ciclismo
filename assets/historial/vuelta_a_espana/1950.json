@@ -1,0 +1,291 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1950,
+    "distancia": 4010.0,
+    "desnivel": 0,
+    "tiempo": "134h 49' 19\"",
+    "ciclistasInscritos": 42,
+    "ciclistasFinalizados": 26,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rodríguez Manuel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 15 min 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Serra José",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 16 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ruiz Bernardo",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 19 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Drei Umberto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 25 min 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mesa Senén",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 31 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Capó Bernardo",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 36 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ridolfi Alighiero",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 46 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gelabert Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 47 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 0 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Rodríguez Emilio",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Braeckevelt Omer",
+            "pais": "Bélgica",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.042
+        },
+        {
+            "etapa": 2,
+            "nombre": "Evens Rik",
+            "pais": "Bélgica",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.594
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.337
+        },
+        {
+            "etapa": 4,
+            "nombre": "Miró Agustín",
+            "pais": "España",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.723
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "distancia": 78.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.88
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gelabert Antonio",
+            "pais": "España",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.935
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.725
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "distancia": 109.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.32
+        },
+        {
+            "etapa": 8,
+            "nombre": "Capó Bernardo",
+            "pais": "España",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.217
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ruiz Bernardo",
+            "pais": "España",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.316
+        },
+        {
+            "etapa": 9,
+            "nombre": "Drei Umberto",
+            "pais": "Italia",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.599
+        },
+        {
+            "etapa": 10,
+            "nombre": "Serra José",
+            "pais": "España",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.906
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.442
+        },
+        {
+            "etapa": 12,
+            "nombre": "Navarro Luis",
+            "pais": "España",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.255
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sánchez Antonio",
+            "pais": "España",
+            "distancia": 65.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.374
+        },
+        {
+            "etapa": 14,
+            "nombre": "Drei Umberto",
+            "pais": "Italia",
+            "distancia": 265.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.631
+        },
+        {
+            "etapa": 15,
+            "nombre": "Drei Umberto",
+            "pais": "Italia",
+            "distancia": 117.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.987
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ridolfi Alighiero",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.13
+        },
+        {
+            "etapa": 17,
+            "nombre": "Drei Umberto",
+            "pais": "Italia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.725
+        },
+        {
+            "etapa": 18,
+            "nombre": "Gelabert Antonio",
+            "pais": "España",
+            "distancia": 268.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.119
+        },
+        {
+            "etapa": 19,
+            "nombre": "Trobat Andrés",
+            "pais": "España",
+            "distancia": 56.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.413
+        },
+        {
+            "etapa": 19,
+            "nombre": "Serra José",
+            "pais": "España",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7
+        },
+        {
+            "etapa": 20,
+            "nombre": "García Victorio",
+            "pais": "España",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.536
+        },
+        {
+            "etapa": 21,
+            "nombre": "Capó Bernardo",
+            "pais": "España",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.125
+        },
+        {
+            "etapa": 22,
+            "nombre": "Rodríguez Emilio",
+            "pais": "España",
+            "distancia": 117.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.734
+        }
+    ]
+}

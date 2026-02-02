@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1961,
+    "distancia": 1357.5,
+    "desnivel": 0,
+    "tiempo": "37h 08' 06\"",
+    "ciclistasInscritos": 47,
+    "ciclistasFinalizados": 44,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Moresi Attilio",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Couvreur Hilaire",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 4 min 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 7 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mazzacurati Italo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 9 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Barale Germano",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 13 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Azzini Carlo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 13 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bono Ernesto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 13 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Planckaert Joseph",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 14 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Di Maria Arnaldo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 20 min 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 22 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Moresi Attilio",
+        "pais": "Suiza",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Couvreur Hilaire",
+        "pais": "Bélgica",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.84
+        },
+        {
+            "etapa": 2,
+            "nombre": "Molenaers Yvo",
+            "pais": "Bélgica",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.05
+        },
+        {
+            "etapa": 3,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.62
+        },
+        {
+            "etapa": 4,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "distancia": 74.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.85
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.7
+        },
+        {
+            "etapa": 6,
+            "nombre": "Meuleman Maurice",
+            "pais": "Bélgica",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.85
+        },
+        {
+            "etapa": 7,
+            "nombre": "Oldenburg Horst",
+            "pais": "Alemania",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.82
+        }
+    ]
+}

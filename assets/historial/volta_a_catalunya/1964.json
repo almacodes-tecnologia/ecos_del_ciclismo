@@ -1,0 +1,183 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1964,
+    "distancia": 1146.9,
+    "desnivel": 0,
+    "tiempo": "36h 14' 17\"",
+    "ciclistasInscritos": 55,
+    "ciclistasFinalizados": 43,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Carrara Joseph",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fabbri Pasquale",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 4 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Honrubia Salvador",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 7 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hernández Rogelio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 8 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 8 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Nardello Primo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 9 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 10 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 10 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 11 min 24 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Nardello Primo",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Gómez Antonio",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Nardello Primo",
+            "pais": "Italia",
+            "distancia": 69.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.98
+        },
+        {
+            "etapa": 1,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "distancia": 94.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.906
+        },
+        {
+            "etapa": 2,
+            "nombre": "Morales Roberto",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.7
+        },
+        {
+            "etapa": 3,
+            "nombre": "Carrara Joseph",
+            "pais": "Francia",
+            "distancia": 142.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.514
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.545
+        },
+        {
+            "etapa": 4,
+            "nombre": "Urrestarazu Jacinto",
+            "pais": "España",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.17
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bölke Winfried",
+            "pais": "Alemania",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.98
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.96
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rentmeester Piet",
+            "pais": "Países Bajos",
+            "distancia": 97.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "distancia": 18.9,
+            "desnivel": 0,
+            "velocidadMedia": 44.182
+        },
+        {
+            "etapa": 8,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.613
+        }
+    ]
+}

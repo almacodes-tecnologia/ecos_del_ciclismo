@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2002,
+    "distancia": 629.3,
+    "desnivel": 0,
+    "tiempo": "15h 53' 44\"",
+    "ciclistasInscritos": 131,
+    "ciclistasFinalizados": 104,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "equipo": "Tacconi Sport",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "Team Coast",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pérez Santiago",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam - Tiscali",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Moos Alexandre",
+            "pais": "Suiza",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mazzoleni Eddy",
+            "pais": "Italia",
+            "equipo": "Tacconi Sport",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cuesta Iñigo",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zülle Alex",
+        "pais": "Suiza",
+        "equipo": "Team Coast"
+    },
+    "ganadorMontana": {
+        "nombre": "Zampieri Steve",
+        "pais": "Suiza",
+        "equipo": "Tacconi Sport"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Cofidis",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Verbrugghe Rik",
+            "pais": "Bélgica",
+            "distancia": 3.2,
+            "desnivel": 0,
+            "velocidadMedia": 45.53
+        },
+        {
+            "etapa": 1,
+            "nombre": "Lombardi Giovanni",
+            "pais": "Italia",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.11
+        },
+        {
+            "etapa": 2,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "distancia": 172.8,
+            "desnivel": 0,
+            "velocidadMedia": 46.04
+        },
+        {
+            "etapa": 3,
+            "nombre": "Lombardi Giovanni",
+            "pais": "Italia",
+            "distancia": 180.3,
+            "desnivel": 0,
+            "velocidadMedia": 40.66
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 86.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.29
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.7345
+        }
+    ]
+}

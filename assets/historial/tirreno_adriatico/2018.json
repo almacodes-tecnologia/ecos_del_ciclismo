@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2018,
+    "distancia": 956.0,
+    "desnivel": 12536,
+    "tiempo": "25h 32' 56\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 135,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Benoot Tiesj",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rosón Jaime",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Team EF Education First - Drapac p/b Cannondale",
+            "ventaja": "+ 1 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mosca Jacopo",
+        "pais": "Italia",
+        "equipo": "Wilier Triestina - Selle Italia"
+    },
+    "ganadorMontana": {
+        "nombre": "Bagioli Nicola",
+        "pais": "Italia",
+        "equipo": "Nippo - Vini Fantini - Europa Ovini"
+    },
+    "ganadorJovenes": {
+        "nombre": "Benoot Tiesj",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 2,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 167.0,
+            "desnivel": 776,
+            "velocidadMedia": 39.7
+        },
+        {
+            "etapa": 3,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 239.0,
+            "desnivel": 3177,
+            "velocidadMedia": 37.2
+        },
+        {
+            "etapa": 4,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 219.0,
+            "desnivel": 4704,
+            "velocidadMedia": 34.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 178.0,
+            "desnivel": 1946,
+            "velocidadMedia": 41.62
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 153.0,
+            "desnivel": 1933,
+            "velocidadMedia": 39.93
+        },
+        {
+            "etapa": 7,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.6517
+        }
+    ]
+}

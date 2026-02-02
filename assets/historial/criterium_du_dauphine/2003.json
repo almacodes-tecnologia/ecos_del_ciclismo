@@ -1,0 +1,137 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2003,
+    "distancia": 1013.5,
+    "desnivel": 0,
+    "tiempo": "29h 31' 53\"",
+    "ciclistasInscritos": 120,
+    "ciclistasFinalizados": 90,
+    "clasificacionGeneral": [
+        {
+            "puesto": 2,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 4 min 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chaurreau Íñigo",
+            "pais": "España",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 5 min 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 6 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dessel Cyril",
+            "pais": "Francia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 7 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "López de Munain Alberto",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 8 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mayo Iban",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorMontana": {
+        "nombre": "Mayo Iban",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mercado Juan Miguel",
+        "pais": "España",
+        "equipo": "iBanesto.com"
+    },
+    "ganadorEquipos": {
+        "nombre": " iBanesto.com",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "distancia": 5.1,
+            "desnivel": 0,
+            "velocidadMedia": 35.04
+        },
+        {
+            "etapa": 1,
+            "nombre": "Stoyanov Plamen",
+            "pais": "Bulgaria",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.54
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.37
+        },
+        {
+            "etapa": 4,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.77
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lefèvre Laurent",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.24
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.44
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vasseur Cédric",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.2115
+        }
+    ]
+}

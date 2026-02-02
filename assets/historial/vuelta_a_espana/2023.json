@@ -1,0 +1,270 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2023,
+    "distancia": 3157.9,
+    "desnivel": 52973,
+    "tiempo": "76h 48' 21\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 148,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 7 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 8 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 10 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Buitrago Santiago",
+            "pais": "Colombia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 11 min 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Groves Kaden",
+        "pais": "Australia",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorMontana": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ayuso Juan",
+        "pais": "España",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Jumbo-Visma",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 14.8,
+            "desnivel": 60,
+            "velocidadMedia": 50.74
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kron Andreas",
+            "pais": "Dinamarca",
+            "distancia": 181.8,
+            "desnivel": 2754,
+            "velocidadMedia": 41.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 158.5,
+            "desnivel": 3472,
+            "velocidadMedia": 37.199
+        },
+        {
+            "etapa": 4,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 184.6,
+            "desnivel": 1822,
+            "velocidadMedia": 45.082
+        },
+        {
+            "etapa": 5,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 186.2,
+            "desnivel": 2395,
+            "velocidadMedia": 42.364
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "distancia": 183.1,
+            "desnivel": 4013,
+            "velocidadMedia": 41.072
+        },
+        {
+            "etapa": 7,
+            "nombre": "Soupe Geoffrey",
+            "pais": "Francia",
+            "distancia": 200.8,
+            "desnivel": 1144,
+            "velocidadMedia": 40.636
+        },
+        {
+            "etapa": 8,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 165.0,
+            "desnivel": 3619,
+            "velocidadMedia": 38.997
+        },
+        {
+            "etapa": 9,
+            "nombre": "Kämna Lennard",
+            "pais": "Alemania",
+            "distancia": 184.5,
+            "desnivel": 3041,
+            "velocidadMedia": 41.155
+        },
+        {
+            "etapa": 10,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 25.8,
+            "desnivel": 115,
+            "velocidadMedia": 55.986
+        },
+        {
+            "etapa": 11,
+            "nombre": "Herrada Jesús",
+            "pais": "España",
+            "distancia": 163.2,
+            "desnivel": 2203,
+            "velocidadMedia": 46.788
+        },
+        {
+            "etapa": 12,
+            "nombre": "Molano Juan Sebastián",
+            "pais": "Colombia",
+            "distancia": 150.6,
+            "desnivel": 865,
+            "velocidadMedia": 44.385
+        },
+        {
+            "etapa": 13,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 134.7,
+            "desnivel": 4266,
+            "velocidadMedia": 34.962
+        },
+        {
+            "etapa": 14,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 156.2,
+            "desnivel": 4531,
+            "velocidadMedia": 36.951
+        },
+        {
+            "etapa": 15,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "distancia": 158.3,
+            "desnivel": 2494,
+            "velocidadMedia": 45.028
+        },
+        {
+            "etapa": 16,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 120.1,
+            "desnivel": 2122,
+            "velocidadMedia": 45.497
+        },
+        {
+            "etapa": 17,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 124.4,
+            "desnivel": 3269,
+            "velocidadMedia": 38.095
+        },
+        {
+            "etapa": 18,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 178.9,
+            "desnivel": 4630,
+            "velocidadMedia": 37.321
+        },
+        {
+            "etapa": 19,
+            "nombre": "Dainese Alberto",
+            "pais": "Italia",
+            "distancia": 177.1,
+            "desnivel": 919,
+            "velocidadMedia": 47.833
+        },
+        {
+            "etapa": 20,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 207.8,
+            "desnivel": 4361,
+            "velocidadMedia": 41.632
+        },
+        {
+            "etapa": 21,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 101.5,
+            "desnivel": 878,
+            "velocidadMedia": 42.228
+        }
+    ]
+}

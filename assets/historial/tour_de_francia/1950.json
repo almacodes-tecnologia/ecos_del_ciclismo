@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1950,
+    "distancia": 4460.0,
+    "desnivel": 51607,
+    "tiempo": "145h 36' 56\"",
+    "ciclistasInscritos": 116,
+    "ciclistasFinalizados": 51,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 9 min 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 22 min 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 31 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kirchen Jean",
+            "pais": "Luxemburgo",
+            "equipo": "Luxembourg",
+            "ventaja": "+ 34 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Piot Kléber",
+            "pais": "Francia",
+            "equipo": "Île-de-France Nord-est",
+            "ventaja": "+ 41 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cogan Pierre",
+            "pais": "Francia",
+            "equipo": "Centre/Sud-Ouest",
+            "ventaja": "+ 52 min 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Impanis Raymond",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 53 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Meunier Georges",
+            "pais": "Francia",
+            "equipo": "Centre/Sud-Ouest",
+            "ventaja": "+ 54 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Goldschmit Jean",
+            "pais": "Luxemburgo",
+            "equipo": "Luxembourg",
+            "ventaja": "+ 55 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bobet Louison",
+        "pais": "Francia",
+        "equipo": "France"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Goldschmit Jean",
+            "pais": "Luxemburgo",
+            "distancia": 307.0,
+            "desnivel": 2276,
+            "velocidadMedia": 32.71
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 241.0,
+            "desnivel": 3184,
+            "velocidadMedia": 34.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pasotti Alfredo",
+            "pais": "Italia",
+            "distancia": 232.5,
+            "desnivel": 1804,
+            "velocidadMedia": 33.81
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "distancia": 231.0,
+            "desnivel": 2011,
+            "velocidadMedia": 32.05
+        },
+        {
+            "etapa": 5,
+            "nombre": "Corrieri Giovanni",
+            "pais": "Italia",
+            "distancia": 316.0,
+            "desnivel": 2889,
+            "velocidadMedia": 29.82
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 78.0,
+            "desnivel": 799,
+            "velocidadMedia": 39.88
+        },
+        {
+            "etapa": 7,
+            "nombre": "Lauredi Nello",
+            "pais": "Francia",
+            "distancia": 248.0,
+            "desnivel": 2070,
+            "velocidadMedia": 36.92
+        },
+        {
+            "etapa": 8,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 1330,
+            "velocidadMedia": 39.28
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pasotti Alfredo",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 1439,
+            "velocidadMedia": 37.41
+        },
+        {
+            "etapa": 10,
+            "nombre": "Dussault Marcel",
+            "pais": "Francia",
+            "distancia": 202.0,
+            "desnivel": 1532,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 11,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 5000,
+            "velocidadMedia": 30.78
+        },
+        {
+            "etapa": 12,
+            "nombre": "Blomme Maurice",
+            "pais": "Bélgica",
+            "distancia": 233.0,
+            "desnivel": 2736,
+            "velocidadMedia": 35.92
+        },
+        {
+            "etapa": 13,
+            "nombre": "Molinès Marcel",
+            "pais": "Francia",
+            "distancia": 215.0,
+            "desnivel": 1669,
+            "velocidadMedia": 33.69
+        },
+        {
+            "etapa": 14,
+            "nombre": "dos Reis Custodio",
+            "pais": "Francia",
+            "distancia": 222.0,
+            "desnivel": 2950,
+            "velocidadMedia": 32.5
+        },
+        {
+            "etapa": 15,
+            "nombre": "Diederich Bim",
+            "pais": "Luxemburgo",
+            "distancia": 205.5,
+            "desnivel": 2500,
+            "velocidadMedia": 30.42
+        },
+        {
+            "etapa": 16,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 96.0,
+            "desnivel": 2250,
+            "velocidadMedia": 31.52
+        },
+        {
+            "etapa": 17,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "distancia": 229.0,
+            "desnivel": 4500,
+            "velocidadMedia": 28.71
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 165.0,
+            "desnivel": 4000,
+            "velocidadMedia": 26.81
+        },
+        {
+            "etapa": 19,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "distancia": 291.0,
+            "desnivel": 4000,
+            "velocidadMedia": 32.99
+        },
+        {
+            "etapa": 20,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 98.0,
+            "desnivel": 1393,
+            "velocidadMedia": 39.31
+        },
+        {
+            "etapa": 21,
+            "nombre": "Sciardis Gino",
+            "pais": "Francia",
+            "distancia": 233.0,
+            "desnivel": 1275,
+            "velocidadMedia": 34.72
+        },
+        {
+            "etapa": 22,
+            "nombre": "Baffert Émile",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.7705
+        }
+    ]
+}

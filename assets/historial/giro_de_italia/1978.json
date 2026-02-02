@@ -1,0 +1,278 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1978,
+    "distancia": 3386.5,
+    "desnivel": 0,
+    "tiempo": "101h 31' 22\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 90,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 2 min 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Vibor",
+            "ventaja": "+ 7 min 57 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 8 min 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "De Witte Ronald",
+            "pais": "Bélgica",
+            "equipo": "Sanson",
+            "ventaja": "+ 8 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vandi Alfio",
+            "pais": "Italia",
+            "equipo": "Magniflex - Olmo",
+            "ventaja": "+ 8 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bortolotto Claudio",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 9 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Johansson Bernt",
+            "pais": "Suecia",
+            "equipo": "Fiorella",
+            "ventaja": "+ 12 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sutter Ueli",
+            "pais": "Suiza",
+            "equipo": "Zonca",
+            "ventaja": "+ 12 min 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Moser Francesco",
+        "pais": "Italia",
+        "equipo": "Sanson"
+    },
+    "ganadorMontana": {
+        "nombre": "Sutter Ueli",
+        "pais": "Suiza",
+        "equipo": "Zonca"
+    },
+    "ganadorJovenes": {
+        "nombre": "Visentini Roberto",
+        "pais": "Italia",
+        "equipo": "Vibor"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bianchi - Faema",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 2.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 218.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 10,
+            "nombre": "Martinelli Giuseppe",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zanoni Bruno",
+            "pais": "Italia",
+            "distancia": 74.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 13,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 15,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 45.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 18,
+            "nombre": "Perletto Giuseppe",
+            "pais": "Italia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 19,
+            "nombre": "Algeri Vittorio",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 20,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.563
+        }
+    ]
+}

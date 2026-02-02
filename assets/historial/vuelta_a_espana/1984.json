@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1984,
+    "distancia": 3396.6,
+    "desnivel": 0,
+    "tiempo": "90h 08' 03\"",
+    "ciclistasInscritos": 110,
+    "ciclistasFinalizados": 97,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Caritoux Éric",
+            "pais": "Francia",
+            "equipo": "Skil - Reydel - Sem",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "equipo": "Teka",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Corredor Edgar",
+            "pais": "Colombia",
+            "equipo": "Teka",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 4 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jiménez José Patrocinio",
+            "pais": "Colombia",
+            "equipo": "Teka",
+            "ventaja": "+ 7 min 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 7 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Recio José",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 7 min 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Gis - Gelati",
+            "ventaja": "+ 8 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Calster Guido",
+        "pais": "Bélgica",
+        "equipo": "Del Tongo - Colnago"
+    },
+    "ganadorMontana": {
+        "nombre": "Yáñez Felipe",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Teka",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 6.6,
+            "desnivel": 0,
+            "velocidadMedia": 48.69
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 272.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.95
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.08
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.08
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.88
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.47
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 113.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.21
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 269.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.15
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.68
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.97
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.53
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.29
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.56
+        },
+        {
+            "etapa": 14,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.29
+        },
+        {
+            "etapa": 15,
+            "nombre": "Coll Antonio",
+            "pais": "España",
+            "distancia": 121.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.36
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 138.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.76
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 258.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.45
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.33
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 33.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.36
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.94
+        }
+    ]
+}

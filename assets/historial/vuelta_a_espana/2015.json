@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2015,
+    "distancia": 3358.1,
+    "desnivel": 52931,
+    "tiempo": "85h 36' 13\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 158,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 3 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Giant - Alpecin",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 6 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 7 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 7 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Meintjes Louis",
+            "pais": "Sudáfrica",
+            "equipo": "MTN - Qhubeka",
+            "ventaja": "+ 10 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Fraile Omar",
+        "pais": "España",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 7.4,
+            "desnivel": 17,
+            "velocidadMedia": 54.37
+        },
+        {
+            "etapa": 2,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "distancia": 158.7,
+            "desnivel": 2597,
+            "velocidadMedia": 40.11
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 158.4,
+            "desnivel": 2613,
+            "velocidadMedia": 38.51
+        },
+        {
+            "etapa": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 209.6,
+            "desnivel": 2141,
+            "velocidadMedia": 40.9
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 167.3,
+            "desnivel": 816,
+            "velocidadMedia": 42.27
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "distancia": 200.3,
+            "desnivel": 2908,
+            "velocidadMedia": 41.98
+        },
+        {
+            "etapa": 7,
+            "nombre": "Lindeman Bert-Jan",
+            "pais": "Países Bajos",
+            "distancia": 191.1,
+            "desnivel": 3318,
+            "velocidadMedia": 36.94
+        },
+        {
+            "etapa": 8,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "distancia": 182.5,
+            "desnivel": 1386,
+            "velocidadMedia": 44.5
+        },
+        {
+            "etapa": 9,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 168.3,
+            "desnivel": 2044,
+            "velocidadMedia": 40.41
+        },
+        {
+            "etapa": 10,
+            "nombre": "Sbaragli Kristian",
+            "pais": "Italia",
+            "distancia": 146.6,
+            "desnivel": 1520,
+            "velocidadMedia": 45.64
+        },
+        {
+            "etapa": 11,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 138.0,
+            "desnivel": 5421,
+            "velocidadMedia": 30.12
+        },
+        {
+            "etapa": 12,
+            "nombre": "van Poppel Danny",
+            "pais": "Países Bajos",
+            "distancia": 173.0,
+            "desnivel": 2174,
+            "velocidadMedia": 42.86
+        },
+        {
+            "etapa": 13,
+            "nombre": "Oliveira Nelson",
+            "pais": "Portugal",
+            "distancia": 178.0,
+            "desnivel": 2673,
+            "velocidadMedia": 42.04
+        },
+        {
+            "etapa": 14,
+            "nombre": "De Marchi Alessandro",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 3941,
+            "velocidadMedia": 37.59
+        },
+        {
+            "etapa": 15,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 175.8,
+            "desnivel": 3740,
+            "velocidadMedia": 38.56
+        },
+        {
+            "etapa": 16,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "distancia": 185.0,
+            "desnivel": 5207,
+            "velocidadMedia": 31.72
+        },
+        {
+            "etapa": 17,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 38.7,
+            "desnivel": 328,
+            "velocidadMedia": 50.46
+        },
+        {
+            "etapa": 18,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "distancia": 204.0,
+            "desnivel": 3218,
+            "velocidadMedia": 40.27
+        },
+        {
+            "etapa": 19,
+            "nombre": "Gougeard Alexis",
+            "pais": "Francia",
+            "distancia": 185.8,
+            "desnivel": 2331,
+            "velocidadMedia": 42.99
+        },
+        {
+            "etapa": 20,
+            "nombre": "Plaza Rubén",
+            "pais": "España",
+            "distancia": 175.8,
+            "desnivel": 3812,
+            "velocidadMedia": 38.07
+        },
+        {
+            "etapa": 21,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 98.8,
+            "desnivel": 726,
+            "velocidadMedia": 38.44
+        }
+    ]
+}

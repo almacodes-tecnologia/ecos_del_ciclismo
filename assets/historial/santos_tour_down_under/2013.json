@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2013,
+    "distancia": 668.5,
+    "desnivel": 0,
+    "tiempo": "18h 28' 32\"",
+    "ciclistasInscritos": 132,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Slagter Tom-Jelte",
+            "pais": "Países Bajos",
+            "equipo": "Blanco Pro Cycling Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Moreno Javier",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hermans Ben",
+            "pais": "Bélgica",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Blanco Pro Cycling Team",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pietropolli Daniele",
+            "pais": "Italia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Veikkanen Jussi",
+            "pais": "Finlandia",
+            "equipo": "FDJ",
+            "ventaja": "+ 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Thomas Geraint",
+        "pais": "Reino Unido",
+        "equipo": "Sky Procycling"
+    },
+    "ganadorMontana": {
+        "nombre": "Moreno Javier",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Slagter Tom-Jelte",
+        "pais": "Países Bajos",
+        "equipo": "Blanco Pro Cycling Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " RadioShack - Leopard",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.604
+        },
+        {
+            "etapa": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 116.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.544
+        },
+        {
+            "etapa": 3,
+            "nombre": "Slagter Tom-Jelte",
+            "pais": "Países Bajos",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.475
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 126.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.506
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 151.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.002
+        },
+        {
+            "etapa": 6,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.0444
+        }
+    ]
+}

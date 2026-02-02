@@ -1,0 +1,166 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1982,
+    "distancia": 891.9,
+    "desnivel": 0,
+    "tiempo": "20h 54' 50\"",
+    "ciclistasInscritos": 81,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mierzejewski Andrzej",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Schur Jan",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Masiar Stanislav",
+            "pais": "República Checa",
+            "equipo": "",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jaskuła Roman",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Zagajewski Adam",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vierke Mathias",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Muzyka Jan",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sobkowiak Pawel",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Scheibner Peter",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kittel Mathias",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 1 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kittel Mathias",
+        "pais": "Alemania",
+        "equipo": ""
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Kulesza Marek",
+            "pais": "Polonia",
+            "distancia": 0.9,
+            "desnivel": 0,
+            "velocidadMedia": 37.24
+        },
+        {
+            "etapa": 1,
+            "nombre": "Serafin Radosław",
+            "pais": "Polonia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.14
+        },
+        {
+            "etapa": 2,
+            "nombre": "Schlaphoff Joachim",
+            "pais": "Alemania",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.97
+        },
+        {
+            "etapa": 3,
+            "nombre": "Mierzejewski Andrzej",
+            "pais": "Polonia",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.92
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 102.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.008
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.79
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.389
+        },
+        {
+            "etapa": 7,
+            "nombre": "Schur Jan",
+            "pais": "Alemania",
+            "distancia": 20.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.796
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kittel Mathias",
+            "pais": "Alemania",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.474
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2005,
+    "distancia": 3406.5,
+    "desnivel": 46582,
+    "tiempo": "86h 15' 02\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 155,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "DESIERTO",
+            "pais": "Armstrong Lance, Estados Unidos",
+            "equipo": "Discovery Channel Pro Cycling Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 4 min 40 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "DESIERTO",
+            "pais": "Ullrich Jan, Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 6 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 9 min 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 11 min 1 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "DESIERTO",
+            "pais": "Leipheimer Levi, Estados Unidos",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 11 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 11 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 11 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Landis Floyd",
+            "pais": "Estados Unidos",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 12 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 16 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hushovd Thor",
+        "pais": "Noruega",
+        "equipo": "Crédit Agricole"
+    },
+    "ganadorMontana": {
+        "nombre": "Rasmussen Michael",
+        "pais": "Dinamarca",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {
+        "nombre": "Popovych Yaroslav",
+        "pais": "Ucrania",
+        "equipo": "Discovery Channel Pro Cycling Team "
+    },
+    "ganadorEquipos": {
+        "nombre": " T-Mobile Team",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 2,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 182.0,
+            "desnivel": 432,
+            "velocidadMedia": 47.167
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 212.0,
+            "desnivel": 1465,
+            "velocidadMedia": 46.062
+        },
+        {
+            "etapa": 4,
+            "nombre": "Discovery Channel",
+            "pais": "Estados Unidos",
+            "distancia": 67.5,
+            "desnivel": 355,
+            "velocidadMedia": 57.32
+        },
+        {
+            "etapa": 5,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 183.0,
+            "desnivel": 1018,
+            "velocidadMedia": 48.584
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bernucci Lorenzo",
+            "pais": "Italia",
+            "distancia": 199.0,
+            "desnivel": 1750,
+            "velocidadMedia": 47.219
+        },
+        {
+            "etapa": 7,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 228.0,
+            "desnivel": 1314,
+            "velocidadMedia": 45.037
+        },
+        {
+            "etapa": 8,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "distancia": 231.0,
+            "desnivel": 2493,
+            "velocidadMedia": 45.607
+        },
+        {
+            "etapa": 9,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "distancia": 171.0,
+            "desnivel": 2805,
+            "velocidadMedia": 41.32
+        },
+        {
+            "etapa": 10,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 4197,
+            "velocidadMedia": 37.373
+        },
+        {
+            "etapa": 11,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 173.0,
+            "desnivel": 4280,
+            "velocidadMedia": 36.088
+        },
+        {
+            "etapa": 12,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "distancia": 187.0,
+            "desnivel": 3021,
+            "velocidadMedia": 43.14
+        },
+        {
+            "etapa": 13,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 174.0,
+            "desnivel": 1117,
+            "velocidadMedia": 46.767
+        },
+        {
+            "etapa": 14,
+            "nombre": "Totschnig Georg",
+            "pais": "Austria",
+            "distancia": 174.0,
+            "desnivel": 4188,
+            "velocidadMedia": 30.374
+        },
+        {
+            "etapa": 16,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 3560,
+            "velocidadMedia": 38.971
+        },
+        {
+            "etapa": 17,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "distancia": 240.0,
+            "desnivel": 2830,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 18,
+            "nombre": "Serrano Marcos Antonio",
+            "pais": "España",
+            "distancia": 189.0,
+            "desnivel": 2947,
+            "velocidadMedia": 40.85
+        },
+        {
+            "etapa": 19,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "distancia": 154.0,
+            "desnivel": 2344,
+            "velocidadMedia": 43.367
+        },
+        {
+            "etapa": 21,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.1594
+        }
+    ]
+}

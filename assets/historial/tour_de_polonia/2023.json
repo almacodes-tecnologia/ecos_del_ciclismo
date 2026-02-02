@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2023,
+    "distancia": 1130.0,
+    "desnivel": 11125,
+    "tiempo": "26h 17' 48\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 151,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Wilder Ilan",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cattaneo Mattia",
+            "pais": "Italia",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dunbar Eddie",
+            "pais": "Irlanda",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Battistella Samuele",
+            "pais": "Italia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team dsm - firmenich",
+            "ventaja": "+ 1 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mohorič Matej",
+        "pais": "Eslovenia",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorMontana": {
+        "nombre": "Hoelgaard Markus",
+        "pais": "Noruega",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 183.7,
+            "desnivel": 719,
+            "velocidadMedia": 44.035
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 202.9,
+            "desnivel": 2364,
+            "velocidadMedia": 40.992
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 162.3,
+            "desnivel": 3067,
+            "velocidadMedia": 39.279
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 199.1,
+            "desnivel": 846,
+            "velocidadMedia": 45.379
+        },
+        {
+            "etapa": 5,
+            "nombre": "van den Berg Marijn",
+            "pais": "Países Bajos",
+            "distancia": 198.8,
+            "desnivel": 3028,
+            "velocidadMedia": 40.926
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cattaneo Mattia",
+            "pais": "Italia",
+            "distancia": 16.6,
+            "desnivel": 127,
+            "velocidadMedia": 51.965
+        },
+        {
+            "etapa": 7,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 166.6,
+            "desnivel": 974,
+            "velocidadMedia": 47.889
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2009,
+    "distancia": 423.9,
+    "desnivel": 0,
+    "tiempo": "14h 20' 14\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 142,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Cofidis, le Crédit en Ligne",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bak Lars Ytting",
+            "pais": "Dinamarca",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Silence - Lotto",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kessiakoff Fredrik",
+            "pais": "Suecia",
+            "equipo": "Fuji-Servetto",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Siutsou Kanstantsin",
+            "pais": "Bielorrusia",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 1 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "ten Dam Laurens",
+        "pais": "Países Bajos",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kreuziger Roman",
+        "pais": "República Checa",
+        "equipo": "Liquigas"
+    },
+    "ganadorEquipos": {
+        "nombre": " Caisse d'Epargne",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Raboň František",
+            "pais": "República Checa",
+            "distancia": 3.1,
+            "desnivel": 0,
+            "velocidadMedia": 49.821
+        },
+        {
+            "etapa": 1,
+            "nombre": "Serrano Ricardo",
+            "pais": "España",
+            "distancia": 87.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 161.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.241
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 14.8,
+            "desnivel": 0,
+            "velocidadMedia": 47.699
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "distancia": 157.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.54
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.0558
+        }
+    ]
+}

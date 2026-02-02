@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1965,
+    "distancia": 1307.0,
+    "desnivel": 0,
+    "tiempo": "36h 31' 17\"",
+    "ciclistasInscritos": 62,
+    "ciclistasFinalizados": 42,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Huysmans Jos",
+            "pais": "Bélgica",
+            "equipo": "Dr. Mann",
+            "ventaja": "+ 3 min 0 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mugnaini Marcello",
+            "pais": "Italia",
+            "equipo": "Maino ",
+            "ventaja": "+ 3 min 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Boucquet Walter",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Romeo",
+            "ventaja": "+ 6 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 7 min 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Moser Enzo",
+            "pais": "Italia",
+            "equipo": "Maino ",
+            "ventaja": "+ 10 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fontana Marino",
+            "pais": "Italia",
+            "equipo": "Maino ",
+            "ventaja": "+ 11 min 17 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Dr. Mann",
+            "ventaja": "+ 11 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "equipo": "Tigra - Meltina",
+            "ventaja": "+ 12 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wiedemann Dieter",
+            "pais": "Alemania",
+            "equipo": "Torpedo - Fichtel & Sachs",
+            "ventaja": "+ 12 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Ruegg Alfred",
+        "pais": "Suiza",
+        "equipo": "Tigra - Meltina"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Maino ",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.239
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.036
+        },
+        {
+            "etapa": 3,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.078
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 13.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.058
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.558
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 303.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.896
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.73
+        }
+    ]
+}

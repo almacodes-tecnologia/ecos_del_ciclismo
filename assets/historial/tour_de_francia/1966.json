@@ -1,0 +1,290 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1966,
+    "distancia": 4255.0,
+    "desnivel": 49326,
+    "tiempo": "117h 34' 21\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 82,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Aimar Lucien",
+            "pais": "Francia",
+            "equipo": "Ford France - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Momeñe José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mugnaini Marcello",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 5 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 5 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 8 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kunde Karl-Heinz",
+            "pais": "Alemania",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 9 min 6 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van den Bossche Martin",
+            "pais": "Bélgica",
+            "equipo": "Roméo - Smith's - Plume Sport",
+            "ventaja": "+ 9 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Planckaert Willy",
+        "pais": "Bélgica",
+        "equipo": "Roméo - Smith's - Plume Sport"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez Julio",
+        "pais": "España",
+        "equipo": "Ford France - Hutchinson"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Kaskol",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 209.0,
+            "desnivel": 1800,
+            "velocidadMedia": 42.81
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 1543,
+            "velocidadMedia": 41.49
+        },
+        {
+            "etapa": 3,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 131.0,
+            "desnivel": 581,
+            "velocidadMedia": 38.01
+        },
+        {
+            "etapa": 4,
+            "nombre": "Planckaert Willy",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 1321,
+            "velocidadMedia": 34.29
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 1676,
+            "velocidadMedia": 36.1
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 217.0,
+            "desnivel": 2145,
+            "velocidadMedia": 40.47
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Vlierberghe Albert",
+            "pais": "Bélgica",
+            "distancia": 252.0,
+            "desnivel": 1446,
+            "velocidadMedia": 35.05
+        },
+        {
+            "etapa": 8,
+            "nombre": "Planckaert Willy",
+            "pais": "Bélgica",
+            "distancia": 138.0,
+            "desnivel": 1045,
+            "velocidadMedia": 46.4
+        },
+        {
+            "etapa": 9,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 201.0,
+            "desnivel": 1421,
+            "velocidadMedia": 38.17
+        },
+        {
+            "etapa": 10,
+            "nombre": "De Pra Tommaso",
+            "pais": "Italia",
+            "distancia": 234.0,
+            "desnivel": 3000,
+            "velocidadMedia": 35.37
+        },
+        {
+            "etapa": 11,
+            "nombre": "Mugnaini Marcello",
+            "pais": "Italia",
+            "distancia": 188.0,
+            "desnivel": 3500,
+            "velocidadMedia": 31.8
+        },
+        {
+            "etapa": 12,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 219.0,
+            "desnivel": 3000,
+            "velocidadMedia": 33.5
+        },
+        {
+            "etapa": 13,
+            "nombre": "Vandenberghe Georges",
+            "pais": "Bélgica",
+            "distancia": 191.0,
+            "desnivel": 2107,
+            "velocidadMedia": 33.09
+        },
+        {
+            "etapa": 14,
+            "nombre": "de Roo Jo",
+            "pais": "Países Bajos",
+            "distancia": 144.0,
+            "desnivel": 1724,
+            "velocidadMedia": 42.37
+        },
+        {
+            "etapa": 14,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 20.0,
+            "desnivel": 798,
+            "velocidadMedia": 42.2
+        },
+        {
+            "etapa": 15,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "distancia": 203.0,
+            "desnivel": 3500,
+            "velocidadMedia": 35.12
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 148.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.49
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 160.0,
+            "desnivel": 2500,
+            "velocidadMedia": 39.51
+        },
+        {
+            "etapa": 18,
+            "nombre": "Schutz Edy",
+            "pais": "Luxemburgo",
+            "distancia": 188.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.71
+        },
+        {
+            "etapa": 19,
+            "nombre": "Bracke Ferdinand",
+            "pais": "Bélgica",
+            "distancia": 265.0,
+            "desnivel": 3000,
+            "velocidadMedia": 37.16
+        },
+        {
+            "etapa": 20,
+            "nombre": "Nijdam Henk",
+            "pais": "Países Bajos",
+            "distancia": 223.0,
+            "desnivel": 2389,
+            "velocidadMedia": 37.4
+        },
+        {
+            "etapa": 21,
+            "nombre": "Beuffeuil Pierre",
+            "pais": "Francia",
+            "distancia": 232.0,
+            "desnivel": 1325,
+            "velocidadMedia": 38.02
+        },
+        {
+            "etapa": 22,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 111.0,
+            "desnivel": 505,
+            "velocidadMedia": 38.95
+        },
+        {
+            "etapa": 22,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.8027
+        }
+    ]
+}

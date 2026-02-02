@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2022,
+    "distancia": 1194.9,
+    "desnivel": 20791,
+    "tiempo": "29h 11' 22\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Meintjes Louis",
+            "pais": "Sudáfrica",
+            "equipo": "Intermarché - Wanty - Gobert Matériaux",
+            "ventaja": "+ 3 min 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 3 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Guerreiro Ruben",
+            "pais": "Portugal",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 3 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Pro Cycling Team",
+            "ventaja": "+ 3 min 51 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van Aert Wout",
+        "pais": "Bélgica",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Rolland Pierre",
+        "pais": "Francia",
+        "equipo": "B&B Hotels - KTM"
+    },
+    "ganadorJovenes": {
+        "nombre": "Johannessen Tobias Halland",
+        "pais": "Noruega",
+        "equipo": "Uno-X Pro Cycling Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Jumbo-Visma",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 191.8,
+            "desnivel": 2473,
+            "velocidadMedia": 41.468
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vuillermoz Alexis",
+            "pais": "Francia",
+            "distancia": 169.8,
+            "desnivel": 2956,
+            "velocidadMedia": 41.828
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "distancia": 169.0,
+            "desnivel": 2707,
+            "velocidadMedia": 40.62
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 31.9,
+            "desnivel": 96,
+            "velocidadMedia": 53.865
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 162.3,
+            "desnivel": 1991,
+            "velocidadMedia": 44.551
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ferron Valentin",
+            "pais": "Francia",
+            "distancia": 196.5,
+            "desnivel": 2958,
+            "velocidadMedia": 44.951
+        },
+        {
+            "etapa": 7,
+            "nombre": "Verona Carlos",
+            "pais": "España",
+            "distancia": 134.8,
+            "desnivel": 3828,
+            "velocidadMedia": 34.626
+        },
+        {
+            "etapa": 8,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 138.8,
+            "desnivel": 3782,
+            "velocidadMedia": 36.314
+        }
+    ]
+}

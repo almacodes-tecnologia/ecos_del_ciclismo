@@ -1,0 +1,251 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1951,
+    "distancia": 3949.0,
+    "desnivel": 0,
+    "tiempo": "121h 11' 37\"",
+    "ciclistasInscritos": 98,
+    "ciclistasFinalizados": 75,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "equipo": "Ganna - Ursus",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "equipo": "Girardengo - Ursus",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "equipo": "Frejus - Ursus",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "Bianchi - Pirelli",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "equipo": "Taurea - Cig",
+            "ventaja": "+ 4 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "equipo": "Guerra - Ursus",
+            "ventaja": "+ 6 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "Bottecchia - Ursus ",
+            "ventaja": "+ 9 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Padovan Arrigo",
+            "pais": "Italia",
+            "equipo": "Atala - Pirelli",
+            "ventaja": "+ 14 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rossello Vincenzo",
+            "pais": "Italia",
+            "equipo": "Taurea - Cig",
+            "ventaja": "+ 14 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Bartali - Ursus",
+            "ventaja": "+ 21 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bobet Louison",
+        "pais": "Francia",
+        "equipo": "Bottecchia - Ursus "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.33
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bevilacqua Antonio",
+            "pais": "Italia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 252.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.007
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Santi Guido",
+            "pais": "Italia",
+            "distancia": 252.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Giudici Pietro",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 83.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Menon Angelo",
+            "pais": "Italia",
+            "distancia": 273.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Casola Luigi",
+            "pais": "Italia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Corrieri Giovanni",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 10,
+            "nombre": "Minardi Giuseppe",
+            "pais": "Italia",
+            "distancia": 311.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Biagioni Serafino",
+            "pais": "Italia",
+            "distancia": 246.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "distancia": 24.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 13,
+            "nombre": "Maggini Luciano",
+            "pais": "Italia",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 15,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Frosini Luciano",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 255.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 18,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 19,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bevilacqua Antonio",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.217
+        }
+    ]
+}

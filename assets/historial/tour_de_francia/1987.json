@@ -1,0 +1,310 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1987,
+    "distancia": 4017.1,
+    "desnivel": 61866,
+    "tiempo": "115h 27' 42\"",
+    "ciclistasInscritos": 207,
+    "ciclistasFinalizados": 135,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "PDM - GIN MG - Ultima - Concorde",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "equipo": "Toshiba - La Vie Claire",
+            "ventaja": "+ 2 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 6 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 9 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 16 min 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 18 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fuerte Anselmo",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 18 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "equipo": "7 Eleven",
+            "ventaja": "+ 21 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Caja Rural - Orbea",
+            "ventaja": "+ 26 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van Poppel Jean-Paul",
+        "pais": "Países Bajos",
+        "equipo": "Superconfex - Kwantum - Yoko"
+    },
+    "ganadorMontana": {
+        "nombre": "Herrera Luis Alberto",
+        "pais": "Colombia",
+        "equipo": "Café de Colombia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Alcalá Raúl",
+        "pais": "México",
+        "equipo": "7 Eleven"
+    },
+    "ganadorEquipos": {
+        "nombre": " Système U",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Nijdam Jelle",
+            "pais": "Países Bajos",
+            "distancia": 6.1,
+            "desnivel": 72,
+            "velocidadMedia": 51.55
+        },
+        {
+            "etapa": 1,
+            "nombre": "Verhoeven Nico",
+            "pais": "Países Bajos",
+            "distancia": 105.5,
+            "desnivel": 723,
+            "velocidadMedia": 48.12
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 40.5,
+            "desnivel": 272,
+            "velocidadMedia": 54.2
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.11
+        },
+        {
+            "etapa": 4,
+            "nombre": "Frison Herman",
+            "pais": "Bélgica",
+            "distancia": 79.0,
+            "desnivel": 1017,
+            "velocidadMedia": 43.33
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sergeant Marc",
+            "pais": "Bélgica",
+            "distancia": 112.5,
+            "desnivel": 1548,
+            "velocidadMedia": 44.27
+        },
+        {
+            "etapa": 6,
+            "nombre": "Lavainne Christophe",
+            "pais": "Francia",
+            "distancia": 169.0,
+            "desnivel": 2646,
+            "velocidadMedia": 40.09
+        },
+        {
+            "etapa": 7,
+            "nombre": "Domínguez Manuel Jorge",
+            "pais": "España",
+            "distancia": 211.0,
+            "desnivel": 1894,
+            "velocidadMedia": 41.07
+        },
+        {
+            "etapa": 8,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 205.5,
+            "desnivel": 1351,
+            "velocidadMedia": 38.07
+        },
+        {
+            "etapa": 9,
+            "nombre": "van der Poel Adrie",
+            "pais": "Países Bajos",
+            "distancia": 260.0,
+            "desnivel": 1675,
+            "velocidadMedia": 36.63
+        },
+        {
+            "etapa": 10,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "distancia": 87.5,
+            "desnivel": 808,
+            "velocidadMedia": 44.42
+        },
+        {
+            "etapa": 11,
+            "nombre": "Gayant Martial",
+            "pais": "Francia",
+            "distancia": 255.0,
+            "desnivel": 3532,
+            "velocidadMedia": 35.84
+        },
+        {
+            "etapa": 12,
+            "nombre": "Phinney Davis",
+            "pais": "Estados Unidos",
+            "distancia": 228.0,
+            "desnivel": 2211,
+            "velocidadMedia": 39.5
+        },
+        {
+            "etapa": 13,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "distancia": 219.0,
+            "desnivel": 4500,
+            "velocidadMedia": 34.59
+        },
+        {
+            "etapa": 14,
+            "nombre": "Lauritzen Dag-Otto",
+            "pais": "Noruega",
+            "distancia": 166.0,
+            "desnivel": 5000,
+            "velocidadMedia": 31.673
+        },
+        {
+            "etapa": 15,
+            "nombre": "Gölz Rolf",
+            "pais": "Alemania",
+            "distancia": 164.0,
+            "desnivel": 1766,
+            "velocidadMedia": 41.347
+        },
+        {
+            "etapa": 16,
+            "nombre": "Clère Régis",
+            "pais": "Francia",
+            "distancia": 216.5,
+            "desnivel": 2919,
+            "velocidadMedia": 36.25
+        },
+        {
+            "etapa": 17,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 229.0,
+            "desnivel": 2500,
+            "velocidadMedia": 36.37
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "distancia": 36.5,
+            "desnivel": 1988,
+            "velocidadMedia": 27.47
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 4842,
+            "velocidadMedia": 37.81
+        },
+        {
+            "etapa": 20,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "distancia": 201.0,
+            "desnivel": 5500,
+            "velocidadMedia": 34.24
+        },
+        {
+            "etapa": 21,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "distancia": 185.5,
+            "desnivel": 6000,
+            "velocidadMedia": 30.32
+        },
+        {
+            "etapa": 22,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "distancia": 186.0,
+            "desnivel": 5500,
+            "velocidadMedia": 29.86
+        },
+        {
+            "etapa": 23,
+            "nombre": "Clère Régis",
+            "pais": "Francia",
+            "distancia": 212.0,
+            "desnivel": 3130,
+            "velocidadMedia": 31.69
+        },
+        {
+            "etapa": 24,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "distancia": 38.0,
+            "desnivel": 472,
+            "velocidadMedia": 47.22
+        },
+        {
+            "etapa": 25,
+            "nombre": "Pierce Jeff",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.4038
+        }
+    ]
+}

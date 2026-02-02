@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1982,
+    "distancia": 1673.0,
+    "desnivel": 0,
+    "tiempo": "43h 16' 12\"",
+    "ciclistasInscritos": 77,
+    "ciclistasFinalizados": 67,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "de Rooij Theo",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Calster Guido",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 5 min 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wilmann Jostein",
+            "pais": "Noruega",
+            "equipo": "",
+            "ventaja": "+ 7 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Müller Daniel",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 9 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mutter Stefan",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 9 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 9 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Grezet Jean-Marie",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 9 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Keller Fridolin",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 10 min 10 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mutter Stefan",
+        "pais": "Suiza",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Breu Beat",
+        "pais": "Suiza",
+        "equipo": "Cilo - Aufina"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.57
+        },
+        {
+            "etapa": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.65
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.98
+        },
+        {
+            "etapa": 3,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.44
+        },
+        {
+            "etapa": 4,
+            "nombre": "Van Calster Guido",
+            "pais": "Bélgica",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.24
+        },
+        {
+            "etapa": 4,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "distancia": 7.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.71
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Calster Guido",
+            "pais": "Bélgica",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.94
+        },
+        {
+            "etapa": 6,
+            "nombre": "de Rooij Theo",
+            "pais": "Países Bajos",
+            "distancia": 256.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.83
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.02
+        },
+        {
+            "etapa": 8,
+            "nombre": "Mächler Erich",
+            "pais": "Suiza",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.61
+        },
+        {
+            "etapa": 9,
+            "nombre": "Demierre Serge",
+            "pais": "Suiza",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.55
+        }
+    ]
+}

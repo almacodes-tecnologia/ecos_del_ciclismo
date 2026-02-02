@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2013,
+    "distancia": 1050.9,
+    "desnivel": 15356,
+    "tiempo": "28h 08' 17\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 107,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Santambrogio Mauro",
+            "pais": "Italia",
+            "equipo": "Vini Fantini",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Amador Andrey",
+            "pais": "Costa Rica",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Niemiec Przemysław",
+            "pais": "Polonia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 3 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Contador Alberto",
+        "pais": "España",
+        "equipo": "Team Saxo - Tinkoff"
+    },
+    "ganadorMontana": {
+        "nombre": "Cunego Damiano",
+        "pais": "Italia",
+        "equipo": "Lampre - Merida"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kwiatkowski Michał",
+        "pais": "Polonia",
+        "equipo": "Omega Pharma - Quick-Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 16.9,
+            "desnivel": 90,
+            "velocidadMedia": 52.268
+        },
+        {
+            "etapa": 2,
+            "nombre": "Goss Matthew",
+            "pais": "Australia",
+            "distancia": 232.0,
+            "desnivel": 2039,
+            "velocidadMedia": 39.922
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 190.0,
+            "desnivel": 2018,
+            "velocidadMedia": 36.168
+        },
+        {
+            "etapa": 4,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 173.0,
+            "desnivel": 3293,
+            "velocidadMedia": 36.872
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 230.0,
+            "desnivel": 4084,
+            "velocidadMedia": 37.631
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 209.0,
+            "desnivel": 3832,
+            "velocidadMedia": 36.318
+        },
+        {
+            "etapa": 7,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.6705
+        }
+    ]
+}

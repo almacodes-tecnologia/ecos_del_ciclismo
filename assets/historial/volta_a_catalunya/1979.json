@@ -1,0 +1,174 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1979,
+    "distancia": 1120.2,
+    "desnivel": 0,
+    "tiempo": "35h 58' 45\"",
+    "ciclistasInscritos": 72,
+    "ciclistasFinalizados": 25,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Transmallorca - Flavia - Gios",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vilardebo Pedro",
+            "pais": "España",
+            "equipo": "Kas",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jourdan Christian",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Transmallorca - Flavia - Gios",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Scic",
+            "ventaja": "+ 2 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Kas",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fortià Jordi",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 8 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 9 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Esparza Manuel",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 10 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zúñiga Ricardo",
+            "pais": "España",
+            "equipo": "Colchón CR - Peña Hermanos Manzaneque - Atun TAM",
+            "ventaja": "+ 11 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Esparza Manuel",
+        "pais": "España",
+        "equipo": "Teka"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 4.2,
+            "desnivel": 0,
+            "velocidadMedia": 47.848
+        },
+        {
+            "etapa": 1,
+            "nombre": "Vilardebo Pedro",
+            "pais": "España",
+            "distancia": 182.9,
+            "desnivel": 0,
+            "velocidadMedia": 37.384
+        },
+        {
+            "etapa": 2,
+            "nombre": "Crepaldi Ottavio",
+            "pais": "Italia",
+            "distancia": 80.1,
+            "desnivel": 0,
+            "velocidadMedia": 37.625
+        },
+        {
+            "etapa": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 87.8,
+            "desnivel": 0,
+            "velocidadMedia": 38.936
+        },
+        {
+            "etapa": 3,
+            "nombre": "López José Luis",
+            "pais": "España",
+            "distancia": 161.9,
+            "desnivel": 0,
+            "velocidadMedia": 33.987
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.2,
+            "desnivel": 0,
+            "velocidadMedia": 32.736
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zúñiga Ricardo",
+            "pais": "España",
+            "distancia": 206.7,
+            "desnivel": 0,
+            "velocidadMedia": 29.549
+        },
+        {
+            "etapa": 6,
+            "nombre": "Jourdan Christian",
+            "pais": "Francia",
+            "distancia": 170.2,
+            "desnivel": 0,
+            "velocidadMedia": 39.159
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 28.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.0
+        },
+        {
+            "etapa": 7,
+            "nombre": "Suárez Jesús",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.3477
+        }
+    ]
+}

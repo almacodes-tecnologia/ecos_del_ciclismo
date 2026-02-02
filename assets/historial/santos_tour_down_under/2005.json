@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2005,
+    "distancia": 724.0,
+    "desnivel": 0,
+    "tiempo": "16h 45' 44\"",
+    "ciclistasInscritos": 95,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vansummeren Johan",
+            "pais": "Bélgica",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ramírez Javier",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "McPartland David",
+            "pais": "Australia",
+            "equipo": "United Water",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Grillo Paride",
+            "pais": "Italia",
+            "equipo": "Ceramica Panaria - Navigare",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Renshaw Mark",
+            "pais": "Australia",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "McLachlan Robert",
+            "pais": "Australia",
+            "equipo": "United Water",
+            "ventaja": "+ 1 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "McEwen Robbie",
+        "pais": "Australia",
+        "equipo": "Davitamon - Lotto"
+    },
+    "ganadorMontana": {
+        "nombre": "Bates Gene",
+        "pais": "Australia",
+        "equipo": "Team UniSA"
+    },
+    "ganadorJovenes": {
+        "nombre": "Sánchez Luis León",
+        "pais": "España",
+        "equipo": "Liberty Seguros - Würth Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Liberty Seguros - Würth Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 50.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.38
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.737
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.877
+        },
+        {
+            "etapa": 4,
+            "nombre": "White Matthew",
+            "pais": "Australia",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.42
+        },
+        {
+            "etapa": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.579
+        },
+        {
+            "etapa": 6,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.074
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1986,
+    "distancia": 3840.6,
+    "desnivel": 52469,
+    "tiempo": "110h 35' 19\"",
+    "ciclistasInscritos": 210,
+    "ciclistasFinalizados": 132,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "La Vie Claire",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 3 min 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zimmermann Urs",
+            "pais": "Suiza",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 10 min 54 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 18 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "equipo": "Hitachi - Marc - Splendor",
+            "ventaja": "+ 24 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pensec Ronan",
+            "pais": "Francia",
+            "equipo": "Peugeot - Shell",
+            "ventaja": "+ 25 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 30 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "Zor - BH",
+            "ventaja": "+ 33 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rooks Steven",
+            "pais": "Países Bajos",
+            "equipo": "PDM - Concorde",
+            "ventaja": "+ 33 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Madiot Yvon",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 33 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vanderaerden Eric",
+        "pais": "Bélgica",
+        "equipo": "Panasonic"
+    },
+    "ganadorMontana": {
+        "nombre": "Hinault Bernard",
+        "pais": "Francia",
+        "equipo": "La Vie Claire"
+    },
+    "ganadorJovenes": {
+        "nombre": "Hampsten Andrew",
+        "pais": "Estados Unidos",
+        "equipo": "La Vie Claire"
+    },
+    "ganadorEquipos": {
+        "nombre": " La Vie Claire",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 4.6,
+            "desnivel": 63,
+            "velocidadMedia": 51.59
+        },
+        {
+            "etapa": 1,
+            "nombre": "Verschuere Pol",
+            "pais": "Bélgica",
+            "distancia": 85.0,
+            "desnivel": 936,
+            "velocidadMedia": 43.02
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 56.0,
+            "desnivel": 595,
+            "velocidadMedia": 47.69
+        },
+        {
+            "etapa": 3,
+            "nombre": "Phinney Davis",
+            "pais": "Estados Unidos",
+            "distancia": 214.0,
+            "desnivel": 1861,
+            "velocidadMedia": 37.162
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "distancia": 243.0,
+            "desnivel": 2270,
+            "velocidadMedia": 34.957
+        },
+        {
+            "etapa": 5,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 124.5,
+            "desnivel": 1140,
+            "velocidadMedia": 40.579
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 1857,
+            "velocidadMedia": 41.81
+        },
+        {
+            "etapa": 7,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "distancia": 201.0,
+            "desnivel": 2459,
+            "velocidadMedia": 40.61
+        },
+        {
+            "etapa": 8,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 204.0,
+            "desnivel": 1991,
+            "velocidadMedia": 43.73
+        },
+        {
+            "etapa": 9,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 61.5,
+            "desnivel": 466,
+            "velocidadMedia": 46.85
+        },
+        {
+            "etapa": 10,
+            "nombre": "Sarrapio José Angel",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 1626,
+            "velocidadMedia": 41.083
+        },
+        {
+            "etapa": 11,
+            "nombre": "Dhaenens Rudy",
+            "pais": "Bélgica",
+            "distancia": 258.5,
+            "desnivel": 1946,
+            "velocidadMedia": 41.62
+        },
+        {
+            "etapa": 12,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 217.5,
+            "desnivel": 4500,
+            "velocidadMedia": 35.92
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 5500,
+            "velocidadMedia": 30.441
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "distancia": 154.0,
+            "desnivel": 1171,
+            "velocidadMedia": 40.574
+        },
+        {
+            "etapa": 15,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 225.5,
+            "desnivel": 2022,
+            "velocidadMedia": 38.381
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 246.5,
+            "desnivel": 2500,
+            "velocidadMedia": 32.159
+        },
+        {
+            "etapa": 17,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "distancia": 190.0,
+            "desnivel": 5000,
+            "velocidadMedia": 32.307
+        },
+        {
+            "etapa": 18,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 162.5,
+            "desnivel": 5000,
+            "velocidadMedia": 32.173
+        },
+        {
+            "etapa": 19,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "distancia": 179.5,
+            "desnivel": 3000,
+            "velocidadMedia": 35.177
+        },
+        {
+            "etapa": 20,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 58.0,
+            "desnivel": 1035,
+            "velocidadMedia": 46.032
+        },
+        {
+            "etapa": 21,
+            "nombre": "Mächler Erich",
+            "pais": "Suiza",
+            "distancia": 190.0,
+            "desnivel": 4219,
+            "velocidadMedia": 34.269
+        },
+        {
+            "etapa": 22,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 1312,
+            "velocidadMedia": 37.582
+        },
+        {
+            "etapa": 23,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.9555
+        }
+    ]
+}

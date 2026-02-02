@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2012,
+    "distancia": 824.6,
+    "desnivel": 14713,
+    "tiempo": "20h 58' 15\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 114,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre - ISD",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Nordhaug Lars Petter",
+            "pais": "Noruega",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Lampre - ISD",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 29 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sánchez Samuel",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorMontana": {
+        "nombre": "Christensen Mads",
+        "pais": "Dinamarca",
+        "equipo": "Team Saxo Bank - Tinkoff Bank"
+    },
+    "ganadorJovenes": {
+        "nombre": "Moser Moreno",
+        "pais": "Italia",
+        "equipo": "Liquigas - Cannondale"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Rojas José Joaquín",
+            "pais": "España",
+            "distancia": 154.0,
+            "desnivel": 2703,
+            "velocidadMedia": 38.867
+        },
+        {
+            "etapa": 2,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "distancia": 165.7,
+            "desnivel": 2631,
+            "velocidadMedia": 39.749
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 152.0,
+            "desnivel": 3049,
+            "velocidadMedia": 38.279
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 151.0,
+            "desnivel": 3043,
+            "velocidadMedia": 38.401
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 2997,
+            "velocidadMedia": 41.083
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 18.9,
+            "desnivel": 290,
+            "velocidadMedia": 39.37
+        }
+    ]
+}

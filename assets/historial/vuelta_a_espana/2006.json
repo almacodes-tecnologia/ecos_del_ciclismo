@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2006,
+    "distancia": 3069.3,
+    "desnivel": 48021,
+    "tiempo": "81h 23' 07\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 134,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kashechkin Andrey",
+            "pais": "Kazajistán",
+            "equipo": "Astana",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 3 min 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 8 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 8 min 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 10 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 10 min 47 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pérez Rodríguez Luis",
+            "pais": "España",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 11 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hushovd Thor",
+        "pais": "Noruega",
+        "equipo": "Crédit Agricole"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Egoi",
+        "pais": "España",
+        "equipo": "Discovery Channel Pro Cycling Team "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 7.3,
+            "desnivel": 9,
+            "velocidadMedia": 57.632
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 167.0,
+            "desnivel": 2099,
+            "velocidadMedia": 38.61
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ventoso Francisco José",
+            "pais": "España",
+            "distancia": 220.0,
+            "desnivel": 2570,
+            "velocidadMedia": 38.4
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 142.0,
+            "desnivel": 1005,
+            "velocidadMedia": 41.608
+        },
+        {
+            "etapa": 5,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 4451,
+            "velocidadMedia": 35.316
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 177.0,
+            "desnivel": 732,
+            "velocidadMedia": 42.622
+        },
+        {
+            "etapa": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 154.0,
+            "desnivel": 2583,
+            "velocidadMedia": 38.327
+        },
+        {
+            "etapa": 8,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 181.6,
+            "desnivel": 2290,
+            "velocidadMedia": 44.99
+        },
+        {
+            "etapa": 9,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 207.4,
+            "desnivel": 5856,
+            "velocidadMedia": 35.482
+        },
+        {
+            "etapa": 10,
+            "nombre": "Paulinho Sérgio Miguel",
+            "pais": "Portugal",
+            "distancia": 199.3,
+            "desnivel": 2355,
+            "velocidadMedia": 43.68
+        },
+        {
+            "etapa": 11,
+            "nombre": "Martínez Egoi",
+            "pais": "España",
+            "distancia": 173.6,
+            "desnivel": 3158,
+            "velocidadMedia": 39.98
+        },
+        {
+            "etapa": 12,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "distancia": 169.3,
+            "desnivel": 1866,
+            "velocidadMedia": 47.221
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 2541,
+            "velocidadMedia": 44.314
+        },
+        {
+            "etapa": 14,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 33.0,
+            "desnivel": 429,
+            "velocidadMedia": 48.411
+        },
+        {
+            "etapa": 15,
+            "nombre": "Förster Robert",
+            "pais": "Alemania",
+            "distancia": 182.0,
+            "desnivel": 1571,
+            "velocidadMedia": 41.221
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 145.0,
+            "desnivel": 4567,
+            "velocidadMedia": 32.258
+        },
+        {
+            "etapa": 17,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "distancia": 167.0,
+            "desnivel": 3598,
+            "velocidadMedia": 40.093
+        },
+        {
+            "etapa": 18,
+            "nombre": "Kashechkin Andrey",
+            "pais": "Kazajistán",
+            "distancia": 153.0,
+            "desnivel": 2998,
+            "velocidadMedia": 38.628
+        },
+        {
+            "etapa": 19,
+            "nombre": "Arrieta José Luis",
+            "pais": "España",
+            "distancia": 205.3,
+            "desnivel": 2987,
+            "velocidadMedia": 37.301
+        },
+        {
+            "etapa": 20,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 27.5,
+            "desnivel": 356,
+            "velocidadMedia": 49.034
+        },
+        {
+            "etapa": 21,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.4508
+        }
+    ]
+}

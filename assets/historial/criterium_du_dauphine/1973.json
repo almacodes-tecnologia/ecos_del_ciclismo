@@ -1,0 +1,159 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1973,
+    "distancia": 1194.0,
+    "desnivel": 0,
+    "tiempo": "39h 24' 42\"",
+    "ciclistasInscritos": 75,
+    "ciclistasFinalizados": 74,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gitane - Frigécrème",
+            "ventaja": "+ 10 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ovion Régis",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 10 min 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 11 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martos Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 14 min 40 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 16 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Watney - Maes Pils",
+            "ventaja": "+ 18 min 48 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 19 min 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Sonolor",
+            "ventaja": "+ 20 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.631
+        },
+        {
+            "etapa": 2,
+            "nombre": "Guimard Cyrille",
+            "pais": "Francia",
+            "distancia": 84.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 109.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ovion Régis",
+            "pais": "Francia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Genty Jean-Claude",
+            "pais": "Francia",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "David Wilfried",
+            "pais": "Bélgica",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 31.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bal Kees",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

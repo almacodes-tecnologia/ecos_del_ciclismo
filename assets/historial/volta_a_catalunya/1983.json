@@ -1,0 +1,178 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1983,
+    "distancia": 1231.0,
+    "desnivel": 0,
+    "tiempo": "32h 28' 11\"",
+    "ciclistasInscritos": 80,
+    "ciclistasFinalizados": 59,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Recio José",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thallmann Julius",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 4 min 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Veldscholten Gerard",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo",
+            "ventaja": "+ 4 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 5 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 6 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Laguía José Luis",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 6 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cueli Faustino",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 7 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 7 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hoste Frank",
+        "pais": "Bélgica",
+        "equipo": "Europdecor - Dries - Eddy Merckx"
+    },
+    "ganadorMontana": {
+        "nombre": "Ocaña Ángel",
+        "pais": "España",
+        "equipo": "Zor - Gemeaz"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " TI - Raleigh - Campagnolo",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 3.8,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.479
+        },
+        {
+            "etapa": 2,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.675
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dejonckheere Noël",
+            "pais": "Bélgica",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.173
+        },
+        {
+            "etapa": 5,
+            "nombre": "Glaus Gilbert",
+            "pais": "Suiza",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.195
+        },
+        {
+            "etapa": 6,
+            "nombre": "Recio José",
+            "pais": "España",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Coll Antonio",
+            "pais": "España",
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2010,
+    "distancia": 1196.5,
+    "desnivel": 0,
+    "tiempo": "28h 50' 57\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 117,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Moerenhout Koos",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tuft Svein",
+            "pais": "Canadá",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Tjallingii Maarten",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "RadioShack",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cornu Dominique",
+            "pais": "Bélgica",
+            "equipo": "Skil - Shimano",
+            "ventaja": "+ 2 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roelandts Jürgen",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 2 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Boasson Hagen Edvald",
+        "pais": "Noruega",
+        "equipo": "Sky Procycling"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Martin Tony",
+        "pais": "Alemania",
+        "equipo": "Team HTC - Columbia "
+    },
+    "ganadorEquipos": {
+        "nombre": " Rabobank ProTeam",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 5.2,
+            "desnivel": 0,
+            "velocidadMedia": 49.524
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.393
+        },
+        {
+            "etapa": 3,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 198.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.522
+        },
+        {
+            "etapa": 4,
+            "nombre": "Moerenhout Koos",
+            "pais": "Países Bajos",
+            "distancia": 191.8,
+            "desnivel": 0,
+            "velocidadMedia": 41.718
+        },
+        {
+            "etapa": 5,
+            "nombre": "Henderson Gregory",
+            "pais": "Nueva Zelanda",
+            "distancia": 214.4,
+            "desnivel": 0,
+            "velocidadMedia": 44.859
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bobridge Jack",
+            "pais": "Australia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.852
+        },
+        {
+            "etapa": 7,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 205.6,
+            "desnivel": 0,
+            "velocidadMedia": 39.486
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.0557
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2012,
+    "distancia": 1182.8,
+    "desnivel": 15915,
+    "tiempo": "35h 54' 49\"",
+    "ciclistasInscritos": 1,
+    "ciclistasFinalizados": 92,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Barracuda",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Liquigas - Cannondale"
+    },
+    "ganadorMontana": {
+        "nombre": "Montaguti Matteo",
+        "pais": "Italia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 7.3,
+            "desnivel": 134,
+            "velocidadMedia": 45.077
+        },
+        {
+            "etapa": 1,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "distancia": 218.3,
+            "desnivel": 3542,
+            "velocidadMedia": 34.358
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 194.7,
+            "desnivel": 1899,
+            "velocidadMedia": 42.398
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 188.8,
+            "desnivel": 2778,
+            "velocidadMedia": 40.908
+        },
+        {
+            "etapa": 4,
+            "nombre": "Isaychev Vladimir",
+            "pais": "Rusia",
+            "distancia": 192.7,
+            "desnivel": 2499,
+            "velocidadMedia": 38.738
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 198.5,
+            "desnivel": 1951,
+            "velocidadMedia": 44.089
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kessiakoff Fredrik",
+            "pais": "Suecia",
+            "distancia": 34.3,
+            "desnivel": 607,
+            "velocidadMedia": 44.163
+        },
+        {
+            "etapa": 7,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 148.2,
+            "desnivel": 2505,
+            "velocidadMedia": 39.406
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kangert Tanel",
+            "pais": "Estonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.9404
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1968,
+    "distancia": 3001.0,
+    "desnivel": 0,
+    "tiempo": "78h 29' 00\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 51,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 5 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "Faema",
+            "ventaja": "+ 5 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 5 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Aimar Lucien",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 6 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Spruyt Jos",
+            "pais": "Bélgica",
+            "equipo": "Faema",
+            "ventaja": "+ 7 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Janssen Jan",
+        "pais": "Países Bajos",
+        "equipo": "Pelforth - Sauvage - Lejeune"
+    },
+    "ganadorMontana": {
+        "nombre": "Gabica Francisco",
+        "pais": "España",
+        "equipo": "Fagor"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 121.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.817
+        },
+        {
+            "etapa": 1,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.98
+        },
+        {
+            "etapa": 2,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.78
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Pra Tommaso",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.75
+        },
+        {
+            "etapa": 3,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.63
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "distancia": 108.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.51
+        },
+        {
+            "etapa": 5,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 106.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.99
+        },
+        {
+            "etapa": 6,
+            "nombre": "Guerra Pietro",
+            "pais": "Italia",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.7
+        },
+        {
+            "etapa": 7,
+            "nombre": "Peffgen Wilfried",
+            "pais": "Alemania",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.44
+        },
+        {
+            "etapa": 8,
+            "nombre": "Martín Manuel",
+            "pais": "España",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.62
+        },
+        {
+            "etapa": 9,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.09
+        },
+        {
+            "etapa": 10,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.73
+        },
+        {
+            "etapa": 11,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.23
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.26
+        },
+        {
+            "etapa": 13,
+            "nombre": "Van Schil Victor",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.92
+        },
+        {
+            "etapa": 14,
+            "nombre": "Castello Eduardo",
+            "pais": "España",
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.3
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Santamarina Luis Pedro",
+            "pais": "España",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.67
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 67.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.104
+        },
+        {
+            "etapa": 18,
+            "nombre": "Martín Manuel",
+            "pais": "España",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.6
+        }
+    ]
+}

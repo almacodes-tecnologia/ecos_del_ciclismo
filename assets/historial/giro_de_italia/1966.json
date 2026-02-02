@@ -1,0 +1,274 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1966,
+    "distancia": 3805.0,
+    "desnivel": 0,
+    "tiempo": "111h 10' 48\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 83,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Ford France - Hutchinson",
+            "ventaja": "+ 4 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "equipo": "Ford France - Hutchinson",
+            "ventaja": "+ 5 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 6 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 7 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 8 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 9 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Taccone Vito",
+            "pais": "Italia",
+            "equipo": "Vittadello",
+            "ventaja": "+ 11 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "Filotex",
+            "ventaja": "+ 20 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Motta Gianni",
+        "pais": "Italia",
+        "equipo": "Molteni"
+    },
+    "ganadorMontana": {
+        "nombre": "Bitossi Franco",
+        "pais": "Italia",
+        "equipo": "Filotex"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Molteni",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Taccone Vito",
+            "pais": "Italia",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 60.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Andreoli Severino",
+            "pais": "Italia",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.83
+        },
+        {
+            "etapa": 4,
+            "nombre": "Knapp Giovanni",
+            "pais": "Italia",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bariviera Vendramino",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Marcoli Raffaele",
+            "pais": "Italia",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Denson Vin",
+            "pais": "Reino Unido",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 10,
+            "nombre": "Zandegù Dino",
+            "pais": "Italia",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Zandegù Dino",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 13,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "distancia": 46.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 267.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 15,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 18,
+            "nombre": "Dancelli Michele",
+            "pais": "Italia",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 19,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 20,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 21,
+            "nombre": "Scandelli Pietro",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 22,
+            "nombre": "Bariviera Vendramino",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.744
+        }
+    ]
+}

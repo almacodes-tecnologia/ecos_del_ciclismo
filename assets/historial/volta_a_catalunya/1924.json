@@ -1,0 +1,119 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1924,
+    "distancia": 550.0,
+    "desnivel": 0,
+    "tiempo": "25h 01' 50\"",
+    "ciclistasInscritos": 41,
+    "ciclistasFinalizados": 27,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Miquel Mució",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Monteys Teodoro",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 10 min 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Otero Victorino",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 15 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "De Juan Juan",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 34 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Janer Jaime",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 38 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Torrell Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 58 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sant Pedro",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 6 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Alegre Manuel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 8 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sans José María",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 30 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Garcia Miguel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 32 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Miquel Mució",
+            "pais": "España",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.0
+        },
+        {
+            "etapa": 2,
+            "nombre": "Monteys Teodoro",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.524
+        },
+        {
+            "etapa": 3,
+            "nombre": "Miquel Mució",
+            "pais": "España",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.578
+        },
+        {
+            "etapa": 4,
+            "nombre": "Janer Jaime",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.3736
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1955,
+    "distancia": 4247.1,
+    "desnivel": 0,
+    "tiempo": "130h 29' 26\"",
+    "ciclistasInscritos": 127,
+    "ciclistasFinalizados": 69,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Brankart Jean",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 4 min 53 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Luxembourg/International",
+            "ventaja": "+ 11 min 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 12 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rolland Antonin",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 13 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 15 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 18 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 27 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Close Alex",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 31 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 36 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ockers Stan",
+        "pais": "Bélgica",
+        "equipo": "Belgium"
+    },
+    "ganadorMontana": {
+        "nombre": "Gaul Charly",
+        "pais": "Luxemburgo",
+        "equipo": "Luxembourg/International"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " France",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 102.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.37
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.5,
+            "desnivel": 0,
+            "velocidadMedia": 15.23
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.58
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.69
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kemp Willy",
+            "pais": "Luxemburgo",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.66
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.39
+        },
+        {
+            "etapa": 6,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.98
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 267.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 253.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.79
+        },
+        {
+            "etapa": 9,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.28
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.54
+        },
+        {
+            "etapa": 11,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.68
+        },
+        {
+            "etapa": 12,
+            "nombre": "Fantini Alessandro",
+            "pais": "Italia",
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.8
+        },
+        {
+            "etapa": 13,
+            "nombre": "de Groot Daan",
+            "pais": "Países Bajos",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.88
+        },
+        {
+            "etapa": 14,
+            "nombre": "Caput Louis",
+            "pais": "Francia",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.13
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pezzi Luciano",
+            "pais": "Italia",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.2
+        },
+        {
+            "etapa": 16,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.66
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.22
+        },
+        {
+            "etapa": 18,
+            "nombre": "Brankart Jean",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.78
+        },
+        {
+            "etapa": 19,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.07
+        },
+        {
+            "etapa": 20,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.82
+        },
+        {
+            "etapa": 21,
+            "nombre": "Brankart Jean",
+            "pais": "Bélgica",
+            "distancia": 68.6,
+            "desnivel": 0,
+            "velocidadMedia": 41.22
+        },
+        {
+            "etapa": 22,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.1451
+        }
+    ]
+}

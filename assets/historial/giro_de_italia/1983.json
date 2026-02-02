@@ -1,0 +1,262 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1983,
+    "distancia": 3696.0,
+    "desnivel": 0,
+    "tiempo": "100h 45' 30\"",
+    "ciclistasInscritos": 162,
+    "ciclistasFinalizados": 140,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Del Tongo - Colnago",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "+ 5 min 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "Del Tongo - Colnago",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Alfa Lum - Olmo ",
+            "ventaja": "+ 7 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 8 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 9 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Metauro Mobili - Pinarello",
+            "ventaja": "+ 10 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Atala - Campagnolo",
+            "ventaja": "+ 12 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Saronni Giuseppe",
+        "pais": "Italia",
+        "equipo": "Del Tongo - Colnago"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Metauro Mobili - Pinarello"
+    },
+    "ganadorJovenes": {
+        "nombre": "Chioccioli Franco",
+        "pais": "Italia",
+        "equipo": "Vivi"
+    },
+    "ganadorEquipos": {
+        "nombre": " Zor - Gemeaz",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 2,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.7
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rosola Paolo",
+            "pais": "Italia",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.434
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.172
+        },
+        {
+            "etapa": 5,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "distancia": 269.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.992
+        },
+        {
+            "etapa": 6,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.807
+        },
+        {
+            "etapa": 7,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.269
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.173
+        },
+        {
+            "etapa": 9,
+            "nombre": "Magrini Riccardo",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.467
+        },
+        {
+            "etapa": 10,
+            "nombre": "Masciarelli Palmiro",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.572
+        },
+        {
+            "etapa": 11,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.065
+        },
+        {
+            "etapa": 13,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.705
+        },
+        {
+            "etapa": 14,
+            "nombre": "Braun Gregor",
+            "pais": "Alemania",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.917
+        },
+        {
+            "etapa": 15,
+            "nombre": "Rosola Paolo",
+            "pais": "Italia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.799
+        },
+        {
+            "etapa": 16,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.737
+        },
+        {
+            "etapa": 16,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.047
+        },
+        {
+            "etapa": 17,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "distancia": 91.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.265
+        },
+        {
+            "etapa": 18,
+            "nombre": "Rosola Paolo",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.157
+        },
+        {
+            "etapa": 19,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.635
+        },
+        {
+            "etapa": 21,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.246
+        },
+        {
+            "etapa": 22,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.937
+        }
+    ]
+}

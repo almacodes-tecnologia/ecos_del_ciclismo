@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2004,
+    "distancia": 2998.7,
+    "desnivel": 42016,
+    "tiempo": "77h 42' 46\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 119,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Liberty Seguros",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pérez Santiago",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Illes Balears - Banesto",
+            "ventaja": "+ 2 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana - Kelme",
+            "ventaja": "+ 3 min 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "García Quesada Carlos",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana - Kelme",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "Team CSC",
+            "ventaja": "+ 8 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Nozal Isidro",
+            "pais": "España",
+            "equipo": "Liberty Seguros",
+            "ventaja": "+ 8 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Costa de Almería - Paternina",
+            "ventaja": "+ 13 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pérez Rodríguez Luis",
+            "pais": "España",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 13 min 24 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Blanco David",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana - Kelme",
+            "ventaja": "+ 15 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "T-Mobile Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Cárdenas Félix Rafael",
+        "pais": "Colombia",
+        "equipo": "Cafés Baqué"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Comunidad Valenciana - Kelme",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 28.0,
+            "desnivel": 186,
+            "velocidadMedia": 54.634
+        },
+        {
+            "etapa": 2,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 207.0,
+            "desnivel": 1070,
+            "velocidadMedia": 41.11
+        },
+        {
+            "etapa": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 157.0,
+            "desnivel": 1332,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 167.0,
+            "desnivel": 797,
+            "velocidadMedia": 38.1
+        },
+        {
+            "etapa": 5,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 186.5,
+            "desnivel": 2240,
+            "velocidadMedia": 36.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 157.0,
+            "desnivel": 1931,
+            "velocidadMedia": 41.25
+        },
+        {
+            "etapa": 7,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 1513,
+            "velocidadMedia": 42.48
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hamilton Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 40.1,
+            "desnivel": 72,
+            "velocidadMedia": 50.9
+        },
+        {
+            "etapa": 9,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "distancia": 162.0,
+            "desnivel": 3954,
+            "velocidadMedia": 37.83
+        },
+        {
+            "etapa": 10,
+            "nombre": "Jiménez Eladio",
+            "pais": "España",
+            "distancia": 174.5,
+            "desnivel": 2573,
+            "velocidadMedia": 38.5
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zabriskie David",
+            "pais": "Estados Unidos",
+            "distancia": 165.0,
+            "desnivel": 1170,
+            "velocidadMedia": 40.32
+        },
+        {
+            "etapa": 12,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 145.0,
+            "desnivel": 4254,
+            "velocidadMedia": 33.53
+        },
+        {
+            "etapa": 13,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 172.0,
+            "desnivel": 1804,
+            "velocidadMedia": 42.66
+        },
+        {
+            "etapa": 14,
+            "nombre": "Pérez Santiago",
+            "pais": "España",
+            "distancia": 167.0,
+            "desnivel": 2835,
+            "velocidadMedia": 40.64
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pérez Santiago",
+            "pais": "España",
+            "distancia": 29.6,
+            "desnivel": 1487,
+            "velocidadMedia": 28.42
+        },
+        {
+            "etapa": 16,
+            "nombre": "Juliá José Cayetano",
+            "pais": "España",
+            "distancia": 190.0,
+            "desnivel": 732,
+            "velocidadMedia": 43.95
+        },
+        {
+            "etapa": 17,
+            "nombre": "Cárdenas Félix Rafael",
+            "pais": "Colombia",
+            "distancia": 170.0,
+            "desnivel": 4216,
+            "velocidadMedia": 34.92
+        },
+        {
+            "etapa": 18,
+            "nombre": "Pascual Rodríguez Javier",
+            "pais": "España",
+            "distancia": 196.0,
+            "desnivel": 3614,
+            "velocidadMedia": 38.81
+        },
+        {
+            "etapa": 19,
+            "nombre": "Zaballa Constantino",
+            "pais": "España",
+            "distancia": 142.0,
+            "desnivel": 2608,
+            "velocidadMedia": 39.9
+        },
+        {
+            "etapa": 20,
+            "nombre": "Gutiérrez José Enrique",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 3628,
+            "velocidadMedia": 36.53
+        },
+        {
+            "etapa": 21,
+            "nombre": "Pérez Santiago",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.949
+        }
+    ]
+}

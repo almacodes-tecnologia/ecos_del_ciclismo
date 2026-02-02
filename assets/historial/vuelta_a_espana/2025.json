@@ -1,0 +1,270 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2025,
+    "distancia": 3170.9,
+    "desnivel": 53985,
+    "tiempo": "74h 20' 28\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pidcock Thomas",
+            "pais": "Reino Unido",
+            "equipo": "Q36.5 Pro Cycling Team",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 3 min 41 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Riccitello Matthew",
+            "pais": "Estados Unidos",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 5 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pellizzari Giulio",
+            "pais": "Italia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 7 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 7 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 7 min 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Træen Torstein",
+            "pais": "Noruega",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 9 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 12 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pedersen Mads",
+        "pais": "Dinamarca",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorMontana": {
+        "nombre": "Vine Jay",
+        "pais": "Australia",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorJovenes": {
+        "nombre": "Riccitello Matthew",
+        "pais": "Estados Unidos",
+        "equipo": "Israel - Premier Tech"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates - XRG",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 186.7,
+            "desnivel": 1293,
+            "velocidadMedia": 44.952
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 159.5,
+            "desnivel": 1910,
+            "velocidadMedia": 42.115
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "distancia": 134.6,
+            "desnivel": 1948,
+            "velocidadMedia": 45.017
+        },
+        {
+            "etapa": 4,
+            "nombre": "Turner Ben",
+            "pais": "Reino Unido",
+            "distancia": 206.7,
+            "desnivel": 3081,
+            "velocidadMedia": 42.731
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 24.1,
+            "desnivel": 122,
+            "velocidadMedia": 56.855
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "distancia": 170.3,
+            "desnivel": 3602,
+            "velocidadMedia": 40.451
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 188.0,
+            "desnivel": 4203,
+            "velocidadMedia": 38.939
+        },
+        {
+            "etapa": 8,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 163.5,
+            "desnivel": 1219,
+            "velocidadMedia": 43.834
+        },
+        {
+            "etapa": 9,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 195.5,
+            "desnivel": 3123,
+            "velocidadMedia": 43.099
+        },
+        {
+            "etapa": 10,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "distancia": 175.3,
+            "desnivel": 2910,
+            "velocidadMedia": 44.492
+        },
+        {
+            "etapa": 11,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 157.4,
+            "desnivel": 3081,
+            "velocidadMedia": 42.882
+        },
+        {
+            "etapa": 12,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 144.9,
+            "desnivel": 2504,
+            "velocidadMedia": 44.278
+        },
+        {
+            "etapa": 13,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 202.7,
+            "desnivel": 3958,
+            "velocidadMedia": 41.332
+        },
+        {
+            "etapa": 14,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "distancia": 135.9,
+            "desnivel": 4095,
+            "velocidadMedia": 35.706
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "distancia": 167.8,
+            "desnivel": 3099,
+            "velocidadMedia": 41.566
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "distancia": 167.9,
+            "desnivel": 3476,
+            "velocidadMedia": 46.82
+        },
+        {
+            "etapa": 17,
+            "nombre": "Pellizzari Giulio",
+            "pais": "Italia",
+            "distancia": 143.2,
+            "desnivel": 3234,
+            "velocidadMedia": 39.594
+        },
+        {
+            "etapa": 18,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 12.2,
+            "desnivel": 33,
+            "velocidadMedia": 56.308
+        },
+        {
+            "etapa": 19,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 161.9,
+            "desnivel": 1300,
+            "velocidadMedia": 42.128
+        },
+        {
+            "etapa": 20,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 164.8,
+            "desnivel": 4116,
+            "velocidadMedia": 41.83
+        },
+        {
+            "etapa": 21,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 108.0,
+            "desnivel": 1678,
+            "velocidadMedia": null
+        }
+    ]
+}

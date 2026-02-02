@@ -1,0 +1,142 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2024,
+    "distancia": 505.3,
+    "desnivel": 7239,
+    "tiempo": "15h 44' 46\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 126,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Wilder Ilan",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Godon Dorian",
+        "pais": "Francia",
+        "equipo": "Decathlon AG2R La Mondiale Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Hollmann Juri",
+        "pais": "Alemania",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorJovenes": {
+        "nombre": "Rodríguez Carlos",
+        "pais": "España",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zijlaard Maikel",
+            "pais": "Países Bajos",
+            "distancia": 2.28,
+            "desnivel": 3,
+            "velocidadMedia": 46.903
+        },
+        {
+            "etapa": 1,
+            "nombre": "Godon Dorian",
+            "pais": "Francia",
+            "distancia": 165.7,
+            "desnivel": 2631,
+            "velocidadMedia": 43.232
+        },
+        {
+            "etapa": 2,
+            "nombre": "Nys Thibau",
+            "pais": "Bélgica",
+            "distancia": 171.0,
+            "desnivel": 2716,
+            "velocidadMedia": 42.269
+        },
+        {
+            "etapa": 3,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "distancia": 15.5,
+            "desnivel": 282,
+            "velocidadMedia": 46.269
+        },
+        {
+            "etapa": 5,
+            "nombre": "Godon Dorian",
+            "pais": "Francia",
+            "distancia": 150.8,
+            "desnivel": 1607,
+            "velocidadMedia": 44.792
+        }
+    ]
+}

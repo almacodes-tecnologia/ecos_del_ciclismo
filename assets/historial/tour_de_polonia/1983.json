@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1983,
+    "distancia": 1193.3,
+    "desnivel": 0,
+    "tiempo": "28h 13' 09\"",
+    "ciclistasInscritos": 80,
+    "ciclistasFinalizados": 79,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Krawczyk Tadeusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Serediuk Andrzej",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mierzejewski Andrzej",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vierke Mathias",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 2 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mokiejewski Witold",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Matern Hans",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 5 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Michalak Lechosław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 5 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Krudysz Zbigniew",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 6 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Stopa Wiesław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 7 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barinov Yuri",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 8 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mokiejewski Witold",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Michalak Lechosław",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Krivochev Sergei",
+            "pais": "Rusia",
+            "distancia": 2.8,
+            "desnivel": 0,
+            "velocidadMedia": 40.159
+        },
+        {
+            "etapa": 1,
+            "nombre": "Krawczyk Tadeusz",
+            "pais": "Polonia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.052
+        },
+        {
+            "etapa": 2,
+            "nombre": "Krawczyk Tadeusz",
+            "pais": "Polonia",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.182
+        },
+        {
+            "etapa": 3,
+            "nombre": "Serediuk Andrzej",
+            "pais": "Polonia",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.191
+        },
+        {
+            "etapa": 4,
+            "nombre": "Krudysz Zbigniew",
+            "pais": "Polonia",
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.277
+        },
+        {
+            "etapa": 5,
+            "nombre": "Serediuk Andrzej",
+            "pais": "Polonia",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.4
+        },
+        {
+            "etapa": 6,
+            "nombre": "Piasecki Lech",
+            "pais": "Polonia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.951
+        },
+        {
+            "etapa": 7,
+            "nombre": "Piasecki Lech",
+            "pais": "Polonia",
+            "distancia": 23.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.923
+        },
+        {
+            "etapa": 8,
+            "nombre": "Barinov Yuri",
+            "pais": "Rusia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.871
+        },
+        {
+            "etapa": 9,
+            "nombre": "Stopa Wiesław",
+            "pais": "Polonia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 56.174
+        }
+    ]
+}

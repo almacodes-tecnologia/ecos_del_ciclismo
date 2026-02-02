@@ -1,0 +1,127 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1954,
+    "distancia": 553.5,
+    "desnivel": 0,
+    "tiempo": "21h 16' 12\"",
+    "ciclistasInscritos": 21,
+    "ciclistasFinalizados": 20,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Clerici Carlo",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Huber Marcel",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martini Alfredo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 7 min 15 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Kerckhove Henri",
+            "pais": "Bélgica",
+            "equipo": "Alpa",
+            "ventaja": "+ 7 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Winterberg Josef",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 9 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 10 min 50 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Schellenberg Max",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 11 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kamber Eugen",
+            "pais": "Suiza",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 47.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Brun Jean",
+            "pais": "Suiza",
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Winterberg Josef",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

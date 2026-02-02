@@ -1,0 +1,152 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2005,
+  "distancia": 3607,
+  "desnivel": 0,
+  "tiempo": "86h 19' 42\"",
+  "ciclistasInscritos": 189,
+  "ciclistasFinalizados": 155,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Sin Ganador",
+      "pais": "",
+      "equipo": "",
+      "ventaja": ""
+    },
+    {
+      "puesto": 2,
+      "nombre": "Ivan Basso",
+      "pais": "Italia",
+      "equipo": "Team CSC",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Francisco Mancebo",
+      "pais": "España",
+      "equipo": "Illes Balears-Caisse d'Épargne",
+      "ventaja": "+5 min 19 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Alexandre Vinokourov",
+      "pais": "Kazajistán",
+      "equipo": "T-Mobile Team",
+      "ventaja": "+6 min 21 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Levi Leipheimer",
+      "pais": "Estados Unidos",
+      "equipo": "Gerolsteiner",
+      "ventaja": "+6 min 53 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Michael Rasmussen",
+      "pais": "Dinamarca",
+      "equipo": "Rabobank",
+      "ventaja": "+7 min 15 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Cadel Evans",
+      "pais": "Australia",
+      "equipo": "Davitamon-Lotto",
+      "ventaja": "+8 min 04 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Floyd Landis",
+      "pais": "Estados Unidos",
+      "equipo": "Phonak Hearing Systems",
+      "ventaja": "+11 min 24 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Óscar Pereiro",
+      "pais": "España",
+      "equipo": "Phonak Hearing Systems",
+      "ventaja": "+11 min 46 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Christophe Moreau",
+      "pais": "Francia",
+      "equipo": "Crédit Agricole",
+      "ventaja": "+11 min 46 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Thor Hushovd",
+    "pais": "Noruega",
+    "equipo": "Crédit Agricole"
+  },
+  "ganadorMontana": {
+    "nombre": "Michael Rasmussen",
+    "pais": "Dinamarca",
+    "equipo": "Rabobank"
+  },
+  "ganadorJovenes": {
+    "nombre": "Yaroslav Popovych",
+    "pais": "Ucrania",
+    "equipo": "Discovery Channel Pro Cycling Team"
+  },
+  "ganadorEquipos": {
+    "nombre": "T-Mobile",
+    "pais": "Alemania"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "David Zabriskie",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Tom Boonen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Tom Boonen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Discovery Channel Pro Cycling Team",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Robbie McEwen",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Lorenzo Bernucci",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Robbie McEwen",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Pieter Weening",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Michael Rasmussen",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Alejandro Valverde",
+      "pais": "España"
+    }
+  ]
+}

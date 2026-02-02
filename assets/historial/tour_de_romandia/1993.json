@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1993,
+    "distancia": 769.7,
+    "desnivel": 0,
+    "tiempo": "20h 42' 53\"",
+    "ciclistasInscritos": 51,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Richard Pascal",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Furlan Giorgio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "Gatorade",
+            "ventaja": "+ 6 min 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Lampre-Polti",
+            "ventaja": "+ 7 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Lampre-Polti",
+            "ventaja": "+ 8 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Leclercq Jean-Claude",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 8 min 34 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sørensen Rolf",
+        "pais": "Dinamarca",
+        "equipo": "Carrera Jeans - Tassoni"
+    },
+    "ganadorMontana": {
+        "nombre": "Chiappucci Claudio",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Tassoni"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Sørensen Rolf",
+            "pais": "Dinamarca",
+            "distancia": 7.3,
+            "desnivel": 0,
+            "velocidadMedia": 48.04
+        },
+        {
+            "etapa": 1,
+            "nombre": "Sørensen Rolf",
+            "pais": "Dinamarca",
+            "distancia": 162.9,
+            "desnivel": 0,
+            "velocidadMedia": 35.26
+        },
+        {
+            "etapa": 2,
+            "nombre": "Van Hooydonck Edwig",
+            "pais": "Bélgica",
+            "distancia": 203.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.21
+        },
+        {
+            "etapa": 3,
+            "nombre": "Richard Pascal",
+            "pais": "Suiza",
+            "distancia": 123.5,
+            "desnivel": 0,
+            "velocidadMedia": 31.15
+        },
+        {
+            "etapa": 4,
+            "nombre": "Aldag Rolf",
+            "pais": "Alemania",
+            "distancia": 71.4,
+            "desnivel": 0,
+            "velocidadMedia": 40.79
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sørensen Rolf",
+            "pais": "Dinamarca",
+            "distancia": 14.5,
+            "desnivel": 0,
+            "velocidadMedia": 48.2
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fidanza Giovanni",
+            "pais": "Italia",
+            "distancia": 186.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.83
+        }
+    ]
+}

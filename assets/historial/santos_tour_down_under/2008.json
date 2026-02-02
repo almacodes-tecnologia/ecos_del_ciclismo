@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2008,
+    "distancia": 697.0,
+    "desnivel": 0,
+    "tiempo": "18h 46' 18\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 122,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "equipo": "Team High Road",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rojas José Joaquín",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Delage Mickaël",
+            "pais": "Francia",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Buffaz Mickaël",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Benítez José Alberto",
+            "pais": "España",
+            "equipo": "Saunier Duval - Scott",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Carlström Kjell",
+            "pais": "Finlandia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Greipel André",
+        "pais": "Alemania",
+        "equipo": "Team High Road"
+    },
+    "ganadorMontana": {
+        "nombre": "Gilbert Philippe",
+        "pais": "Bélgica",
+        "equipo": "Française des Jeux"
+    },
+    "ganadorJovenes": {
+        "nombre": "Rojas José Joaquín",
+        "pais": "España",
+        "equipo": "Caisse d'Epargne"
+    },
+    "ganadorEquipos": {
+        "nombre": " Française des Jeux",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Renshaw Mark",
+            "pais": "Australia",
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.99
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.13
+        },
+        {
+            "etapa": 3,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.03
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.28
+        },
+        {
+            "etapa": 5,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.66
+        },
+        {
+            "etapa": 6,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.7918
+        }
+    ]
+}

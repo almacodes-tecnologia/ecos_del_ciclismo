@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2021,
+    "distancia": 685.8,
+    "desnivel": 10429,
+    "tiempo": "19h 11' 36\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 103,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 2 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Astana - Premier Tech",
+            "ventaja": "+ 2 min 59 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorJovenes": {
+        "nombre": "Vingegaard Jonas",
+        "pais": "Dinamarca",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Jumbo-Visma",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 13.89,
+            "desnivel": 318,
+            "velocidadMedia": 48.22
+        },
+        {
+            "etapa": 2,
+            "nombre": "Aranburu Alex",
+            "pais": "España",
+            "distancia": 154.8,
+            "desnivel": 2616,
+            "velocidadMedia": 41.18
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 167.7,
+            "desnivel": 2591,
+            "velocidadMedia": 41.1
+        },
+        {
+            "etapa": 4,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "distancia": 189.2,
+            "desnivel": 2646,
+            "velocidadMedia": 44.15
+        },
+        {
+            "etapa": 5,
+            "nombre": "Honoré Mikkel Frølich",
+            "pais": "Dinamarca",
+            "distancia": 160.2,
+            "desnivel": 2258,
+            "velocidadMedia": 43.71
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.55
+        }
+    ]
+}

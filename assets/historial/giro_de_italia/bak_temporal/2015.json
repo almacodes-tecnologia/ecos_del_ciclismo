@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2015,
+    "distancia": 3317.0,
+    "desnivel": 51375,
+    "tiempo": "88h 22' 25\"",
+    "ciclistasInscritos": 197,
+    "ciclistasFinalizados": 163,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Amador Andrey",
+            "pais": "Costa Rica",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 8 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Team Cannondale - Garmin ",
+            "ventaja": "+ 9 min 52 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "König Leopold",
+            "pais": "República Checa",
+            "equipo": "Team Sky",
+            "ventaja": "+ 10 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 10 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 12 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Geniez Alexandre",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 15 min 51 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Trofimov Yuri",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 16 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Nizzolo Giacomo",
+        "pais": "Italia",
+        "equipo": "Trek Factory Racing "
+    },
+    "ganadorMontana": {
+        "nombre": "Visconti Giovanni",
+        "pais": "Italia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Aru Fabio",
+        "pais": "Italia",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 17.6,
+            "desnivel": 83,
+            "velocidadMedia": 54.34
+        },
+        {
+            "etapa": 2,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 1868,
+            "velocidadMedia": 41.93
+        },
+        {
+            "etapa": 3,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 136.0,
+            "desnivel": 2797,
+            "velocidadMedia": 38.15
+        },
+        {
+            "etapa": 4,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "distancia": 150.0,
+            "desnivel": 3050,
+            "velocidadMedia": 39.48
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 152.0,
+            "desnivel": 3066,
+            "velocidadMedia": 36.58
+        },
+        {
+            "etapa": 6,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 183.0,
+            "desnivel": 1625,
+            "velocidadMedia": 42.28
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "distancia": 264.0,
+            "desnivel": 2873,
+            "velocidadMedia": 35.81
+        },
+        {
+            "etapa": 8,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "distancia": 186.0,
+            "desnivel": 3842,
+            "velocidadMedia": 38.28
+        },
+        {
+            "etapa": 9,
+            "nombre": "Tiralongo Paolo",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 4264,
+            "velocidadMedia": 38.34
+        },
+        {
+            "etapa": 10,
+            "nombre": "Boem Nicola",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 841,
+            "velocidadMedia": 45.07
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "distancia": 153.0,
+            "desnivel": 2949,
+            "velocidadMedia": 39.04
+        },
+        {
+            "etapa": 12,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 190.0,
+            "desnivel": 1288,
+            "velocidadMedia": 43.37
+        },
+        {
+            "etapa": 13,
+            "nombre": "Modolo Sacha",
+            "pais": "Italia",
+            "distancia": 147.0,
+            "desnivel": 131,
+            "velocidadMedia": 48.16
+        },
+        {
+            "etapa": 14,
+            "nombre": "Kiryienka Vasil",
+            "pais": "Bielorrusia",
+            "distancia": 59.4,
+            "desnivel": 593,
+            "velocidadMedia": 45.77
+        },
+        {
+            "etapa": 15,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 165.0,
+            "desnivel": 4634,
+            "velocidadMedia": 37.7
+        },
+        {
+            "etapa": 16,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 177.0,
+            "desnivel": 4951,
+            "velocidadMedia": 35.07
+        },
+        {
+            "etapa": 17,
+            "nombre": "Modolo Sacha",
+            "pais": "Italia",
+            "distancia": 134.0,
+            "desnivel": 1857,
+            "velocidadMedia": 42.8
+        },
+        {
+            "etapa": 18,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 2195,
+            "velocidadMedia": 41.76
+        },
+        {
+            "etapa": 19,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "distancia": 236.0,
+            "desnivel": 5113,
+            "velocidadMedia": 36.85
+        },
+        {
+            "etapa": 20,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 3355,
+            "velocidadMedia": 37.64
+        },
+        {
+            "etapa": 21,
+            "nombre": "Keisse Iljo",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.625
+        }
+    ]
+}

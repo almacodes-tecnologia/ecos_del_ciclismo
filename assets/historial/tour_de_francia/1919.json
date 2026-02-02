@@ -1,0 +1,207 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1919,
+    "distancia": 5220.0,
+    "desnivel": 0,
+    "tiempo": "231h 07' 15\"",
+    "ciclistasInscritos": 67,
+    "ciclistasFinalizados": 11,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Lambot Firmin",
+            "pais": "Bélgica",
+            "equipo": "La Sportive",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 1 h 42 min 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Christophe Eugène",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 h 26 min 31 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Scieur Léon",
+            "pais": "Bélgica",
+            "equipo": "La Sportive",
+            "ventaja": "+ 2 h 52 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "equipo": "La Sportive",
+            "ventaja": "+ 4 h 14 min 22 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Coomans Jacques",
+            "pais": "Bélgica",
+            "equipo": "La Sportive",
+            "ventaja": "+ 15 h 21 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lucotti Luigi Natale",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 16 h 1 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Daele Joseph",
+            "pais": "Bélgica",
+            "equipo": "La Sportive",
+            "ventaja": "+ 18 h 23 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Steux Alfred",
+            "pais": "Bélgica",
+            "equipo": "La Sportive",
+            "ventaja": "+ 20 h 29 min 1 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Jules Nempon",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 21 h 44 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Rossius Jean",
+            "pais": "Bélgica",
+            "distancia": 388.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.35
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 364.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.96
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pélissier Francis",
+            "pais": "Francia",
+            "distancia": 405.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.13
+        },
+        {
+            "etapa": 4,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 412.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.97
+        },
+        {
+            "etapa": 5,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 482.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.5
+        },
+        {
+            "etapa": 6,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 20.77
+        },
+        {
+            "etapa": 7,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.45
+        },
+        {
+            "etapa": 8,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 370.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.73
+        },
+        {
+            "etapa": 9,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "distancia": 338.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.74
+        },
+        {
+            "etapa": 10,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "distancia": 333.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.35
+        },
+        {
+            "etapa": 11,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.43
+        },
+        {
+            "etapa": 12,
+            "nombre": "Lucotti Luigi Natale",
+            "pais": "Italia",
+            "distancia": 371.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.5
+        },
+        {
+            "etapa": 13,
+            "nombre": "Lucotti Luigi Natale",
+            "pais": "Italia",
+            "distancia": 315.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.43
+        },
+        {
+            "etapa": 14,
+            "nombre": "Lambot Firmin",
+            "pais": "Bélgica",
+            "distancia": 468.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.21
+        },
+        {
+            "etapa": 15,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.056
+        }
+    ]
+}

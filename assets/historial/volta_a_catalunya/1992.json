@@ -1,0 +1,162 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1992,
+    "distancia": 771.0,
+    "desnivel": 6955,
+    "tiempo": "24h 29' 40\"",
+    "ciclistasInscritos": 99,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martín Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "Amaya Seguros",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "R.M.O.",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 3 min 20 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E. - Look - Mavic"
+    },
+    "ganadorMontana": {
+        "nombre": "Rominger Tony",
+        "pais": "Suiza",
+        "equipo": "CLAS - Cajastur"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 7.4,
+            "desnivel": 48,
+            "velocidadMedia": 50.646
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.3,
+            "desnivel": 0,
+            "velocidadMedia": 36.873
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 193.0,
+            "desnivel": 3410,
+            "velocidadMedia": 37.944
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.5,
+            "desnivel": 0,
+            "velocidadMedia": 48.987
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 74.0,
+            "desnivel": 881,
+            "velocidadMedia": 36.755
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 119.8,
+            "desnivel": 2616,
+            "velocidadMedia": 39.775
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.845
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.983
+        }
+    ]
+}

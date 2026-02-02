@@ -1,0 +1,254 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1992,
+    "distancia": 3361.0,
+    "desnivel": 70,
+    "tiempo": "103h 36' 08\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 148,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 5 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "equipo": "GB-MG Maglificio",
+            "ventaja": "+ 7 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "equipo": "Gatorade - Chateau d'Ax ",
+            "ventaja": "+ 8 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 9 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vona Franco",
+            "pais": "Italia",
+            "equipo": "GB-MG Maglificio",
+            "ventaja": "+ 11 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Lampre-Colnago ",
+            "ventaja": "+ 17 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "equipo": "Manzana Postobón",
+            "ventaja": "+ 17 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Conti Roberto",
+            "pais": "Italia",
+            "equipo": "Ariostea",
+            "ventaja": "+ 19 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cornillet Bruno",
+            "pais": "Francia",
+            "equipo": "Z",
+            "ventaja": "+ 20 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cipollini Mario",
+        "pais": "Italia",
+        "equipo": "GB-MG Maglificio"
+    },
+    "ganadorMontana": {
+        "nombre": "Chiappucci Claudio",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Vagabond"
+    },
+    "ganadorJovenes": {
+        "nombre": "Tonkov Pavel",
+        "pais": "Rusia",
+        "equipo": "Lampre-Colnago "
+    },
+    "ganadorEquipos": {
+        "nombre": " GB-MG Maglificio",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 8.0,
+            "desnivel": 70,
+            "velocidadMedia": 48.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leoni Endrio",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.386
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sciandri Maximilian",
+            "pais": "Reino Unido",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.691
+        },
+        {
+            "etapa": 4,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.03
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vona Franco",
+            "pais": "Italia",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.921
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.381
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.744
+        },
+        {
+            "etapa": 10,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.995
+        },
+        {
+            "etapa": 11,
+            "nombre": "Pagnin Roberto",
+            "pais": "Italia",
+            "distancia": 233.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.907
+        },
+        {
+            "etapa": 12,
+            "nombre": "Leoni Endrio",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.214
+        },
+        {
+            "etapa": 13,
+            "nombre": "Vona Franco",
+            "pais": "Italia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.46
+        },
+        {
+            "etapa": 14,
+            "nombre": "Furlan Giorgio",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.82
+        },
+        {
+            "etapa": 15,
+            "nombre": "Simon François",
+            "pais": "Francia",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.928
+        },
+        {
+            "etapa": 16,
+            "nombre": "Saligari Marco",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.289
+        },
+        {
+            "etapa": 17,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.593
+        },
+        {
+            "etapa": 18,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.3
+        },
+        {
+            "etapa": 19,
+            "nombre": "Bölts Udo",
+            "pais": "Alemania",
+            "distancia": 260.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.359
+        },
+        {
+            "etapa": 20,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.211
+        },
+        {
+            "etapa": 22,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 66.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.127
+        }
+    ]
+}

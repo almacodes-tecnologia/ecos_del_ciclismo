@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1997,
+    "distancia": 760.7,
+    "desnivel": 0,
+    "tiempo": "20h 21' 41\"",
+    "ciclistasInscritos": 135,
+    "ciclistasFinalizados": 124,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "equipo": "GAN",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zberg Beat",
+            "pais": "Suiza",
+            "equipo": "Mercatone Uno",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Teteriouk Andrei",
+            "pais": "Kazajistán",
+            "equipo": "Lotto - Mobistar",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Meinert-Nielsen Peter",
+            "pais": "Dinamarca",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 2 min 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Shefer Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "",
+            "ventaja": "+ 2 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cipollini Mario",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Madouas Laurent",
+        "pais": "Francia",
+        "equipo": "Lotto - Mobistar"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 8.1,
+            "desnivel": 0,
+            "velocidadMedia": 48.763
+        },
+        {
+            "etapa": 1,
+            "nombre": "Di Grande Giuseppe",
+            "pais": "Italia",
+            "distancia": 167.8,
+            "desnivel": 0,
+            "velocidadMedia": 34.22
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 172.7,
+            "desnivel": 0,
+            "velocidadMedia": 39.58
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 171.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.24
+        },
+        {
+            "etapa": 4,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "distancia": 149.4,
+            "desnivel": 0,
+            "velocidadMedia": 34.08
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 69.3,
+            "desnivel": 0,
+            "velocidadMedia": 45.3
+        },
+        {
+            "etapa": 6,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 21.7,
+            "desnivel": 0,
+            "velocidadMedia": 53.88
+        }
+    ]
+}

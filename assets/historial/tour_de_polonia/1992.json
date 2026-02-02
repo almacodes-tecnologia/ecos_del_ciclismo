@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1992,
+    "distancia": 1150.0,
+    "desnivel": 0,
+    "tiempo": "29h 11' 05\"",
+    "ciclistasInscritos": 60,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Baranowski Dariusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "equipo": "",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pastukhovich Igor",
+            "pais": "Bielorrusia",
+            "equipo": "",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Piwowarski Grzegorz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Korab Piotr",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Galkin Oleg",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 3 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bilewski Mariusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wadecki Piotr",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 5 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Stakenas Kestutis",
+            "pais": "Lituania",
+            "equipo": "",
+            "ventaja": "+ 5 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Charapov Alexander",
+            "pais": "Bielorrusia",
+            "equipo": "",
+            "ventaja": "+ 6 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pastukhovich Igor",
+        "pais": "Bielorrusia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Baranowski Dariusz",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Piwowarski Grzegorz",
+            "pais": "Polonia",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.243
+        },
+        {
+            "etapa": 2,
+            "nombre": "Frejowski Sławomir",
+            "pais": "Polonia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.563
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.341
+        },
+        {
+            "etapa": 4,
+            "nombre": "Krzeszowiec Artur",
+            "pais": "Polonia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.87
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wojciechowski Dariusz",
+            "pais": "Polonia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.914
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zajdel Krystian",
+            "pais": "Polonia",
+            "distancia": 130.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.353
+        },
+        {
+            "etapa": 8,
+            "nombre": "Baranowski Dariusz",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

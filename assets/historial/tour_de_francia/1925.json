@@ -1,0 +1,231 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1925,
+    "distancia": 5087.0,
+    "desnivel": 0,
+    "tiempo": "219h 10' 18\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 49,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 54 min 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Aimo Bartolomeo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 56 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "+ 1 h 11 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Dejonghe Albert",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 27 min 42 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Beeckman Théophile",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 24 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Huyse Omer",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 33 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Verdyck August",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 44 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sellier Félix",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 45 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gay Federico",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 4 h 6 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "distancia": 340.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.6
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bellenger Romain",
+            "pais": "Francia",
+            "distancia": 371.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.57
+        },
+        {
+            "etapa": 3,
+            "nombre": "Mottiat Louis",
+            "pais": "Bélgica",
+            "distancia": 405.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.73
+        },
+        {
+            "etapa": 4,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.84
+        },
+        {
+            "etapa": 5,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.46
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "distancia": 293.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.36
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.68
+        },
+        {
+            "etapa": 8,
+            "nombre": "Benoît Adelin",
+            "pais": "Bélgica",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.29
+        },
+        {
+            "etapa": 9,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.57
+        },
+        {
+            "etapa": 10,
+            "nombre": "Beeckman Théophile",
+            "pais": "Bélgica",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.59
+        },
+        {
+            "etapa": 11,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.15
+        },
+        {
+            "etapa": 12,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "distancia": 280.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.37
+        },
+        {
+            "etapa": 13,
+            "nombre": "Aimo Bartolomeo",
+            "pais": "Italia",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.02
+        },
+        {
+            "etapa": 14,
+            "nombre": "Martin Hector",
+            "pais": "Bélgica",
+            "distancia": 303.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.11
+        },
+        {
+            "etapa": 15,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 373.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.74
+        },
+        {
+            "etapa": 16,
+            "nombre": "Martin Hector",
+            "pais": "Bélgica",
+            "distancia": 334.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.91
+        },
+        {
+            "etapa": 17,
+            "nombre": "Martin Hector",
+            "pais": "Bélgica",
+            "distancia": 433.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.29
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.794
+        }
+    ]
+}

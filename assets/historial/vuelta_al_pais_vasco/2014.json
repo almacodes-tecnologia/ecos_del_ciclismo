@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2014,
+    "distancia": 815.1,
+    "desnivel": 13876,
+    "tiempo": "21h 09' 11\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Trofimov Yuri",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 2 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ.fr ",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 2 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kwiatkowski Michał",
+        "pais": "Polonia",
+        "equipo": "Omega Pharma - Quick-Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Villella Davide",
+        "pais": "Italia",
+        "equipo": "Cannondale "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " BMC Racing Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 153.4,
+            "desnivel": 2994,
+            "velocidadMedia": 37.55
+        },
+        {
+            "etapa": 2,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 155.8,
+            "desnivel": 2738,
+            "velocidadMedia": 41.31
+        },
+        {
+            "etapa": 3,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 194.7,
+            "desnivel": 2431,
+            "velocidadMedia": 38.66
+        },
+        {
+            "etapa": 4,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 151.0,
+            "desnivel": 2821,
+            "velocidadMedia": 41.28
+        },
+        {
+            "etapa": 5,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "distancia": 160.2,
+            "desnivel": 2892,
+            "velocidadMedia": 40.57
+        },
+        {
+            "etapa": 6,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7579
+        }
+    ]
+}

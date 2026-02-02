@@ -1,0 +1,207 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1923,
+    "distancia": 5396.0,
+    "desnivel": 0,
+    "tiempo": "222h 15' 30\"",
+    "ciclistasInscritos": 86,
+    "ciclistasFinalizados": 48,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "equipo": "Automoto - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "equipo": "Automoto - Hutchinson",
+            "ventaja": "+ 30 min 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bellenger Romain",
+            "pais": "Francia",
+            "equipo": "Peugeot - Wolber",
+            "ventaja": "+ 1 h 4 min 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tiberghien Hector",
+            "pais": "Bélgica",
+            "equipo": "Peugeot - Wolber",
+            "ventaja": "+ 1 h 29 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Alancourt Arsène",
+            "pais": "Francia",
+            "equipo": "Armor - Dunlop",
+            "ventaja": "+ 2 h 6 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Collé Henri",
+            "pais": "Suiza",
+            "equipo": "Griffon - Dunlop",
+            "ventaja": "+ 2 h 28 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Despontin Léon",
+            "pais": "Bélgica",
+            "equipo": "Peugeot - Wolber",
+            "ventaja": "+ 2 h 39 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "equipo": "Automoto - Hutchinson",
+            "ventaja": "+ 2 h 40 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dhers Eugène",
+            "pais": "Francia",
+            "equipo": "Armor - Dunlop",
+            "ventaja": "+ 2 h 59 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Huot Marcel",
+            "pais": "Francia",
+            "equipo": "Griffon - Dunlop",
+            "ventaja": "+ 3 h 16 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jacquinot Robert",
+            "pais": "Francia",
+            "distancia": 381.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.48
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bottecchia Ottavio",
+            "pais": "Italia",
+            "distancia": 371.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 405.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.73
+        },
+        {
+            "etapa": 4,
+            "nombre": "Dejonghe Albert",
+            "pais": "Bélgica",
+            "distancia": 412.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.06
+        },
+        {
+            "etapa": 5,
+            "nombre": "Jacquinot Robert",
+            "pais": "Francia",
+            "distancia": 482.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.77
+        },
+        {
+            "etapa": 6,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 20.26
+        },
+        {
+            "etapa": 7,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "distancia": 427.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.26
+        },
+        {
+            "etapa": 9,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 281.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.08
+        },
+        {
+            "etapa": 10,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.56
+        },
+        {
+            "etapa": 11,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 260.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.43
+        },
+        {
+            "etapa": 12,
+            "nombre": "Muller Joseph",
+            "pais": "Francia",
+            "distancia": 377.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.89
+        },
+        {
+            "etapa": 13,
+            "nombre": "Bellenger Romain",
+            "pais": "Francia",
+            "distancia": 300.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.86
+        },
+        {
+            "etapa": 14,
+            "nombre": "Goethals Félix",
+            "pais": "Francia",
+            "distancia": 433.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.89
+        },
+        {
+            "etapa": 15,
+            "nombre": "Goethals Félix",
+            "pais": "Francia",
+            "distancia": 343.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.38
+        }
+    ]
+}

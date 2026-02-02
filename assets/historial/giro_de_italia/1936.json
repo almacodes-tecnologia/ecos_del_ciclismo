@@ -1,0 +1,259 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1936,
+    "distancia": 3745.0,
+    "desnivel": 0,
+    "tiempo": "120h 12' 30\"",
+    "ciclistasInscritos": 34,
+    "ciclistasFinalizados": 45,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Legnano",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Canavesi Severino",
+            "pais": "Italia",
+            "equipo": "Ganna",
+            "ventaja": "+ 7 min 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mealli Adalino",
+            "pais": "Italia",
+            "equipo": "Legnano",
+            "ventaja": "+ 14 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "equipo": "Frejus",
+            "ventaja": "+ 14 min 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Piemontesi Domenico",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 16 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Morelli Ambrogio Enrico",
+            "pais": "Italia",
+            "equipo": "Ganna",
+            "ventaja": "+ 17 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bergamaschi Vasco",
+            "pais": "Italia",
+            "equipo": "Maino",
+            "ventaja": "+ 18 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mollo Enrico",
+            "pais": "Italia",
+            "equipo": "Gloria",
+            "ventaja": "+ 19 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Molinar Edoardo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 20 min 48 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": "Legnano"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.872
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bini Aldo",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.956
+        },
+        {
+            "etapa": 3,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.059
+        },
+        {
+            "etapa": 4,
+            "nombre": "Battesini Fabio",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.696
+        },
+        {
+            "etapa": 5,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.459
+        },
+        {
+            "etapa": 6,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.428
+        },
+        {
+            "etapa": 7,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 283.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.835
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bizzi Olimpio",
+            "pais": "Italia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.184
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.835
+        },
+        {
+            "etapa": 10,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 117.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.154
+        },
+        {
+            "etapa": 11,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 20.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.739
+        },
+        {
+            "etapa": 12,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 292.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.708
+        },
+        {
+            "etapa": 13,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.419
+        },
+        {
+            "etapa": 14,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.983
+        },
+        {
+            "etapa": 15,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 106.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.896
+        },
+        {
+            "etapa": 15,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 39.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.416
+        },
+        {
+            "etapa": 16,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.485
+        },
+        {
+            "etapa": 17,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.261
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.376
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.772
+        },
+        {
+            "etapa": 19,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.446
+        }
+    ]
+}

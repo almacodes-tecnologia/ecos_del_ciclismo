@@ -1,0 +1,127 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1954,
+    "distancia": 1002.0,
+    "desnivel": 0,
+    "tiempo": "30h 49' 05\"",
+    "ciclistasInscritos": 91,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Impanis Raymond",
+            "pais": "Bélgica",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lauredi Nello",
+            "pais": "Francia",
+            "equipo": "Terrot",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Anastasi Francis",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Filippi Riccardo",
+            "pais": "Italia",
+            "equipo": "Bianchi - Pirelli",
+            "ventaja": "+ 3 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Couvreur Hilaire",
+            "pais": "Bélgica",
+            "equipo": "Terrot",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Meunier Georges",
+            "pais": "Francia",
+            "equipo": "La Perle - Hutchinson ",
+            "ventaja": "+ 5 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "La Perle - Hutchinson ",
+            "ventaja": "+ 7 min 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Renaud Jacques",
+            "pais": "Francia",
+            "equipo": "Royal-Codrix",
+            "ventaja": "+ 7 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Blomme Maurice",
+            "pais": "Bélgica",
+            "equipo": "Bertin - D'Alessandro",
+            "ventaja": "+ 7 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rolland Antonin",
+            "pais": "Francia",
+            "equipo": "Terrot",
+            "ventaja": "+ 7 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 252.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.072
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 233.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.319
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 256.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.773
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 260.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.057
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.3163
+        }
+    ]
+}

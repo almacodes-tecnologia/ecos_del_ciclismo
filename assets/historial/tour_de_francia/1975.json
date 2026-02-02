@@ -1,0 +1,302 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1975,
+    "distancia": 3835.7,
+    "desnivel": 55669,
+    "tiempo": "114h 35' 31\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni - RYC",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Gitane - Campagnolo",
+            "ventaja": "+ 5 min 1 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 6 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 19 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Bianchi - Campagnolo",
+            "ventaja": "+ 23 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 24 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Filotex",
+            "ventaja": "+ 25 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Janssens Ward",
+            "pais": "Bélgica",
+            "equipo": "Molteni - RYC",
+            "ventaja": "+ 32 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 35 min 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Linden Rik",
+        "pais": "Bélgica",
+        "equipo": "Bianchi - Campagnolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Gitane - Campagnolo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Moser Francesco",
+        "pais": "Italia",
+        "equipo": "Filotex"
+    },
+    "ganadorEquipos": {
+        "nombre": " Gan - Mercier - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 6.25,
+            "desnivel": 88,
+            "velocidadMedia": 42.53
+        },
+        {
+            "etapa": 1,
+            "nombre": "Priem Cees",
+            "pais": "Países Bajos",
+            "distancia": 94.0,
+            "desnivel": 842,
+            "velocidadMedia": 43.57
+        },
+        {
+            "etapa": 1,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 108.5,
+            "desnivel": 956,
+            "velocidadMedia": 43.84
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Witte Ronald",
+            "pais": "Bélgica",
+            "distancia": 121.5,
+            "desnivel": 834,
+            "velocidadMedia": 46.35
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rottiers Karel",
+            "pais": "Bélgica",
+            "distancia": 169.5,
+            "desnivel": 1758,
+            "velocidadMedia": 41.67
+        },
+        {
+            "etapa": 4,
+            "nombre": "Esclassan Jacques",
+            "pais": "Francia",
+            "distancia": 223.0,
+            "desnivel": 1680,
+            "velocidadMedia": 40.98
+        },
+        {
+            "etapa": 5,
+            "nombre": "Smit Theo",
+            "pais": "Países Bajos",
+            "distancia": 222.5,
+            "desnivel": 1535,
+            "velocidadMedia": 39.33
+        },
+        {
+            "etapa": 6,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 16.0,
+            "desnivel": 98,
+            "velocidadMedia": 49.1
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 235.5,
+            "desnivel": 1366,
+            "velocidadMedia": 36.68
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 134.0,
+            "desnivel": 941,
+            "velocidadMedia": 39.05
+        },
+        {
+            "etapa": 9,
+            "nombre": "Smit Theo",
+            "pais": "Países Bajos",
+            "distancia": 131.0,
+            "desnivel": 1080,
+            "velocidadMedia": 40.2
+        },
+        {
+            "etapa": 9,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 37.4,
+            "desnivel": 589,
+            "velocidadMedia": 45.15
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.0,
+            "desnivel": 3000,
+            "velocidadMedia": 34.35
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 160.0,
+            "desnivel": 4500,
+            "velocidadMedia": 29.33
+        },
+        {
+            "etapa": 12,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 242.0,
+            "desnivel": 2479,
+            "velocidadMedia": 33.19
+        },
+        {
+            "etapa": 13,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 260.0,
+            "desnivel": 6359,
+            "velocidadMedia": 28.96
+        },
+        {
+            "etapa": 14,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 173.5,
+            "desnivel": 4000,
+            "velocidadMedia": 31.85
+        },
+        {
+            "etapa": 15,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 217.5,
+            "desnivel": 6500,
+            "velocidadMedia": 27.97
+        },
+        {
+            "etapa": 16,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 107.0,
+            "desnivel": 3000,
+            "velocidadMedia": 32.71
+        },
+        {
+            "etapa": 17,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "distancia": 225.0,
+            "desnivel": 6000,
+            "velocidadMedia": 30.43
+        },
+        {
+            "etapa": 18,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 40.0,
+            "desnivel": 1273,
+            "velocidadMedia": 37.94
+        },
+        {
+            "etapa": 19,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 229.0,
+            "desnivel": 3312,
+            "velocidadMedia": 33.19
+        },
+        {
+            "etapa": 20,
+            "nombre": "Santambrogio Giacinto",
+            "pais": "Italia",
+            "distancia": 256.0,
+            "desnivel": 1780,
+            "velocidadMedia": 33.41
+        },
+        {
+            "etapa": 21,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 220.5,
+            "desnivel": 1699,
+            "velocidadMedia": 33.34
+        },
+        {
+            "etapa": 22,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.8978
+        }
+    ]
+}

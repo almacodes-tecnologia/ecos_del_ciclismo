@@ -1,0 +1,139 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2008,
+    "distancia": 777.7,
+    "desnivel": 0,
+    "tiempo": "21h 13' 18\"",
+    "ciclistasInscritos": 142,
+    "ciclistasFinalizados": 95,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "CSC ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bak Lars Ytting",
+            "pais": "Dinamarca",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pellizotti Franco",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gavazzi Francesco",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rast Grégory",
+            "pais": "Suiza",
+            "equipo": "Astana",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lorenzetto Mirco",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Loosli David",
+            "pais": "Suiza",
+            "equipo": "Lampre",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Carlström Kjell",
+            "pais": "Finlandia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rutkiewicz Marek",
+            "pais": "Polonia",
+            "equipo": "Poland",
+            "ventaja": "+ 1 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Davis Allan",
+        "pais": "Australia",
+        "equipo": "Quickstep - Innergetic"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 58.776
+        },
+        {
+            "etapa": 2,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "distancia": 231.2,
+            "desnivel": 0,
+            "velocidadMedia": 37.403
+        },
+        {
+            "etapa": 3,
+            "nombre": "Furlan Angelo",
+            "pais": "Italia",
+            "distancia": 184.8,
+            "desnivel": 0,
+            "velocidadMedia": 41.538
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roelandts Jürgen",
+            "pais": "Bélgica",
+            "distancia": 239.7,
+            "desnivel": 0,
+            "velocidadMedia": 45.087
+        },
+        {
+            "etapa": 5,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.082
+        },
+        {
+            "etapa": 6,
+            "nombre": "Förster Robert",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.2689
+        }
+    ]
+}

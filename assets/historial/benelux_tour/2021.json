@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2021,
+    "distancia": 1092.6,
+    "desnivel": 7003,
+    "tiempo": "24h 14' 29\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 93,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Colbrelli Sonny",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Campenaerts Victor",
+            "pais": "Bélgica",
+            "equipo": "Team Qhubeka NextHash",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Benoot Tiesj",
+            "pais": "Bélgica",
+            "equipo": "Team DSM",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Teunissen Mike",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 2 min 1 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van Poppel Danny",
+        "pais": "Países Bajos",
+        "equipo": "Intermarché - Wanty - Gobert Matériaux"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Bahrain - Victorious",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 169.6,
+            "desnivel": 87,
+            "velocidadMedia": 47.925
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bissegger Stefan",
+            "pais": "Suiza",
+            "distancia": 11.1,
+            "desnivel": 3,
+            "velocidadMedia": 54.89
+        },
+        {
+            "etapa": 3,
+            "nombre": "van der Hoorn Taco",
+            "pais": "Países Bajos",
+            "distancia": 168.3,
+            "desnivel": 256,
+            "velocidadMedia": 45.82
+        },
+        {
+            "etapa": 4,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 166.1,
+            "desnivel": 480,
+            "velocidadMedia": 46.036
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 192.0,
+            "desnivel": 1823,
+            "velocidadMedia": 43.243
+        },
+        {
+            "etapa": 6,
+            "nombre": "Colbrelli Sonny",
+            "pais": "Italia",
+            "distancia": 207.6,
+            "desnivel": 3001,
+            "velocidadMedia": 42.159
+        },
+        {
+            "etapa": 7,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 177.9,
+            "desnivel": 1353,
+            "velocidadMedia": 46.22
+        }
+    ]
+}

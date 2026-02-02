@@ -1,0 +1,202 @@
+{
+  "idCarrera": "vuelta_a_espana",
+  "anio": 2009,
+  "distancia": 3295.3,
+  "desnivel": 0,
+  "tiempo": "87h 22' 37\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 139,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Caisse d'Epargne",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Samuel Sánchez",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+55 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Cadel Evans",
+      "pais": "Australia",
+      "equipo": "Silence - Lotto",
+      "ventaja": "+1 min 32 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Ivan Basso",
+      "pais": "Italia",
+      "equipo": "Liquigas",
+      "ventaja": "+2 min 12 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Ezequiel Mosquera",
+      "pais": "España",
+      "equipo": "Xacobeo-Galicia",
+      "ventaja": "+4 min 27 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Robert Gesink",
+      "pais": "Países Bajos",
+      "equipo": "Rabobank",
+      "ventaja": "+6 min 40 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España",
+      "equipo": "Caisse d'Epargne",
+      "ventaja": "+9 min 08 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Paolo Tiralongo",
+      "pais": "Italia",
+      "equipo": "Lampre-NGC",
+      "ventaja": "+9 min 11 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Philip Deignan",
+      "pais": "Irlanda",
+      "equipo": "Cervelo TestTeam",
+      "ventaja": "+11 min 08 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Juan José Cobo",
+      "pais": "España",
+      "equipo": "Fuji-Servetto",
+      "ventaja": "+11 min 27 s"
+    }
+  ],
+  "ganadorMontana": {
+    "nombre": "David Moncoutié",
+    "pais": "Francia",
+    "equipo": "Cofidis"
+  },
+  "ganadorPuntos": {
+    "nombre": "André Greipel",
+    "pais": "Alemania",
+    "equipo": "Team Columbia-HTC"
+  },
+  "ganadorEquipos": {
+    "nombre": "Xacobeo Galicia",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Gerald Ciolek",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Gregory Henderson",
+      "pais": "Nueva Zelanda"
+    },
+    {
+      "etapa": 4,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 5,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Borut Božič",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Damiano Cunego",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Gustavo César Veloso",
+      "pais": "España"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Simon Gerrans",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Tyler Farrar",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Ryder Hesjedal",
+      "pais": "Canadá"
+    },
+    {
+      "etapa": 13,
+      "nombre": "David Moncoutié",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Damiano Cunego",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Lars Boom",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 16,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Anthony Roux",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Philip Deignan",
+      "pais": "Irlanda"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Juan José Cobo",
+      "pais": "España"
+    },
+    {
+      "etapa": 20,
+      "nombre": "David Millar",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 21,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    }
+  ]
+}

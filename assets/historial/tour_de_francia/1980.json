@@ -1,0 +1,302 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1980,
+    "distancia": 3737.3,
+    "desnivel": 49427,
+    "tiempo": "109h 19' 14\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 85,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 6 min 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martin Raymond",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Vivagel",
+            "ventaja": "+ 7 min 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Splendor - Admiral - TV Ekspres",
+            "ventaja": "+ 12 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Puch - Sem - Campagnolo",
+            "ventaja": "+ 15 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Seznec Christian",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Vivagel",
+            "ventaja": "+ 16 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Nilsson Sven-Åke",
+            "pais": "Suecia",
+            "equipo": "Miko - Mercier - Vivagel",
+            "ventaja": "+ 16 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Warncke Eis - Koga Miyata",
+            "ventaja": "+ 20 min 45 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bazzo Pierre",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 21 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "+ 21 min 10 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pevenage Rudy",
+        "pais": "Bélgica",
+        "equipo": "Ijsboerke - Warncke Eis - Koga Miyata"
+    },
+    "ganadorMontana": {
+        "nombre": "Martin Raymond",
+        "pais": "Francia",
+        "equipo": "Miko - Mercier - Vivagel"
+    },
+    "ganadorJovenes": {
+        "nombre": "van der Velde Johan",
+        "pais": "Países Bajos",
+        "equipo": "TI - Raleigh - Creda"
+    },
+    "ganadorEquipos": {
+        "nombre": " Miko - Mercier - Vivagel",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 7.6,
+            "desnivel": 0,
+            "velocidadMedia": 49.48
+        },
+        {
+            "etapa": 1,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 132.5,
+            "desnivel": 1546,
+            "velocidadMedia": 39.82
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 45.8,
+            "desnivel": 388,
+            "velocidadMedia": 51.13
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pevenage Rudy",
+            "pais": "Bélgica",
+            "distancia": 276.0,
+            "desnivel": 2228,
+            "velocidadMedia": 36.29
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 282.0,
+            "desnivel": 3500,
+            "velocidadMedia": 35.35
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 33.4,
+            "desnivel": 667,
+            "velocidadMedia": 42.22
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 236.5,
+            "desnivel": 1461,
+            "velocidadMedia": 29.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gauthier Jean-Louis",
+            "pais": "Francia",
+            "distancia": 219.5,
+            "desnivel": 1541,
+            "velocidadMedia": 36.87
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 65.0,
+            "desnivel": 614,
+            "velocidadMedia": 46.35
+        },
+        {
+            "etapa": 7,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 92.0,
+            "desnivel": 1081,
+            "velocidadMedia": 40.72
+        },
+        {
+            "etapa": 8,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 164.0,
+            "desnivel": 1574,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 9,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 203.5,
+            "desnivel": 1845,
+            "velocidadMedia": 37.17
+        },
+        {
+            "etapa": 10,
+            "nombre": "Priem Cees",
+            "pais": "Países Bajos",
+            "distancia": 162.0,
+            "desnivel": 1161,
+            "velocidadMedia": 34.35
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 51.0,
+            "desnivel": 721,
+            "velocidadMedia": 43.47
+        },
+        {
+            "etapa": 12,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 193.5,
+            "desnivel": 2746,
+            "velocidadMedia": 33.61
+        },
+        {
+            "etapa": 13,
+            "nombre": "Martin Raymond",
+            "pais": "Francia",
+            "distancia": 200.0,
+            "desnivel": 5500,
+            "velocidadMedia": 30.97
+        },
+        {
+            "etapa": 14,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "distancia": 189.5,
+            "desnivel": 3130,
+            "velocidadMedia": 33.96
+        },
+        {
+            "etapa": 15,
+            "nombre": "Vallet Bernard",
+            "pais": "Francia",
+            "distancia": 160.0,
+            "desnivel": 1057,
+            "velocidadMedia": 40.38
+        },
+        {
+            "etapa": 16,
+            "nombre": "De Schoenmaecker Jos",
+            "pais": "Bélgica",
+            "distancia": 207.5,
+            "desnivel": 3500,
+            "velocidadMedia": 32.29
+        },
+        {
+            "etapa": 17,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "distancia": 242.0,
+            "desnivel": 5500,
+            "velocidadMedia": 33.84
+        },
+        {
+            "etapa": 18,
+            "nombre": "Loos Ludo",
+            "pais": "Bélgica",
+            "distancia": 196.0,
+            "desnivel": 5000,
+            "velocidadMedia": 33.34
+        },
+        {
+            "etapa": 19,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 136.5,
+            "desnivel": 2439,
+            "velocidadMedia": 34.05
+        },
+        {
+            "etapa": 20,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 34.5,
+            "desnivel": 580,
+            "velocidadMedia": 45.36
+        },
+        {
+            "etapa": 21,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 207.0,
+            "desnivel": 1648,
+            "velocidadMedia": 35.63
+        },
+        {
+            "etapa": 22,
+            "nombre": "Verschuere Pol",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.1183
+        }
+    ]
+}

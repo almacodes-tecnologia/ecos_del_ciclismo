@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1987,
+    "distancia": 1699.0,
+    "desnivel": 0,
+    "tiempo": "44h 14' 17\"",
+    "ciclistasInscritos": 101,
+    "ciclistasFinalizados": 90,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "equipo": "Gis Gelati-Jolly",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cattaneo Rocco",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Paganessi Alessandro",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 2 min 1 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kappes Andreas",
+            "pais": "Alemania",
+            "equipo": "Toshiba - La Vie Claire",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "Kas - Miko",
+            "ventaja": "+ 3 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Schmutz Gottfried",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sergeant Marc",
+        "pais": "Bélgica",
+        "equipo": "Lotto - Merckx"
+    },
+    "ganadorMontana": {
+        "nombre": "Parra Fabio Enrique",
+        "pais": "Colombia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Stutz Werner",
+            "pais": "Suiza",
+            "distancia": 8.5,
+            "desnivel": 0,
+            "velocidadMedia": 44.93
+        },
+        {
+            "etapa": 1,
+            "nombre": "Baffi Adriano",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.6
+        },
+        {
+            "etapa": 2,
+            "nombre": "Rooks Steven",
+            "pais": "Países Bajos",
+            "distancia": 178.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.35
+        },
+        {
+            "etapa": 3,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 141.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.08
+        },
+        {
+            "etapa": 4,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.41
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Vliet Teun",
+            "pais": "Países Bajos",
+            "distancia": 129.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.85
+        },
+        {
+            "etapa": 6,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "distancia": 265.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.57
+        },
+        {
+            "etapa": 7,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "distancia": 211.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.12
+        },
+        {
+            "etapa": 8,
+            "nombre": "Knickman Roy",
+            "pais": "Estados Unidos",
+            "distancia": 253.5,
+            "desnivel": 0,
+            "velocidadMedia": 35.47
+        },
+        {
+            "etapa": 9,
+            "nombre": "Paganessi Alessandro",
+            "pais": "Italia",
+            "distancia": 145.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.24
+        },
+        {
+            "etapa": 10,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.64
+        }
+    ]
+}

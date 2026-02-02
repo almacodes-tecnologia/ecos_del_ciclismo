@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1989,
+    "distancia": 859.4,
+    "desnivel": 0,
+    "tiempo": "21h 37' 06\"",
+    "ciclistasInscritos": 49,
+    "ciclistasFinalizados": 95,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "TVM ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Delion Gilles",
+            "pais": "Francia",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Super U - Raleigh - Fiat",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Zimmermann Urs",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bugno Gianni",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wilson Michael",
+            "pais": "Australia",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roux Denis",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Anderson Phil",
+        "pais": "Australia",
+        "equipo": "TVM "
+    },
+    "ganadorMontana": {
+        "nombre": "Roux Denis",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Helvetia - La Suisse",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "distancia": 6.6,
+            "desnivel": 0,
+            "velocidadMedia": 45.6
+        },
+        {
+            "etapa": 1,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "distancia": 198.4,
+            "desnivel": 0,
+            "velocidadMedia": 39.71
+        },
+        {
+            "etapa": 2,
+            "nombre": "Veggerby Jens",
+            "pais": "Dinamarca",
+            "distancia": 157.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.82
+        },
+        {
+            "etapa": 3,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 123.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.49
+        },
+        {
+            "etapa": 3,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "distancia": 16.8,
+            "desnivel": 0,
+            "velocidadMedia": 42.21
+        },
+        {
+            "etapa": 4,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "distancia": 168.2,
+            "desnivel": 0,
+            "velocidadMedia": 35.47
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 189.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.29
+        }
+    ]
+}

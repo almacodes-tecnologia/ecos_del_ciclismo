@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2013,
+    "distancia": 737.1,
+    "desnivel": 10802,
+    "tiempo": "19h 24' 51\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Blanco Pro Cycling Team",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol Team",
+            "ventaja": "+ 2 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wyss Marcel",
+            "pais": "Suiza",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 2 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Burghardt Marcus",
+        "pais": "Alemania",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kelderman Wilco",
+        "pais": "Países Bajos",
+        "equipo": "Blanco Pro Cycling Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Sky Procycling",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 7.45,
+            "desnivel": 291,
+            "velocidadMedia": 33.74
+        },
+        {
+            "etapa": 1,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 176.4,
+            "desnivel": 2297,
+            "velocidadMedia": 39.32
+        },
+        {
+            "etapa": 2,
+            "nombre": "Navardauskas Ramūnas",
+            "pais": "Lituania",
+            "distancia": 190.3,
+            "desnivel": 2403,
+            "velocidadMedia": 39.13
+        },
+        {
+            "etapa": 3,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 181.0,
+            "desnivel": 2075,
+            "velocidadMedia": 41.92
+        },
+        {
+            "etapa": 4,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "distancia": 182.0,
+            "desnivel": 3736,
+            "velocidadMedia": 35.23
+        },
+        {
+            "etapa": 5,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.9244
+        }
+    ]
+}

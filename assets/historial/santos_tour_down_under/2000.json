@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2000,
+    "distancia": 680.2,
+    "desnivel": 0,
+    "tiempo": "19h 02' 02\"",
+    "ciclistasInscritos": 96,
+    "ciclistasFinalizados": 82,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Maignan Gilles",
+            "pais": "Francia",
+            "equipo": "AG2R Prevoyance",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Wesemann Steffen",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Turpin Ludovic",
+            "pais": "Francia",
+            "equipo": "AG2R Prevoyance",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rault Dominique",
+            "pais": "Francia",
+            "equipo": "BigMat - Auber 93",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Stephens Matthew",
+            "pais": "Reino Unido",
+            "equipo": "Linda McCartney Racing Team",
+            "ventaja": "+ 4 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Jørgensen René",
+            "pais": "Dinamarca",
+            "equipo": "MemoryCard - Jack & Jones",
+            "ventaja": "+ 5 min 46 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Magnien Emmanuel",
+            "pais": "Francia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 10 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Jørgensen René",
+        "pais": "Dinamarca",
+        "equipo": "MemoryCard - Jack & Jones"
+    },
+    "ganadorJovenes": {
+        "nombre": "Casar Sandy",
+        "pais": "Francia",
+        "equipo": "La Française des Jeux"
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R Prevoyance",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Moerenhout Koos",
+            "pais": "Países Bajos",
+            "distancia": 52.2,
+            "desnivel": 0,
+            "velocidadMedia": 46.828
+        },
+        {
+            "etapa": 2,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.412
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bergès Stéphane",
+            "pais": "Francia",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.871
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wesemann Steffen",
+            "pais": "Alemania",
+            "distancia": 136.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.272
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.216
+        },
+        {
+            "etapa": 6,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.7632
+        }
+    ]
+}

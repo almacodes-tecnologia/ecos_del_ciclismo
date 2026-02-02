@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2022,
+    "distancia": 1133.9,
+    "desnivel": 14818,
+    "tiempo": "27h 25' 53\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 143,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "equipo": "Team DSM",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 3 min 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 4 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorMontana": {
+        "nombre": "Simmons Quinn",
+        "pais": "Estados Unidos",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bahrain - Victorious",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 13.9,
+            "desnivel": 4,
+            "velocidadMedia": 54.569
+        },
+        {
+            "etapa": 2,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 219.0,
+            "desnivel": 2144,
+            "velocidadMedia": 40.383
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 170.0,
+            "desnivel": 2063,
+            "velocidadMedia": 41.229
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 202.0,
+            "desnivel": 3092,
+            "velocidadMedia": 41.989
+        },
+        {
+            "etapa": 5,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "distancia": 155.0,
+            "desnivel": 2402,
+            "velocidadMedia": 42.295
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 215.0,
+            "desnivel": 3817,
+            "velocidadMedia": 39.216
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bauhaus Phil",
+            "pais": "Alemania",
+            "distancia": 159.0,
+            "desnivel": 1296,
+            "velocidadMedia": 43.37
+        }
+    ]
+}

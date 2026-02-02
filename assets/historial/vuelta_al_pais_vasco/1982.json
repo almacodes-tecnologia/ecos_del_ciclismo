@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 1982,
+    "distancia": 870.5,
+    "desnivel": 0,
+    "tiempo": "22h 09' 07\"",
+    "ciclistasInscritos": 51,
+    "ciclistasFinalizados": 69,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Laguía José Luis",
+            "pais": "España",
+            "equipo": "Reynolds - Galli",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "equipo": "Reynolds - Galli",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Famcucine - Campagnolo",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "Splendor - Wickes Bouwmarkt",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vandi Alfio",
+            "pais": "Italia",
+            "equipo": "Teka",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fernández Juan",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Santimaria Sergio",
+            "pais": "Italia",
+            "equipo": "Teka",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Moser Francesco",
+        "pais": "Italia",
+        "equipo": "Famcucine - Campagnolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Laguía José Luis",
+        "pais": "España",
+        "equipo": "Reynolds - Galli"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Coll Antonio",
+            "pais": "España",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2
+        },
+        {
+            "etapa": 3,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 192.8,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vilamajo Jaime",
+            "pais": "España",
+            "distancia": 164.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gorospe Julián",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

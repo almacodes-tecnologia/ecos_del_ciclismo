@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1974,
+    "distancia": 2952.0,
+    "desnivel": 0,
+    "tiempo": "86h 48' 18\"",
+    "ciclistasInscritos": 88,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Bic",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "+ 1 min 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 4 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Danguillaume Jean-Pierre",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 6 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Uribezubia José Luis",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Díaz Ventura",
+            "pais": "España",
+            "equipo": "Monteverde",
+            "ventaja": "+ 8 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Colner",
+            "ventaja": "+ 8 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Perurena Domingo",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorMontana": {
+        "nombre": "Abilleira José Luis",
+        "pais": "España",
+        "equipo": "La Casera - Peña Bahamontes"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "distancia": 5.0,
+            "desnivel": 0,
+            "velocidadMedia": 56.6
+        },
+        {
+            "etapa": 1,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 98.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.9
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leman Eric",
+            "pais": "Bélgica",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.08
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.86
+        },
+        {
+            "etapa": 4,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.02
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.9
+        },
+        {
+            "etapa": 6,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.44
+        },
+        {
+            "etapa": 7,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.12
+        },
+        {
+            "etapa": 8,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.32
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.5
+        },
+        {
+            "etapa": 10,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "distancia": 5.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.8
+        },
+        {
+            "etapa": 10,
+            "nombre": "Martinez Martin",
+            "pais": "Francia",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.75
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.32
+        },
+        {
+            "etapa": 12,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.91
+        },
+        {
+            "etapa": 13,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 128.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.85
+        },
+        {
+            "etapa": 14,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 15,
+            "nombre": "Santisteban Juan Manuel",
+            "pais": "España",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.11
+        },
+        {
+            "etapa": 16,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.77
+        },
+        {
+            "etapa": 17,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.73
+        },
+        {
+            "etapa": 18,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.04
+        },
+        {
+            "etapa": 19,
+            "nombre": "García Manuel Antonio",
+            "pais": "España",
+            "distancia": 79.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.13
+        },
+        {
+            "etapa": 19,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.4654
+        }
+    ]
+}

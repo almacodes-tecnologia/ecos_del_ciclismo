@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2018,
+    "distancia": 3153.8,
+    "desnivel": 54018,
+    "tiempo": "82h 05' 58\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 158,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 2 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 5 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Team EF Education First - Drapac p/b Cannondale",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 11 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 11 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 8.0,
+            "desnivel": 66,
+            "velocidadMedia": 49.74
+        },
+        {
+            "etapa": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 163.5,
+            "desnivel": 2826,
+            "velocidadMedia": 38.77
+        },
+        {
+            "etapa": 3,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 178.2,
+            "desnivel": 3160,
+            "velocidadMedia": 37.1
+        },
+        {
+            "etapa": 4,
+            "nombre": "King Ben",
+            "pais": "Estados Unidos",
+            "distancia": 161.4,
+            "desnivel": 3300,
+            "velocidadMedia": 35.45
+        },
+        {
+            "etapa": 5,
+            "nombre": "Clarke Simon",
+            "pais": "Australia",
+            "distancia": 188.7,
+            "desnivel": 3178,
+            "velocidadMedia": 41.0
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 155.7,
+            "desnivel": 1399,
+            "velocidadMedia": 39.16
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "distancia": 185.7,
+            "desnivel": 2535,
+            "velocidadMedia": 43.13
+        },
+        {
+            "etapa": 8,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 195.1,
+            "desnivel": 2112,
+            "velocidadMedia": 42.43
+        },
+        {
+            "etapa": 9,
+            "nombre": "King Ben",
+            "pais": "Estados Unidos",
+            "distancia": 200.8,
+            "desnivel": 4399,
+            "velocidadMedia": 36.44
+        },
+        {
+            "etapa": 10,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 1306,
+            "velocidadMedia": 42.8
+        },
+        {
+            "etapa": 11,
+            "nombre": "De Marchi Alessandro",
+            "pais": "Italia",
+            "distancia": 207.8,
+            "desnivel": 3755,
+            "velocidadMedia": 42.61
+        },
+        {
+            "etapa": 12,
+            "nombre": "Geniez Alexandre",
+            "pais": "Francia",
+            "distancia": 181.1,
+            "desnivel": 3021,
+            "velocidadMedia": 41.32
+        },
+        {
+            "etapa": 13,
+            "nombre": "Rodríguez Óscar",
+            "pais": "España",
+            "distancia": 174.8,
+            "desnivel": 3334,
+            "velocidadMedia": 40.8
+        },
+        {
+            "etapa": 14,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 171.0,
+            "desnivel": 3314,
+            "velocidadMedia": 39.55
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 178.2,
+            "desnivel": 4586,
+            "velocidadMedia": 35.43
+        },
+        {
+            "etapa": 16,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 32.0,
+            "desnivel": 501,
+            "velocidadMedia": 50.59
+        },
+        {
+            "etapa": 17,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "distancia": 157.0,
+            "desnivel": 3574,
+            "velocidadMedia": 37.71
+        },
+        {
+            "etapa": 18,
+            "nombre": "Wallays Jelle",
+            "pais": "Bélgica",
+            "distancia": 186.1,
+            "desnivel": 1040,
+            "velocidadMedia": 47.1
+        },
+        {
+            "etapa": 19,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 154.4,
+            "desnivel": 3183,
+            "velocidadMedia": 41.71
+        },
+        {
+            "etapa": 20,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "distancia": 97.3,
+            "desnivel": 3429,
+            "velocidadMedia": 32.52
+        },
+        {
+            "etapa": 21,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.779
+        }
+    ]
+}

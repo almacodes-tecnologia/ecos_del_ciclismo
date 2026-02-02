@@ -1,0 +1,135 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 1969,
+    "distancia": 720.0,
+    "desnivel": 0,
+    "tiempo": "25h 22' 05\"",
+    "ciclistasInscritos": 39,
+    "ciclistasFinalizados": 36,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Díaz Mariano",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Castello Eduardo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 3 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Galera Joaquín",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 4 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 6 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 8 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Wright Michael",
+            "pais": "Reino Unido",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.858
+        },
+        {
+            "etapa": 2,
+            "nombre": "Galera Joaquín",
+            "pais": "España",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Riotte Raymond",
+            "pais": "Francia",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 43.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

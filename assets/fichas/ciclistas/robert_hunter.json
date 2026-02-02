@@ -1,0 +1,546 @@
+{
+  "id": "robert_hunter",
+  "nombre": "Robert Hunter",
+  "nacionalidad": "Sudáfrica",
+  "anioNacimiento": 1977,
+  "activo": "1999-2013",
+  "especialidad": [
+    "carretera",
+    "esprinter"
+  ],
+  "equipos": [
+    {
+      "anio": 1999,
+      "equipo": "Lampre-Daikin"
+    },
+    {
+      "anio": 2000,
+      "equipo": "Lampre-Daikin"
+    },
+    {
+      "anio": 2001,
+      "equipo": "Lampre-Daikin"
+    },
+    {
+      "anio": 2002,
+      "equipo": "Mapei-Quick Step"
+    },
+    {
+      "anio": 2003,
+      "equipo": "Rabobank"
+    },
+    {
+      "anio": 2004,
+      "equipo": "Rabobank"
+    },
+    {
+      "anio": 2005,
+      "equipo": "Phonak"
+    },
+    {
+      "anio": 2006,
+      "equipo": "Phonak"
+    },
+    {
+      "anio": 2007,
+      "equipo": "Barloworld"
+    },
+    {
+      "anio": 2008,
+      "equipo": "Barloworld"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Barloworld"
+    },
+    {
+      "anio": 2010,
+      "equipo": "Garmin-Transitions"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Team RadioShack"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Garmin-Sharp"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Garmin-Sharp"
+    }
+  ],
+  "palmares": {
+    "1999": [
+      "1 etapa de la Vuelta a España",
+      "Clasificación de las metas volantes en la Vuelta a España"
+    ],
+    "2000": [
+      "Campeonato de Sudáfrica Contrarreloj",
+      "2 etapas de la Vuelta a los Países Bajos",
+      "1 etapa del Rapport Toer"
+    ],
+    "2001": [
+      "1 etapa de la Vuelta a España",
+      "Tour de Rijke"
+    ],
+    "2002": [
+      "1 etapa del Tour de Polonia",
+      "2 etapas del Tour de Langkawi"
+    ],
+    "2004": [
+      "Tour de Catar",
+      "2 etapas del Tour de Catar",
+      "2 etapas de la Vuelta a Suiza",
+      "2 etapas de la Uniqa Classic",
+      "1 etapa del Sachsen-Tour"
+    ],
+    "2005": [
+      "G. P. de Doha",
+      "1 etapa del Tour del Mediterráneo",
+      "1 etapa de la Semana Catalana",
+      "1 etapa del Tour de Georgia"
+    ],
+    "2006": [
+      "Campeonato Africano Contrarreloj",
+      "3.º en el Campeonato Africano en Ruta"
+    ],
+    "2007": [
+      "1 etapa del Giro del Capo",
+      "Vuelta al Distrito de Santarém",
+      "1 etapade la Vuelta al Distrito de Santarém",
+      "1 etapa de la Clásica de Alcobendas",
+      "Tour de Picardie",
+      "1 etapa del Tour de Picardie",
+      "1 etapa del Tour de Francia"
+    ],
+    "2008": [
+      "1 etapa del Gran Premio CTT Correios de Portugal",
+      "3.º en el UCI Africa Tour"
+    ],
+    "2009": [
+      "1 etapa del Tour del Mediterráneo",
+      "Giro del Capo I",
+      "1 etapa del Giro del Trentino"
+    ],
+    "2010": [
+      "2 etapas de la Vuelta a Murcia"
+    ],
+    "2011": [
+     "Mumbai Cyclothon-Tour de Mumbai II",
+      "1 etapa de la Vuelta a Austria"
+    ],
+    "2012": [
+      "Campeonato de Sudáfrica en Ruta"
+    ],
+    "2013": [
+      "Mzansi Tour",
+      "1 etapa del Mzansi Tour"
+    ]
+  },
+  "palmaresMtb": {
+
+  },
+  "resumenPalmares": [
+    "1 etapa en el Tour de Francia",
+    "1 etapa en la Vuelta a España",
+    "Clasificación de las metas volantes en la Vuelta a España"
+  ],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 1999,
+      "carrera": "Vuelta a España",
+      "puesto": "72"
+    },
+    {
+      "anio": 2001,
+      "carrera": "Vuelta a España",
+      "puesto": "118"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Vuelta a España",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2001,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2002,
+      "carrera": "Tour de Francia",
+      "puesto": "97"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2005,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2006,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2007,
+      "carrera": "Tour de Francia",
+      "puesto": "118"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Tour de Francia",
+      "puesto": "104"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2002,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2009,
+      "carrera": "Giro de Italia",
+      "puesto": "154"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2012,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2013,
+      "carrera": "Giro de Italia",
+      "puesto": "141"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2000,
+      "carrera": "Milan-Sanremo",
+      "puesto": "113"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Milan-Sanremo",
+      "puesto": "91"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Milan-Sanremo",
+      "puesto": "42"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Milan-Sanremo",
+      "puesto": "50"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Milan-Sanremo",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2006,
+      "carrera": "Milan-Sanremo",
+      "puesto": "106"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Milan-Sanremo",
+      "puesto": "10"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Milan-Sanremo",
+      "puesto": "141"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Milan-Sanremo",
+      "puesto": "53"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Milan-Sanremo",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2012,
+      "carrera": "Milan-Sanremo",
+      "puesto": "105"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Milan-Sanremo",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2013,
+      "carrera": "Strade Bianche",
+      "puesto": "53"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "6"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "44"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "21"
+    },
+    {
+      "anio": 2006,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "87"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2010,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2011,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "19"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Gent-Wevelgem",
+      "puesto": "126"
+    },
+    {
+      "anio": 2011,
+      "carrera": "GP Montreal",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2011,
+      "carrera": "GP Quebec",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2005,
+      "carrera": "Kuurne-Brussel-Kuurne",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2010,
+      "carrera": "Kuurne-Brussel-Kuurne",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2000,
+      "carrera": "Paris-Tours",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2001,
+      "carrera": "Paris-Tours",
+      "puesto": "91"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Paris-Tours",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1999,
+      "carrera": "E3 Saxo Classic",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2000,
+      "carrera": "E3 Saxo Classic",
+      "puesto": "52"
+    },
+    {
+      "anio": 2002,
+      "carrera": "E3 Saxo Classic",
+      "puesto": "13"
+    },
+    {
+      "anio": 2003,
+      "carrera": "E3 Saxo Classic",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2004,
+      "carrera": "E3 Saxo Classic",
+      "puesto": "62"
+    },
+    {
+      "anio": 2008,
+      "carrera": "E3 Saxo Classic",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2000,
+      "carrera": "Paris-Roubaix",
+      "puesto": "39"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Paris-Roubaix",
+      "puesto": "40"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Paris-Roubaix",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2004,
+      "carrera": "Paris-Roubaix",
+      "puesto": "31"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Paris-Roubaix",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2006,
+      "carrera": "Paris-Roubaix",
+      "puesto": "69"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Paris-Roubaix",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2000,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2002,
+      "carrera": "Tour de Flandes",
+      "puesto": "12"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2005,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2006,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2008,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2009,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC."
+    },
+    {
+      "anio": 20005,
+      "carrera": "Omloop Nieuwsblad",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2010,
+      "carrera": "Omloop Nieuwsblad",
+      "puesto": "NC."
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2000,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "15"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "27"
+    },
+    {
+      "anio": 2006,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "18"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2002,
+      "carrera": "Mundial en Ruta",
+      "puesto": "45"
+    },
+    {
+      "anio": 2006,
+      "carrera": "Mundial en Ruta",
+      "puesto": "96"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2008,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    }
+  ],
+  "resultadosVueltasMenores": [],
+  "habilidades": {
+    "llano": 4,
+    "montana": 1,
+    "media_montana": 2,
+    "muros": 1,
+    "pave": 3,
+    "sprint": 4,
+    "aceleracion": 4,
+    "resistencia_gran_vuelta": 2,
+    "resistencia_clasicas": 3,
+    "combatividad": 3,
+    "contrarreloj": 2,
+    "pista": 2,
+    "tierra": 1
+  }
+}

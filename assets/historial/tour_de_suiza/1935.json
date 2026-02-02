@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1935,
+    "distancia": 1448.7,
+    "desnivel": 0,
+    "tiempo": "55h 16' 24\"",
+    "ciclistasInscritos": 65,
+    "ciclistasFinalizados": 30,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rinaldi Gaspard",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "equipo": "Colin - Wolber",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Garnier Henri",
+            "pais": "Bélgica",
+            "equipo": "F. Pélissier - Hutchinson",
+            "ventaja": "+ 4 min 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Romanatti Carlo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 11 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Buttafocchi Adrien",
+            "pais": "Francia",
+            "equipo": "Helyett - Hutchinson",
+            "ventaja": "+ 12 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Faure Benoît",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 20 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bula Alfred",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 21 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Buchwalder Werner",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 40 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bautz Erich",
+            "pais": "Alemania",
+            "equipo": "Diamant",
+            "ventaja": "+ 41 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Introzzi Augusto",
+            "pais": "Italia",
+            "equipo": "Gloria",
+            "ventaja": "+ 42 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Faure Benoît",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Faure Benoît",
+            "pais": "Francia",
+            "distancia": 242.9,
+            "desnivel": 0,
+            "velocidadMedia": 29.847
+        },
+        {
+            "etapa": 2,
+            "nombre": "Buchwalder Werner",
+            "pais": "Suiza",
+            "distancia": 223.6,
+            "desnivel": 0,
+            "velocidadMedia": 30.074
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 205.4,
+            "desnivel": 0,
+            "velocidadMedia": 30.964
+        },
+        {
+            "etapa": 4,
+            "nombre": "Level Léon",
+            "pais": "Francia",
+            "distancia": 286.9,
+            "desnivel": 0,
+            "velocidadMedia": 32.01
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mealli Adalino",
+            "pais": "Italia",
+            "distancia": 249.8,
+            "desnivel": 0,
+            "velocidadMedia": 32.55
+        },
+        {
+            "etapa": 6,
+            "nombre": "Faure Benoît",
+            "pais": "Francia",
+            "distancia": 240.1,
+            "desnivel": 0,
+            "velocidadMedia": 35.072
+        },
+        {
+            "etapa": 7,
+            "nombre": "Büchi Albert",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.901
+        }
+    ]
+}

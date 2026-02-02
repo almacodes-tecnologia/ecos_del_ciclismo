@@ -1,0 +1,246 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1981,
+    "distancia": 3545.6,
+    "desnivel": 0,
+    "tiempo": "104h 50' 36\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 104,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Prim Tommy",
+            "pais": "Suecia",
+            "equipo": "Bianchi - Piaggio",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Gis Gelati - Campagnolo",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contini Silvano",
+            "pais": "Italia",
+            "equipo": "Bianchi - Piaggio",
+            "ventaja": "+ 2 min 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "equipo": "Sammontana",
+            "ventaja": "+ 5 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vandi Alfio",
+            "pais": "Italia",
+            "equipo": "Selle San Marco",
+            "ventaja": "+ 9 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 10 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bortolotto Claudio",
+            "pais": "Italia",
+            "equipo": "Santini - Selle Italia",
+            "ventaja": "+ 10 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Bianchi - Piaggio",
+            "ventaja": "+ 12 min 1 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Saronni Giuseppe",
+        "pais": "Italia",
+        "equipo": "Gis Gelati - Campagnolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Bortolotto Claudio",
+        "pais": "Italia",
+        "equipo": "Santini - Selle Italia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Faraca Giuseppe",
+        "pais": "Italia",
+        "equipo": "Hoonved - Bottecchia"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bianchi - Piaggio",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Aliverti Fiorenzo",
+            "pais": "Italia",
+            "distancia": 15.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.282
+        },
+        {
+            "etapa": 3,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 255.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.562
+        },
+        {
+            "etapa": 4,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.588
+        },
+        {
+            "etapa": 5,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.663
+        },
+        {
+            "etapa": 6,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.62
+        },
+        {
+            "etapa": 7,
+            "nombre": "Masciarelli Palmiro",
+            "pais": "Italia",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.629
+        },
+        {
+            "etapa": 9,
+            "nombre": "Parsani Serge",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.453
+        },
+        {
+            "etapa": 10,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.18
+        },
+        {
+            "etapa": 11,
+            "nombre": "Renosto Giovanni",
+            "pais": "Italia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.463
+        },
+        {
+            "etapa": 12,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.452
+        },
+        {
+            "etapa": 13,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 35.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.494
+        },
+        {
+            "etapa": 14,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.517
+        },
+        {
+            "etapa": 15,
+            "nombre": "Gisiger Daniel",
+            "pais": "Suiza",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.472
+        },
+        {
+            "etapa": 16,
+            "nombre": "Torelli Claudio",
+            "pais": "Italia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.22
+        },
+        {
+            "etapa": 17,
+            "nombre": "Patellaro Benedetto",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.334
+        },
+        {
+            "etapa": 18,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 127.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.933
+        },
+        {
+            "etapa": 21,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.286
+        },
+        {
+            "etapa": 22,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.15
+        }
+    ]
+}

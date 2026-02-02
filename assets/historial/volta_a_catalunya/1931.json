@@ -1,0 +1,143 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1931,
+    "distancia": 1269.0,
+    "desnivel": 0,
+    "tiempo": "54h 48' 42\"",
+    "ciclistasInscritos": 62,
+    "ciclistasFinalizados": 61,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 4 min 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Simoni Aleardo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 11 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cavallini Aristide",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 18 min 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nicolau Josep",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 26 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Elys Cipriano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 32 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Balmamion Ettore",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 49 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Riera Valeriano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 51 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Escuriet Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 h 4 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Viarengo Amulio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 1 h 5 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.42
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.34
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.22
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.66
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.88
+        },
+        {
+            "etapa": 6,
+            "nombre": "Balmamion Ettore",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.37
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cebrian Vicente",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.865
+        }
+    ]
+}

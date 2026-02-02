@@ -1,0 +1,258 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1932,
+    "distancia": 4361.0,
+    "desnivel": 0,
+    "tiempo": "154h 11' 49\"",
+    "ciclistasInscritos": 75,
+    "ciclistasFinalizados": 57,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Stöpel Kurt",
+            "pais": "Alemania",
+            "equipo": "Germany/Austria",
+            "ventaja": "+ 24 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 26 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pesenti Antonio",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 37 min 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ronsse Georges",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 41 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bonduel Frans",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 45 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Thierbach Oskar",
+            "pais": "Alemania",
+            "equipo": "Germany/Austria",
+            "ventaja": "+ 58 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Demuysere Joseph",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 1 h 3 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Barral Luigi",
+            "pais": "Italia",
+            "equipo": "Isoles",
+            "ventaja": "+ 1 h 6 min 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 1 h 8 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Italy",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Stöpel Kurt",
+            "pais": "Alemania",
+            "distancia": 300.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.43
+        },
+        {
+            "etapa": 3,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 387.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.98
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ronsse Georges",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.24
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pesenti Antonio",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.42
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bonduel Frans",
+            "pais": "Bélgica",
+            "distancia": 322.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.19
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bonduel Frans",
+            "pais": "Bélgica",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Orecchia Michele",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.6
+        },
+        {
+            "etapa": 9,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.42
+        },
+        {
+            "etapa": 10,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "distancia": 132.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.63
+        },
+        {
+            "etapa": 11,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 233.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.8
+        },
+        {
+            "etapa": 12,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 102.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.32
+        },
+        {
+            "etapa": 13,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.07
+        },
+        {
+            "etapa": 14,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.53
+        },
+        {
+            "etapa": 15,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 291.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.28
+        },
+        {
+            "etapa": 16,
+            "nombre": "Loncke Gérard",
+            "pais": "Bélgica",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.58
+        },
+        {
+            "etapa": 17,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.24
+        },
+        {
+            "etapa": 18,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.79
+        },
+        {
+            "etapa": 19,
+            "nombre": "Rebry Gaston",
+            "pais": "Bélgica",
+            "distancia": 271.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.25
+        },
+        {
+            "etapa": 20,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.6
+        },
+        {
+            "etapa": 21,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.2147
+        }
+    ]
+}

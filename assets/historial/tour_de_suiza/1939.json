@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1939,
+    "distancia": 1724.0,
+    "desnivel": 0,
+    "tiempo": "48h 55' 06\"",
+    "ciclistasInscritos": 31,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zimmermann Robert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bolliger Max",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Didier Christophe",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Egli Paul",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Diggelmann Walter",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 16 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Benente Michele",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 17 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Litschi Karl",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 20 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Simonini Settimo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 20 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lang Robert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 21 min 50 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 22 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Mollo Enrico",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Lauwers Stan",
+            "pais": "Bélgica",
+            "distancia": 219.6,
+            "desnivel": 0,
+            "velocidadMedia": 38.728
+        },
+        {
+            "etapa": 2,
+            "nombre": "Buchwalder Edgar",
+            "pais": "Suiza",
+            "distancia": 194.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.719
+        },
+        {
+            "etapa": 3,
+            "nombre": "Lang Robert",
+            "pais": "Suiza",
+            "distancia": 191.9,
+            "desnivel": 0,
+            "velocidadMedia": 37.194
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zimmermann Robert",
+            "pais": "Suiza",
+            "distancia": 174.1,
+            "desnivel": 0,
+            "velocidadMedia": 36.221
+        },
+        {
+            "etapa": 5,
+            "nombre": "Litschi Karl",
+            "pais": "Suiza",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.54
+        },
+        {
+            "etapa": 6,
+            "nombre": "Somers Joseph",
+            "pais": "Bélgica",
+            "distancia": 205.4,
+            "desnivel": 0,
+            "velocidadMedia": 32.807
+        },
+        {
+            "etapa": 7,
+            "nombre": "Somers Joseph",
+            "pais": "Bélgica",
+            "distancia": 312.5,
+            "desnivel": 0,
+            "velocidadMedia": 32.158
+        },
+        {
+            "etapa": 8,
+            "nombre": "Mersch Arsène",
+            "pais": "Luxemburgo",
+            "distancia": 218.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.133
+        }
+    ]
+}

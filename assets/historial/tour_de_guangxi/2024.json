@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-of-guangxi",
+    "anio": 2024,
+    "distancia": 1021.8,
+    "desnivel": 12731,
+    "tiempo": "22h 21' 45\"",
+    "ciclistasInscritos": 129,
+    "ciclistasFinalizados": 111,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Eetvelt Lennert",
+            "pais": "Bélgica",
+            "equipo": "Lotto Dstny",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team dsm-firmenich PostNL",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Baudin Alex",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lafay Victor",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sivakov Pavel",
+            "pais": "Francia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Aleotti Giovanni",
+            "pais": "Italia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fortunato Lorenzo",
+            "pais": "Italia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Costiou Ewen",
+            "pais": "Francia",
+            "equipo": "Arkéa - B&B Hotels",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Simmons Quinn",
+            "pais": "Estados Unidos",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vernon Ethan",
+        "pais": "Reino Unido",
+        "equipo": "Israel - Premier Tech"
+    },
+    "ganadorMontana": {
+        "nombre": "Reinderink Pepijn",
+        "pais": "Países Bajos",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorJovenes": {
+        "nombre": "Van Eetvelt Lennert",
+        "pais": "Bélgica",
+        "equipo": "Lotto Dstny"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Taminiaux Lionel",
+            "pais": "Bélgica",
+            "distancia": 149.4,
+            "desnivel": 1604,
+            "velocidadMedia": 45.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vangheluwe Warre",
+            "pais": "Bélgica",
+            "distancia": 181.5,
+            "desnivel": 2175,
+            "velocidadMedia": 47.454
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vernon Ethan",
+            "pais": "Reino Unido",
+            "distancia": 214.0,
+            "desnivel": 2563,
+            "velocidadMedia": 45.201
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vernon Ethan",
+            "pais": "Reino Unido",
+            "distancia": 176.8,
+            "desnivel": 2835,
+            "velocidadMedia": 43.802
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Eetvelt Lennert",
+            "pais": "Bélgica",
+            "distancia": 165.8,
+            "desnivel": 1881,
+            "velocidadMedia": 45.992
+        },
+        {
+            "etapa": 6,
+            "nombre": "Govekar Matevž",
+            "pais": "Eslovenia",
+            "distancia": 134.3,
+            "desnivel": 1673,
+            "velocidadMedia": 46.872
+        }
+    ]
+}

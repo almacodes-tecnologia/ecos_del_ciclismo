@@ -1,0 +1,30 @@
+{
+  "id": "san_isidro_felechosa",
+  "nombre": "Puerto de San Isidro",
+  "pais": "España",
+  "longitud_km": 14.2,
+  "desnivel_m": 861,
+  "altura_maxima_m": 1520,
+  "pendiente_media_porcentaje": 6.1,
+  "pendiente_maxima_porcentaje": 11.0,
+  "descripcion": "El ascenso clásico del Puerto de San Isidro desde Asturias, terminando en el hito del puerto. Es un puerto largo con una pendiente media alta, que se vuelve muy constante y exigente a partir de la localidad de Cuevas. Incluye el tramo de las 'viseras' antialudes, característico de esta vertiente.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 659},
+    {"kilometro": 1.0, "altitud": 692},
+    {"kilometro": 2.0, "altitud": 730},
+    {"kilometro": 3.0, "altitud": 760},
+    {"kilometro": 4.0, "altitud": 825},
+    {"kilometro": 5.0, "altitud": 900},
+    {"kilometro": 6.0, "altitud": 980},
+    {"kilometro": 7.0, "altitud": 1040},
+    {"kilometro": 8.0, "altitud": 1100},
+    {"kilometro": 9.0, "altitud": 1165},
+    {"kilometro": 10.0, "altitud": 1260},
+    {"kilometro": 11.0, "altitud": 1335},
+    {"kilometro": 12.0, "altitud": 1390},
+    {"kilometro": 13.0, "altitud": 1450},
+    {"kilometro": 14.2, "altitud": 1520}
+  ],
+  "puntos_clave": [
+  ]
+}

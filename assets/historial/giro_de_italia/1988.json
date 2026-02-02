@@ -1,0 +1,166 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1988,
+    "distancia": 1474.0,
+    "desnivel": 0,
+    "tiempo": "97h 18' 56\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "7 Eleven",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zimmermann Urs",
+            "pais": "Suiza",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 2 min 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Giupponi Flavio",
+            "pais": "Italia",
+            "equipo": "Del Tongo",
+            "ventaja": "+ 6 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "equipo": "Del Tongo",
+            "ventaja": "+ 13 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "equipo": "GIS - Ecoflam - Jolly ",
+            "ventaja": "+ 15 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 17 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 18 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Tomasini Stefano",
+            "pais": "Italia",
+            "equipo": "Fanini",
+            "ventaja": "+ 27 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vandelli Maurizio",
+            "pais": "Italia",
+            "equipo": "Atala - Ofmega",
+            "ventaja": "+ 27 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van der Velde Johan",
+        "pais": "Países Bajos",
+        "equipo": "GIS - Ecoflam - Jolly "
+    },
+    "ganadorMontana": {
+        "nombre": "Hampsten Andrew",
+        "pais": "Estados Unidos",
+        "equipo": "7 Eleven"
+    },
+    "ganadorJovenes": {
+        "nombre": "Tomasini Stefano",
+        "pais": "Italia",
+        "equipo": "Fanini"
+    },
+    "ganadorEquipos": {
+        "nombre": " Carrera Jeans - Vagabond",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "distancia": 9.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.169
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 40.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.52
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.292
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kappes Andreas",
+            "pais": "Alemania",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.401
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.084
+        },
+        {
+            "etapa": 9,
+            "nombre": "Di Basco Alessio",
+            "pais": "Italia",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.177
+        },
+        {
+            "etapa": 10,
+            "nombre": "Rosola Paolo",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.648
+        },
+        {
+            "etapa": 12,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.828
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-of-guangxi",
+    "anio": 2025,
+    "distancia": 1017.7,
+    "desnivel": 11131,
+    "tiempo": "22h 37' 12\"",
+    "ciclistasInscritos": 137,
+    "ciclistasFinalizados": 122,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Double Paul",
+            "pais": "Reino Unido",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lafay Victor",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Narváez Jhonatan",
+            "pais": "Ecuador",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Honoré Mikkel Frølich",
+            "pais": "Dinamarca",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nordhagen Jørgen",
+            "pais": "Noruega",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bonneu Kamiel",
+            "pais": "Bélgica",
+            "equipo": "Intermarché - Wanty",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zwiehoff Ben",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nerurkar Lukas",
+            "pais": "Reino Unido",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Magnier Paul",
+        "pais": "Francia",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Guglielmi Simon",
+        "pais": "Francia",
+        "equipo": "Arkéa - B&B Hotels"
+    },
+    "ganadorJovenes": {
+        "nombre": "Nordhagen Jørgen",
+        "pais": "Noruega",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 149.4,
+            "desnivel": 1338,
+            "velocidadMedia": 44.906
+        },
+        {
+            "etapa": 2,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 177.4,
+            "desnivel": 1875,
+            "velocidadMedia": 47.272
+        },
+        {
+            "etapa": 3,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 214.0,
+            "desnivel": 1922,
+            "velocidadMedia": 44.261
+        },
+        {
+            "etapa": 4,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 176.8,
+            "desnivel": 2449,
+            "velocidadMedia": 43.316
+        },
+        {
+            "etapa": 5,
+            "nombre": "Double Paul",
+            "pais": "Reino Unido",
+            "distancia": 165.8,
+            "desnivel": 1976,
+            "velocidadMedia": 44.885
+        },
+        {
+            "etapa": 6,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 134.3,
+            "desnivel": 1571,
+            "velocidadMedia": 45.788
+        }
+    ]
+}

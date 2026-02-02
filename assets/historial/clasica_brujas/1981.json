@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 1981,
+    "distancia": 538.3,
+    "desnivel": 0,
+    "tiempo": "13h 04' 47\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 61,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bogaert Jan",
+            "pais": "Bélgica",
+            "equipo": "Vermeer Thijs - Mimo Salons - Gios",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dierickx André",
+            "pais": "Bélgica",
+            "equipo": "Safir - Galli - Ludo",
+            "ventaja": "+ 5 min 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jacobs Jos",
+            "pais": "Bélgica",
+            "equipo": "Capri Sonne - Koga Miyata",
+            "ventaja": "+ 5 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "De Geest Willy",
+            "pais": "Bélgica",
+            "equipo": "Capri Sonne - Koga Miyata",
+            "ventaja": "+ 5 min 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "De Wilde Etienne",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 5 min 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Teirlinck Willy",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 11 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Govaerts Willy",
+            "pais": "Bélgica",
+            "equipo": "Vermeer Thijs - Mimo Salons - Gios",
+            "ventaja": "+ 11 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Sweevelt Guido",
+            "pais": "Bélgica",
+            "equipo": "Capri Sonne - Koga Miyata",
+            "ventaja": "+ 11 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Renier Marc",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 11 min 39 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Verstraeten Eddy",
+            "pais": "Bélgica",
+            "equipo": "Vermeer Thijs - Mimo Salons - Gios",
+            "ventaja": "+ 11 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jacobs Jos",
+        "pais": "Bélgica",
+        "equipo": "Capri Sonne - Koga Miyata"
+    },
+    "ganadorMontana": {
+        "nombre": "Ertveldt Denis",
+        "pais": "Bélgica",
+        "equipo": "Fangio - Sapeco - Mavic"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "De Wilde Etienne",
+            "pais": "Bélgica",
+            "distancia": 93.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Van Gestel Gerrit",
+            "pais": "Bélgica",
+            "distancia": 13.3,
+            "desnivel": 0,
+            "velocidadMedia": 48.315
+        },
+        {
+            "etapa": 2,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jacobs Jos",
+            "pais": "Bélgica",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

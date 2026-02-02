@@ -1,0 +1,267 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1954,
+    "distancia": 4174.0,
+    "desnivel": 0,
+    "tiempo": "129h 13' 07\"",
+    "ciclistasInscritos": 105,
+    "ciclistasFinalizados": 67,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Clerici Carlo",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 24 min 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Assirelli Nino",
+            "pais": "Italia",
+            "equipo": "Arbos - Bubba",
+            "ventaja": "+ 26 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "Bianchi - Pirelli",
+            "ventaja": "+ 31 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "equipo": "Atala - Pirelli",
+            "ventaja": "+ 33 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "equipo": "Nivea - Fuchs",
+            "ventaja": "+ 34 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Voorting Gerrit",
+            "pais": "Países Bajos",
+            "equipo": "Netherlands",
+            "ventaja": "+ 35 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Bottecchia - Ursus ",
+            "ventaja": "+ 36 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 40 min 51 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Conterno Angelo",
+            "pais": "Italia",
+            "equipo": "Frejus",
+            "ventaja": "+ 41 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Coppi Fausto",
+        "pais": "Italia",
+        "equipo": "Bianchi - Pirelli"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 36.0,
+            "desnivel": 0,
+            "velocidadMedia": 14.31
+        },
+        {
+            "etapa": 2,
+            "nombre": "Minardi Giuseppe",
+            "pais": "Italia",
+            "distancia": 280.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.404
+        },
+        {
+            "etapa": 3,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.243
+        },
+        {
+            "etapa": 4,
+            "nombre": "Conterno Angelo",
+            "pais": "Italia",
+            "distancia": 352.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.604
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 279.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.963
+        },
+        {
+            "etapa": 6,
+            "nombre": "Clerici Carlo",
+            "pais": "Suiza",
+            "distancia": 252.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.507
+        },
+        {
+            "etapa": 7,
+            "nombre": "Albani Giorgio",
+            "pais": "Italia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.785
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pettinati Giovanni",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.837
+        },
+        {
+            "etapa": 9,
+            "nombre": "Corrieri Giovanni",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.187
+        },
+        {
+            "etapa": 10,
+            "nombre": "Giudici Pietro",
+            "pais": "Italia",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.723
+        },
+        {
+            "etapa": 11,
+            "nombre": "Gianneschi Mauro",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.534
+        },
+        {
+            "etapa": 12,
+            "nombre": "Couvreur Hilaire",
+            "pais": "Bélgica",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.355
+        },
+        {
+            "etapa": 13,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.908
+        },
+        {
+            "etapa": 14,
+            "nombre": "Brasola Annibale",
+            "pais": "Italia",
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.571
+        },
+        {
+            "etapa": 15,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.68
+        },
+        {
+            "etapa": 16,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.59
+        },
+        {
+            "etapa": 17,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.301
+        },
+        {
+            "etapa": 18,
+            "nombre": "Grosso Adolfo",
+            "pais": "Italia",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.874
+        },
+        {
+            "etapa": 19,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "distancia": 247.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.479
+        },
+        {
+            "etapa": 20,
+            "nombre": null,
+            "pais": null,
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.007
+        },
+        {
+            "etapa": 21,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.577
+        },
+        {
+            "etapa": 22,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.563
+        }
+    ]
+}

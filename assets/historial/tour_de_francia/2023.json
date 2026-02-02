@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2023,
+    "distancia": 3405.1,
+    "desnivel": 56609,
+    "tiempo": "82h 05' 42\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 150,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 7 min 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 10 min 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 12 min 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 13 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 13 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 14 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 16 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 23 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Martin Guillaume",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 26 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Philipsen Jasper",
+        "pais": "Bélgica",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorMontana": {
+        "nombre": "Ciccone Giulio",
+        "pais": "Italia",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Jumbo-Visma",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 182.0,
+            "desnivel": 3221,
+            "velocidadMedia": 41.55
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lafay Victor",
+            "pais": "Francia",
+            "distancia": 208.9,
+            "desnivel": 2949,
+            "velocidadMedia": 43.726
+        },
+        {
+            "etapa": 3,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 193.5,
+            "desnivel": 2667,
+            "velocidadMedia": 40.989
+        },
+        {
+            "etapa": 4,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 181.8,
+            "desnivel": 1427,
+            "velocidadMedia": 41.09
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "distancia": 162.7,
+            "desnivel": 3652,
+            "velocidadMedia": 41.17
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 144.9,
+            "desnivel": 3894,
+            "velocidadMedia": 37.083
+        },
+        {
+            "etapa": 7,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 169.9,
+            "desnivel": 808,
+            "velocidadMedia": 45.013
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "distancia": 200.7,
+            "desnivel": 1996,
+            "velocidadMedia": 47.704
+        },
+        {
+            "etapa": 9,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "distancia": 182.4,
+            "desnivel": 3441,
+            "velocidadMedia": 42.144
+        },
+        {
+            "etapa": 10,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "distancia": 167.2,
+            "desnivel": 3151,
+            "velocidadMedia": 43.136
+        },
+        {
+            "etapa": 11,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 179.3,
+            "desnivel": 1873,
+            "velocidadMedia": 44.62
+        },
+        {
+            "etapa": 12,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "distancia": 168.8,
+            "desnivel": 3120,
+            "velocidadMedia": 43.712
+        },
+        {
+            "etapa": 13,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 137.8,
+            "desnivel": 2413,
+            "velocidadMedia": 41.853
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "distancia": 151.8,
+            "desnivel": 4281,
+            "velocidadMedia": 38.149
+        },
+        {
+            "etapa": 15,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 179.0,
+            "desnivel": 4483,
+            "velocidadMedia": 38.255
+        },
+        {
+            "etapa": 16,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 22.4,
+            "desnivel": 636,
+            "velocidadMedia": 41.227
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "distancia": 165.7,
+            "desnivel": 5399,
+            "velocidadMedia": 34.386
+        },
+        {
+            "etapa": 18,
+            "nombre": "Asgreen Kasper",
+            "pais": "Dinamarca",
+            "distancia": 184.9,
+            "desnivel": 1216,
+            "velocidadMedia": 44.951
+        },
+        {
+            "etapa": 19,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 172.8,
+            "desnivel": 1934,
+            "velocidadMedia": 49.13
+        },
+        {
+            "etapa": 20,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 133.5,
+            "desnivel": 3471,
+            "velocidadMedia": 38.64
+        },
+        {
+            "etapa": 21,
+            "nombre": "Meeus Jordi",
+            "pais": "Bélgica",
+            "distancia": 115.1,
+            "desnivel": 577,
+            "velocidadMedia": 39.19
+        }
+    ]
+}

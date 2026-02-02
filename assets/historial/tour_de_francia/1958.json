@@ -1,0 +1,290 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1958,
+    "distancia": 3999.0,
+    "desnivel": 45351,
+    "tiempo": "116h 59' 05\"",
+    "ciclistasInscritos": 117,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Netherlands/Luxembourg",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Favero Vito",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 3 min 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "Centre-Midi",
+            "ventaja": "+ 3 min 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Adriaensens Jan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 7 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 13 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Planckaert Joseph",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 28 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 31 min 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 40 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bergaud Louis",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 48 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Hoevenaers Jos",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 58 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Graczyk Jean",
+        "pais": "Francia",
+        "equipo": "Centre-Midi"
+    },
+    "ganadorMontana": {
+        "nombre": "Bahamontes Federico",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 184.0,
+            "desnivel": 1245,
+            "velocidadMedia": 40.41
+        },
+        {
+            "etapa": 2,
+            "nombre": "Voorting Gerrit",
+            "pais": "Países Bajos",
+            "distancia": 198.0,
+            "desnivel": 552,
+            "velocidadMedia": 38.07
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "distancia": 177.0,
+            "desnivel": 1076,
+            "velocidadMedia": 37.37
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gainche Jean",
+            "pais": "Francia",
+            "distancia": 205.0,
+            "desnivel": 2074,
+            "velocidadMedia": 40.45
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sabbadini Settimo",
+            "pais": "Francia",
+            "distancia": 232.0,
+            "desnivel": 1783,
+            "velocidadMedia": 42.22
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Geneugden Martin",
+            "pais": "Bélgica",
+            "distancia": 223.0,
+            "desnivel": 2348,
+            "velocidadMedia": 41.59
+        },
+        {
+            "etapa": 7,
+            "nombre": "Robinson Brian",
+            "pais": "Reino Unido",
+            "distancia": 170.0,
+            "desnivel": 1712,
+            "velocidadMedia": 41.89
+        },
+        {
+            "etapa": 8,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 46.0,
+            "desnivel": 573,
+            "velocidadMedia": 41.07
+        },
+        {
+            "etapa": 9,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 1825,
+            "velocidadMedia": 42.85
+        },
+        {
+            "etapa": 10,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 255.0,
+            "desnivel": 1299,
+            "velocidadMedia": 41.92
+        },
+        {
+            "etapa": 11,
+            "nombre": "Padovan Arrigo",
+            "pais": "Italia",
+            "distancia": 137.0,
+            "desnivel": 1155,
+            "velocidadMedia": 42.73
+        },
+        {
+            "etapa": 12,
+            "nombre": "Van Geneugden Martin",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 785,
+            "velocidadMedia": 38.44
+        },
+        {
+            "etapa": 13,
+            "nombre": "Bergaud Louis",
+            "pais": "Francia",
+            "distancia": 230.0,
+            "desnivel": 3000,
+            "velocidadMedia": 36.72
+        },
+        {
+            "etapa": 14,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "distancia": 129.0,
+            "desnivel": 2966,
+            "velocidadMedia": 35.94
+        },
+        {
+            "etapa": 15,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 176.0,
+            "desnivel": 2000,
+            "velocidadMedia": 37.62
+        },
+        {
+            "etapa": 16,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 187.0,
+            "desnivel": 1253,
+            "velocidadMedia": 34.25
+        },
+        {
+            "etapa": 17,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 189.0,
+            "desnivel": 2000,
+            "velocidadMedia": 36.55
+        },
+        {
+            "etapa": 18,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 21.0,
+            "desnivel": 1640,
+            "velocidadMedia": 20.27
+        },
+        {
+            "etapa": 19,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 3000,
+            "velocidadMedia": 36.41
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "distancia": 165.0,
+            "desnivel": 4000,
+            "velocidadMedia": 31.08
+        },
+        {
+            "etapa": 21,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 219.0,
+            "desnivel": 5000,
+            "velocidadMedia": 31.35
+        },
+        {
+            "etapa": 22,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 237.0,
+            "desnivel": 3500,
+            "velocidadMedia": 32.69
+        },
+        {
+            "etapa": 23,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 74.0,
+            "desnivel": 565,
+            "velocidadMedia": 44.2
+        },
+        {
+            "etapa": 24,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.901
+        }
+    ]
+}

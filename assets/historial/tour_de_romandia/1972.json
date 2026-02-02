@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1972,
+    "distancia": 687.9,
+    "desnivel": 0,
+    "tiempo": "18h 53' 34\"",
+    "ciclistasInscritos": 63,
+    "ciclistasFinalizados": 44,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Sonolor - Lejeune",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "equipo": "De Gribaldy - Magniflex - Van Cauter",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 2 min 1 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Martellozzo Pierre",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Beaulieu - Flandria",
+            "ventaja": "+ 3 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Sonolor - Lejeune"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Mariano",
+        "pais": "Francia",
+        "equipo": "De Gribaldy - Magniflex - Van Cauter"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Peugeot - BP - Michelin",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.4,
+            "desnivel": 0,
+            "velocidadMedia": 36.837
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 190.6,
+            "desnivel": 0,
+            "velocidadMedia": 37.763
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 184.2,
+            "desnivel": 0,
+            "velocidadMedia": 36.065
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 70.2,
+            "desnivel": 0,
+            "velocidadMedia": 42.776
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 32.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.37
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.5,
+            "desnivel": 0,
+            "velocidadMedia": 34.336
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2019,
+    "distancia": 1097.5,
+    "desnivel": 12243,
+    "tiempo": "29h 17' 02\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 118,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Molard Rudy",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 3 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 3 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 4 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kwiatkowski Michał",
+        "pais": "Polonia",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernal Egan",
+        "pais": "Colombia",
+        "equipo": "Team Sky"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 138.5,
+            "desnivel": 1107,
+            "velocidadMedia": 42.058
+        },
+        {
+            "etapa": 2,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 163.5,
+            "desnivel": 753,
+            "velocidadMedia": 50.55
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 200.0,
+            "desnivel": 896,
+            "velocidadMedia": 37.925
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 212.0,
+            "desnivel": 2969,
+            "velocidadMedia": 41.867
+        },
+        {
+            "etapa": 5,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 25.5,
+            "desnivel": 157,
+            "velocidadMedia": 50.274
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 176.5,
+            "desnivel": 2029,
+            "velocidadMedia": 41.927
+        },
+        {
+            "etapa": 7,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "distancia": 181.5,
+            "desnivel": 4332,
+            "velocidadMedia": 36.813
+        },
+        {
+            "etapa": 8,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.2331
+        }
+    ]
+}

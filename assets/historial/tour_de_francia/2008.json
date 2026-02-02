@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2008,
+    "distancia": 3416.5,
+    "desnivel": 47167,
+    "tiempo": "87h 52' 52\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 145,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Silence - Lotto",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vande Velde Christian",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Chipotle",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 4 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 6 min 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 6 min 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 7 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 9 min 5 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vladímir Yefimkin",
+            "pais": "Rusia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 9 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Freire Óscar",
+        "pais": "España",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Kohl Bernhard",
+        "pais": "Austria",
+        "equipo": "Gerolsteiner"
+    },
+    "ganadorJovenes": {
+        "nombre": "Schleck Andy",
+        "pais": "Luxemburgo",
+        "equipo": "CSC ProTeam"
+    },
+    "ganadorEquipos": {
+        "nombre": " CSC ProTeam",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 197.5,
+            "desnivel": 2324,
+            "velocidadMedia": 42.92
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 164.5,
+            "desnivel": 1888,
+            "velocidadMedia": 43.82
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dumoulin Samuel",
+            "pais": "Francia",
+            "distancia": 208.0,
+            "desnivel": 1507,
+            "velocidadMedia": 40.858
+        },
+        {
+            "etapa": 4,
+            "nombre": "Schumacher Stefan",
+            "pais": "Alemania",
+            "distancia": 29.5,
+            "desnivel": 338,
+            "velocidadMedia": 49.12
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 232.0,
+            "desnivel": 1299,
+            "velocidadMedia": 42.456
+        },
+        {
+            "etapa": 6,
+            "nombre": "Riccò Riccardo",
+            "pais": "Italia",
+            "distancia": 195.5,
+            "desnivel": 3280,
+            "velocidadMedia": 39.38
+        },
+        {
+            "etapa": 7,
+            "nombre": "Luis León Sánchez",
+            "pais": "España",
+            "distancia": 159.0,
+            "desnivel": 2431,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 8,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 172.5,
+            "desnivel": 1892,
+            "velocidadMedia": 42.61
+        },
+        {
+            "etapa": 9,
+            "nombre": "Riccò Riccardo",
+            "pais": "Italia",
+            "distancia": 224.0,
+            "desnivel": 3778,
+            "velocidadMedia": 39.47
+        },
+        {
+            "etapa": 10,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "distancia": 156.0,
+            "desnivel": 3794,
+            "velocidadMedia": 36.076
+        },
+        {
+            "etapa": 11,
+            "nombre": "Arvesen Kurt-Asle",
+            "pais": "Noruega",
+            "distancia": 167.5,
+            "desnivel": 2863,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 12,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 168.5,
+            "desnivel": 1197,
+            "velocidadMedia": 45.77
+        },
+        {
+            "etapa": 13,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 182.0,
+            "desnivel": 1405,
+            "velocidadMedia": 41.099
+        },
+        {
+            "etapa": 14,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 194.5,
+            "desnivel": 1726,
+            "velocidadMedia": 46.1
+        },
+        {
+            "etapa": 15,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 183.0,
+            "desnivel": 3739,
+            "velocidadMedia": 37.767
+        },
+        {
+            "etapa": 16,
+            "nombre": "Cyril Dessel",
+            "pais": "Francia",
+            "distancia": 157.0,
+            "desnivel": 4174,
+            "velocidadMedia": 34.703
+        },
+        {
+            "etapa": 17,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "distancia": 210.5,
+            "desnivel": 5405,
+            "velocidadMedia": 34.32
+        },
+        {
+            "etapa": 18,
+            "nombre": "Burghardt Marcus",
+            "pais": "Alemania",
+            "distancia": 196.5,
+            "desnivel": 1905,
+            "velocidadMedia": 43.61
+        },
+        {
+            "etapa": 19,
+            "nombre": "Sylvain Chavanel",
+            "pais": "Francia",
+            "distancia": 165.5,
+            "desnivel": 1814,
+            "velocidadMedia": 45.73
+        },
+        {
+            "etapa": 20,
+            "nombre": "Fabian Cancellara",
+            "pais": "Suiza",
+            "distancia": 53.0,
+            "desnivel": 408,
+            "velocidadMedia": 49.55
+        },
+        {
+            "etapa": 21,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5036
+        }
+    ]
+}

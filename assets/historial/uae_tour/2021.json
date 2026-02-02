@@ -1,0 +1,154 @@
+{
+    "idCarrera": "uae-tour",
+    "anio": 2021,
+    "distancia": 894.0,
+    "desnivel": 5651,
+    "tiempo": "24h 00' 28\"",
+    "ciclistasInscritos": 139,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Harper Chris",
+            "pais": "Australia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Powless Neilson",
+            "pais": "Estados Unidos",
+            "equipo": "EF Education - Nippo",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cattaneo Mattia",
+            "pais": "Italia",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 3 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 4 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Masnada Fausto",
+            "pais": "Italia",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 6 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Dekker David",
+        "pais": "Países Bajos",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 176.0,
+            "desnivel": 436,
+            "velocidadMedia": 46.77
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 13.0,
+            "desnivel": 94,
+            "velocidadMedia": 55.98
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 166.0,
+            "desnivel": 1430,
+            "velocidadMedia": 41.75
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 204.0,
+            "desnivel": 695,
+            "velocidadMedia": 41.94
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 170.0,
+            "desnivel": 2633,
+            "velocidadMedia": 39.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 165.0,
+            "desnivel": 363,
+            "velocidadMedia": 46.61
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.3569
+        }
+    ]
+}

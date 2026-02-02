@@ -1,0 +1,148 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2004,
+    "distancia": 912.0,
+    "desnivel": 0,
+    "tiempo": "29h 27' 15\"",
+    "ciclistasInscritos": 95,
+    "ciclistasFinalizados": 71,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hamilton Tyler",
+            "pais": "Estados Unidos",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "equipo": "Quickstep - Davitamon",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gutiérrez José Enrique",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Landaluze Iñigo",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 4 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "O'Grady Stuart",
+        "pais": "Australia",
+        "equipo": "Cofidis, le Crédit par Téléphone"
+    },
+    "ganadorMontana": {
+        "nombre": "Rasmussen Michael",
+        "pais": "Dinamarca",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Phonak Hearing Systems",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "distancia": 5.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.27
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.1
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gutiérrez José Enrique",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.24
+        },
+        {
+            "etapa": 3,
+            "nombre": "Portal Nicolas",
+            "pais": "Francia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.34
+        },
+        {
+            "etapa": 4,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "distancia": 21.6,
+            "desnivel": 0,
+            "velocidadMedia": 23.21
+        },
+        {
+            "etapa": 5,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.237
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.3
+        },
+        {
+            "etapa": 7,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.7536
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2003,
+    "distancia": 1094.3,
+    "desnivel": 0,
+    "tiempo": "23h 30' 04\"",
+    "ciclistasInscritos": 158,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Brioches La Boulangère",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bernabéu David",
+            "pais": "España",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Møller Claus Michael",
+            "pais": "Dinamarca",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gustov Volodymyr",
+            "pais": "Ucrania",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Brochard Laurent",
+        "pais": "Francia",
+        "equipo": "AG2R Prévoyance"
+    },
+    "ganadorMontana": {
+        "nombre": "Hamilton Tyler",
+        "pais": "Estados Unidos",
+        "equipo": "Team CSC"
+    },
+    "ganadorJovenes": {
+        "nombre": "Chavanel Sylvain",
+        "pais": "Francia",
+        "equipo": "Brioches La Boulangère"
+    },
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Eroski",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Mattan Nico",
+            "pais": "Bélgica",
+            "distancia": 4.8,
+            "desnivel": 0,
+            "velocidadMedia": 49.798
+        },
+        {
+            "etapa": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.565
+        },
+        {
+            "etapa": 2,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "distancia": 182.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.351
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 192.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "distancia": 16.5,
+            "desnivel": 0,
+            "velocidadMedia": 51.787
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 152.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.421
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 194.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.64
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bernabéu David",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.776
+        }
+    ]
+}

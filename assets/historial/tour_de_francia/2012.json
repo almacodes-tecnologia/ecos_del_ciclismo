@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2012,
+    "distancia": 3494.4,
+    "desnivel": 48365,
+    "tiempo": "87h 34' 47\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 3 min 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "+ 6 min 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol Team",
+            "ventaja": "+ 10 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 11 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 15 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 15 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rolland Pierre",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 16 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 16 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ - BigMat",
+            "ventaja": "+ 17 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Liquigas - Cannondale"
+    },
+    "ganadorMontana": {
+        "nombre": "Voeckler Thomas",
+        "pais": "Francia",
+        "equipo": "Team Europcar"
+    },
+    "ganadorJovenes": {
+        "nombre": "van Garderen Tejay",
+        "pais": "Estados Unidos",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " RadioShack - Nissan",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 6.4,
+            "desnivel": 79,
+            "velocidadMedia": 53.21
+        },
+        {
+            "etapa": 1,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 198.0,
+            "desnivel": 2680,
+            "velocidadMedia": 39.823
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 207.5,
+            "desnivel": 1509,
+            "velocidadMedia": 41.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 197.0,
+            "desnivel": 1551,
+            "velocidadMedia": 41.772
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 214.5,
+            "desnivel": 1698,
+            "velocidadMedia": 40.4
+        },
+        {
+            "etapa": 5,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 196.5,
+            "desnivel": 1250,
+            "velocidadMedia": 41.88
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 205.0,
+            "desnivel": 1535,
+            "velocidadMedia": 44.4
+        },
+        {
+            "etapa": 7,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 199.0,
+            "desnivel": 2736,
+            "velocidadMedia": 39.989
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 157.5,
+            "desnivel": 3072,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 9,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "distancia": 41.5,
+            "desnivel": 499,
+            "velocidadMedia": 48.44
+        },
+        {
+            "etapa": 10,
+            "nombre": "Voeckler Thomas",
+            "pais": "Francia",
+            "distancia": 194.5,
+            "desnivel": 3350,
+            "velocidadMedia": 40.74
+        },
+        {
+            "etapa": 11,
+            "nombre": "Pierre Rolland",
+            "pais": "Francia",
+            "distancia": 148.0,
+            "desnivel": 4987,
+            "velocidadMedia": 31.28
+        },
+        {
+            "etapa": 12,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 226.0,
+            "desnivel": 3399,
+            "velocidadMedia": 39.56
+        },
+        {
+            "etapa": 13,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 217.0,
+            "desnivel": 1795,
+            "velocidadMedia": 43.69
+        },
+        {
+            "etapa": 14,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 3284,
+            "velocidadMedia": 39.45
+        },
+        {
+            "etapa": 15,
+            "nombre": "Fédrigo Pierrick",
+            "pais": "Francia",
+            "distancia": 158.5,
+            "desnivel": 2173,
+            "velocidadMedia": 43.18
+        },
+        {
+            "etapa": 16,
+            "nombre": "Voeckler Thomas",
+            "pais": "Francia",
+            "distancia": 197.0,
+            "desnivel": 5291,
+            "velocidadMedia": 35.28
+        },
+        {
+            "etapa": 17,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 143.5,
+            "desnivel": 4383,
+            "velocidadMedia": 34.14
+        },
+        {
+            "etapa": 18,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 222.5,
+            "desnivel": 2146,
+            "velocidadMedia": 45.38
+        },
+        {
+            "etapa": 19,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "distancia": 53.5,
+            "desnivel": 249,
+            "velocidadMedia": 49.99
+        },
+        {
+            "etapa": 20,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 120.0,
+            "desnivel": 699,
+            "velocidadMedia": 38.27
+        }
+    ]
+}

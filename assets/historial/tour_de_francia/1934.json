@@ -1,0 +1,286 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1934,
+    "distancia": 4149.0,
+    "desnivel": 0,
+    "tiempo": "147h 13' 58\"",
+    "ciclistasInscritos": 60,
+    "ciclistasFinalizados": 39,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martano Giuseppe",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 27 min 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 52 min 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "equipo": "Isoles",
+            "ventaja": "+ 57 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 59 min 2 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Morelli Ambrogio Enrico",
+            "pais": "Italia",
+            "equipo": "Isoles",
+            "ventaja": "+ 1 h 12 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Geyer Ludwig",
+            "pais": "Alemania",
+            "equipo": "Germany",
+            "ventaja": "+ 1 h 12 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "equipo": "Isoles",
+            "ventaja": "+ 1 h 20 min 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "Switzerland/Spain",
+            "ventaja": "+ 1 h 29 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Trueba Vicente",
+            "pais": "España",
+            "equipo": "Switzerland/Spain",
+            "ventaja": "+ 1 h 40 min 39 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Vietto René",
+        "pais": "Francia",
+        "equipo": "France"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " France",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 262.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.64
+        },
+        {
+            "etapa": 2,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.96
+        },
+        {
+            "etapa": 3,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.0
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.24
+        },
+        {
+            "etapa": 5,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 293.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.94
+        },
+        {
+            "etapa": 6,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.65
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.4
+        },
+        {
+            "etapa": 8,
+            "nombre": "Martano Giuseppe",
+            "pais": "Italia",
+            "distancia": 102.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.39
+        },
+        {
+            "etapa": 9,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.87
+        },
+        {
+            "etapa": 10,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.36
+        },
+        {
+            "etapa": 11,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.35
+        },
+        {
+            "etapa": 12,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.57
+        },
+        {
+            "etapa": 13,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.85
+        },
+        {
+            "etapa": 14,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.01
+        },
+        {
+            "etapa": 15,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.32
+        },
+        {
+            "etapa": 16,
+            "nombre": "Vignoli Adriano",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.35
+        },
+        {
+            "etapa": 17,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 91.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.79
+        },
+        {
+            "etapa": 18,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.33
+        },
+        {
+            "etapa": 19,
+            "nombre": "Meini Ettore",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.14
+        },
+        {
+            "etapa": 20,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.88
+        },
+        {
+            "etapa": 21,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.99
+        },
+        {
+            "etapa": 21,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.51
+        },
+        {
+            "etapa": 22,
+            "nombre": "Louviot Raymond",
+            "pais": "Francia",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.25
+        },
+        {
+            "etapa": 23,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.6517
+        }
+    ]
+}

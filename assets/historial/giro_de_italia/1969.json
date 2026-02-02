@@ -1,0 +1,290 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1969,
+    "distancia": 3780.0,
+    "desnivel": 0,
+    "tiempo": "106h 47' 03\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 81,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Michelotto Claudio",
+            "pais": "Italia",
+            "equipo": "Max Meyer",
+            "ventaja": "+ 3 min 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 4 min 48 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Schiavon Silvano",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 7 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 11 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dancelli Michele",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 14 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Moser Aldo",
+            "pais": "Italia",
+            "equipo": "G.B.C.",
+            "ventaja": "+ 20 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mori Primo",
+            "pais": "Italia",
+            "equipo": "Max Meyer",
+            "ventaja": "+ 20 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "equipo": "Salvarani",
+            "ventaja": "+ 23 min 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 31 min 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bitossi Franco",
+        "pais": "Italia",
+        "equipo": "Filotex"
+    },
+    "ganadorMontana": {
+        "nombre": "Michelotto Claudio",
+        "pais": "Italia",
+        "equipo": "Max Meyer"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Molteni",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Polidori Giancarlo",
+            "pais": "Italia",
+            "distancia": 142.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.234
+        },
+        {
+            "etapa": 2,
+            "nombre": "Boifava Davide",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.86
+        },
+        {
+            "etapa": 3,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 21.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.58
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Vlierberghe Albert",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cortinovis Franco",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.569
+        },
+        {
+            "etapa": 7,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.417
+        },
+        {
+            "etapa": 8,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.608
+        },
+        {
+            "etapa": 9,
+            "nombre": "Dancelli Michele",
+            "pais": "Italia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.691
+        },
+        {
+            "etapa": 10,
+            "nombre": "Chiappano Carlo",
+            "pais": "Italia",
+            "distancia": 254.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.932
+        },
+        {
+            "etapa": 11,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.88
+        },
+        {
+            "etapa": 13,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.022
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 15,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 49.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.596
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ballini Roberto",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.35
+        },
+        {
+            "etapa": 17,
+            "nombre": "Ritter Ole",
+            "pais": "Dinamarca",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.833
+        },
+        {
+            "etapa": 18,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 18,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 19,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "distancia": 218.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.932
+        },
+        {
+            "etapa": 20,
+            "nombre": null,
+            "pais": null,
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 21,
+            "nombre": "Michelotto Claudio",
+            "pais": "Italia",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.7
+        },
+        {
+            "etapa": 22,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.232
+        },
+        {
+            "etapa": 23,
+            "nombre": "Benfatto Attilio",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.942
+        }
+    ]
+}

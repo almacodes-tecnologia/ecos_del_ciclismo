@@ -1,0 +1,134 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2005,
+    "distancia": 1021.4,
+    "desnivel": 0,
+    "tiempo": "28h 24' 46\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Landaluze Iñigo",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bruseghin Marzio",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kashechkin Andrey",
+            "pais": "Kazajistán",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 5 min 4 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 6 min 20 s"
+        }
+    ],
+    "ganadorMontana": {
+        "nombre": "Gutiérrez José Iván",
+        "pais": "España",
+        "equipo": "Illes Balears - Caisse d'Epargne"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.23
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dumoulin Samuel",
+            "pais": "Francia",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.08
+        },
+        {
+            "etapa": 3,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 46.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.42
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.14
+        },
+        {
+            "etapa": 5,
+            "nombre": "Merckx Axel",
+            "pais": "Bélgica",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.71
+        },
+        {
+            "etapa": 6,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.33
+        }
+    ]
+}

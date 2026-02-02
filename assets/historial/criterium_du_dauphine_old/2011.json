@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2011,
+    "distancia": 946.9,
+    "desnivel": 13794,
+    "tiempo": "26h 40' 51\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 119,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Pro Team Astana",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kern Christophe",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 3 min 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Siutsou Kanstantsin",
+            "pais": "Bielorrusia",
+            "equipo": "HTC - High Road",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "RadioShack",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Voeckler Thomas",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 4 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Rodríguez Joaquim",
+        "pais": "España",
+        "equipo": "Team Katusha "
+    },
+    "ganadorMontana": {
+        "nombre": "Rodríguez Joaquim",
+        "pais": "España",
+        "equipo": "Team Katusha "
+    },
+    "ganadorJovenes": {
+        "nombre": "Coppel Jérôme",
+        "pais": "Francia",
+        "equipo": "Saur - Sojasun"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Europcar",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "distancia": 5.4,
+            "desnivel": 58,
+            "velocidadMedia": 51.429
+        },
+        {
+            "etapa": 1,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "distancia": 144.0,
+            "desnivel": 2189,
+            "velocidadMedia": 39.871
+        },
+        {
+            "etapa": 2,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 179.0,
+            "desnivel": 1479,
+            "velocidadMedia": 44.261
+        },
+        {
+            "etapa": 3,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 42.5,
+            "desnivel": 732,
+            "velocidadMedia": 45.974
+        },
+        {
+            "etapa": 4,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 173.5,
+            "desnivel": 1647,
+            "velocidadMedia": 40.714
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kern Christophe",
+            "pais": "Francia",
+            "distancia": 210.0,
+            "desnivel": 3282,
+            "velocidadMedia": 41.3
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 192.5,
+            "desnivel": 4407,
+            "velocidadMedia": 36.927
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.893
+        }
+    ]
+}

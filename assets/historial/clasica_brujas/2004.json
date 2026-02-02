@@ -1,0 +1,134 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2004,
+    "distancia": 549.0,
+    "desnivel": 0,
+    "tiempo": "13h 29' 06\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Löwik Gerben",
+            "pais": "Países Bajos",
+            "equipo": "Chocolade Jacques - Wincor Nixdorf",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wauters Marc",
+            "pais": "Bélgica",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Devolder Stijn",
+            "pais": "Bélgica",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Grabsch Bert",
+            "pais": "Alemania",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wesemann Steffen",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "van Bon Léon",
+            "pais": "Países Bajos",
+            "equipo": "Lotto - Domo",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Flecha Juan Antonio",
+            "pais": "España",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cooke Baden",
+        "pais": "Australia",
+        "equipo": "Fdjeux.com"
+    },
+    "ganadorMontana": {
+        "nombre": "Willems Frederik",
+        "pais": "Bélgica",
+        "equipo": "Vlaanderen - T-Interim - Univega Ladies Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Cancellara Fabian",
+        "pais": "Suiza",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorEquipos": {
+        "nombre": " US Postal Service p/b Berry Floor",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.18
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.43
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zanotti Marco",
+            "pais": "Italia",
+            "distancia": 116.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.59
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.721
+        }
+    ]
+}

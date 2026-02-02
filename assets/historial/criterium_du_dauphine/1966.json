@@ -1,0 +1,167 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1966,
+    "distancia": 1381.0,
+    "desnivel": 0,
+    "tiempo": "46h 13' 05\"",
+    "ciclistasInscritos": 50,
+    "ciclistasFinalizados": 49,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Raymond Christian",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 4 min 48 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Aimar Lucien",
+            "pais": "Francia",
+            "equipo": "Ford France - Hutchinson",
+            "ventaja": "+ 5 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Guimbard Henri",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 5 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Haast Cees",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 8 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Theillière Jean-Claude",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 11 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 12 min 44 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zilverberg Huub",
+            "pais": "Países Bajos",
+            "distancia": 78.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Raymond Christian",
+            "pais": "Francia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zoet Bart",
+            "pais": "Países Bajos",
+            "distancia": 80.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Momeñe José Antonio",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

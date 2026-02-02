@@ -1,0 +1,174 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1962,
+    "distancia": 1160.5,
+    "desnivel": 0,
+    "tiempo": "36h 55' 08\"",
+    "ciclistasInscritos": 55,
+    "ciclistasFinalizados": 39,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martín Manuel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "García Ginés",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "van Est Piet",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 3 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mas Gabriel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 4 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 5 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mealli Bruno",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 5 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 5 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Guardiola Ángel",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 38.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 1,
+            "nombre": "Ongenae Marcel",
+            "pais": "Bélgica",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.26
+        },
+        {
+            "etapa": 2,
+            "nombre": "Benedetti Rino",
+            "pais": "Italia",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.05
+        },
+        {
+            "etapa": 3,
+            "nombre": "García Ginés",
+            "pais": "España",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.17
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pacheco Miguel",
+            "pais": "España",
+            "distancia": 39.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.25
+        },
+        {
+            "etapa": 4,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.56
+        },
+        {
+            "etapa": 5,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.19
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sánchez Camero Juan",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.38
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "distancia": 58.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.88
+        },
+        {
+            "etapa": 8,
+            "nombre": "Mealli Bruno",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.408
+        }
+    ]
+}

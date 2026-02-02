@@ -1,0 +1,134 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1958,
+    "distancia": 830.0,
+    "desnivel": 0,
+    "tiempo": "24h 04' 50\"",
+    "ciclistasInscritos": 55,
+    "ciclistasFinalizados": 45,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - R. Geminiani - Dunlop ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cerami Pino",
+            "pais": "Bélgica",
+            "equipo": "Elvé - Peugeot - Marvan",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pettinati Giovanni",
+            "pais": "Italia",
+            "equipo": " Allegro",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Impanis Raymond",
+            "pais": "Bélgica",
+            "equipo": "Elvé - Peugeot - Marvan",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Graf Heinz",
+            "pais": "Suiza",
+            "equipo": "Condor",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Janssens Marcel",
+            "pais": "Bélgica",
+            "equipo": "Elvé - Peugeot - Marvan",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sabbadini Settimo",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 3 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "De Gasperi Adriano",
+            "pais": "Suiza",
+            "equipo": "Cilo - Toscanelli",
+            "ventaja": "+ 3 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rohrbach Marcel",
+            "pais": "Francia",
+            "equipo": "Elvé - Peugeot - Marvan",
+            "ventaja": "+ 3 min 43 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Dubach Hansueli",
+            "pais": "Suiza",
+            "equipo": "Cilo - Toscanelli",
+            "ventaja": "+ 4 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Janssens Marcel",
+        "pais": "Bélgica",
+        "equipo": "Elvé - Peugeot - Marvan"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Elvé - Peugeot - Marvan",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 270.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.462
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.877
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.629
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 43.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.885
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.688
+        }
+    ]
+}

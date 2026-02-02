@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2011,
+    "distancia": 982.9,
+    "desnivel": 0,
+    "tiempo": "26h 40' 01\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 134,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Marcato Marco",
+            "pais": "Italia",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kennaugh Peter",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Nocentini Rinaldo",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Huzarski Bartosz",
+            "pais": "Polonia",
+            "equipo": "Poland",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rutkiewicz Marek",
+            "pais": "Polonia",
+            "equipo": "CCC - Polsat - Polkowice",
+            "ventaja": "+ 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Liquigas - Cannondale"
+    },
+    "ganadorMontana": {
+        "nombre": "Gołaś Michał",
+        "pais": "Polonia",
+        "equipo": "Vacansoleil - DCM"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 101.5,
+            "desnivel": 0,
+            "velocidadMedia": 47.79
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 159.6,
+            "desnivel": 0,
+            "velocidadMedia": 43.809
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 135.7,
+            "desnivel": 0,
+            "velocidadMedia": 42.969
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 176.9,
+            "desnivel": 0,
+            "velocidadMedia": 40.628
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 201.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.343
+        },
+        {
+            "etapa": 6,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 207.7,
+            "desnivel": 0,
+            "velocidadMedia": 36.537
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.6462
+        }
+    ]
+}

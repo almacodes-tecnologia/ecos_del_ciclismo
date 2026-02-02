@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2015,
+    "distancia": 1056.5,
+    "desnivel": 18556,
+    "tiempo": "30h 59' 02\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Team Cannondale - Garmin ",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 3 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Team Cannondale - Garmin ",
+            "ventaja": "+ 4 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bouhanni Nacer",
+        "pais": "Francia",
+        "equipo": "Cofidis, Solutions Crédits"
+    },
+    "ganadorMontana": {
+        "nombre": "Teklehaimanot Daniel",
+        "pais": "Eritrea",
+        "equipo": "MTN - Qhubeka"
+    },
+    "ganadorJovenes": {
+        "nombre": "Yates Simon",
+        "pais": "Reino Unido",
+        "equipo": "Orica GreenEDGE"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kennaugh Peter",
+            "pais": "Reino Unido",
+            "distancia": 132.0,
+            "desnivel": 1519,
+            "velocidadMedia": 42.39
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 173.0,
+            "desnivel": 2226,
+            "velocidadMedia": 39.35
+        },
+        {
+            "etapa": 3,
+            "nombre": "Quinziato Manuel",
+            "pais": "Italia",
+            "distancia": 24.5,
+            "desnivel": 373,
+            "velocidadMedia": 49.055
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 228.0,
+            "desnivel": 2369,
+            "velocidadMedia": 41.34
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "distancia": 161.0,
+            "desnivel": 4225,
+            "velocidadMedia": 35.6
+        },
+        {
+            "etapa": 6,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "distancia": 183.0,
+            "desnivel": 3562,
+            "velocidadMedia": 40.76
+        },
+        {
+            "etapa": 7,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 155.0,
+            "desnivel": 4282,
+            "velocidadMedia": 35.19
+        },
+        {
+            "etapa": 8,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.141
+        }
+    ]
+}

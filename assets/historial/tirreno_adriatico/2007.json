@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2007,
+    "distancia": 935.5,
+    "desnivel": 0,
+    "tiempo": "28h 31' 26\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 136,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Astana",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Schumacher Stefan",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kiryienka Vasil",
+            "pais": "Bielorrusia",
+            "equipo": "Tinkoff Credit Systems",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Petrov Evgeni",
+            "pais": "Rusia",
+            "equipo": "Tinkoff Credit Systems",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Acqua & Sapone - Caffè Mokambo",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Riccò Riccardo",
+        "pais": "Italia",
+        "equipo": "Saunier Duval"
+    },
+    "ganadorMontana": {
+        "nombre": "Commesso Salvatore",
+        "pais": "Italia",
+        "equipo": "Tinkoff Credit Systems"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Tinkoff Credit Systems",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.27
+        },
+        {
+            "etapa": 2,
+            "nombre": "Arekeev Alexander",
+            "pais": "Rusia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.552
+        },
+        {
+            "etapa": 3,
+            "nombre": "Riccò Riccardo",
+            "pais": "Italia",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.438
+        },
+        {
+            "etapa": 4,
+            "nombre": "Riccò Riccardo",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.933
+        },
+        {
+            "etapa": 5,
+            "nombre": "Schumacher Stefan",
+            "pais": "Alemania",
+            "distancia": 20.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.437
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bono Matteo",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.116
+        },
+        {
+            "etapa": 7,
+            "nombre": "Fernández Koldo",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.0005
+        }
+    ]
+}

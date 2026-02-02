@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 1985,
+    "distancia": 855.0,
+    "desnivel": 0,
+    "tiempo": "22h 44' 27\"",
+    "ciclistasInscritos": 55,
+    "ciclistasFinalizados": 101,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "Orbea - Gin MG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Alpilatte - Cierre",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Recio José",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Laguía José Luis",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "equipo": "Hitachi - Splendor - Sunair",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 2 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Skil - Sem - Kas - Miko"
+    },
+    "ganadorMontana": {
+        "nombre": "Gastón Iñaki",
+        "pais": "España",
+        "equipo": "Reynolds"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Orbea - Gin MG",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Laguía José Luis",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Recio José",
+            "pais": "España",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Muñoz Pedro",
+            "pais": "España",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "distancia": 113.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

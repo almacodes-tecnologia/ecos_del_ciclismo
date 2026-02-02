@@ -1,0 +1,150 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1994,
+    "distancia": 962.8,
+    "desnivel": 15287,
+    "tiempo": "25h 22' 31\"",
+    "ciclistasInscritos": 58,
+    "ciclistasFinalizados": 99,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Mapei - Clas ",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Lampre-Panaria  ",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sánchez Antonio",
+            "pais": "España",
+            "equipo": "Artiach - Nabisco",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Donati Massimo",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno - Bianchi",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Clavero Daniel",
+            "pais": "España",
+            "equipo": "Artiach - Nabisco",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "García Ignacio",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 2 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Uría José Manuel",
+        "pais": "España",
+        "equipo": "Castellblanch"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Artiach - Nabisco",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 5.9,
+            "desnivel": 0,
+            "velocidadMedia": 49.976
+        },
+        {
+            "etapa": 2,
+            "nombre": "Biasci Simone",
+            "pais": "Italia",
+            "distancia": 233.9,
+            "desnivel": 2667,
+            "velocidadMedia": 40.87
+        },
+        {
+            "etapa": 3,
+            "nombre": "Biasci Simone",
+            "pais": "Italia",
+            "distancia": 217.5,
+            "desnivel": 2230,
+            "velocidadMedia": 36.121
+        },
+        {
+            "etapa": 4,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "distancia": 166.7,
+            "desnivel": 4475,
+            "velocidadMedia": 33.626
+        },
+        {
+            "etapa": 5,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 188.1,
+            "desnivel": 2550,
+            "velocidadMedia": 41.477
+        },
+        {
+            "etapa": 6,
+            "nombre": "Donati Massimo",
+            "pais": "Italia",
+            "distancia": 150.7,
+            "desnivel": 3365,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 7,
+            "nombre": "Garmendia Aitor",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5572
+        }
+    ]
+}

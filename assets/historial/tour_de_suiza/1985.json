@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1985,
+    "distancia": 1547.0,
+    "desnivel": 0,
+    "tiempo": "40h 47' 43\"",
+    "ciclistasInscritos": 86,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "Panasonic - Raleigh",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Winterberg Guido",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Carrera - Inoxpran",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Seiz Hubert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 2 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Raleigh",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vitali Marco",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 3 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Anderson Phil",
+        "pais": "Australia",
+        "equipo": "Panasonic - Raleigh"
+    },
+    "ganadorMontana": {
+        "nombre": "Anderson Phil",
+        "pais": "Australia",
+        "equipo": "Panasonic - Raleigh"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "distancia": 6.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.15
+        },
+        {
+            "etapa": 2,
+            "nombre": "Winterberg Guido",
+            "pais": "Suiza",
+            "distancia": 146.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.29
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bérard Charly",
+            "pais": "Francia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.69
+        },
+        {
+            "etapa": 4,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.64
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.94
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bernard Jean-François",
+            "pais": "Francia",
+            "distancia": 73.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.58
+        },
+        {
+            "etapa": 6,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.02
+        },
+        {
+            "etapa": 7,
+            "nombre": "Matthijs Rudy",
+            "pais": "Bélgica",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.19
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.83
+        },
+        {
+            "etapa": 9,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "distancia": 135.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.14
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 123.5,
+            "desnivel": 0,
+            "velocidadMedia": 35.31
+        }
+    ]
+}

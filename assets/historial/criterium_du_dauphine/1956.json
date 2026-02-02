@@ -1,0 +1,178 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1956,
+    "distancia": 1924.0,
+    "desnivel": 0,
+    "tiempo": "51h 46' 41\"",
+    "ciclistasInscritos": 46,
+    "ciclistasFinalizados": 69,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Close Alex",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rolland Antonin",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 4 min 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Picot Fernand",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 5 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bertolo Maurice",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 6 min 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 7 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gouget Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 8 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Barbotin Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 8 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Favero Vito",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 9 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "Girardengo - ICEP",
+            "ventaja": "+ 12 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Scribante Pierre",
+            "pais": "Francia",
+            "equipo": "Follis - Dunlop",
+            "ventaja": "+ 12 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ockers Stan",
+        "pais": "Bélgica",
+        "equipo": "Girardengo - ICEP"
+    },
+    "ganadorMontana": {
+        "nombre": "Le Guilly Jean",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dupont Jacques",
+            "pais": "Francia",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Caput Louis",
+            "pais": "Francia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Picot Fernand",
+            "pais": "Francia",
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sabbadini Settimo",
+            "pais": "Francia",
+            "distancia": 253.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Caput Louis",
+            "pais": "Francia",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Barbotin Pierre",
+            "pais": "Francia",
+            "distancia": 43.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Voorting Adri",
+            "pais": "Países Bajos",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Close Alex",
+            "pais": "Bélgica",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

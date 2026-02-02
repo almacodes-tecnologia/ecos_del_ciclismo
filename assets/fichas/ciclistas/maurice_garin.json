@@ -1,0 +1,99 @@
+{
+  "id": "maurice_garin",
+  "nombre": "Maurice Garin",
+  "nacionalidad": "Francia",
+  "anioNacimiento": 1871,
+  "activo": "1897-1904",
+  "especialidad": [
+    "carretera",
+    "montaña"
+  ],
+  "equipos": [
+    {
+      "anio": 1901,
+      "equipo": "La Française"
+    },
+    {
+      "anio": 1902,
+      "equipo": "La Française"
+    },
+    {
+      "anio": 1903,
+      "equipo": "La Française"
+    },
+    {
+      "anio": 1904,
+      "equipo": "La Française"
+    }
+  ],
+  "palmares": {
+    "1897": [
+      "París-Roubaix"
+    ],
+    "1898": [
+      "París-Roubaix"
+    ],
+    "1901": [
+      "París-Brest-París"
+    ],
+    "1902": [
+      "Burdeos-París"
+    ],
+    "1903": [
+      "Tour de Francia",
+      "3 etapas en el Tour de Francia"
+    ]
+
+  },
+  "palmaresPista": {
+    "1893": [
+      "800 kilómetros de París"
+    ],
+    "1894": [
+      "24 horas de Lieja"
+    ],
+    "1895": [
+      "Veinticuatro horas de las Artes libres de París",
+      "Plusmarquista del mundo de los 500 km sobre ruta detrás de un entrenador humano"
+    ],
+    "1898": [
+      "50 kilómetros de Ostende"
+    ]
+
+  },
+  "resumenPalmares": [
+    "1 Tour de Francia",
+    "3 etapas del Tour de Francia",
+    "2 París-Roubaix"
+  ],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 1903,
+      "carrera": "Tour de Francia",
+      "puesto": "1"
+    },
+    {
+      "anio": 1904,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    }
+  ],
+  "resultadosMonumentos": [],
+  "resultadosMundiales": [],
+  "resultadosVueltasMenores": [],
+  "habilidades": {
+    "llano": 4,
+    "montana": 3,
+    "media_montana": 4,
+    "muros": 2,
+    "pave": 5,
+    "sprint": 3,
+    "aceleracion": 2,
+    "resistencia_gran_vuelta": 5,
+    "resistencia_clasicas": 5,
+    "combatividad": 5,
+    "contrarreloj": 4,
+    "pista": 2,
+    "tierra": 5
+  }
+}

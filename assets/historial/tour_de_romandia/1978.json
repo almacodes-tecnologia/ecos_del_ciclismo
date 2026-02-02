@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1978,
+    "distancia": 662.0,
+    "desnivel": 0,
+    "tiempo": "21h 11' 50\"",
+    "ciclistasInscritos": 31,
+    "ciclistasFinalizados": 60,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "equipo": "Jobo - Superia",
+            "ventaja": "+ 2 min 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bertoglio Fausto",
+            "pais": "Italia",
+            "equipo": "Selle Royal - Inoxpran",
+            "ventaja": "+ 2 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Schmutz Gottfried",
+            "pais": "Suiza",
+            "equipo": "Willora - Mairag - Piz Buin ",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 3 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Villemiane Pierre-Raymond",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane - Campagnolo",
+            "ventaja": "+ 4 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hézard Yves",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wolfer Bruno",
+            "pais": "Suiza",
+            "equipo": "Zonca",
+            "ventaja": "+ 5 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Wolfer Bruno",
+            "pais": "Suiza",
+            "distancia": 0.8,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 179.2,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 92.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gisiger Daniel",
+            "pais": "Suiza",
+            "distancia": 23.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Campaner Francis",
+            "pais": "Francia",
+            "distancia": 171.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Legeay Roger",
+            "pais": "Francia",
+            "distancia": 194.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

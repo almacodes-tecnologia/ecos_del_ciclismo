@@ -1,0 +1,151 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1993,
+    "distancia": 1007.5,
+    "desnivel": 0,
+    "tiempo": "32h 11' 31\"",
+    "ciclistasInscritos": 85,
+    "ciclistasFinalizados": 76,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "equipo": "Amaya - Seguros",
+            "ventaja": "+ 3 min 0 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Boyer Éric",
+            "pais": "Francia",
+            "equipo": "GAN",
+            "ventaja": "+ 5 min 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dojwa Jean-Philippe",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 6 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 13 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Caritoux Éric",
+            "pais": "Francia",
+            "equipo": "Chazal - Vetta - MBK",
+            "ventaja": "+ 13 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Claveyrolat Thierry",
+            "pais": "Francia",
+            "equipo": "GAN",
+            "ventaja": "+ 13 min 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "equipo": "Wordperfect - Colnago - Decca",
+            "ventaja": "+ 15 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Arroyo Miguel",
+            "pais": "México",
+            "equipo": "Subaru - Montgomery ",
+            "ventaja": "+ 16 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gomes Joaquim Augusto",
+            "pais": "Portugal",
+            "equipo": "Recer - Boavista ",
+            "ventaja": "+ 20 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.61
+        },
+        {
+            "etapa": 1,
+            "nombre": "Moncassin Frédéric",
+            "pais": "Francia",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.17
+        },
+        {
+            "etapa": 2,
+            "nombre": "Duclos-Lassalle Gilbert",
+            "pais": "Francia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.8
+        },
+        {
+            "etapa": 3,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "distancia": 43.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.3
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bouwmans Eddy",
+            "pais": "Países Bajos",
+            "distancia": 218.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.99
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.54
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zamana Cezary",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.0548
+        }
+    ]
+}

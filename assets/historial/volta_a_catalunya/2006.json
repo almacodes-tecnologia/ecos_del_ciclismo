@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2006,
+    "distancia": 899.0,
+    "desnivel": 0,
+    "tiempo": "25h 06' 26\"",
+    "ciclistasInscritos": 193,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cañada David",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gerdemann Linus",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Arroyo David",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 1 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hushovd Thor",
+        "pais": "Noruega",
+        "equipo": "Crédit Agricole"
+    },
+    "ganadorMontana": {
+        "nombre": "Moreau Christophe",
+        "pais": "Francia",
+        "equipo": "AG2R Prévoyance"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Phonak Hearing Systems",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 12.6,
+            "desnivel": 0,
+            "velocidadMedia": 50.682
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pérez Romero Luis",
+            "pais": "España",
+            "distancia": 156.8,
+            "desnivel": 0,
+            "velocidadMedia": 39.657
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 176.7,
+            "desnivel": 0,
+            "velocidadMedia": 41.376
+        },
+        {
+            "etapa": 4,
+            "nombre": "Castaño Carlos",
+            "pais": "España",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.12
+        },
+        {
+            "etapa": 5,
+            "nombre": "García Quesada Adolfo",
+            "pais": "España",
+            "distancia": 161.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.636
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mugerli Matej",
+            "pais": "Eslovenia",
+            "distancia": 166.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.253
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6488
+        }
+    ]
+}

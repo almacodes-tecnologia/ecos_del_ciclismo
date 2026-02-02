@@ -1,0 +1,130 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2013,
+    "distancia": 518.4,
+    "desnivel": 0,
+    "tiempo": "12h 34' 28\"",
+    "ciclistasInscritos": 182,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Terpstra Niki",
+            "pais": "Países Bajos",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Le Bon Johan",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Westra Lieuwe",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Argos - Shimano",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Boucher David",
+            "pais": "Bélgica",
+            "equipo": "FDJ",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Keirsbulck Guillaume",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 1 min 6 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kristoff Alexander",
+        "pais": "Noruega",
+        "equipo": "Team Katusha "
+    },
+    "ganadorMontana": {
+        "nombre": "Haller Marco",
+        "pais": "Austria",
+        "equipo": "Team Katusha "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Omega Pharma - Quick-Step",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 199.8,
+            "desnivel": 0,
+            "velocidadMedia": 39.9
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 208.9,
+            "desnivel": 0,
+            "velocidadMedia": 43.68
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 109.7,
+            "desnivel": 0,
+            "velocidadMedia": 44.16
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.3995
+        }
+    ]
+}

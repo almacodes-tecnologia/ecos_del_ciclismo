@@ -1,0 +1,203 @@
+{
+  "idCarrera": "vuelta_a_espana",
+  "anio": 2016,
+  "distancia": 3315.4,
+  "desnivel": 0,
+  "tiempo": "83h 31' 28\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 159,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Nairo Quintana",
+      "pais": "Colombia",
+      "equipo": "Movistar Team",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Chris Froome",
+      "pais": "Reino Unido",
+      "equipo": "Team Sky",
+      "ventaja": "+1 min 23 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Esteban Chaves",
+      "pais": "Colombia",
+      "equipo": "Orica - BikeExchange",
+      "ventaja": "+4 min 08 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Alberto Contador",
+      "pais": "España",
+      "equipo": "Tinkoff",
+      "ventaja": "+4 min 21 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Andrew Talansky",
+      "pais": "Estados Unidos",
+      "equipo": "Cannondale - Drapac Pro Cycling",
+      "ventaja": "+7 min 43 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Simon Yates",
+      "pais": "Reino Unido",
+      "equipo": "Orica - BikeExchange",
+      "ventaja": "+8 min 33 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "David de la Cruz",
+      "pais": "España",
+      "equipo": "Etixx - Quick Step",
+      "ventaja": "+11 min 18 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Daniel Moreno",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+13 min 04 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Davide Formolo",
+      "pais": "Italia",
+      "equipo": "Cannondale - Drapac Pro Cycling",
+      "ventaja": "+13 min 17 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "George Bennett",
+      "pais": "Nueva Zelanda",
+      "equipo": "Team LottoNL-Jumbo",
+      "ventaja": "+14 min 07 s"
+    }
+  ],
+  "ganadorMontana": {
+    "nombre": "Omar Fraile",
+    "pais": "España",
+    "equipo": "Dimension Data"
+  },
+  "ganadorPuntos": {
+    "nombre": "Fabio Felline",
+    "pais": "Italia",
+    "equipo": "Trek-Segafredo"
+  },
+  "ganadorEquipos": {
+    "nombre": "BMC Racing Team",
+    "pais": "Estados Unidos"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "BMC Racing Team",
+      "pais": "Estados Unidos",
+      "equipo": "BMC Racing Team"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Gianni Meersman",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Alexandre Geniez",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Lilian Calmejane",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Gianni Meersman",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Simon Yates",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Jonas van Genechten",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Sergey Lagutin",
+      "pais": "Rusia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "David de la Cruz",
+      "pais": "España"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Nairo Quintana",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Chris Froome",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Jens Keukeleire",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Valerio Conti",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Robert Gesink",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Gianluca Brambilla",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Jempy Drucker",
+      "pais": "Luxemburgo"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Mathias Frank",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Magnus Cort",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Chris Froome",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Pierre Latour",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Magnus Cort",
+      "pais": "Dinamarca"
+    }
+  ]
+}

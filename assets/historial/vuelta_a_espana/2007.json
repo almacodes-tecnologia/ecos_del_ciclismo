@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2007,
+    "distancia": 3176.9,
+    "desnivel": 47747,
+    "tiempo": "80h 59' 07\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 145,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 3 min 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "+ 3 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "equipo": "Karpin - Galicia",
+            "ventaja": "+ 6 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Efimkin Vladimir",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 7 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 8 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 8 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Liquigas",
+            "ventaja": "+ 9 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barredo Carlos",
+            "pais": "España",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 10 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennati Daniele",
+        "pais": "Italia",
+        "equipo": "Lampre-Fondital"
+    },
+    "ganadorMontana": {
+        "nombre": "Menchov Denis",
+        "pais": "Rusia",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Caisse d'Epargne",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 146.4,
+            "desnivel": 2160,
+            "velocidadMedia": 39.36
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 148.7,
+            "desnivel": 2334,
+            "velocidadMedia": 42.27
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 153.0,
+            "desnivel": 2789,
+            "velocidadMedia": 36.91
+        },
+        {
+            "etapa": 4,
+            "nombre": "Efimkin Vladimir",
+            "pais": "Rusia",
+            "distancia": 185.1,
+            "desnivel": 3119,
+            "velocidadMedia": 39.67
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 157.4,
+            "desnivel": 3374,
+            "velocidadMedia": 38.1
+        },
+        {
+            "etapa": 6,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 184.3,
+            "desnivel": 1570,
+            "velocidadMedia": 41.86
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 176.3,
+            "desnivel": 1792,
+            "velocidadMedia": 45.58
+        },
+        {
+            "etapa": 8,
+            "nombre": "Grabsch Bert",
+            "pais": "Alemania",
+            "distancia": 49.0,
+            "desnivel": 97,
+            "velocidadMedia": 51.5
+        },
+        {
+            "etapa": 9,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "distancia": 167.6,
+            "desnivel": 3893,
+            "velocidadMedia": 37.47
+        },
+        {
+            "etapa": 10,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 214.0,
+            "desnivel": 4578,
+            "velocidadMedia": 36.99
+        },
+        {
+            "etapa": 11,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 191.3,
+            "desnivel": 1755,
+            "velocidadMedia": 40.19
+        },
+        {
+            "etapa": 12,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 1750,
+            "velocidadMedia": 47.78
+        },
+        {
+            "etapa": 13,
+            "nombre": "Klier Andreas",
+            "pais": "Alemania",
+            "distancia": 176.4,
+            "desnivel": 1240,
+            "velocidadMedia": 43.76
+        },
+        {
+            "etapa": 14,
+            "nombre": "McCartney Jason",
+            "pais": "Estados Unidos",
+            "distancia": 207.0,
+            "desnivel": 3664,
+            "velocidadMedia": 38.65
+        },
+        {
+            "etapa": 15,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 201.4,
+            "desnivel": 3301,
+            "velocidadMedia": 42.25
+        },
+        {
+            "etapa": 16,
+            "nombre": "Duque Leonardo Fabio",
+            "pais": "Colombia",
+            "distancia": 161.5,
+            "desnivel": 2827,
+            "velocidadMedia": 40.27
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 1116,
+            "velocidadMedia": 44.31
+        },
+        {
+            "etapa": 18,
+            "nombre": "Pérez Rodríguez Luis",
+            "pais": "España",
+            "distancia": 153.5,
+            "desnivel": 2895,
+            "velocidadMedia": 41.16
+        },
+        {
+            "etapa": 19,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 133.0,
+            "desnivel": 3294,
+            "velocidadMedia": 36.77
+        },
+        {
+            "etapa": 20,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 20.0,
+            "desnivel": 199,
+            "velocidadMedia": 54.09
+        },
+        {
+            "etapa": 21,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5148
+        }
+    ]
+}

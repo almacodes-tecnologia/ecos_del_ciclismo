@@ -1,0 +1,282 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1967,
+    "distancia": 3706.0,
+    "desnivel": 0,
+    "tiempo": "101h 05' 34\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 70,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 3 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 3 min 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "Salamini - Luxor TV",
+            "ventaja": "+ 4 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 6 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Aimar Lucien",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 7 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 9 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 11 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 15 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zandegù Dino",
+        "pais": "Italia",
+        "equipo": "Salvarani"
+    },
+    "ganadorMontana": {
+        "nombre": "González Aurelio",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Kaskol",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zancanaro Giorgio",
+            "pais": "Italia",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.604
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.95
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dancelli Michele",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zandegù Dino",
+            "pais": "Italia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.007
+        },
+        {
+            "etapa": 5,
+            "nombre": "Planckaert Willy",
+            "pais": "Bélgica",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.632
+        },
+        {
+            "etapa": 6,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 63.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.598
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.912
+        },
+        {
+            "etapa": 8,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.213
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Vlierberghe Albert",
+            "pais": "Bélgica",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.77
+        },
+        {
+            "etapa": 10,
+            "nombre": "Planckaert Willy",
+            "pais": "Bélgica",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.815
+        },
+        {
+            "etapa": 11,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.546
+        },
+        {
+            "etapa": 12,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.766
+        },
+        {
+            "etapa": 13,
+            "nombre": "Vandenberghe Georges",
+            "pais": "Bélgica",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.904
+        },
+        {
+            "etapa": 14,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.026
+        },
+        {
+            "etapa": 15,
+            "nombre": "Dancelli Michele",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.606
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ritter Ole",
+            "pais": "Dinamarca",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.382
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.242
+        },
+        {
+            "etapa": 18,
+            "nombre": "Zandegù Dino",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.844
+        },
+        {
+            "etapa": 19,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.991
+        },
+        {
+            "etapa": 20,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.359
+        },
+        {
+            "etapa": 21,
+            "nombre": "Mugnaini Marcello",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.114
+        },
+        {
+            "etapa": 22,
+            "nombre": null,
+            "pais": null,
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.901
+        },
+        {
+            "etapa": 22,
+            "nombre": "Planckaert Willy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.339
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2015,
+    "distancia": 826.5,
+    "desnivel": 15514,
+    "tiempo": "21h 49' 38\"",
+    "ciclistasInscritos": 151,
+    "ciclistasFinalizados": 106,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 1 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Rodríguez Joaquim",
+        "pais": "España",
+        "equipo": "Team Katusha "
+    },
+    "ganadorMontana": {
+        "nombre": "Fraile Omar",
+        "pais": "España",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 162.7,
+            "desnivel": 2638,
+            "velocidadMedia": 41.17
+        },
+        {
+            "etapa": 2,
+            "nombre": "Felline Fabio",
+            "pais": "Italia",
+            "distancia": 175.4,
+            "desnivel": 3064,
+            "velocidadMedia": 38.62
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 170.7,
+            "desnivel": 2937,
+            "velocidadMedia": 36.71
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 162.2,
+            "desnivel": 3498,
+            "velocidadMedia": 39.7
+        },
+        {
+            "etapa": 5,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 155.5,
+            "desnivel": 3377,
+            "velocidadMedia": 37.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.704
+        }
+    ]
+}

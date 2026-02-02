@@ -1,0 +1,203 @@
+{
+  "idCarrera": "vuelta_a_espana",
+  "anio": 2015,
+  "distancia": 3376.4,
+  "desnivel": 0,
+  "tiempo": "85h 36' 13\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 158,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Fabio Aru",
+      "pais": "Italia",
+      "equipo": "Astana Pro Team",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España",
+      "equipo": "Team Katusha",
+      "ventaja": "+57 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Rafal Majka",
+      "pais": "Polonia",
+      "equipo": "Tinkoff - Saxo",
+      "ventaja": "+1 min 09 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Nairo Quintana",
+      "pais": "Colombia",
+      "equipo": "Movistar Team",
+      "ventaja": "+1 min 42 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Esteban Chaves",
+      "pais": "Colombia",
+      "equipo": "Orica - GreenEDGE",
+      "ventaja": "+3 min 10 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Tom Dumoulin",
+      "pais": "Países Bajos",
+      "equipo": "Team Giant - Alpecin",
+      "ventaja": "+3 min 46 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+6 min 47 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Mikel Nieve",
+      "pais": "España",
+      "equipo": "Team Sky",
+      "ventaja": "+7 min 06 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Daniel Moreno",
+      "pais": "España",
+      "equipo": "Team Katusha",
+      "ventaja": "+7 min 12 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Louis Meintjes",
+      "pais": "Sudáfrica",
+      "equipo": "MTN-Qhubeka",
+      "ventaja": "+10 min 26 s"
+    }
+  ],
+  "ganadorMontana": {
+    "nombre": "Omar Fraile",
+    "pais": "España",
+    "equipo": "Caja Rural-Seguros RGA"
+  },
+  "ganadorPuntos": {
+    "nombre": "Alejandro Valverde",
+    "pais": "España",
+    "equipo": "Movistar Team"
+  },
+  "ganadorEquipos": {
+    "nombre": "Movistar Team",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "BMC Racing Team",
+      "pais": "Estados Unidos",
+      "equipo": "BMC Racing Team"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Esteban Chaves",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Peter Sagan",
+      "pais": "Eslovaquia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Alejandro Valverde",
+      "pais": "España"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Caleb Ewan",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Esteban Chaves",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Bert-Jan Lindeman",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Jasper Stuyven",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Tom Dumoulin",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Kristian Sbaragli",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Mikel Landa",
+      "pais": "España"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Danny van Poppel",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Nelson Oliveira",
+      "pais": "Portugal"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Alessandro De Marchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Frank Schleck",
+      "pais": "Luxemburgo"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Tom Dumoulin",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Nicolas Roche",
+      "pais": "Irlanda"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Alexis Gougeard",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Rubén Plaza",
+      "pais": "España"
+    },
+    {
+      "etapa": 21,
+      "nombre": "John Degenkolb",
+      "pais": "Alemania"
+    }
+  ]
+}

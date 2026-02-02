@@ -1,0 +1,135 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1983,
+    "distancia": 856.8,
+    "desnivel": 0,
+    "tiempo": "22h 50' 20\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 45,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lang Czesław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Petito Giuseppe",
+            "pais": "Italia",
+            "equipo": "Alfa Lum - Olmo ",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Demierre Serge",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pirard Frits",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 1 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Lang Czesław",
+            "pais": "Polonia",
+            "distancia": 9.5,
+            "desnivel": 0,
+            "velocidadMedia": 54.372
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.383
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.131
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.325
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.63
+        },
+        {
+            "etapa": 5,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 18.3,
+            "desnivel": 0,
+            "velocidadMedia": 46.591
+        }
+    ]
+}

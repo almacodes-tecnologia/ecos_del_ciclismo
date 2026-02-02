@@ -1,0 +1,25 @@
+{
+  "id": "tour_benelux",
+  "nombre": "Tour de Benelux",
+  "nombre_original": "Renewi Tour (anteriormente BinckBank Tour / Eneco Tour)",
+  "pais": "Bélgica, Países Bajos y Luxemburgo",
+  "categoria": "World Tour",
+  "tipo": "Carrera por etapas",
+  "descripcion": "El Tour de Benelux, conocido en la actualidad como Renewi Tour, es una carrera por etapas del UCI World Tour que recorre Bélgica y los Países Bajos, con algún paso ocasional por Luxemburgo. Se disputa desde 2005 y destaca por su combinación de tramos de clásicas flamencas, contrarrelojes y etapas llanas propicias para los velocistas. Es una cita clave para los especialistas en clásicas y rodadores que buscan afinar su forma antes del Mundial o la Vuelta a España.",
+  "anio_inicio": 2005,
+  "edicionesDisponibles": [
+    2025, 2024, 2023, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010,
+    2009, 2008, 2007, 2006, 2005
+  ],
+  "imagenes": ["assets/imagenes/tour_benelux.webp"],
+  "records": {
+    "mas_victorias": {
+      "valor": "3",
+      "descripcion": "Tony Martin y Tim Wellens comparten el récord de más victorias en la clasificación general del Tour de Benelux, con tres títulos cada uno."
+    },
+    "mas_victorias_consecutivas": {
+      "valor": "3",
+      "descripcion": "Tony Martin logró tres victorias consecutivas entre 2010 y 2012, demostrando una gran consistencia en contrarreloj y etapas llanas."
+    }
+  }
+}

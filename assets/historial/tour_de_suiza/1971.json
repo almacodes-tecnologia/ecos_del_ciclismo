@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1971,
+    "distancia": 1319.1,
+    "desnivel": 0,
+    "tiempo": "36h 05' 30\"",
+    "ciclistasInscritos": 51,
+    "ciclistasFinalizados": 50,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pintens Georges",
+            "pais": "Bélgica",
+            "equipo": "Hertekamp - Magniflex",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "equipo": "G.B.C. - Zimba",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Mars",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Caverzasi Arnaldo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poppe André",
+            "pais": "Bélgica",
+            "equipo": "Hertekamp - Magniflex",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Janssens Ward",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Mars",
+            "ventaja": "+ 5 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vifian Bernard",
+            "pais": "Suiza",
+            "equipo": "G.B.C. - Zimba",
+            "ventaja": "+ 6 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Mars",
+            "ventaja": "+ 7 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cavalcanti Giovanni",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 7 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Vlaeminck Roger",
+        "pais": "Bélgica",
+        "equipo": "Flandria - Mars"
+    },
+    "ganadorMontana": {
+        "nombre": "Pfenninger Louis",
+        "pais": "Suiza",
+        "equipo": "G.B.C. - Zimba"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Filotex",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Caverzasi Arnaldo",
+            "pais": "Italia",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.3
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pintens Georges",
+            "pais": "Bélgica",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.653
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 91.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.582
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "distancia": 7.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.464
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fritz Albert",
+            "pais": "Alemania",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.487
+        },
+        {
+            "etapa": 5,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "distancia": 189.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.695
+        },
+        {
+            "etapa": 6,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.163
+        },
+        {
+            "etapa": 7,
+            "nombre": "Krekels Jan",
+            "pais": "Países Bajos",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.026
+        },
+        {
+            "etapa": 8,
+            "nombre": "Fritz Albert",
+            "pais": "Alemania",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.677
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "distancia": 24.6,
+            "desnivel": 0,
+            "velocidadMedia": 44.886
+        }
+    ]
+}

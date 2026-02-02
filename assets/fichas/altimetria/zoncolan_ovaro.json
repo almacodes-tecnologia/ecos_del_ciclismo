@@ -1,0 +1,27 @@
+{
+  "id": "monte_zoncolan_ovaro",
+  "nombre": "Monte Zoncolan (Ovaro)",
+  "pais": "Italia",
+  "longitud_km": 10,
+  "desnivel_m": 1208,
+  "altura_maxima_m": 1735,
+  "pendiente_media_porcentaje": 11.9,
+  "pendiente_maxima_porcentaje": 22.0,
+  "descripcion": "Conocido como el 'Kaiser' (César) del ciclismo, esta es la subida más dura de las Grandes Vueltas. La vertiente de Ovaro se caracteriza por un segmento central de 5 km a una media del 15% que discurre por el bosque, con rampas que alcanzan el 22%. El final incluye tres túneles antes de la corta rampa final hacia la cima.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 527},
+    {"kilometro": 1, "altitud": 610},
+    {"kilometro": 2, "altitud": 677},
+    {"kilometro": 3, "altitud": 823},
+    {"kilometro": 4, "altitud": 980},
+    {"kilometro": 5, "altitud": 1135},
+    {"kilometro": 6, "altitud": 1283},
+    {"kilometro": 7, "altitud": 1433},
+    {"kilometro": 8, "altitud": 1570},
+    {"kilometro": 9, "altitud": 1643},
+    {"kilometro": 10, "altitud": 1735}
+  ],
+  "puntos_clave": [
+    {"kilometro": 2.7, "pendiente_porcentaje": 22.0, "nombre": "Rampa Máxima (Liariis)"}
+  ]
+}

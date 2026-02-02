@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2003,
+    "distancia": 735.0,
+    "desnivel": 0,
+    "tiempo": "17h 17' 45\"",
+    "ciclistasInscritos": 96,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Astarloza Mikel",
+            "pais": "España",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kristensen Lennie",
+            "pais": "Dinamarca",
+            "equipo": "Team CSC",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Caruso Giampaolo",
+            "pais": "Italia",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lanfranchi Paolo",
+            "pais": "Italia",
+            "equipo": "Panaria - Fiordo",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Florencio Xavier",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "Team UniSA",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cañada David",
+            "pais": "España",
+            "equipo": "Quickstep - Davitamon",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wesemann Steffen",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Tafi Andrea",
+        "pais": "Italia",
+        "equipo": "Team CSC"
+    },
+    "ganadorMontana": {
+        "nombre": "Evans Cadel",
+        "pais": "Australia",
+        "equipo": "Team Telekom"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bates Gene",
+        "pais": "Australia",
+        "equipo": "Team UniSA"
+    },
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Eroski",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 50.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.128
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sacchi Fabio",
+            "pais": "Italia",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.22
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.377
+        },
+        {
+            "etapa": 5,
+            "nombre": "Caruso Giampaolo",
+            "pais": "Italia",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.667
+        },
+        {
+            "etapa": 6,
+            "nombre": "Brown Graeme Allen",
+            "pais": "Australia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.15
+        }
+    ]
+}

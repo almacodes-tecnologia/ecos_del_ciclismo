@@ -1,0 +1,123 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2007,
+    "distancia": 549.0,
+    "desnivel": 0,
+    "tiempo": "0h 00' 00\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 2,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Roesems Bert",
+            "pais": "Bélgica",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Matveyev Sergiy",
+            "pais": "Ucrania",
+            "equipo": "Ceramica Panaria - Navigare",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gusev Vladimir",
+            "pais": "Rusia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rosseler Sébastien",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hulsmans Kevin",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Eichler Markus",
+            "pais": "Alemania",
+            "equipo": "Unibet.com",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "0"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennati Daniele",
+        "pais": "Italia",
+        "equipo": "Lampre-Fondital"
+    },
+    "ganadorMontana": {
+        "nombre": "Kuyckx Jan",
+        "pais": "Bélgica",
+        "equipo": "Landbouwkrediet - Tönissteiner"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Quickstep - Innergetic",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.596
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.206
+        },
+        {
+            "etapa": 3,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.57
+        },
+        {
+            "etapa": 4,
+            "nombre": "Devolder Stijn",
+            "pais": "Bélgica",
+            "distancia": 11.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

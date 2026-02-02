@@ -1,0 +1,223 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1962,
+    "distancia": 2622.0,
+    "desnivel": 0,
+    "tiempo": "78h 35' 27\"",
+    "ciclistasInscritos": 87,
+    "ciclistasFinalizados": 48,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "equipo": "Saint-Raphaël - Helyett - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 7 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Elliott Seamus",
+            "pais": "Irlanda",
+            "equipo": "Saint-Raphaël - Helyett - Hutchinson",
+            "ventaja": "+ 7 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pacheco Miguel",
+            "pais": "España",
+            "equipo": "Kas",
+            "ventaja": "+ 10 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas",
+            "ventaja": "+ 10 min 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Helyett - Hutchinson",
+            "ventaja": "+ 17 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Stolker Michel",
+            "pais": "Países Bajos",
+            "equipo": "Saint-Raphaël - Helyett - Hutchinson",
+            "ventaja": "+ 17 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "Licor 43",
+            "ventaja": "+ 18 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pauwels Eddy",
+            "pais": "Bélgica",
+            "equipo": "Wiel's - Groene Leeuw",
+            "ventaja": "+ 19 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Geldermans Ab",
+            "pais": "Países Bajos",
+            "equipo": "Saint-Raphaël - Helyett - Hutchinson",
+            "ventaja": "+ 20 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Altig Rudi",
+        "pais": "Alemania",
+        "equipo": "Saint-Raphaël - Helyett - Hutchinson"
+    },
+    "ganadorMontana": {
+        "nombre": "Karmany Antonio",
+        "pais": "España",
+        "equipo": "Kas"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Barrutia Antonio",
+            "pais": "España",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.1
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.83
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.65
+        },
+        {
+            "etapa": 4,
+            "nombre": "Elliott Seamus",
+            "pais": "Irlanda",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.36
+        },
+        {
+            "etapa": 6,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.45
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.59
+        },
+        {
+            "etapa": 8,
+            "nombre": "Annaert Jean-Claude",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.92
+        },
+        {
+            "etapa": 9,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.85
+        },
+        {
+            "etapa": 10,
+            "nombre": "Geldermans Ab",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.45
+        },
+        {
+            "etapa": 11,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.46
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bono Ernesto",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 13,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.19
+        },
+        {
+            "etapa": 14,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.48
+        },
+        {
+            "etapa": 15,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 82.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.88
+        },
+        {
+            "etapa": 16,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.33
+        },
+        {
+            "etapa": 17,
+            "nombre": "Segu José",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9844
+        }
+    ]
+}

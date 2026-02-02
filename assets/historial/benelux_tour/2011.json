@@ -1,0 +1,154 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2011,
+    "distancia": 956.0,
+    "desnivel": 0,
+    "tiempo": "22h 54' 22\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 101,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Phinney Taylor",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Emden Jos",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "van Leijen Joost",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cornu Dominique",
+            "pais": "Bélgica",
+            "equipo": "Topsport Vlaanderen - Mercator",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Devenyns Dries",
+            "pais": "Bélgica",
+            "equipo": "Quickstep Cycling Team",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hermans Ben",
+            "pais": "Bélgica",
+            "equipo": "RadioShack",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gerdemann Linus",
+            "pais": "Alemania",
+            "equipo": "Leopard Trek",
+            "ventaja": "+ 1 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Boasson Hagen Edvald",
+        "pais": "Noruega",
+        "equipo": "Sky Procycling"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Boasson Hagen Edvald",
+        "pais": "Noruega",
+        "equipo": "Sky Procycling"
+    },
+    "ganadorEquipos": {
+        "nombre": " RadioShack",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Phinney Taylor",
+            "pais": "Estados Unidos",
+            "distancia": 5.7,
+            "desnivel": 0,
+            "velocidadMedia": 49.209
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 192.1,
+            "desnivel": 0,
+            "velocidadMedia": 44.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 169.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.019
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.439
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sergent Jesse",
+            "pais": "Nueva Zelanda",
+            "distancia": 14.7,
+            "desnivel": 0,
+            "velocidadMedia": 49.228
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bono Matteo",
+            "pais": "Italia",
+            "distancia": 189.2,
+            "desnivel": 0,
+            "velocidadMedia": 44.483
+        },
+        {
+            "etapa": 7,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 201.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.187
+        }
+    ]
+}

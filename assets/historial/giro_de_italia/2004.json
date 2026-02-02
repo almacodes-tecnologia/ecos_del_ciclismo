@@ -1,0 +1,266 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2004,
+    "distancia": 3274.9,
+    "desnivel": 42854,
+    "tiempo": "88h 40' 43\"",
+    "ciclistasInscritos": 169,
+    "ciclistasFinalizados": 140,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Saeco",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "equipo": "De Nardi",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "Saeco",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cioni Dario David",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 4 min 36 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Popovych Yaroslav",
+            "pais": "Ucrania",
+            "equipo": "Landbouwkrediet - Colnago",
+            "ventaja": "+ 5 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Vini Caldirola - Nobili Rubinetterie",
+            "ventaja": "+ 5 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 6 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "McGee Bradley",
+            "pais": "Australia",
+            "equipo": "Fdjeux.com",
+            "ventaja": "+ 6 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 6 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "equipo": "Lampre",
+            "ventaja": "+ 7 min 47 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Wegmann Fabian",
+        "pais": "Alemania",
+        "equipo": "Gerolsteiner"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Saeco",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "McGee Bradley",
+            "pais": "Australia",
+            "distancia": 6.9,
+            "desnivel": 112,
+            "velocidadMedia": 48.706
+        },
+        {
+            "etapa": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 143.0,
+            "desnivel": 1779,
+            "velocidadMedia": 38.66
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 184.0,
+            "desnivel": 2721,
+            "velocidadMedia": 39.836
+        },
+        {
+            "etapa": 3,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 3526,
+            "velocidadMedia": 33.107
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 184.0,
+            "desnivel": 1936,
+            "velocidadMedia": 37.339
+        },
+        {
+            "etapa": 5,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 177.0,
+            "desnivel": 1549,
+            "velocidadMedia": 40.083
+        },
+        {
+            "etapa": 6,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 2044,
+            "velocidadMedia": 40.844
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 2599,
+            "velocidadMedia": 39.336
+        },
+        {
+            "etapa": 8,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 2474,
+            "velocidadMedia": 43.85
+        },
+        {
+            "etapa": 9,
+            "nombre": "Rodriguez Fred",
+            "pais": "Estados Unidos",
+            "distancia": 142.0,
+            "desnivel": 867,
+            "velocidadMedia": 34.828
+        },
+        {
+            "etapa": 10,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 146.0,
+            "desnivel": 2215,
+            "velocidadMedia": 42.882
+        },
+        {
+            "etapa": 11,
+            "nombre": "Sella Emanuele",
+            "pais": "Italia",
+            "distancia": 228.0,
+            "desnivel": 2401,
+            "velocidadMedia": 42.866
+        },
+        {
+            "etapa": 12,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 171,
+            "velocidadMedia": 43.72
+        },
+        {
+            "etapa": 13,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "distancia": 52.0,
+            "desnivel": 753,
+            "velocidadMedia": 46.742
+        },
+        {
+            "etapa": 14,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 1918,
+            "velocidadMedia": 42.174
+        },
+        {
+            "etapa": 15,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 234.0,
+            "desnivel": 1355,
+            "velocidadMedia": 39.014
+        },
+        {
+            "etapa": 16,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 217.0,
+            "desnivel": 4914,
+            "velocidadMedia": 35.058
+        },
+        {
+            "etapa": 17,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "distancia": 153.0,
+            "desnivel": 2279,
+            "velocidadMedia": 41.711
+        },
+        {
+            "etapa": 18,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 118.0,
+            "desnivel": 3813,
+            "velocidadMedia": 29.934
+        },
+        {
+            "etapa": 19,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "distancia": 122.0,
+            "desnivel": 3428,
+            "velocidadMedia": 31.52
+        },
+        {
+            "etapa": 20,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5991
+        }
+    ]
+}

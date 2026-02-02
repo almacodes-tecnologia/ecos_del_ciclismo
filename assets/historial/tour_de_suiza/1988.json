@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1988,
+    "distancia": 1793.0,
+    "desnivel": 0,
+    "tiempo": "44h 56' 24\"",
+    "ciclistasInscritos": 135,
+    "ciclistasFinalizados": 89,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wechselberger Helmut",
+            "pais": "Austria",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bauer Steve",
+            "pais": "Canadá",
+            "equipo": "Weinmann - La Suisse",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "equipo": "Cyndarella-Isotonic",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Robeet Patrick",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Eddy Merckx ",
+            "ventaja": "+ 4 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cesarini Francesco",
+            "pais": "Italia",
+            "equipo": "Ariostea",
+            "ventaja": "+ 8 min 40 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gianetti Mauro",
+            "pais": "Suiza",
+            "equipo": "Weinmann - La Suisse",
+            "ventaja": "+ 9 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fuchs Fabian",
+            "pais": "Suiza",
+            "equipo": "Cyndarella-Isotonic",
+            "ventaja": "+ 10 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Lancker Eric",
+            "pais": "Bélgica",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 10 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "equipo": "Weinmann - La Suisse",
+            "ventaja": "+ 11 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "da Silva Acácio",
+        "pais": "Portugal",
+        "equipo": "KAS - Canal 10 - Mavic"
+    },
+    "ganadorMontana": {
+        "nombre": "De Clercq Peter",
+        "pais": "Bélgica",
+        "equipo": "Lotto - Eddy Merckx "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Weinmann - La Suisse",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 127.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.18
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.31
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.928
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.391
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.901
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 18.5,
+            "desnivel": 0,
+            "velocidadMedia": 29.732
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.068
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 247.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.703
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.113
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 180.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.952
+        }
+    ]
+}

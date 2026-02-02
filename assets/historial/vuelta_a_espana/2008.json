@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2008,
+    "distancia": 3031.4,
+    "desnivel": 44558,
+    "tiempo": "80h 40' 08\"",
+    "ciclistasInscritos": 171,
+    "ciclistasFinalizados": 131,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "Astana",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 4 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "equipo": "Xacobeo - Galicia",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 6 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 6 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 6 min 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 10 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Martínez Egoi",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 10 min 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bruseghin Marzio",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 11 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Avermaet Greg",
+        "pais": "Bélgica",
+        "equipo": "Silence - Lotto"
+    },
+    "ganadorMontana": {
+        "nombre": "Moncoutié David",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit par Téléphone"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Caisse d'Epargne",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 7.7,
+            "desnivel": 53,
+            "velocidadMedia": 55.33
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 167.3,
+            "desnivel": 2224,
+            "velocidadMedia": 38.17
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 168.3,
+            "desnivel": 2142,
+            "velocidadMedia": 38.05
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 170.3,
+            "desnivel": 2760,
+            "velocidadMedia": 38.14
+        },
+        {
+            "etapa": 5,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "distancia": 42.5,
+            "desnivel": 215,
+            "velocidadMedia": 50.05
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 150.1,
+            "desnivel": 1142,
+            "velocidadMedia": 45.15
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "distancia": 223.2,
+            "desnivel": 4842,
+            "velocidadMedia": 35.631
+        },
+        {
+            "etapa": 8,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "distancia": 151.0,
+            "desnivel": 3571,
+            "velocidadMedia": 34.193
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "distancia": 200.8,
+            "desnivel": 3319,
+            "velocidadMedia": 40.516
+        },
+        {
+            "etapa": 10,
+            "nombre": "Hinault Sébastien",
+            "pais": "Francia",
+            "distancia": 151.3,
+            "desnivel": 1225,
+            "velocidadMedia": 44.863
+        },
+        {
+            "etapa": 11,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 2019,
+            "velocidadMedia": 41.161
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 186.4,
+            "desnivel": 2900,
+            "velocidadMedia": 39.557
+        },
+        {
+            "etapa": 13,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 209.5,
+            "desnivel": 4413,
+            "velocidadMedia": 35.651
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 158.4,
+            "desnivel": 3589,
+            "velocidadMedia": 37.123
+        },
+        {
+            "etapa": 15,
+            "nombre": "García Dapena David",
+            "pais": "España",
+            "distancia": 202.0,
+            "desnivel": 3130,
+            "velocidadMedia": 40.073
+        },
+        {
+            "etapa": 16,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 186.4,
+            "desnivel": 1481,
+            "velocidadMedia": 34.812
+        },
+        {
+            "etapa": 17,
+            "nombre": "Weylandt Wouter",
+            "pais": "Bélgica",
+            "distancia": 148.2,
+            "desnivel": 915,
+            "velocidadMedia": 44.728
+        },
+        {
+            "etapa": 18,
+            "nombre": "Erviti Imanol",
+            "pais": "España",
+            "distancia": 167.4,
+            "desnivel": 1448,
+            "velocidadMedia": 43.05
+        },
+        {
+            "etapa": 19,
+            "nombre": "Arroyo David",
+            "pais": "España",
+            "distancia": 145.5,
+            "desnivel": 2446,
+            "velocidadMedia": 42.164
+        },
+        {
+            "etapa": 20,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "distancia": 17.1,
+            "desnivel": 724,
+            "velocidadMedia": 30.997
+        },
+        {
+            "etapa": 21,
+            "nombre": "Breschel Matti",
+            "pais": "Dinamarca",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8375
+        }
+    ]
+}

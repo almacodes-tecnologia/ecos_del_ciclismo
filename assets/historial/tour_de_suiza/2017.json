@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2017,
+    "distancia": 1136.2,
+    "desnivel": 18972,
+    "tiempo": "28h 37' 11\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 140,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 4 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 4 min 47 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 5 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Norman Leth Lasse",
+        "pais": "Dinamarca",
+        "equipo": "Aqua Blue Sport"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " AG2R La Mondiale",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 6.0,
+            "desnivel": 49,
+            "velocidadMedia": 56.25
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 172.7,
+            "desnivel": 2611,
+            "velocidadMedia": 39.459
+        },
+        {
+            "etapa": 3,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 159.3,
+            "desnivel": 1618,
+            "velocidadMedia": 41.59
+        },
+        {
+            "etapa": 4,
+            "nombre": "Warbasse Larry",
+            "pais": "Estados Unidos",
+            "distancia": 143.2,
+            "desnivel": 2896,
+            "velocidadMedia": 37.53
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 222.0,
+            "desnivel": 3399,
+            "velocidadMedia": 42.17
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.7,
+            "desnivel": 4195,
+            "velocidadMedia": 35.87
+        },
+        {
+            "etapa": 7,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "distancia": 166.3,
+            "desnivel": 2954,
+            "velocidadMedia": 41.82
+        },
+        {
+            "etapa": 8,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 100.0,
+            "desnivel": 1250,
+            "velocidadMedia": 51.03
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6953
+        }
+    ]
+}

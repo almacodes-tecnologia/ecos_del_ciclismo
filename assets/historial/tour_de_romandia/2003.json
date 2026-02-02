@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2003,
+    "distancia": 681.3,
+    "desnivel": 0,
+    "tiempo": "18h 06' 37\"",
+    "ciclistasInscritos": 123,
+    "ciclistasFinalizados": 83,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hamilton Tyler",
+            "pais": "Estados Unidos",
+            "equipo": "Team CSC",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Alessio",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pérez Francisco",
+            "pais": "España",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jeker Fabian",
+            "pais": "Suiza",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Moos Alexandre",
+            "pais": "Suiza",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "Team CSC",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Popovych Yaroslav",
+            "pais": "Ucrania",
+            "equipo": "Landbouwkrediet - Colnago",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Laiseka Roberto",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 2 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Chaurreau Íñigo",
+            "pais": "España",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 2 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cancellara Fabian",
+        "pais": "Suiza",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Pérez Francisco",
+        "pais": "España",
+        "equipo": "Milaneza - Mss"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Milaneza - Mss",
+        "pais": "Portugal"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 3.4,
+            "desnivel": 0,
+            "velocidadMedia": 46.54
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bertoletti Simone",
+            "pais": "Italia",
+            "distancia": 181.9,
+            "desnivel": 0,
+            "velocidadMedia": 37.94
+        },
+        {
+            "etapa": 2,
+            "nombre": "Krivtsov Yuriy",
+            "pais": "Ucrania",
+            "distancia": 178.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.19
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 171.3,
+            "desnivel": 0,
+            "velocidadMedia": 38.15
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pérez Francisco",
+            "pais": "España",
+            "distancia": 146.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.23
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hamilton Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.7442
+        }
+    ]
+}

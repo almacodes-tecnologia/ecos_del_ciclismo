@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2014,
+    "distancia": 1226.0,
+    "desnivel": 0,
+    "tiempo": "30h 16' 18\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 131,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Niemiec Przemysław",
+            "pais": "Polonia",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Amador Andrey",
+            "pais": "Costa Rica",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Deignan Philip",
+            "pais": "Irlanda",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nerz Dominik",
+            "pais": "Alemania",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vakoč Petr",
+            "pais": "República Checa",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 1 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hutarovich Yauheni",
+        "pais": "Bielorrusia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorMontana": {
+        "nombre": "Paterski Maciej",
+        "pais": "Polonia",
+        "equipo": "CCC Polsat Polkowice"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hutarovich Yauheni",
+            "pais": "Bielorrusia",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.98
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vakoč Petr",
+            "pais": "República Checa",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.86
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bos Theo",
+            "pais": "Países Bajos",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.57
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Genechten Jonas",
+            "pais": "Bélgica",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.22
+        },
+        {
+            "etapa": 5,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.12
+        },
+        {
+            "etapa": 6,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.16
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vandewalle Kristof",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.3182
+        }
+    ]
+}

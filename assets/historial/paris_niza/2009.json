@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2009,
+    "distancia": 1133.8,
+    "desnivel": 0,
+    "tiempo": "30h 53' 51\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 92,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Colom Antonio",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Seeldraeyers Kevin",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 2 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hivert Jonathan",
+            "pais": "Francia",
+            "equipo": "Skil - Shimano",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Trofimov Yuri",
+            "pais": "Rusia",
+            "equipo": "Bbox Bouygues Telecom",
+            "ventaja": "+ 3 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Le Mével Christophe",
+            "pais": "Francia",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 4 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Chavanel Sylvain",
+        "pais": "Francia",
+        "equipo": "Quickstep - Innergetic"
+    },
+    "ganadorMontana": {
+        "nombre": "Martin Tony",
+        "pais": "Alemania",
+        "equipo": "Team Columbia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Seeldraeyers Kevin",
+        "pais": "Bélgica",
+        "equipo": "Quickstep - Innergetic"
+    },
+    "ganadorEquipos": {
+        "nombre": " Saxo Bank ",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 9.3,
+            "desnivel": 0,
+            "velocidadMedia": 50.27
+        },
+        {
+            "etapa": 2,
+            "nombre": "Haussler Heinrich",
+            "pais": "Alemania",
+            "distancia": 195.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.16
+        },
+        {
+            "etapa": 3,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.433
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vande Velde Christian",
+            "pais": "Estados Unidos",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.606
+        },
+        {
+            "etapa": 5,
+            "nombre": "Roy Jérémy",
+            "pais": "Francia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.966
+        },
+        {
+            "etapa": 6,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 182.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.052
+        },
+        {
+            "etapa": 7,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.41
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5415
+        }
+    ]
+}

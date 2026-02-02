@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2011,
+    "distancia": 668.0,
+    "desnivel": 0,
+    "tiempo": "17h 54' 27\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 129,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Meyer Cameron",
+            "pais": "Australia",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Goss Matthew",
+            "pais": "Australia",
+            "equipo": "HTC - High Road",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "ten Dam Laurens",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ventoso Francisco José",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kadri Blel",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "equipo": "Pro Team Astana",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roberts Luke",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Goss Matthew",
+        "pais": "Australia",
+        "equipo": "HTC - High Road"
+    },
+    "ganadorMontana": {
+        "nombre": "Roberts Luke",
+        "pais": "Australia",
+        "equipo": "Team UniSA-Australia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Meyer Cameron",
+        "pais": "Australia",
+        "equipo": "Team Garmin - Cervélo"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Goss Matthew",
+            "pais": "Australia",
+            "distancia": 138.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.002
+        },
+        {
+            "etapa": 2,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.169
+        },
+        {
+            "etapa": 3,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.358
+        },
+        {
+            "etapa": 4,
+            "nombre": "Meyer Cameron",
+            "pais": "Australia",
+            "distancia": 124.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.817
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ventoso Francisco José",
+            "pais": "España",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.22
+        },
+        {
+            "etapa": 6,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.2343
+        }
+    ]
+}

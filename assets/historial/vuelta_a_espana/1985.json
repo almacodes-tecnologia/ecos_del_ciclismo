@@ -1,0 +1,258 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1985,
+    "distancia": 3299.6,
+    "desnivel": 51525,
+    "tiempo": "95h 58' 00\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 101,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Orbea - Gin MG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Peugeot - Shell - Michelin",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rodriguez José Francisco",
+            "pais": "Colombia",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "Orbea - Gin MG",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia - Varta - Mavic",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Caritoux Éric",
+            "pais": "Francia",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 6 min 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "equipo": "Teka",
+            "ventaja": "+ 6 min 36 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 7 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 7 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Navarro José Luis",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 8 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Skil - Sem - Kas - Miko"
+    },
+    "ganadorMontana": {
+        "nombre": "Laguía José Luis",
+        "pais": "España",
+        "equipo": "Reynolds"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Zor - Gemeaz",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 5.6,
+            "desnivel": 99,
+            "velocidadMedia": 52.36
+        },
+        {
+            "etapa": 1,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 177.0,
+            "desnivel": 789,
+            "velocidadMedia": 50.73
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 262.0,
+            "desnivel": 3726,
+            "velocidadMedia": 40.72
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.0,
+            "desnivel": 3500,
+            "velocidadMedia": 37.96
+        },
+        {
+            "etapa": 4,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 162.0,
+            "desnivel": 2724,
+            "velocidadMedia": 37.43
+        },
+        {
+            "etapa": 5,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "distancia": 238.0,
+            "desnivel": 3500,
+            "velocidadMedia": 32.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 145.0,
+            "desnivel": 3500,
+            "velocidadMedia": 31.85
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 190.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.95
+        },
+        {
+            "etapa": 8,
+            "nombre": "Camarillo Angel",
+            "pais": "España",
+            "distancia": 224.0,
+            "desnivel": 2282,
+            "velocidadMedia": 34.89
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 253.0,
+            "desnivel": 3500,
+            "velocidadMedia": 37.74
+        },
+        {
+            "etapa": 10,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 209.0,
+            "desnivel": 4000,
+            "velocidadMedia": 37.83
+        },
+        {
+            "etapa": 11,
+            "nombre": "Rodriguez José Francisco",
+            "pais": "Colombia",
+            "distancia": 124.0,
+            "desnivel": 3500,
+            "velocidadMedia": 35.58
+        },
+        {
+            "etapa": 12,
+            "nombre": "Rodriguez José Francisco",
+            "pais": "Colombia",
+            "distancia": 16.0,
+            "desnivel": 1099,
+            "velocidadMedia": 27.51
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sarrapio José Angel",
+            "pais": "España",
+            "distancia": 193.0,
+            "desnivel": 2500,
+            "velocidadMedia": 40.26
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.0,
+            "desnivel": 3000,
+            "velocidadMedia": 38.61
+        },
+        {
+            "etapa": 15,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 208.0,
+            "desnivel": 2532,
+            "velocidadMedia": 32.71
+        },
+        {
+            "etapa": 16,
+            "nombre": "Juarez Isidro",
+            "pais": "España",
+            "distancia": 252.0,
+            "desnivel": 1975,
+            "velocidadMedia": 35.1
+        },
+        {
+            "etapa": 17,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "distancia": 43.0,
+            "desnivel": 531,
+            "velocidadMedia": 43.34
+        },
+        {
+            "etapa": 18,
+            "nombre": "Recio José",
+            "pais": "España",
+            "distancia": 200.0,
+            "desnivel": 4268,
+            "velocidadMedia": 36.67
+        },
+        {
+            "etapa": 19,
+            "nombre": "Malakov Vladimir",
+            "pais": "Rusia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.6973
+        }
+    ]
+}

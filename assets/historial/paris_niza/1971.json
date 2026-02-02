@@ -1,0 +1,167 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1971,
+    "distancia": 1145.4,
+    "desnivel": 0,
+    "tiempo": "30h 21' 38\"",
+    "ciclistasInscritos": 98,
+    "ciclistasFinalizados": 70,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Letort Désiré",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pettersson Erik",
+            "pais": "Suecia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Aimar Lucien",
+            "pais": "Francia",
+            "equipo": "Sonolor - Lejeune ",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "De Schoenmaecker Jos",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "+ 4 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rouxel Charly",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 4 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mintjens Frans",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "+ 5 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mourioux Jacques",
+            "pais": "Francia",
+            "equipo": "Fagor - Mercier - Hutchinson",
+            "ventaja": "+ 6 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 1.7,
+            "desnivel": 0,
+            "velocidadMedia": 36.213
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.834
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 128.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.956
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.7,
+            "desnivel": 0,
+            "velocidadMedia": 43.385
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Leman Eric",
+            "pais": "Bélgica",
+            "distancia": 181.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vianen Gerard",
+            "pais": "Países Bajos",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "De Witte Ronald",
+            "pais": "Bélgica",
+            "distancia": 186.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Riotte Raymond",
+            "pais": "Francia",
+            "distancia": 108.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

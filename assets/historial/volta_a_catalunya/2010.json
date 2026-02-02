@@ -1,0 +1,150 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2010,
+    "distancia": 924.9,
+    "desnivel": 0,
+    "tiempo": "25h 16' 03\"",
+    "ciclistasInscritos": 171,
+    "ciclistasFinalizados": 156,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Cofidis, le Crédit en Ligne",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kreder Michel",
+            "pais": "Países Bajos",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas - Doimo",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "RadioShack",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Di Grégorio Rémy",
+            "pais": "Francia",
+            "equipo": "Francaise des Jeux",
+            "ventaja": "+ 1 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Gutiérrez David",
+        "pais": "España",
+        "equipo": "Footon-Servetto"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 3.6,
+            "desnivel": 0,
+            "velocidadMedia": 43.636
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 182.6,
+            "desnivel": 0,
+            "velocidadMedia": 42.836
+        },
+        {
+            "etapa": 3,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "distancia": 185.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.36
+        },
+        {
+            "etapa": 4,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "distancia": 209.7,
+            "desnivel": 0,
+            "velocidadMedia": 44.386
+        },
+        {
+            "etapa": 5,
+            "nombre": "Malacarne Davide",
+            "pais": "Italia",
+            "distancia": 181.2,
+            "desnivel": 0,
+            "velocidadMedia": 37.483
+        },
+        {
+            "etapa": 6,
+            "nombre": "Dumoulin Samuel",
+            "pais": "Francia",
+            "distancia": 161.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.689
+        },
+        {
+            "etapa": 7,
+            "nombre": "Haedo Juan José",
+            "pais": "Argentina",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6954
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2016,
+    "distancia": 3210.6,
+    "desnivel": 56095,
+    "tiempo": "83h 31' 28\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 159,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "equipo": "ORICA-BikeExchange",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 4 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 7 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "ORICA-BikeExchange",
+            "ventaja": "+ 8 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 11 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 13 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 13 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 14 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Felline Fabio",
+        "pais": "Italia",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorMontana": {
+        "nombre": "Fraile Omar",
+        "pais": "España",
+        "equipo": "Team Dimension Data"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " BMC Racing Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 27.8,
+            "desnivel": 362,
+            "velocidadMedia": 54.48
+        },
+        {
+            "etapa": 2,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 160.8,
+            "desnivel": 2168,
+            "velocidadMedia": 37.59
+        },
+        {
+            "etapa": 3,
+            "nombre": "Geniez Alexandre",
+            "pais": "Francia",
+            "distancia": 176.4,
+            "desnivel": 2983,
+            "velocidadMedia": 39.4
+        },
+        {
+            "etapa": 4,
+            "nombre": "Calmejane Lilian",
+            "pais": "Francia",
+            "distancia": 163.5,
+            "desnivel": 3196,
+            "velocidadMedia": 39.99
+        },
+        {
+            "etapa": 5,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 171.3,
+            "desnivel": 2467,
+            "velocidadMedia": 40.04
+        },
+        {
+            "etapa": 6,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 163.2,
+            "desnivel": 2824,
+            "velocidadMedia": 39.97
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Genechten Jonas",
+            "pais": "Bélgica",
+            "distancia": 158.5,
+            "desnivel": 2616,
+            "velocidadMedia": 40.34
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lagutin Sergey",
+            "pais": "Rusia",
+            "distancia": 181.5,
+            "desnivel": 1279,
+            "velocidadMedia": 43.65
+        },
+        {
+            "etapa": 9,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "distancia": 164.5,
+            "desnivel": 2780,
+            "velocidadMedia": 43.3
+        },
+        {
+            "etapa": 10,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 188.7,
+            "desnivel": 3899,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 11,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 168.6,
+            "desnivel": 2351,
+            "velocidadMedia": 45.0
+        },
+        {
+            "etapa": 12,
+            "nombre": "Keukeleire Jens",
+            "pais": "Bélgica",
+            "distancia": 193.2,
+            "desnivel": 2996,
+            "velocidadMedia": 42.66
+        },
+        {
+            "etapa": 13,
+            "nombre": "Conti Valerio",
+            "pais": "Italia",
+            "distancia": 213.4,
+            "desnivel": 3716,
+            "velocidadMedia": 38.91
+        },
+        {
+            "etapa": 14,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "distancia": 196.0,
+            "desnivel": 5575,
+            "velocidadMedia": 34.25
+        },
+        {
+            "etapa": 15,
+            "nombre": "Brambilla Gianluca",
+            "pais": "Italia",
+            "distancia": 118.5,
+            "desnivel": 3877,
+            "velocidadMedia": 40.74
+        },
+        {
+            "etapa": 16,
+            "nombre": "Drucker Jempy",
+            "pais": "Luxemburgo",
+            "distancia": 156.4,
+            "desnivel": 1514,
+            "velocidadMedia": 46.62
+        },
+        {
+            "etapa": 17,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "distancia": 177.5,
+            "desnivel": 3460,
+            "velocidadMedia": 38.78
+        },
+        {
+            "etapa": 18,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 200.6,
+            "desnivel": 2550,
+            "velocidadMedia": 40.87
+        },
+        {
+            "etapa": 19,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 37.0,
+            "desnivel": 446,
+            "velocidadMedia": 47.69
+        },
+        {
+            "etapa": 20,
+            "nombre": "Latour Pierre",
+            "pais": "Francia",
+            "distancia": 193.2,
+            "desnivel": 5036,
+            "velocidadMedia": 36.26
+        },
+        {
+            "etapa": 21,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6824
+        }
+    ]
+}

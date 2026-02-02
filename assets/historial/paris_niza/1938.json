@@ -1,0 +1,127 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1938,
+    "distancia": 865.0,
+    "desnivel": 0,
+    "tiempo": "30h 45' 20\"",
+    "ciclistasInscritos": 72,
+    "ciclistasFinalizados": 26,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Lowie Jules",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Disseaux Albertin",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "van Schendel Antoon",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jaminet Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Christiaens Georges",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rebry Gaston",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Berrendero Julián",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 5 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Louviot Raymond",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 6 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Magnani Joseph",
+            "pais": "Estados Unidos",
+            "equipo": "",
+            "ventaja": "+ 6 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Litschi Karl",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 7 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jaminet Pierre",
+            "pais": "Francia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.73
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mallet Auguste",
+            "pais": "Francia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.03
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.05
+        },
+        {
+            "etapa": 4,
+            "nombre": "Debenne René",
+            "pais": "Francia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.42
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Schendel Antoon",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.7413
+        }
+    ]
+}

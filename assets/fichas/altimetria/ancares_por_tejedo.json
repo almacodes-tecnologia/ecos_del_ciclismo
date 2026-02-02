@@ -1,0 +1,24 @@
+{
+  "id": "puerto_de_ancares_por_tejedo",
+  "nombre": "Puerto de Ancares",
+  "pais": "España",
+  "longitud_km": 7.9,
+  "desnivel_m": 706,
+  "altura_maxima_m": 1668,
+  "pendiente_media_porcentaje": 8.9,
+  "pendiente_maxima_porcentaje": 19.1,
+  "descripcion": "Una subida muy exigente ubicada en la Sierra de los Ancares, provincia de León. Es famosa por su regularidad, manteniendo una pendiente constante y elevada (cerca del 9%) sin grandes descansos.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 962},
+    {"kilometro": 1.0, "altitud": 990},
+    {"kilometro": 2.0, "altitud": 1035},
+    {"kilometro": 3.0, "altitud": 1100},
+    {"kilometro": 4.0, "altitud": 1230},
+    {"kilometro": 5.0, "altitud": 1355},
+    {"kilometro": 6.0, "altitud": 1456},
+    {"kilometro": 7.0, "altitud": 1570},
+    {"kilometro": 7.9, "altitud": 1668}
+  ],
+  "puntos_clave": [
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2010,
+  "distancia": 3642,
+  "desnivel": 0,
+  "tiempo": "91h 59' 27\"",
+  "ciclistasInscritos": 197,
+  "ciclistasFinalizados": 170,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Andy Schleck",
+      "pais": "Luxemburgo",
+      "equipo": "Team Saxo Bank",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Samuel Sánchez",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+3 min 01 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Jurgen van den Broeck",
+      "pais": "Bélgica",
+      "equipo": "Omega Pharma-Lotto",
+      "ventaja": "+6 min 15 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Robert Gesink",
+      "pais": "Países Bajos",
+      "equipo": "Rabobank",
+      "ventaja": "+8 min 52 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Ryder Hesjedal",
+      "pais": "Canadá",
+      "equipo": "Garmin-Transitions",
+      "ventaja": "+9 min 36 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España",
+      "equipo": "Team Katusha",
+      "ventaja": "+10 min 58 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Roman Kreuziger",
+      "pais": "República Checa",
+      "equipo": "Liquigas-Doimo",
+      "ventaja": "+11 min 15 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Chris Horner",
+      "pais": "Estados Unidos",
+      "equipo": "Team RadioShack",
+      "ventaja": "+11 min 23 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Luis León Sánchez",
+      "pais": "España",
+      "equipo": "Caisse d'Épargne",
+      "ventaja": "+13 min 42 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Rubén Plaza",
+      "pais": "España",
+      "equipo": "Caisse d'Épargne",
+      "ventaja": "+13 min 50 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Alessandro Petacchi",
+    "pais": "Italia",
+    "equipo": "Lampre-Farnese Vini"
+  },
+  "ganadorMontana": {
+    "nombre": "Anthony Charteau",
+    "pais": "Francia",
+    "equipo": "Bbox Bouygues Telecom"
+  },
+  "ganadorJovenes": {
+    "nombre": "Andy Schleck",
+    "pais": "Luxemburgo",
+    "equipo": "Team Saxo Bank"
+  },
+  "ganadorEquipos": {
+    "nombre": "Team RadioShack",
+    "pais": "Estados Unidos"
+  },
+  "etapas": [
+    {
+      "etapa": "Prólogo",
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 1,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Sylvain Chavanel",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Thor Hushovd",
+      "pais": "Noruega"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Sylvain Chavanel",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Andy Schleck",
+      "pais": "Luxemburgo"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Sandy Casar",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Sérgio Paulinho",
+      "pais": "Portugal"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Joaquim Rodríguez",
+      "pais": "España"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Alexandre Vinokourov",
+      "pais": "Kazajistán"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Christophe Riblon",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Thomas Voeckler",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Pierrick Fédrigo",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Andy Schleck",
+      "pais": "Luxemburgo"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    }
+  ]
+}

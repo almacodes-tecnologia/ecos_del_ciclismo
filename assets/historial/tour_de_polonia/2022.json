@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2022,
+    "distancia": 1209.4,
+    "desnivel": 10754,
+    "tiempo": "28h 26' 23\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hayter Ethan",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "equipo": "Team DSM",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sobrero Matteo",
+            "pais": "Italia",
+            "equipo": "Team BikeExchange - Jayco",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tulett Ben",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cavagna Rémi",
+            "pais": "Francia",
+            "equipo": "Quick-Step Alpha Vinyl Team",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Battistella Samuele",
+            "pais": "Italia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Armirail Bruno",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Démare Arnaud",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ"
+    },
+    "ganadorMontana": {
+        "nombre": "Drizners Jarrad",
+        "pais": "Australia",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 218.8,
+            "desnivel": 1231,
+            "velocidadMedia": 41.281
+        },
+        {
+            "etapa": 2,
+            "nombre": "Thijssen Gerben",
+            "pais": "Bélgica",
+            "distancia": 205.6,
+            "desnivel": 966,
+            "velocidadMedia": 42.925
+        },
+        {
+            "etapa": 3,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "distancia": 237.9,
+            "desnivel": 1545,
+            "velocidadMedia": 43.817
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 179.4,
+            "desnivel": 2621,
+            "velocidadMedia": 41.121
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bauhaus Phil",
+            "pais": "Alemania",
+            "distancia": 178.1,
+            "desnivel": 2179,
+            "velocidadMedia": 41.691
+        },
+        {
+            "etapa": 6,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "distancia": 11.8,
+            "desnivel": 337,
+            "velocidadMedia": 40.075
+        },
+        {
+            "etapa": 7,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 177.8,
+            "desnivel": 1875,
+            "velocidadMedia": 44.574
+        }
+    ]
+}

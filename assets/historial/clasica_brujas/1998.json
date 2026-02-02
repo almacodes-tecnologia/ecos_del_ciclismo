@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 1998,
+    "distancia": 536.3,
+    "desnivel": 0,
+    "tiempo": "12h 45' 45\"",
+    "ciclistasInscritos": 188,
+    "ciclistasFinalizados": 142,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "equipo": "Asics - CGA",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Magnien Emmanuel",
+            "pais": "Francia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sørensen Rolf",
+            "pais": "Dinamarca",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Jalabert Nicolas",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Casarotto Davide",
+            "pais": "Italia",
+            "equipo": "Scrigno - Gaerne",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hoffman Tristan",
+            "pais": "Países Bajos",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Serpellini Marco",
+            "pais": "Italia",
+            "equipo": "Brescialat",
+            "ventaja": "+ 1 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Blijlevens Jeroen",
+        "pais": "Países Bajos",
+        "equipo": "TVM - Farm Frites"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Dyck Hendrik",
+        "pais": "Bélgica",
+        "equipo": "TVM - Farm Frites"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.34
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.65
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.33
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 14.3,
+            "desnivel": 0,
+            "velocidadMedia": 48.75
+        }
+    ]
+}

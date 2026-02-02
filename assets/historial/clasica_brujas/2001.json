@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2001,
+    "distancia": 532.0,
+    "desnivel": 0,
+    "tiempo": "13h 20' 46\"",
+    "ciclistasInscritos": 195,
+    "ciclistasFinalizados": 99,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mattan Nico",
+            "pais": "Bélgica",
+            "equipo": "Cofidis",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vande Velde Christian",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gaumont Philippe",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Knaven Servais",
+            "pais": "Países Bajos",
+            "equipo": "Domo - Farm Frites",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tchmil Andrei",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Eeckhout Niko",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vainšteins Romāns",
+            "pais": "Letonia",
+            "equipo": "Domo - Farm Frites",
+            "ventaja": "+ 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Eeckhout Niko",
+        "pais": "Bélgica",
+        "equipo": "Lotto - Adecco"
+    },
+    "ganadorMontana": {
+        "nombre": "Ortenzi Gian Mario",
+        "pais": "Italia",
+        "equipo": "Mercatone Uno - Stream TV"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.15
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Clercq Hans",
+            "pais": "Bélgica",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.12
+        },
+        {
+            "etapa": 3,
+            "nombre": "Klemenčič Zoran",
+            "pais": "Eslovenia",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.3
+        },
+        {
+            "etapa": 3,
+            "nombre": "Mattan Nico",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9099
+        }
+    ]
+}

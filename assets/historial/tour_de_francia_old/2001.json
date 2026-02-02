@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2001,
+  "distancia": 3453,
+  "desnivel": 0,
+  "tiempo": "86h 24' 12\"",
+  "ciclistasInscritos": 189,
+  "ciclistasFinalizados": 144,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Sin Ganador",
+      "pais": "",
+      "equipo": "",
+      "ventaja": ""
+    },
+    {
+      "puesto": 2,
+      "nombre": "Jan Ullrich",
+      "pais": "Alemania",
+      "equipo": "Team Telekom",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Joseba Beloki",
+      "pais": "España",
+      "equipo": "ONCE-Eroski",
+      "ventaja": "+2 min 21 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Andrei Kivilev",
+      "pais": "Kazajistán",
+      "equipo": "Cofidis",
+      "ventaja": "+3 min 09 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Igor González de Galdeano",
+      "pais": "España",
+      "equipo": "ONCE-Eroski",
+      "ventaja": "+6 min 44 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "François Simon",
+      "pais": "Francia",
+      "equipo": "Bonjour",
+      "ventaja": "+10 min 38 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Óscar Sevilla",
+      "pais": "España",
+      "equipo": "Kelme-Costa Blanca",
+      "ventaja": "+11 min 46 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Santiago Botero",
+      "pais": "Colombia",
+      "equipo": "Kelme-Costa Blanca",
+      "ventaja": "+14 min 11 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Marcos Serrano",
+      "pais": "España",
+      "equipo": "ONCE-Eroski",
+      "ventaja": "+15 min 01 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Michael Boogerd",
+      "pais": "Países Bajos",
+      "equipo": "Rabobank",
+      "ventaja": "+15 min 54 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Erik Zabel",
+    "pais": "Alemania",
+    "equipo": "Team Telekom"
+  },
+  "ganadorMontana": {
+    "nombre": "Laurent Jalabert",
+    "pais": "Francia",
+    "equipo": "Team CSC-Tiscali"
+  },
+  "ganadorJovenes": {
+    "nombre": "Óscar Sevilla",
+    "pais": "España",
+    "equipo": "Kelme-Costa Blanca"
+  },
+  "ganadorEquipos": {
+    "nombre": "Kelme-Costa Blanca",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 0,
+      "nombre": "Christophe Moreau",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 1,
+      "nombre": "Erik Zabel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Marc Wauters",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Erik Zabel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Laurent Jalabert",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Crédit Agricole",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Jaan Kirsipuu",
+      "pais": "Estonia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Laurent Jalabert",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Erik Dekker",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Sergei Ivanov",
+      "pais": "Rusia"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Sin Ganador",
+      "pais": ""
+    },
+    {
+      "etapa": 11,
+      "nombre": "Sin Ganador",
+      "pais": ""
+    },
+    {
+      "etapa": 12,
+      "nombre": "Félix Cárdenas",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Sin Ganador",
+      "pais": ""
+    },
+    {
+      "etapa": 14,
+      "nombre": "Roberto Laiseka",
+      "pais": "España"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Rik Verbrugghe",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Jens Voigt",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Serge Baguet",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Sin Ganador",
+      "pais": ""
+    },
+    {
+      "etapa": 19,
+      "nombre": "Erik Zabel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Ján Svorada",
+      "pais": "República Checa"
+    }
+  ]
+}

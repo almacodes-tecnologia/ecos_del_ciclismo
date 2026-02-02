@@ -1,0 +1,270 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2019,
+    "distancia": 3184.8,
+    "desnivel": 54817,
+    "tiempo": "83h 07' 14\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 4 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 7 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 10 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hagen Carl Fredrik",
+            "pais": "Noruega",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 12 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 22 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 22 min 34 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Bouchard Geoffrey",
+        "pais": "Francia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 13.4,
+            "desnivel": 107,
+            "velocidadMedia": 54.141
+        },
+        {
+            "etapa": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 199.6,
+            "desnivel": 3238,
+            "velocidadMedia": 38.473
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 188.0,
+            "desnivel": 1730,
+            "velocidadMedia": 42.561
+        },
+        {
+            "etapa": 4,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 175.5,
+            "desnivel": 1233,
+            "velocidadMedia": 43.109
+        },
+        {
+            "etapa": 5,
+            "nombre": "Madrazo Ángel",
+            "pais": "España",
+            "distancia": 170.7,
+            "desnivel": 3764,
+            "velocidadMedia": 34.31
+        },
+        {
+            "etapa": 6,
+            "nombre": "Herrada Jesús",
+            "pais": "España",
+            "distancia": 198.9,
+            "desnivel": 3294,
+            "velocidadMedia": 42.033
+        },
+        {
+            "etapa": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 183.2,
+            "desnivel": 2842,
+            "velocidadMedia": 40.09
+        },
+        {
+            "etapa": 8,
+            "nombre": "Arndt Nikias",
+            "pais": "Alemania",
+            "distancia": 166.9,
+            "desnivel": 2291,
+            "velocidadMedia": 43.388
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 94.4,
+            "desnivel": 3300,
+            "velocidadMedia": 31.793
+        },
+        {
+            "etapa": 10,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 36.2,
+            "desnivel": 525,
+            "velocidadMedia": 46.131
+        },
+        {
+            "etapa": 11,
+            "nombre": "Iturria Mikel",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 3168,
+            "velocidadMedia": 39.027
+        },
+        {
+            "etapa": 12,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 171.4,
+            "desnivel": 2072,
+            "velocidadMedia": 45.046
+        },
+        {
+            "etapa": 13,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 166.4,
+            "desnivel": 4179,
+            "velocidadMedia": 37.194
+        },
+        {
+            "etapa": 14,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 188.0,
+            "desnivel": 2432,
+            "velocidadMedia": 41.969
+        },
+        {
+            "etapa": 15,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "distancia": 154.4,
+            "desnivel": 4114,
+            "velocidadMedia": 35.759
+        },
+        {
+            "etapa": 16,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 144.4,
+            "desnivel": 4114,
+            "velocidadMedia": 35.896
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 219.6,
+            "desnivel": 2395,
+            "velocidadMedia": 50.63
+        },
+        {
+            "etapa": 18,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "distancia": 178.2,
+            "desnivel": 3689,
+            "velocidadMedia": 39.143
+        },
+        {
+            "etapa": 19,
+            "nombre": "Cavagna Rémi",
+            "pais": "Francia",
+            "distancia": 165.2,
+            "desnivel": 1771,
+            "velocidadMedia": 44.336
+        },
+        {
+            "etapa": 20,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 190.4,
+            "desnivel": 4559,
+            "velocidadMedia": 36.08
+        },
+        {
+            "etapa": 21,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5942
+        }
+    ]
+}

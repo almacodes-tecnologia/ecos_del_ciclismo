@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1978,
+    "distancia": 846.0,
+    "desnivel": 0,
+    "tiempo": "22h 08' 46\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 25,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Fiorella",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Velda - Lano - Flandria",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chinetti Alfredo",
+            "pais": "Italia",
+            "equipo": "Selle Royal - Inoxpran",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bertoglio Fausto",
+            "pais": "Italia",
+            "equipo": "Selle Royal - Inoxpran",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Vibor",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wolfer Bruno",
+            "pais": "Suiza",
+            "equipo": "Zonca",
+            "ventaja": "+ 2 min 39 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 55.07
+        },
+        {
+            "etapa": 1,
+            "nombre": "Algeri Vittorio",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Masciarelli Palmiro",
+            "pais": "Italia",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "distancia": 73.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pico_do_arieiro",
+  "nombre": "Pico do Arieiro",
+  "pais": "Portugal",
+  "longitud_km": 21.1,
+  "desnivel_m": 1782,
+  "altura_maxima_m": 1796,
+  "pendiente_media_porcentaje": 8.5,
+  "pendiente_maxima_porcentaje": 25.0,
+  "descripcion": "El Pico do Arieiro es uno de los ascensos más duros del mundo, situado en la isla de Madeira. Destaca por sus pendientes extremas, superando el 20% en el tramo inicial del Caminho dos Pretos. La subida es larga, constante (sin descensos) y con un fuerte endurecimiento final.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 14},
+    {"kilometro": 1, "altitud": 64},
+    {"kilometro": 2, "altitud": 164},
+    {"kilometro": 3, "altitud": 274},
+    {"kilometro": 4, "altitud": 394},
+    {"kilometro": 5, "altitud": 504},
+    {"kilometro": 6, "altitud": 604},
+    {"kilometro": 7, "altitud": 714},
+    {"kilometro": 8, "altitud": 854},
+    {"kilometro": 9, "altitud": 964},
+    {"kilometro": 10, "altitud": 1064},
+    {"kilometro": 11, "altitud": 1164},
+    {"kilometro": 12, "altitud": 1224},
+    {"kilometro": 13, "altitud": 1324},
+    {"kilometro": 14, "altitud": 1374},
+    {"kilometro": 15, "altitud": 1414},
+    {"kilometro": 16, "altitud": 1444},
+    {"kilometro": 17, "altitud": 1494},
+    {"kilometro": 18, "altitud": 1524},
+    {"kilometro": 19, "altitud": 1604},
+    {"kilometro": 20, "altitud": 1704},
+    {"kilometro": 21.1, "altitud": 1796}
+  ],
+  "puntos_clave": [
+    {"kilometro": 2.5, "pendiente_porcentaje": 25.0, "nombre": "Muro Caminho dos Pretos"},
+    {"kilometro": 3.5, "pendiente_porcentaje": 22.0, "nombre": "Muro Caminho dos Pretos"},
+    {"kilometro": 8.1, "pendiente_porcentaje": 14.0, "nombre": "Rampa kilometro 8"}
+  ]
+}

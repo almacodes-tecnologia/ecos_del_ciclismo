@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2019,
+    "distancia": 3365.8,
+    "desnivel": 52275,
+    "tiempo": "82h 57' 00\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 155,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "Team INEOS",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 4 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "EF Education First",
+            "ventaja": "+ 5 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 5 min 30 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 6 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "equipo": "Team Arkéa Samsic",
+            "ventaja": "+ 7 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Bardet Romain",
+        "pais": "Francia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernal Egan",
+        "pais": "Colombia",
+        "equipo": "Team INEOS"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Teunissen Mike",
+            "pais": "Países Bajos",
+            "distancia": 194.5,
+            "desnivel": 1582,
+            "velocidadMedia": 44.409
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 27.6,
+            "desnivel": 267,
+            "velocidadMedia": 57.202
+        },
+        {
+            "etapa": 3,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 215.0,
+            "desnivel": 2299,
+            "velocidadMedia": 45.992
+        },
+        {
+            "etapa": 4,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 213.5,
+            "desnivel": 1555,
+            "velocidadMedia": 41.412
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 175.5,
+            "desnivel": 2325,
+            "velocidadMedia": 43.41
+        },
+        {
+            "etapa": 6,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "distancia": 160.5,
+            "desnivel": 3944,
+            "velocidadMedia": 35.793
+        },
+        {
+            "etapa": 7,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 230.0,
+            "desnivel": 2367,
+            "velocidadMedia": 38.044
+        },
+        {
+            "etapa": 8,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 200.0,
+            "desnivel": 3844,
+            "velocidadMedia": 39.962
+        },
+        {
+            "etapa": 9,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "distancia": 170.5,
+            "desnivel": 2717,
+            "velocidadMedia": 42.064
+        },
+        {
+            "etapa": 10,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 217.5,
+            "desnivel": 3031,
+            "velocidadMedia": 45.054
+        },
+        {
+            "etapa": 11,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 167.0,
+            "desnivel": 1827,
+            "velocidadMedia": 43.3
+        },
+        {
+            "etapa": 12,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 209.5,
+            "desnivel": 3088,
+            "velocidadMedia": 42.198
+        },
+        {
+            "etapa": 13,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 27.2,
+            "desnivel": 391,
+            "velocidadMedia": 46.629
+        },
+        {
+            "etapa": 14,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 111.0,
+            "desnivel": 3376,
+            "velocidadMedia": 34.991
+        },
+        {
+            "etapa": 15,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 185.0,
+            "desnivel": 4345,
+            "velocidadMedia": 38.667
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 177.0,
+            "desnivel": 1626,
+            "velocidadMedia": 44.785
+        },
+        {
+            "etapa": 17,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 2472,
+            "velocidadMedia": 45.872
+        },
+        {
+            "etapa": 18,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 208.0,
+            "desnivel": 5215,
+            "velocidadMedia": 37.337
+        },
+        {
+            "etapa": 19,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "distancia": 89.0,
+            "desnivel": 2995,
+            "velocidadMedia": 33.27
+        },
+        {
+            "etapa": 20,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 59.5,
+            "desnivel": 2228,
+            "velocidadMedia": 31.908
+        },
+        {
+            "etapa": 21,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 128.0,
+            "desnivel": 781,
+            "velocidadMedia": 41.709
+        }
+    ]
+}

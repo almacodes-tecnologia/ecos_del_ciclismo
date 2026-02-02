@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2006,
+    "distancia": 635.9,
+    "desnivel": 0,
+    "tiempo": "16h 43' 08\"",
+    "ciclistasInscritos": 165,
+    "ciclistasFinalizados": 120,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kashechkin Andrey",
+            "pais": "Kazajistán",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cioni Dario David",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moos Alexandre",
+            "pais": "Suiza",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ghisalberti Sergio",
+            "pais": "Italia",
+            "equipo": "Team Milram",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Szmyd Sylwester",
+            "pais": "Polonia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 2 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Caisse d'Epargne - Illes Balears"
+    },
+    "ganadorMontana": {
+        "nombre": "Parra Iván Ramiro",
+        "pais": "Colombia",
+        "equipo": "Cofidis, le Crédit par Téléphone"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Liberty Seguros - Würth",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "distancia": 3.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.843
+        },
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.503
+        },
+        {
+            "etapa": 2,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "distancia": 171.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.068
+        },
+        {
+            "etapa": 3,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 164.6,
+            "desnivel": 0,
+            "velocidadMedia": 40.528
+        },
+        {
+            "etapa": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 127.7,
+            "desnivel": 0,
+            "velocidadMedia": 34.61
+        },
+        {
+            "etapa": 5,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2498
+        }
+    ]
+}

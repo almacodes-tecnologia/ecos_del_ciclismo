@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2008,
+    "distancia": 946.0,
+    "desnivel": 0,
+    "tiempo": "28h 08' 21\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 148,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "equipo": "CSC ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gasparotto Enrico",
+            "pais": "Italia",
+            "equipo": "Barloworld",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Team High Road",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fothen Markus",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Axelsson Niklas",
+            "pais": "Suecia",
+            "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Larsson Gustav Erik",
+            "pais": "Suecia",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pozzato Filippo",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Slipstream - Chipotle presented by H3O",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vila Francisco Javier",
+            "pais": "España",
+            "equipo": "Lampre",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Stubbe Tom",
+            "pais": "Bélgica",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 2 min 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Freire Óscar",
+        "pais": "España",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Mondory Lloyd",
+        "pais": "Francia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorJovenes": {
+        "nombre": "Löfkvist Thomas",
+        "pais": "Suecia",
+        "equipo": "Team High Road"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team High Road",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.397
+        },
+        {
+            "etapa": 2,
+            "nombre": "Illiano Raffaele",
+            "pais": "Italia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.443
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.055
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.506
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 26.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.31
+        },
+        {
+            "etapa": 6,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.014
+        },
+        {
+            "etapa": 7,
+            "nombre": "Chicchi Francesco",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.8732
+        }
+    ]
+}

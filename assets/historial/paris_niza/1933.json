@@ -1,0 +1,135 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1933,
+    "distancia": 1145.0,
+    "desnivel": 0,
+    "tiempo": "37h 48' 07\"",
+    "ciclistasInscritos": 35,
+    "ciclistasFinalizados": 66,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Schepers Alfons",
+            "pais": "Bélgica",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hardiquest Louis",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 min 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Faure Benoît",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Deloor Alfons",
+            "pais": "Bélgica",
+            "equipo": "Dilecta - Wolber",
+            "ventaja": "+ 3 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 5 min 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "+ 5 min 43 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Louviot Raymond",
+            "pais": "Francia",
+            "equipo": "Génial Lucifer - Hutchinson",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bernard René",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 7 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "+ 7 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Schepers Alfons",
+            "pais": "Bélgica",
+            "distancia": 312.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.399
+        },
+        {
+            "etapa": 2,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.077
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Rysselberghe Bernard",
+            "pais": "Bélgica",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.23
+        },
+        {
+            "etapa": 4,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.89
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cornez Fernand",
+            "pais": "Francia",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.96
+        },
+        {
+            "etapa": 6,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5667
+        }
+    ]
+}

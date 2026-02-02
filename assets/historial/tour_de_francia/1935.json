@@ -1,0 +1,310 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1935,
+    "distancia": 4116.0,
+    "desnivel": 0,
+    "tiempo": "141h 32' 00\"",
+    "ciclistasInscritos": 84,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Maes Romain",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Morelli Ambrogio Enrico",
+            "pais": "Italia",
+            "equipo": "Individuals",
+            "ventaja": "+ 17 min 52 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 24 min 6 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "equipo": "Individuals",
+            "ventaja": "+ 35 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lowie Jules",
+            "pais": "Bélgica",
+            "equipo": "Individuals",
+            "ventaja": "+ 51 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 54 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 1 h 9 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 1 h 21 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ruozzi Gabriel",
+            "pais": "Francia",
+            "equipo": "Isoles",
+            "ventaja": "+ 1 h 34 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Thierbach Oskar",
+            "pais": "Alemania",
+            "equipo": "Germany",
+            "ventaja": "+ 2 h 0 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Vervaecke Félicien",
+        "pais": "Bélgica",
+        "equipo": "Belgium"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Maes Romain",
+            "pais": "Bélgica",
+            "distancia": 262.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.41
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pélissier Charles",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.67
+        },
+        {
+            "etapa": 3,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9
+        },
+        {
+            "etapa": 4,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.41
+        },
+        {
+            "etapa": 5,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "distancia": 262.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.35
+        },
+        {
+            "etapa": 5,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 58.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.73
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.37
+        },
+        {
+            "etapa": 7,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.32
+        },
+        {
+            "etapa": 8,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 102.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.98
+        },
+        {
+            "etapa": 9,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.29
+        },
+        {
+            "etapa": 10,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.65
+        },
+        {
+            "etapa": 11,
+            "nombre": "Maes Romain",
+            "pais": "Bélgica",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.54
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pélissier Charles",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.23
+        },
+        {
+            "etapa": 13,
+            "nombre": "Bergamaschi Vasco",
+            "pais": "Italia",
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.96
+        },
+        {
+            "etapa": 13,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "distancia": 56.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.17
+        },
+        {
+            "etapa": 14,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.28
+        },
+        {
+            "etapa": 14,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "distancia": 63.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.13
+        },
+        {
+            "etapa": 15,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.88
+        },
+        {
+            "etapa": 16,
+            "nombre": "Morelli Ambrogio Enrico",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.92
+        },
+        {
+            "etapa": 17,
+            "nombre": "Moineau Julien",
+            "pais": "Francia",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.57
+        },
+        {
+            "etapa": 18,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.77
+        },
+        {
+            "etapa": 18,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 33.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.85
+        },
+        {
+            "etapa": 19,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.8
+        },
+        {
+            "etapa": 19,
+            "nombre": "Aerts Jean",
+            "pais": "Bélgica",
+            "distancia": 95.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.38
+        },
+        {
+            "etapa": 20,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.72
+        },
+        {
+            "etapa": 20,
+            "nombre": "Morelli Ambrogio Enrico",
+            "pais": "Italia",
+            "distancia": 55.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.68
+        },
+        {
+            "etapa": 21,
+            "nombre": "Maes Romain",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.6173
+        }
+    ]
+}

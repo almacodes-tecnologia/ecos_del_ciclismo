@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2003,
+    "distancia": 2811.6,
+    "desnivel": 38425,
+    "tiempo": "69h 31' 52\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 159,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Nozal Isidro",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 3 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 4 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 5 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cárdenas Félix Rafael",
+            "pais": "Colombia",
+            "equipo": "Labarca-2-Café Baqué",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Osa Unai",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pérez Rodríguez Luis",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 7 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Cárdenas Félix Rafael",
+        "pais": "Colombia",
+        "equipo": "Labarca-2-Café Baqué"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " iBanesto.com",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 30.0,
+            "desnivel": 217,
+            "velocidadMedia": 56.22
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pérez Rodríguez Luis",
+            "pais": "España",
+            "distancia": 148.0,
+            "desnivel": 2045,
+            "velocidadMedia": 42.79
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 154.3,
+            "desnivel": 1786,
+            "velocidadMedia": 45.33
+        },
+        {
+            "etapa": 4,
+            "nombre": "Etxebarria Unai",
+            "pais": "Venezuela",
+            "distancia": 151.0,
+            "desnivel": 2287,
+            "velocidadMedia": 43.8
+        },
+        {
+            "etapa": 5,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 166.7,
+            "desnivel": 835,
+            "velocidadMedia": 50.15
+        },
+        {
+            "etapa": 6,
+            "nombre": "Nozal Isidro",
+            "pais": "España",
+            "distancia": 43.8,
+            "desnivel": 305,
+            "velocidadMedia": 49.06
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "distancia": 190.0,
+            "desnivel": 4432,
+            "velocidadMedia": 37.84
+        },
+        {
+            "etapa": 8,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 166.0,
+            "desnivel": 4060,
+            "velocidadMedia": 34.87
+        },
+        {
+            "etapa": 9,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 174.8,
+            "desnivel": 4201,
+            "velocidadMedia": 36.34
+        },
+        {
+            "etapa": 10,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 194.0,
+            "desnivel": 2237,
+            "velocidadMedia": 46.4
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 162.0,
+            "desnivel": 1468,
+            "velocidadMedia": 49.85
+        },
+        {
+            "etapa": 12,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 168.8,
+            "desnivel": 743,
+            "velocidadMedia": 45.66
+        },
+        {
+            "etapa": 13,
+            "nombre": "Nozal Isidro",
+            "pais": "España",
+            "distancia": 53.3,
+            "desnivel": 155,
+            "velocidadMedia": 51.54
+        },
+        {
+            "etapa": 14,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 167.4,
+            "desnivel": 910,
+            "velocidadMedia": 45.01
+        },
+        {
+            "etapa": 15,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 172.1,
+            "desnivel": 2505,
+            "velocidadMedia": 39.62
+        },
+        {
+            "etapa": 16,
+            "nombre": "Cárdenas Félix Rafael",
+            "pais": "Colombia",
+            "distancia": 162.0,
+            "desnivel": 3368,
+            "velocidadMedia": 38.94
+        },
+        {
+            "etapa": 17,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 188.4,
+            "desnivel": 1857,
+            "velocidadMedia": 47.49
+        },
+        {
+            "etapa": 18,
+            "nombre": "Díaz Pedro",
+            "pais": "España",
+            "distancia": 143.8,
+            "desnivel": 1818,
+            "velocidadMedia": 45.95
+        },
+        {
+            "etapa": 19,
+            "nombre": "Simeoni Filippo",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 2579,
+            "velocidadMedia": 42.54
+        },
+        {
+            "etapa": 20,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 11.2,
+            "desnivel": 617,
+            "velocidadMedia": 26.74
+        },
+        {
+            "etapa": 21,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.5333
+        }
+    ]
+}

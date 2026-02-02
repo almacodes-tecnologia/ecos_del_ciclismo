@@ -1,0 +1,166 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1998,
+    "distancia": 1038.6,
+    "desnivel": 0,
+    "tiempo": "32h 59' 36\"",
+    "ciclistasInscritos": 126,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Buenahora Hernan",
+            "pais": "Colombia",
+            "equipo": "Vitalicio Seguros",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Totschnig Georg",
+            "pais": "Austria",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Podenzana Massimo",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Elli Alberto",
+            "pais": "Italia",
+            "equipo": "Casino - AG2R",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Castelblanco José Joaquin",
+            "pais": "Colombia",
+            "equipo": "Avianca - Telekom",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Casero Ángel Luis",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Robin Jean-Cyril",
+            "pais": "Francia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 3 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Peña Victor Hugo",
+            "pais": "Colombia",
+            "equipo": "Avianca - Telekom",
+            "ventaja": "+ 3 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Elli Alberto",
+        "pais": "Italia",
+        "equipo": "Casino - AG2R"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Avianca - Telekom",
+        "pais": "Colombia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 79.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.35
+        },
+        {
+            "etapa": 1,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 7.8,
+            "desnivel": 0,
+            "velocidadMedia": 54.84
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 172.7,
+            "desnivel": 0,
+            "velocidadMedia": 40.71
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 151.3,
+            "desnivel": 0,
+            "velocidadMedia": 40.06
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 197.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.31
+        },
+        {
+            "etapa": 5,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 18.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Buenahora Hernan",
+            "pais": "Colombia",
+            "distancia": 180.4,
+            "desnivel": 0,
+            "velocidadMedia": 33.88
+        },
+        {
+            "etapa": 7,
+            "nombre": "Buenahora Hernan",
+            "pais": "Colombia",
+            "distancia": 231.7,
+            "desnivel": 0,
+            "velocidadMedia": 33.77
+        },
+        {
+            "etapa": 8,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.2318
+        }
+    ]
+}

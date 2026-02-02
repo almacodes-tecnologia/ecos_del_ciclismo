@@ -1,0 +1,17 @@
+{
+  "id": "gp_montreal",
+  "nombre": "GP de Montreal",
+  "pais": "Canadá",
+  "categoria": "World Tour",
+  "tipo": "Clásica de un día",
+  "descripcion": "El Gran Premio de Montreal es una de las dos únicas carreras del World Tour que se celebran en América del Norte. Su recorrido, sobre un circuito urbano con una exigente subida al Monte Real, favorece a los corredores completos, capaces de resistir múltiples ataques y con una buena capacidad de sprint en repecho.",
+  "anio_inicio": 2010,
+  "edicionesDisponibles": [2025, 2024, 2023, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010],
+  "imagenes": ["assets/imagenes/gp_montreal.webp"],
+  "records": {
+    "mas_victorias": {
+      "valor": "2",
+      "descripcion": "Greg Van Avermaet y Tadej Pogačar comparten el récord de más victorias en la historia de la carrera."
+    }
+  }
+}

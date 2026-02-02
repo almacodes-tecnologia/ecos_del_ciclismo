@@ -1,0 +1,110 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1989,
+    "distancia": 237.0,
+    "desnivel": 0,
+    "tiempo": "93h 30' 16\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Super U - Raleigh - Fiat",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Giupponi Flavio",
+            "pais": "Italia",
+            "equipo": "Malvor - Sidi",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "7 Eleven - American Airlines",
+            "ventaja": "+ 2 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 5 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "equipo": "Del Tongo",
+            "ventaja": "+ 5 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zimmermann Urs",
+            "pais": "Suiza",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "+ 6 min 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "equipo": "Hitachi",
+            "ventaja": "+ 6 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "equipo": "Seur",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "Fagor - MBK",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Caja Rural",
+            "ventaja": "+ 8 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Fidanza Giovanni",
+        "pais": "Italia",
+        "equipo": "Chateau d'Ax"
+    },
+    "ganadorMontana": {
+        "nombre": "Herrera Luis Alberto",
+        "pais": "Colombia",
+        "equipo": "Café de Colombia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pulnikov Vladimir",
+        "pais": "Ucrania",
+        "equipo": "Alfa Lum"
+    },
+    "ganadorEquipos": {
+        "nombre": " Fagor - MBK",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 3,
+            "nombre": "Carcano Sergio",
+            "pais": "Italia",
+            "distancia": 32.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.89
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2012,
+    "distancia": 1051.7,
+    "desnivel": 17892,
+    "tiempo": "26h 40' 46\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 151,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol Team",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kiryienka Vasil",
+            "pais": "Bielorrusia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 3 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 3 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 3 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Evans Cadel",
+        "pais": "Australia",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Sarmiento Cayetano José",
+        "pais": "Colombia",
+        "equipo": "Liquigas - Cannondale"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kelderman Wilco",
+        "pais": "Países Bajos",
+        "equipo": "Rabobank Cycling Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Sky Procycling",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "distancia": 5.7,
+            "desnivel": 11,
+            "velocidadMedia": 51.429
+        },
+        {
+            "etapa": 1,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "distancia": 187.0,
+            "desnivel": 2048,
+            "velocidadMedia": 40.601
+        },
+        {
+            "etapa": 2,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 3002,
+            "velocidadMedia": 39.566
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 167.0,
+            "desnivel": 2683,
+            "velocidadMedia": 38.213
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "distancia": 53.5,
+            "desnivel": 399,
+            "velocidadMedia": 50.791
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vichot Arthur",
+            "pais": "Francia",
+            "distancia": 186.5,
+            "desnivel": 3216,
+            "velocidadMedia": 39.641
+        },
+        {
+            "etapa": 6,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 167.5,
+            "desnivel": 4158,
+            "velocidadMedia": 35.115
+        },
+        {
+            "etapa": 7,
+            "nombre": "Dani Moreno",
+            "pais": "España",
+            "distancia": 124.5,
+            "desnivel": 2375,
+            "velocidadMedia": 41.589
+        }
+    ]
+}

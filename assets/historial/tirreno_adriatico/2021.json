@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2021,
+    "distancia": 1099.0,
+    "desnivel": 13695,
+    "tiempo": "26h 36' 17\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 159,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 4 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fabbro Matteo",
+            "pais": "Italia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 4 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 4 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 5 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "Team DSM",
+            "ventaja": "+ 5 min 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 6 min 30 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team BikeExchange",
+            "ventaja": "+ 7 min 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van Aert Wout",
+        "pais": "Bélgica",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana - Premier Tech",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 1032,
+            "velocidadMedia": 43.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 202.0,
+            "desnivel": 2372,
+            "velocidadMedia": 40.19
+        },
+        {
+            "etapa": 3,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 219.0,
+            "desnivel": 3001,
+            "velocidadMedia": 40.52
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 148.0,
+            "desnivel": 3023,
+            "velocidadMedia": 38.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 205.0,
+            "desnivel": 2639,
+            "velocidadMedia": 42.67
+        },
+        {
+            "etapa": 6,
+            "nombre": "Würtz Schmidt Mads",
+            "pais": "Dinamarca",
+            "distancia": 169.0,
+            "desnivel": 1628,
+            "velocidadMedia": 45.64
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.6807
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2019,
+    "distancia": 676.1,
+    "desnivel": 11744,
+    "tiempo": "20h 30' 42\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 129,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "Bahrain Merida",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hamilton Chris",
+            "pais": "Australia",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "EF Education First",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Guerreiro Ruben",
+            "pais": "Portugal",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Devenyns Dries",
+            "pais": "Bélgica",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bevin Patrick",
+        "pais": "Nueva Zelanda",
+        "equipo": "CCC Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Lea Jason",
+        "pais": "Australia",
+        "equipo": "UniSA-Australia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Hamilton Chris",
+        "pais": "Australia",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 129.1,
+            "desnivel": 1886,
+            "velocidadMedia": 38.77
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bevin Patrick",
+            "pais": "Nueva Zelanda",
+            "distancia": 122.1,
+            "desnivel": 1914,
+            "velocidadMedia": 37.66
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 146.2,
+            "desnivel": 3573,
+            "velocidadMedia": 38.8
+        },
+        {
+            "etapa": 4,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "distancia": 129.2,
+            "desnivel": 2592,
+            "velocidadMedia": 42.26
+        },
+        {
+            "etapa": 5,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 149.5,
+            "desnivel": 1779,
+            "velocidadMedia": 41.34
+        },
+        {
+            "etapa": 6,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.3352
+        }
+    ]
+}

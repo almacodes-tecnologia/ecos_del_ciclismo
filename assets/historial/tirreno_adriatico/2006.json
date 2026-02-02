@@ -1,0 +1,126 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2006,
+    "distancia": 942.0,
+    "desnivel": 0,
+    "tiempo": "27h 32' 14\"",
+    "ciclistasInscritos": 200,
+    "ciclistasFinalizados": 169,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kroon Karsten",
+            "pais": "Países Bajos",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 58 s"
+        },
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Team Milram"
+    },
+    "ganadorMontana": {
+        "nombre": "Rojas José Joaquín",
+        "pais": "España",
+        "equipo": "Liberty Seguros - Würth"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.254
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.167
+        },
+        {
+            "etapa": 3,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.067
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.907
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 20.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.452
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bertagnolli Leonardo",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.907
+        },
+        {
+            "etapa": 7,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.2364
+        }
+    ]
+}

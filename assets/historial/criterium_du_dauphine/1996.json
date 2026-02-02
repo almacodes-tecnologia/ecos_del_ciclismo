@@ -1,0 +1,162 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1996,
+    "distancia": 1202.8,
+    "desnivel": 0,
+    "tiempo": "30h 57' 49\"",
+    "ciclistasInscritos": 128,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Heulot Stéphane",
+            "pais": "Francia",
+            "equipo": "GAN",
+            "ventaja": "+ 4 min 49 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "equipo": "GAN",
+            "ventaja": "+ 5 min 49 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme-Artiach-Costa Blanca",
+            "ventaja": "+ 6 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Brochard Laurent",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 7 min 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Madouas Laurent",
+            "pais": "Francia",
+            "equipo": "Motorola",
+            "ventaja": "+ 8 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bölts Udo",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 10 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 11 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Induráin Miguel",
+        "pais": "España",
+        "equipo": "Banesto"
+    },
+    "ganadorMontana": {
+        "nombre": "Virenque Richard",
+        "pais": "Francia",
+        "equipo": "Festina - Lotus"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Festina - Lotus",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 5.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kasputis Artūras",
+            "pais": "Lituania",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Simon François",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bouvard Gilles",
+            "pais": "Francia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 42.1,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

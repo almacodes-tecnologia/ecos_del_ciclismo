@@ -1,0 +1,274 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1959,
+    "distancia": 4020.0,
+    "desnivel": 0,
+    "tiempo": "123h 46' 45\"",
+    "ciclistasInscritos": 120,
+    "ciclistasFinalizados": 65,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Anglade Henry",
+            "pais": "Francia",
+            "equipo": "Centre-Midi",
+            "ventaja": "+ 4 min 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 5 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rivière Roger",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 5 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "equipo": "France Ouest/Sud-ouest",
+            "ventaja": "+ 8 min 22 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Baldini Ercole",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 10 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Adriaensens Jan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 10 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hoevenaers Jos",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 11 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Saint Gérard",
+            "pais": "Francia",
+            "equipo": "France Ouest/Sud-ouest",
+            "ventaja": "+ 17 min 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Brankart Jean",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 20 min 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Darrigade André",
+        "pais": "Francia",
+        "equipo": "France"
+    },
+    "ganadorMontana": {
+        "nombre": "Bahamontes Federico",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.79
+        },
+        {
+            "etapa": 2,
+            "nombre": "Favero Vito",
+            "pais": "Italia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.46
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cazala Robert",
+            "pais": "Francia",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.09
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bruni Dino",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.45
+        },
+        {
+            "etapa": 5,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 286.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.27
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rivière Roger",
+            "pais": "Francia",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.56
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.39
+        },
+        {
+            "etapa": 8,
+            "nombre": "Dejouhannet Michel",
+            "pais": "Francia",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.12
+        },
+        {
+            "etapa": 9,
+            "nombre": "Queheille Marcel",
+            "pais": "Francia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.9
+        },
+        {
+            "etapa": 10,
+            "nombre": "Janssens Marcel",
+            "pais": "Bélgica",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.76
+        },
+        {
+            "etapa": 11,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.79
+        },
+        {
+            "etapa": 12,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.57
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.29
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.73
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 19.86
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bruni Dino",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.69
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.05
+        },
+        {
+            "etapa": 18,
+            "nombre": "Baldini Ercole",
+            "pais": "Italia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.11
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.33
+        },
+        {
+            "etapa": 20,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.4
+        },
+        {
+            "etapa": 21,
+            "nombre": "Rivière Roger",
+            "pais": "Francia",
+            "distancia": 69.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.55
+        },
+        {
+            "etapa": 22,
+            "nombre": "Groussard Joseph",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.1442
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2005,
+    "distancia": 638.9,
+    "desnivel": 0,
+    "tiempo": "15h 58' 02\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 130,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre-Caffita",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fertonani Marco",
+            "pais": "Italia",
+            "equipo": "Domina Vacanze",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Moos Alexandre",
+            "pais": "Suiza",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Atienza Daniel",
+            "pais": "España",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Garzelli Stefano",
+        "pais": "Italia",
+        "equipo": "Liquigas"
+    },
+    "ganadorMontana": {
+        "nombre": "Lobato Rubén",
+        "pais": "España",
+        "equipo": "Saunier Duval - Prodir"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Phonak Hearing Systems",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "distancia": 3.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.67
+        },
+        {
+            "etapa": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 166.9,
+            "desnivel": 0,
+            "velocidadMedia": 44.92
+        },
+        {
+            "etapa": 2,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 171.9,
+            "desnivel": 0,
+            "velocidadMedia": 40.1
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 146.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.93
+        },
+        {
+            "etapa": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 150.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.82
+        },
+        {
+            "etapa": 5,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.2887
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1938,
+    "distancia": 1683.4,
+    "desnivel": 0,
+    "tiempo": "48h 12' 16\"",
+    "ciclistasInscritos": 27,
+    "ciclistasFinalizados": 40,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mersch Arsène",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "+ 12 min 49 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Canavesi Severino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 16 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Buchwalder Werner",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 17 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 18 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zimmermann Robert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 20 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Del Cancia Cesare",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 20 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cecchi Ezio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 26 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hendrickx Albert",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 33 min 26 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Buchwalder Edgar",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 34 min 29 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Valetti Giovanni",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Mersch Arsène",
+            "pais": "Luxemburgo",
+            "distancia": 270.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Martin Hans",
+            "pais": "Suiza",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "distancia": 127.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "distancia": 198.1,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zimmermann Robert",
+            "pais": "Suiza",
+            "distancia": 186.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Demondt Frans",
+            "pais": "Bélgica",
+            "distancia": 183.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Neuens François",
+            "pais": "Luxemburgo",
+            "distancia": 219.1,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Perret Théo",
+            "pais": "Suiza",
+            "distancia": 272.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

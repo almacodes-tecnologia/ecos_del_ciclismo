@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1996,
+    "distancia": 757.2,
+    "desnivel": 18062,
+    "tiempo": "24h 45' 29\"",
+    "ciclistasInscritos": 114,
+    "ciclistasFinalizados": 79,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E.",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fincato Marco",
+            "pais": "Italia",
+            "equipo": "Roslotto-ZG Mobili",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gentili Massimiliano",
+            "pais": "Italia",
+            "equipo": "Cantina Tollo - CoBo ",
+            "ventaja": "+ 7 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "equipo": "Kelme-Artiach-Costa Blanca",
+            "ventaja": "+ 7 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hamburger Bo",
+            "pais": "Dinamarca",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "+ 7 min 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "García Marcelino",
+            "pais": "España",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 8 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pistore Roberto",
+            "pais": "Italia",
+            "equipo": "MG Maglificio - Technogym",
+            "ventaja": "+ 8 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Saligari Marco",
+            "pais": "Italia",
+            "equipo": "MG Maglificio - Technogym",
+            "ventaja": "+ 9 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Roslotto-ZG Mobili",
+            "ventaja": "+ 10 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Cubino Laudelino",
+        "pais": "España",
+        "equipo": "Kelme-Artiach-Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E.",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 8.2,
+            "desnivel": 0,
+            "velocidadMedia": 49.53
+        },
+        {
+            "etapa": 1,
+            "nombre": "Saligari Marco",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 5192,
+            "velocidadMedia": 37.83
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 147.1,
+            "desnivel": 1910,
+            "velocidadMedia": 41.34
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 13.5,
+            "desnivel": 901,
+            "velocidadMedia": 28.272
+        },
+        {
+            "etapa": 4,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "distancia": 190.0,
+            "desnivel": 6317,
+            "velocidadMedia": 35.124
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 188.0,
+            "desnivel": 3742,
+            "velocidadMedia": 35.948
+        },
+        {
+            "etapa": 6,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 20.4,
+            "desnivel": 0,
+            "velocidadMedia": 53.489
+        },
+        {
+            "etapa": 7,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.844
+        }
+    ]
+}

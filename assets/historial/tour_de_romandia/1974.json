@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1974,
+    "distancia": 890.6,
+    "desnivel": 0,
+    "tiempo": "23h 54' 16\"",
+    "ciclistasInscritos": 60,
+    "ciclistasFinalizados": 45,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 5 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "den Hertog Fedor",
+            "pais": "Países Bajos",
+            "equipo": "Frisol - Flair Plastics",
+            "ventaja": "+ 7 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 7 min 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 8 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Roosbroeck Gustaaf",
+            "pais": "Bélgica",
+            "equipo": "M.I.C. - Ludo - De Gribaldy",
+            "ventaja": "+ 9 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "equipo": "Willner - Birr-Brugg",
+            "ventaja": "+ 9 min 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martos Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 10 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 11 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bertoglio Fausto",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 13 min 43 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Roosbroeck Gustaaf",
+        "pais": "Bélgica",
+        "equipo": "M.I.C. - Ludo - De Gribaldy"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Sonolor - Gitane"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Gan - Mercier - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.4,
+            "desnivel": 0,
+            "velocidadMedia": 37.536
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.116
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.768
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.127
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.2,
+            "desnivel": 0,
+            "velocidadMedia": 33.255
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.266
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.158
+        }
+    ]
+}

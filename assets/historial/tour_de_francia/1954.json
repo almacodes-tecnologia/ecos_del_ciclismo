@@ -1,0 +1,290 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1954,
+    "distancia": 4675.0,
+    "desnivel": 0,
+    "tiempo": "140h 06' 05\"",
+    "ciclistasInscritos": 110,
+    "ciclistasFinalizados": 69,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 15 min 49 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 21 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dotto Jean",
+            "pais": "Francia",
+            "equipo": "Sud-Est",
+            "ventaja": "+ 28 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Malléjac Jean",
+            "pais": "Francia",
+            "equipo": "France Ouest",
+            "ventaja": "+ 31 min 38 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 36 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bergaud Louis",
+            "pais": "Francia",
+            "equipo": "France Sud-ouest",
+            "ventaja": "+ 37 min 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vitetta Vincent",
+            "pais": "Francia",
+            "equipo": "Sud-Est",
+            "ventaja": "+ 41 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brankart Jean",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 42 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "equipo": "Nord-est/Centre",
+            "ventaja": "+ 42 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kübler Ferdinand",
+        "pais": "Suiza",
+        "equipo": "Switzerland"
+    },
+    "ganadorMontana": {
+        "nombre": "Bahamontes Federico",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Switzerland",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.07
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 255.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.15
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dussault Marcel",
+            "pais": "Francia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.59
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.09
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.91
+        },
+        {
+            "etapa": 6,
+            "nombre": "Forlini Dominique",
+            "pais": "Francia",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.39
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vivier Jacques",
+            "pais": "Francia",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.03
+        },
+        {
+            "etapa": 8,
+            "nombre": "De Bruyne Alfred",
+            "pais": "Bélgica",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.69
+        },
+        {
+            "etapa": 9,
+            "nombre": "Faanhof Henk",
+            "pais": "Países Bajos",
+            "distancia": 343.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.11
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.84
+        },
+        {
+            "etapa": 11,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "distancia": 241.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.89
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.5
+        },
+        {
+            "etapa": 13,
+            "nombre": "De Bruyne Alfred",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.16
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.39
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.25
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.38
+        },
+        {
+            "etapa": 17,
+            "nombre": "Lazaridès Lucien",
+            "pais": "Francia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.05
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.01
+        },
+        {
+            "etapa": 19,
+            "nombre": "Dotto Jean",
+            "pais": "Francia",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.18
+        },
+        {
+            "etapa": 20,
+            "nombre": "Teisseire Lucien",
+            "pais": "Francia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.26
+        },
+        {
+            "etapa": 21,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.607
+        },
+        {
+            "etapa": 21,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 72.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.31
+        },
+        {
+            "etapa": 22,
+            "nombre": null,
+            "pais": null,
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.81
+        },
+        {
+            "etapa": 23,
+            "nombre": "Varnajo Robert",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.7733
+        }
+    ]
+}

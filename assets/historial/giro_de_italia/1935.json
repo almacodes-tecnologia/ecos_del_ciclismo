@@ -1,0 +1,254 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1935,
+    "distancia": 3577.0,
+    "desnivel": 0,
+    "tiempo": "113h 22' 46\"",
+    "ciclistasInscritos": 47,
+    "ciclistasFinalizados": 62,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bergamaschi Vasco",
+            "pais": "Italia",
+            "equipo": "Maino - Girardengo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martano Giuseppe",
+            "pais": "Italia",
+            "equipo": "Frejus",
+            "ventaja": "+ 3 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 6 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Guerra Learco",
+            "pais": "Italia",
+            "equipo": "Maino - Girardengo",
+            "ventaja": "+ 7 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "equipo": "Dei",
+            "ventaja": "+ 9 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bertoni Remo",
+            "pais": "Italia",
+            "equipo": "Legnano - Wolsit",
+            "ventaja": "+ 9 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Frejus",
+            "ventaja": "+ 15 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cecchi Ezio",
+            "pais": "Italia",
+            "equipo": "Gloria",
+            "ventaja": "+ 15 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Introzzi Augusto",
+            "pais": "Italia",
+            "equipo": "Gloria",
+            "ventaja": "+ 17 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Morelli Ambrogio Enrico",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 17 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": "Frejus"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Frejus",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bergamaschi Vasco",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.608
+        },
+        {
+            "etapa": 2,
+            "nombre": "Piemontesi Domenico",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.534
+        },
+        {
+            "etapa": 3,
+            "nombre": "Guerra Learco",
+            "pais": "Italia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.773
+        },
+        {
+            "etapa": 4,
+            "nombre": "Guerra Learco",
+            "pais": "Italia",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.078
+        },
+        {
+            "etapa": 5,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 35.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.047
+        },
+        {
+            "etapa": 5,
+            "nombre": "Folco Antonio",
+            "pais": "Italia",
+            "distancia": 136.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.792
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.933
+        },
+        {
+            "etapa": 7,
+            "nombre": "Guerra Learco",
+            "pais": "Italia",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.128
+        },
+        {
+            "etapa": 8,
+            "nombre": "Guerra Learco",
+            "pais": "Italia",
+            "distancia": 308.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.828
+        },
+        {
+            "etapa": 9,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 333.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.628
+        },
+        {
+            "etapa": 10,
+            "nombre": "Guerra Learco",
+            "pais": "Italia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.266
+        },
+        {
+            "etapa": 11,
+            "nombre": "Bergamaschi Vasco",
+            "pais": "Italia",
+            "distancia": 317.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.884
+        },
+        {
+            "etapa": 12,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.919
+        },
+        {
+            "etapa": 13,
+            "nombre": "Debenne René",
+            "pais": "Francia",
+            "distancia": 99.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.991
+        },
+        {
+            "etapa": 13,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "distancia": 55.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.95
+        },
+        {
+            "etapa": 14,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.328
+        },
+        {
+            "etapa": 15,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.474
+        },
+        {
+            "etapa": 16,
+            "nombre": "Olmo Giuseppe",
+            "pais": "Italia",
+            "distancia": 91.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.379
+        },
+        {
+            "etapa": 17,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.072
+        },
+        {
+            "etapa": 18,
+            "nombre": "Di Paco Raffaele",
+            "pais": "Italia",
+            "distancia": 290.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.335
+        }
+    ]
+}

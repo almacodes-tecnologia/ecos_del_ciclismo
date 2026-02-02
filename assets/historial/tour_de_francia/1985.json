@@ -1,0 +1,294 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1985,
+    "distancia": 3910.3,
+    "desnivel": 58802,
+    "tiempo": "113h 24' 23\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 144,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "La Vie Claire",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "La Redoute",
+            "ventaja": "+ 4 min 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Skil - Sem - Kas - Miko",
+            "ventaja": "+ 6 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "Panasonic - Raleigh",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Orbea - Gin MG",
+            "ventaja": "+ 11 min 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia - Varta - Mavic",
+            "ventaja": "+ 12 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia - Varta - Mavic",
+            "ventaja": "+ 13 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 13 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bauer Steve",
+            "pais": "Canadá",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 14 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Skil - Sem - Kas - Miko"
+    },
+    "ganadorMontana": {
+        "nombre": "Herrera Luis Alberto",
+        "pais": "Colombia",
+        "equipo": "Café de Colombia - Varta - Mavic"
+    },
+    "ganadorJovenes": {
+        "nombre": "Parra Fabio Enrique",
+        "pais": "Colombia",
+        "equipo": "Café de Colombia - Varta - Mavic"
+    },
+    "ganadorEquipos": {
+        "nombre": " La Vie Claire",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 6.8,
+            "desnivel": 128,
+            "velocidadMedia": 46.45
+        },
+        {
+            "etapa": 1,
+            "nombre": "Matthijs Rudy",
+            "pais": "Bélgica",
+            "distancia": 256.0,
+            "desnivel": 2500,
+            "velocidadMedia": 39.1
+        },
+        {
+            "etapa": 2,
+            "nombre": "Matthijs Rudy",
+            "pais": "Bélgica",
+            "distancia": 242.0,
+            "desnivel": 2752,
+            "velocidadMedia": 37.29
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 75.0,
+            "desnivel": 902,
+            "velocidadMedia": 49.92
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 239.5,
+            "desnivel": 3047,
+            "velocidadMedia": 36.68
+        },
+        {
+            "etapa": 5,
+            "nombre": "Manders Henri",
+            "pais": "Países Bajos",
+            "distancia": 224.0,
+            "desnivel": 1898,
+            "velocidadMedia": 34.69
+        },
+        {
+            "etapa": 6,
+            "nombre": "Castaing Francis",
+            "pais": "Francia",
+            "distancia": 221.5,
+            "desnivel": 2354,
+            "velocidadMedia": 34.11
+        },
+        {
+            "etapa": 7,
+            "nombre": "Wynants Ludwig",
+            "pais": "Bélgica",
+            "distancia": 217.0,
+            "desnivel": 2341,
+            "velocidadMedia": 36.66
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 75.0,
+            "desnivel": 1191,
+            "velocidadMedia": 47.41
+        },
+        {
+            "etapa": 9,
+            "nombre": "Ducrot Maarten",
+            "pais": "Países Bajos",
+            "distancia": 173.5,
+            "desnivel": 2890,
+            "velocidadMedia": 41.04
+        },
+        {
+            "etapa": 10,
+            "nombre": "Pedersen Jørgen Vagn",
+            "pais": "Dinamarca",
+            "distancia": 204.5,
+            "desnivel": 3000,
+            "velocidadMedia": 40.04
+        },
+        {
+            "etapa": 11,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "distancia": 195.0,
+            "desnivel": 3500,
+            "velocidadMedia": 36.67
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 269.0,
+            "desnivel": 6000,
+            "velocidadMedia": 31.93
+        },
+        {
+            "etapa": 13,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 31.8,
+            "desnivel": 746,
+            "velocidadMedia": 46.46
+        },
+        {
+            "etapa": 14,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "distancia": 179.0,
+            "desnivel": 3000,
+            "velocidadMedia": 36.22
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 237.5,
+            "desnivel": 4000,
+            "velocidadMedia": 33.24
+        },
+        {
+            "etapa": 16,
+            "nombre": "Vichot Frédéric",
+            "pais": "Francia",
+            "distancia": 247.0,
+            "desnivel": 3500,
+            "velocidadMedia": 37.82
+        },
+        {
+            "etapa": 17,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 209.5,
+            "desnivel": 5000,
+            "velocidadMedia": 30.12
+        },
+        {
+            "etapa": 18,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "distancia": 52.5,
+            "desnivel": 2412,
+            "velocidadMedia": 31.72
+        },
+        {
+            "etapa": 18,
+            "nombre": "Simon Régis",
+            "pais": "Francia",
+            "distancia": 83.5,
+            "desnivel": 2000,
+            "velocidadMedia": 35.06
+        },
+        {
+            "etapa": 19,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 200.0,
+            "desnivel": 1637,
+            "velocidadMedia": 35.07
+        },
+        {
+            "etapa": 20,
+            "nombre": "Lammerts Johan",
+            "pais": "Países Bajos",
+            "distancia": 225.0,
+            "desnivel": 3000,
+            "velocidadMedia": 38.23
+        },
+        {
+            "etapa": 21,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "distancia": 45.7,
+            "desnivel": 1004,
+            "velocidadMedia": 43.63
+        },
+        {
+            "etapa": 22,
+            "nombre": "Matthijs Rudy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.3922
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2013,
+    "distancia": 872.3,
+    "desnivel": 5146,
+    "tiempo": "25h 14' 05\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 111,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Argos - Shimano",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Grivko Andrey",
+            "pais": "Ucrania",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bakelants Jan",
+            "pais": "Bélgica",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Iglinskiy Maxim",
+            "pais": "Kazajistán",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Monfort Maxime",
+            "pais": "Bélgica",
+            "equipo": "RadioShack - Leopard",
+            "ventaja": "+ 2 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Boom Lars",
+        "pais": "Países Bajos",
+        "equipo": "Belkin-Pro Cycling Team"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " RadioShack - Leopard",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Renshaw Mark",
+            "pais": "Australia",
+            "distancia": 175.3,
+            "desnivel": 533,
+            "velocidadMedia": 43.6
+        },
+        {
+            "etapa": 2,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 176.9,
+            "desnivel": 1510,
+            "velocidadMedia": 43.58
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 187.3,
+            "desnivel": 217,
+            "velocidadMedia": 44.24
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 169.6,
+            "desnivel": 265,
+            "velocidadMedia": 44.71
+        },
+        {
+            "etapa": 5,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "distancia": 13.2,
+            "desnivel": 147,
+            "velocidadMedia": 49.29
+        },
+        {
+            "etapa": 6,
+            "nombre": "López David",
+            "pais": "España",
+            "distancia": 150.0,
+            "desnivel": 2474,
+            "velocidadMedia": 38.92
+        },
+        {
+            "etapa": 7,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.7978
+        }
+    ]
+}

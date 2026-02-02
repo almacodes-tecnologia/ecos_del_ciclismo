@@ -1,0 +1,243 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1939,
+    "distancia": 2832.2,
+    "desnivel": 0,
+    "tiempo": "88h 02' 00\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vicini Mario",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 5 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Canavesi Severino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 7 min 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Simonini Settimo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 16 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Crippa Salvatore",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 17 min 52 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cottur Giordano",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 18 min 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Del Cancia Cesare",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 24 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cinelli Cino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 26 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rogora Bernardo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 27 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": "Legnano"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bergamaschi Vasco",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.762
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 226.7,
+            "desnivel": 0,
+            "velocidadMedia": 34.965
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cinelli Cino",
+            "pais": "Italia",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.809
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saponetti Carmine",
+            "pais": "Italia",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.322
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bizzi Olimpio",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.045
+        },
+        {
+            "etapa": 6,
+            "nombre": "Saponetti Carmine",
+            "pais": "Italia",
+            "distancia": 85.7,
+            "desnivel": 0,
+            "velocidadMedia": 38.945
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 14.029,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 191.3,
+            "desnivel": 0,
+            "velocidadMedia": 36.69
+        },
+        {
+            "etapa": 8,
+            "nombre": "Marabelli Diego",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.432
+        },
+        {
+            "etapa": 9,
+            "nombre": "Servadei Glauco",
+            "pais": "Italia",
+            "distancia": 116.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.815
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 106.6,
+            "desnivel": 0,
+            "velocidadMedia": 34.48
+        },
+        {
+            "etapa": 10,
+            "nombre": "Bizzi Olimpio",
+            "pais": "Italia",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.326
+        },
+        {
+            "etapa": 11,
+            "nombre": "Chiappini Piero",
+            "pais": "Italia",
+            "distancia": 231.8,
+            "desnivel": 0,
+            "velocidadMedia": 34.611
+        },
+        {
+            "etapa": 12,
+            "nombre": "Cottur Giordano",
+            "pais": "Italia",
+            "distancia": 173.8,
+            "desnivel": 0,
+            "velocidadMedia": 35.886
+        },
+        {
+            "etapa": 13,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "distancia": 39.8,
+            "desnivel": 0,
+            "velocidadMedia": 42.491
+        },
+        {
+            "etapa": 14,
+            "nombre": "Magni Secondo",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.246
+        },
+        {
+            "etapa": 15,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.24
+        },
+        {
+            "etapa": 16,
+            "nombre": "Valetti Giovanni",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.391
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.0811
+        }
+    ]
+}

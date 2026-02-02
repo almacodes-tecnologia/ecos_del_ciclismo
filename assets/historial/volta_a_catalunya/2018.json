@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2018,
+    "distancia": 981.8,
+    "desnivel": 17938,
+    "tiempo": "28h 25' 07\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 114,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Latour Pierre",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "Team EF Education First - Drapac p/b Cannondale",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hansen Jesper",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 34 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Latour Pierre",
+        "pais": "Francia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hodeg Álvaro José",
+            "pais": "Colombia",
+            "distancia": 152.3,
+            "desnivel": 2612,
+            "velocidadMedia": 41.63
+        },
+        {
+            "etapa": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 175.6,
+            "desnivel": 3221,
+            "velocidadMedia": 37.38
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 153.2,
+            "desnivel": 2782,
+            "velocidadMedia": 36.22
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 170.8,
+            "desnivel": 4173,
+            "velocidadMedia": 38.54
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pantano Jarlinson",
+            "pais": "Colombia",
+            "distancia": 212.9,
+            "desnivel": 3681,
+            "velocidadMedia": 39.81
+        },
+        {
+            "etapa": 6,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "distancia": 117.0,
+            "desnivel": 1469,
+            "velocidadMedia": 45.46
+        },
+        {
+            "etapa": 7,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.984
+        }
+    ]
+}

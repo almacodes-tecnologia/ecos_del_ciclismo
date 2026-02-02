@@ -1,0 +1,175 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1969,
+    "distancia": 1176.0,
+    "desnivel": 0,
+    "tiempo": "31h 56' 57\"",
+    "ciclistasInscritos": 112,
+    "ciclistasFinalizados": 87,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Faema",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 4 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Bic",
+            "ventaja": "+ 4 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bellone Gilbert",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 4 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wolfshohl Rolf",
+            "pais": "Alemania",
+            "equipo": "Bic",
+            "ventaja": "+ 5 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pingeon Roger",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vasseur Alain",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 6 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Basso Marino",
+        "pais": "Italia",
+        "equipo": "Molteni"
+    },
+    "ganadorMontana": {
+        "nombre": "Bellone Gilbert",
+        "pais": "Francia",
+        "equipo": "Bic"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Duyndam Leo",
+            "pais": "Países Bajos",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Leman Eric",
+            "pais": "Bélgica",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 6.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zandegù Dino",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 207.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "van der Vleuten Jos",
+            "pais": "Países Bajos",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

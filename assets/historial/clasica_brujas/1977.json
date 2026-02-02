@@ -1,0 +1,134 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 1977,
+    "distancia": 678.9,
+    "desnivel": 0,
+    "tiempo": "16h 54' 13\"",
+    "ciclistasInscritos": 95,
+    "ciclistasFinalizados": 50,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rosiers Roger",
+            "pais": "Bélgica",
+            "equipo": "Frisol - Gazelle - Thirion",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bertin Yvon",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Sweevelt Guido",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Colnago",
+            "ventaja": "+ 4 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Baert Dirk",
+            "pais": "Bélgica",
+            "equipo": "Carlos - Gipiemme ",
+            "ventaja": "+ 5 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Priem Cees",
+            "pais": "Países Bajos",
+            "equipo": "Frisol - Gazelle - Thirion",
+            "ventaja": "+ 5 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Colnago",
+            "ventaja": "+ 5 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Teirlinck Willy",
+            "pais": "Bélgica",
+            "equipo": "Gitane - Campagnolo",
+            "ventaja": "+ 6 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Van Looy Frans",
+            "pais": "Bélgica",
+            "equipo": "Maes Pils - Mini-Flat",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Colnago",
+            "ventaja": "+ 6 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Schipper Adri Jos",
+            "pais": "Países Bajos",
+            "equipo": "Ebo - Superia ",
+            "ventaja": "+ 8 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Priem Cees",
+        "pais": "Países Bajos",
+        "equipo": "Frisol - Gazelle - Thirion"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Ijsboerke - Colnago",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 8.9,
+            "desnivel": 0,
+            "velocidadMedia": 46.98
+        },
+        {
+            "etapa": 2,
+            "nombre": "Schipper Adri Jos",
+            "pais": "Países Bajos",
+            "distancia": 252.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 262.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Peeters Willem",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Baert Dirk",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.3477
+        }
+    ]
+}

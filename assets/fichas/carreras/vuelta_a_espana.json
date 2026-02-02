@@ -1,0 +1,69 @@
+{
+  "id": "vuelta_a_espana",
+  "nombre": "Vuelta a España",
+  "pais": "España",
+  "categoria": "World Tour",
+  "tipo": "Gran Vuelta",
+  "descripcion": "La Vuelta a España es una de las tres grandes vueltas del ciclismo, celebrada anualmente en agosto y septiembre. Conocida por sus puertos de montaña exigentes y finales en alto, ofrece un desafío único para los escaladores.",
+  "anio_inicio": 1935,
+  "edicionesDisponibles": [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010,
+    2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990,
+    1989, 1988, 1987, 1986, 1985, 1984, 1983, 1982, 1981, 1980, 1979, 1978, 1977, 1976, 1975, 1974, 1973, 1972, 1971, 1970,
+    1969, 1968, 1967, 1966, 1965, 1964, 1963, 1962, 1961, 1960, 1959, 1958, 1957, 1956, 1955, 1950, 1948, 1947, 1946,
+    1945, 1942, 1941, 1936, 1935],
+  "imagenes": ["assets/imagenes/vuelta.webp"],
+  "records": {
+    "mas_victorias_generales": {
+      "valor": "4",
+      "descripcion": "Roberto Heras y Primož Roglič comparten el récord de más victorias generales, con cuatro cada uno."
+    },
+    "mas_victorias_generales_consecutivas": {
+      "valor": "3",
+      "descripcion": "Tony Rominger (1992-1994), Roberto Heras (2003-2005) y Primož Roglič (2019-2021) han ganado la Vuelta tres veces consecutivas."
+    },
+    "mas_podios": {
+      "valor": "7",
+      "descripcion": "Alejandro Valverde ostenta el récord de más podios en la historia de la Vuelta, con 7 (un primer puesto, tres segundos y tres terceros)."
+    },
+    "mas_participaciones": {
+      "valor": "17",
+      "descripcion": "Íñigo Cuesta ha participado en la Vuelta a España en 17 ocasiones (1994-2010)."
+    },
+    "mas_vueltas_terminadas": {
+      "valor": "15",
+      "descripcion": "Imanol Erviti ha terminado la Vuelta 15 veces."
+    },
+    "mas_victorias_etapa": {
+      "valor": "39",
+      "descripcion": "Delio Rodríguez es el ciclista con más victorias de etapa en la historia de la Vuelta."
+    },
+    "mas_victorias_etapa_una_edicion": {
+      "valor": "13",
+      "descripcion": "Freddy Maertens ganó 13 etapas en la Vuelta a España de 1977."
+    },
+    "mas_victorias_etapa_contrarreloj": {
+      "valor": "6",
+      "descripcion": "Melchor Mauri, Tony Rominger, Alex Zülle y Abraham Olano comparten el récord de 6 victorias de etapa contrarreloj."
+    },
+    "mas_dias_maillot_rojo": {
+      "valor": "48 días",
+      "descripcion": "Alex Zülle es el ciclista con más días como líder de la clasificación general."
+    },
+    "mas_victorias_clasificacion_montana": {
+      "valor": "5",
+      "descripcion": "José Luis Laguía es el ciclista que ha ganado más veces la clasificación de la montaña."
+    },
+    "mas_victorias_clasificacion_puntos": {
+      "valor": "4",
+      "descripcion": "Sean Kelly, Laurent Jalabert y Alejandro Valverde han ganado la clasificación por puntos en cuatro ocasiones."
+    },
+    "ganador_mas_joven": {
+      "valor": "21 años",
+      "descripcion": "Angelino Soler es el ganador más joven de la Vuelta a España, con 21 años y 168 días (en 1961)."
+    },
+    "ganador_mas_veterano": {
+      "valor": "41 años",
+      "descripcion": "Chris Horner es el ganador más veterano de la Vuelta a España, con 41 años y 328 días (en 2013)."
+    }
+  }
+}

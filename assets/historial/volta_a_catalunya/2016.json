@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2016,
+    "distancia": 1083.2,
+    "desnivel": 17801,
+    "tiempo": "30h 50' 19\"",
+    "ciclistasInscritos": 191,
+    "ciclistasFinalizados": 126,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Carthy Hugh",
+            "pais": "Reino Unido",
+            "equipo": "Caja Rural - Seguros RGA",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Cannondale Pro Cycling Team",
+            "ventaja": "+ 1 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Carthy Hugh",
+        "pais": "Reino Unido",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorEquipos": {
+        "nombre": " BMC Racing Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 175.8,
+            "desnivel": 2644,
+            "velocidadMedia": 39.23
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 178.7,
+            "desnivel": 2163,
+            "velocidadMedia": 38.41
+        },
+        {
+            "etapa": 3,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 172.1,
+            "desnivel": 3947,
+            "velocidadMedia": 34.37
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 172.2,
+            "desnivel": 4644,
+            "velocidadMedia": 35.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 187.2,
+            "desnivel": 2280,
+            "velocidadMedia": 46.99
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cimolai Davide",
+            "pais": "Italia",
+            "distancia": 197.2,
+            "desnivel": 2123,
+            "velocidadMedia": 42.99
+        },
+        {
+            "etapa": 7,
+            "nombre": "Tsatevich Alexey",
+            "pais": "Rusia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5457
+        }
+    ]
+}

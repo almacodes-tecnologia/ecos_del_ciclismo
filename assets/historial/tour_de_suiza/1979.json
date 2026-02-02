@@ -1,0 +1,194 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1979,
+    "distancia": 1622.0,
+    "desnivel": 0,
+    "tiempo": "42h 56' 59\"",
+    "ciclistasInscritos": 12,
+    "ciclistasFinalizados": 66,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wesemael Wilfried",
+            "pais": "Bélgica",
+            "equipo": "TI - Raleigh",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pevenage Rudy",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Warncke",
+            "ventaja": "+ 4 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mazzantini Leonardo",
+            "pais": "Italia",
+            "equipo": "Zonca - Santini ",
+            "ventaja": "+ 5 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 6 min 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vanotti Ennio",
+            "pais": "Italia",
+            "equipo": "Zonca - Santini ",
+            "ventaja": "+ 6 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sutter Ueli",
+            "pais": "Suiza",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 7 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pozo Sebastián",
+            "pais": "España",
+            "equipo": "Transmallorca - Flavia - Gios",
+            "ventaja": "+ 7 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 8 min 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "+ 10 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 14 min 29 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Wesemael Wilfried",
+        "pais": "Bélgica",
+        "equipo": "TI - Raleigh"
+    },
+    "ganadorMontana": {
+        "nombre": "Battaglin Giovanni",
+        "pais": "Italia",
+        "equipo": "Inoxpran"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " TI - Raleigh",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.98
+        },
+        {
+            "etapa": 1,
+            "nombre": "Jacobs Jos",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.62
+        },
+        {
+            "etapa": 2,
+            "nombre": "Savary René",
+            "pais": "Suiza",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.79
+        },
+        {
+            "etapa": 3,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 20.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.5
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jacobs Jos",
+            "pais": "Bélgica",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vanotti Ennio",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.25
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.27
+        },
+        {
+            "etapa": 6,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 254.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.79
+        },
+        {
+            "etapa": 7,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.61
+        },
+        {
+            "etapa": 8,
+            "nombre": "Dierickx André",
+            "pais": "Bélgica",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.35
+        },
+        {
+            "etapa": 9,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.22
+        },
+        {
+            "etapa": 9,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 20.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.71
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1979,
+    "distancia": 833.4,
+    "desnivel": 0,
+    "tiempo": "21h 49' 26\"",
+    "ciclistasInscritos": 25,
+    "ciclistasFinalizados": 20,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Magniflex - Famcucine",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mutter Stefan",
+            "pais": "Suiza",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nilsson Sven-Åke",
+            "pais": "Suecia",
+            "equipo": "Miko - Mercier",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Contini Silvano",
+            "pais": "Italia",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso",
+            "ventaja": "+ 2 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Bianchi - Faema",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "equipo": "Kas",
+            "ventaja": "+ 3 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "distancia": 1.25,
+            "desnivel": 0,
+            "velocidadMedia": 40.909
+        },
+        {
+            "etapa": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.232
+        },
+        {
+            "etapa": 2,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.539
+        },
+        {
+            "etapa": 3,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 163.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.153
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 183.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.946
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Witte Ronald",
+            "pais": "Bélgica",
+            "distancia": 127.3,
+            "desnivel": 0,
+            "velocidadMedia": 45.325
+        },
+        {
+            "etapa": 5,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 59.2803
+        }
+    ]
+}

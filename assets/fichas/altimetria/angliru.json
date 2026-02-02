@@ -1,0 +1,33 @@
+{
+  "id": "angliru",
+  "nombre": "Alto de l'Angliru",
+  "pais": "España",
+  "longitud_km": 12.5,
+  "desnivel_m": 1255,
+  "altura_maxima_m": 1570,
+  "pendiente_media_porcentaje": 10.1,
+  "pendiente_maxima_porcentaje": 23.6,
+  "descripcion": "El Angliru es uno de los puertos más duros de Europa...",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 315},
+    {"kilometro": 1, "altitud": 380},
+    {"kilometro": 2, "altitud": 460},
+    {"kilometro": 3, "altitud": 545},
+    {"kilometro": 4, "altitud": 640},
+    {"kilometro": 5, "altitud": 745},
+    {"kilometro": 6, "altitud": 850},
+    {"kilometro": 7, "altitud": 990},
+    {"kilometro": 8, "altitud": 1100},
+    {"kilometro": 9, "altitud": 1240},
+    {"kilometro": 10, "altitud": 1370},
+    {"kilometro": 11, "altitud": 1500},
+    {"kilometro": 12.5, "altitud": 1570}
+  ],
+  "puntos_clave": [
+    {"kilometro": 7.05, "pendiente_porcentaje": 20, "nombre": "Les Cabanes"},
+    {"kilometro": 9.5, "pendiente_porcentaje": 18.0, "nombre": "Les Picones"},
+    {"kilometro": 10.2, "pendiente_porcentaje": 17, "nombre": "Cobayos"},
+    {"kilometro": 10.8, "pendiente_porcentaje": 23.6, "nombre": "Cueña les Cabres"},
+    {"kilometro": 11.5, "pendiente_porcentaje": 20, "nombre": "El Aviru"}
+  ]
+}

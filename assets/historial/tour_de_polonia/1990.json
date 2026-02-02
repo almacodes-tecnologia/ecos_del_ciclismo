@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1990,
+    "distancia": 1207.0,
+    "desnivel": 0,
+    "tiempo": "29h 38' 47\"",
+    "ciclistasInscritos": 74,
+    "ciclistasFinalizados": 63,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Karłowicz Mieczysław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ishchenko Grigory",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Brożyna Tomasz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Korab Piotr",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Piątek Zbigniew",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Krasiński Artur",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Taran Valentin",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wolański Adam",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bilewski Mariusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 6 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Frejowski Sławomir",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Karłowicz Mieczysław",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Korab Piotr",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Szafron Adam",
+            "pais": "Polonia",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.023
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ishchenko Grigory",
+            "pais": "Rusia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.812
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.314
+        },
+        {
+            "etapa": 4,
+            "nombre": "Maćkowski Andrzej",
+            "pais": "Polonia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.976
+        },
+        {
+            "etapa": 5,
+            "nombre": "Brożyna Tomasz",
+            "pais": "Polonia",
+            "distancia": 10.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.483
+        },
+        {
+            "etapa": 5,
+            "nombre": "Długosz Robert",
+            "pais": "Polonia",
+            "distancia": 88.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.892
+        },
+        {
+            "etapa": 6,
+            "nombre": "Leśniewski Jan",
+            "pais": "Polonia",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.47
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.465
+        },
+        {
+            "etapa": 8,
+            "nombre": "Matusiak Ireneusz",
+            "pais": "Polonia",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.85
+        },
+        {
+            "etapa": 9,
+            "nombre": "Barszcz Andrzej",
+            "pais": "Polonia",
+            "distancia": 30.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.702
+        }
+    ]
+}

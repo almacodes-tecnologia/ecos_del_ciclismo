@@ -1,0 +1,274 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1997,
+    "distancia": 3901.0,
+    "desnivel": 127,
+    "tiempo": "102h 53' 58\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 110,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gotti Ivan",
+            "pais": "Italia",
+            "equipo": "Saeco - Estro",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 7 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Miceli Nicola",
+            "pais": "Italia",
+            "equipo": "AKI - Safi",
+            "ventaja": "+ 12 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "equipo": "AKI - Safi",
+            "ventaja": "+ 12 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Brescialat - Oyster",
+            "ventaja": "+ 12 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Di Grande Giuseppe",
+            "pais": "Italia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 12 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Serrano Marcos Antonio",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 16 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno",
+            "ventaja": "+ 18 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 18 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cipollini Mario",
+        "pais": "Italia",
+        "equipo": "Saeco - Estro"
+    },
+    "ganadorMontana": {
+        "nombre": "González José Jaime",
+        "pais": "Colombia",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme - Costa Blanca",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 128.0,
+            "desnivel": 127,
+            "velocidadMedia": 48.521
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.867
+        },
+        {
+            "etapa": 3,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "distancia": 18.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.07
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.33
+        },
+        {
+            "etapa": 5,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.403
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sgambelluri Roberto",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.652
+        },
+        {
+            "etapa": 7,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.92
+        },
+        {
+            "etapa": 8,
+            "nombre": "Manzoni Mario",
+            "pais": "Italia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.73
+        },
+        {
+            "etapa": 9,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.19
+        },
+        {
+            "etapa": 10,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.57
+        },
+        {
+            "etapa": 11,
+            "nombre": "Missaglia Gabriele",
+            "pais": "Italia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.976
+        },
+        {
+            "etapa": 12,
+            "nombre": "Di Grande Giuseppe",
+            "pais": "Italia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.978
+        },
+        {
+            "etapa": 13,
+            "nombre": "Magnusson Glenn",
+            "pais": "Suecia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.89
+        },
+        {
+            "etapa": 14,
+            "nombre": "Gotti Ivan",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.761
+        },
+        {
+            "etapa": 15,
+            "nombre": "Baronti Alessandro",
+            "pais": "Italia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.532
+        },
+        {
+            "etapa": 16,
+            "nombre": "Fontanelli Fabiano",
+            "pais": "Italia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.341
+        },
+        {
+            "etapa": 17,
+            "nombre": "Gualdi Mirko",
+            "pais": "Italia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.829
+        },
+        {
+            "etapa": 18,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "distancia": 40.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.74
+        },
+        {
+            "etapa": 19,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.712
+        },
+        {
+            "etapa": 20,
+            "nombre": "González José Jaime",
+            "pais": "Colombia",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.046
+        },
+        {
+            "etapa": 21,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.934
+        },
+        {
+            "etapa": 22,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.4
+        }
+    ]
+}

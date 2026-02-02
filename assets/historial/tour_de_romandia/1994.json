@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1994,
+    "distancia": 819.2,
+    "desnivel": 0,
+    "tiempo": "22h 21' 37\"",
+    "ciclistasInscritos": 62,
+    "ciclistasFinalizados": 52,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Richard Pascal",
+            "pais": "Suiza",
+            "equipo": "GB-MG Maglificio - Bianchi",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "de Las Cuevas Armand",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Giovannetti Marco",
+            "pais": "Italia",
+            "equipo": "Mapei - Clas ",
+            "ventaja": "+ 3 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Saligari Marco",
+            "pais": "Italia",
+            "equipo": "GB-MG Maglificio - Bianchi",
+            "ventaja": "+ 3 min 53 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "GB-MG Maglificio - Bianchi",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Della Santa Stefano",
+            "pais": "Italia",
+            "equipo": "Mapei - Clas ",
+            "ventaja": "+ 5 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Lampre-Panaria  ",
+            "ventaja": "+ 5 min 45 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Faresin Gianni",
+            "pais": "Italia",
+            "equipo": "Lampre-Panaria  ",
+            "ventaja": "+ 6 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gotti Ivan",
+            "pais": "Italia",
+            "equipo": "Polti - Vaporetto",
+            "ventaja": "+ 6 min 29 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 5.8,
+            "desnivel": 0,
+            "velocidadMedia": 50.8
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 181.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 160.1,
+            "desnivel": 0,
+            "velocidadMedia": 37.51
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 101.1,
+            "desnivel": 0,
+            "velocidadMedia": 40.12
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 24.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.84
+        },
+        {
+            "etapa": 6,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 175.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1975,
+    "distancia": 1186.7,
+    "desnivel": 0,
+    "tiempo": "34h 18' 01\"",
+    "ciclistasInscritos": 56,
+    "ciclistasFinalizados": 50,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bertoglio Fausto",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "equipo": "Miko - De Gribaldy ",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martins José Freitas",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 2 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Conti Tino",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Menéndez Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Perurena Domingo",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Jolly Ceramica",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 2.3,
+            "desnivel": 0,
+            "velocidadMedia": 41.608
+        },
+        {
+            "etapa": 1,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 70.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.348
+        },
+        {
+            "etapa": 1,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 114.9,
+            "desnivel": 0,
+            "velocidadMedia": 35.76
+        },
+        {
+            "etapa": 2,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 157.8,
+            "desnivel": 0,
+            "velocidadMedia": 34.628
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.516
+        },
+        {
+            "etapa": 4,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 156.1,
+            "desnivel": 0,
+            "velocidadMedia": 35.565
+        },
+        {
+            "etapa": 5,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 198.3,
+            "desnivel": 0,
+            "velocidadMedia": 34.43
+        },
+        {
+            "etapa": 6,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 174.3,
+            "desnivel": 0,
+            "velocidadMedia": 35.455
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.106
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bertoglio Fausto",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.871
+        }
+    ]
+}

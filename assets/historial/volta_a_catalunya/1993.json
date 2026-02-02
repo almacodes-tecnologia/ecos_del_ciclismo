@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1993,
+    "distancia": 899.9,
+    "desnivel": 17570,
+    "tiempo": "23h 48' 26\"",
+    "ciclistasInscritos": 103,
+    "ciclistasFinalizados": 85,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mejia Alvaro",
+            "pais": "Colombia",
+            "equipo": "Motorola",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "equipo": "Lampre-Polti",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martín Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "equipo": "Amaya - Seguros",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Montoya Jesús",
+            "pais": "España",
+            "equipo": "Amaya - Seguros",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "Amaya - Seguros",
+            "ventaja": "+ 3 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Maier Harald",
+            "pais": "Austria",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 3 min 43 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E. - Look - Mavic"
+    },
+    "ganadorMontana": {
+        "nombre": "Cadena Julio César",
+        "pais": "Colombia",
+        "equipo": "Kelme"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Amaya - Seguros",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "distancia": 6.8,
+            "desnivel": 0,
+            "velocidadMedia": 51.0
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 3683,
+            "velocidadMedia": 36.718
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 180.0,
+            "desnivel": 2325,
+            "velocidadMedia": 37.622
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 148.0,
+            "desnivel": 1806,
+            "velocidadMedia": 40.956
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 164.2,
+            "desnivel": 4208,
+            "velocidadMedia": 36.864
+        },
+        {
+            "etapa": 5,
+            "nombre": "Martín Antonio",
+            "pais": "España",
+            "distancia": 201.0,
+            "desnivel": 5049,
+            "velocidadMedia": 36.621
+        },
+        {
+            "etapa": 6,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "distancia": 18.9,
+            "desnivel": 499,
+            "velocidadMedia": 47.68
+        }
+    ]
+}

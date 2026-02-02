@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2023,
+    "distancia": 672.7,
+    "desnivel": 8857,
+    "tiempo": "16h 07' 41\"",
+    "ciclistasInscritos": 139,
+    "ciclistasFinalizados": 121,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sheffield Magnus",
+            "pais": "Estados Unidos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schmid Mauro",
+            "pais": "Suiza",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bystrøm Sven Erik",
+            "pais": "Noruega",
+            "equipo": "Intermarché - Circus - Wanty",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Coquard Bryan",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Matthews Michael",
+        "pais": "Australia",
+        "equipo": "Team Jayco AlUla"
+    },
+    "ganadorMontana": {
+        "nombre": "Honoré Mikkel Frølich",
+        "pais": "Dinamarca",
+        "equipo": "EF Education - EasyPost"
+    },
+    "ganadorJovenes": {
+        "nombre": "Sheffield Magnus",
+        "pais": "Estados Unidos",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Bettiol Alberto",
+            "pais": "Italia",
+            "distancia": 5.5,
+            "desnivel": 39,
+            "velocidadMedia": 52.243
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bauhaus Phil",
+            "pais": "Alemania",
+            "distancia": 149.9,
+            "desnivel": 1715,
+            "velocidadMedia": 41.336
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 154.8,
+            "desnivel": 1945,
+            "velocidadMedia": 38.593
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "distancia": 116.8,
+            "desnivel": 1831,
+            "velocidadMedia": 41.673
+        },
+        {
+            "etapa": 4,
+            "nombre": "Coquard Bryan",
+            "pais": "Francia",
+            "distancia": 133.2,
+            "desnivel": 1103,
+            "velocidadMedia": 46.015
+        },
+        {
+            "etapa": 5,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 112.5,
+            "desnivel": 2224,
+            "velocidadMedia": 41.856
+        }
+    ]
+}

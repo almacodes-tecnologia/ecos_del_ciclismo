@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1992,
+    "distancia": 694.4,
+    "desnivel": 0,
+    "tiempo": "22h 50' 33\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 30,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "R.M.O.",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "de Las Cuevas Armand",
+            "pais": "Francia",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lelli Massimiliano",
+            "pais": "Italia",
+            "equipo": "Ariostea",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Leclercq Jean-Claude",
+            "pais": "Francia",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 2 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "equipo": "GB-MG Maglificio",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Caritoux Éric",
+            "pais": "Francia",
+            "equipo": "R.M.O.",
+            "ventaja": "+ 3 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "de Las Cuevas Armand",
+            "pais": "Francia",
+            "distancia": 2.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Svorada Ján",
+            "pais": "Eslovaquia",
+            "distancia": 178.4,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bortolami Gianluca",
+            "pais": "Italia",
+            "distancia": 185.2,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "distancia": 182.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kindberg Hans",
+            "pais": "Suecia",
+            "distancia": 124.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.79
+        },
+        {
+            "etapa": 5,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 21.8,
+            "desnivel": 0,
+            "velocidadMedia": 47.08
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sciandri Maximilian",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

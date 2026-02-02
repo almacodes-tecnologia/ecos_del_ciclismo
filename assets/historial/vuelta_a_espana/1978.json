@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1978,
+    "distancia": 2990.4,
+    "desnivel": 0,
+    "tiempo": "85h 24' 14\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 64,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane - Campagnolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 3 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bernaudeau Jean-René",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane - Campagnolo",
+            "ventaja": "+ 3 min 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "García Eulalio",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schipper Adri Jos",
+            "pais": "Países Bajos",
+            "equipo": "Marc Zeepcentrale - Superia - IWC",
+            "ventaja": "+ 4 min 28 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Den Haute Ferdi",
+            "pais": "Bélgica",
+            "equipo": "Marc Zeepcentrale - Superia - IWC",
+            "ventaja": "+ 5 min 52 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Nazábal José",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 6 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martínez Enrique",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 6 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Aja Gonzalo",
+            "pais": "España",
+            "equipo": "Novostil - Helios",
+            "ventaja": "+ 10 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 13 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Den Haute Ferdi",
+        "pais": "Bélgica",
+        "equipo": "Marc Zeepcentrale - Superia - IWC"
+    },
+    "ganadorMontana": {
+        "nombre": "Oliva Andrés",
+        "pais": "España",
+        "equipo": "Teka"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Campagnolo",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 8.6,
+            "desnivel": 0,
+            "velocidadMedia": 45.73
+        },
+        {
+            "etapa": 1,
+            "nombre": "Schipper Adri Jos",
+            "pais": "Países Bajos",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.36
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 94.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Den Haute Ferdi",
+            "pais": "Bélgica",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.22
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.37
+        },
+        {
+            "etapa": 5,
+            "nombre": "Teirlinck Willy",
+            "pais": "Bélgica",
+            "distancia": 136.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.11
+        },
+        {
+            "etapa": 6,
+            "nombre": "van Katwijk Fons",
+            "pais": "Países Bajos",
+            "distancia": 46.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.83
+        },
+        {
+            "etapa": 7,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.15
+        },
+        {
+            "etapa": 8,
+            "nombre": "van Katwijk Fons",
+            "pais": "Países Bajos",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.51
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Den Haute Ferdi",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.4
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.28
+        },
+        {
+            "etapa": 11,
+            "nombre": "Elorriaga Javier Francisco",
+            "pais": "España",
+            "distancia": 67.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.66
+        },
+        {
+            "etapa": 11,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 3.8,
+            "desnivel": 0,
+            "velocidadMedia": 46.06
+        },
+        {
+            "etapa": 12,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.67
+        },
+        {
+            "etapa": 13,
+            "nombre": "Maccali Salvatore",
+            "pais": "Italia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.15
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.09
+        },
+        {
+            "etapa": 15,
+            "nombre": "Vandenbrande Jean-Philippe",
+            "pais": "Bélgica",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.91
+        },
+        {
+            "etapa": 16,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.49
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.95
+        },
+        {
+            "etapa": 18,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.06
+        },
+        {
+            "etapa": 19,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 84.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.68
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

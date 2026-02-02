@@ -1,0 +1,326 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1977,
+    "distancia": 3998.6,
+    "desnivel": 58662,
+    "tiempo": "115h 38' 30\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 53,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Lejeune - BP",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 7 min 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 12 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Fiat France",
+            "ventaja": "+ 12 min 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 17 min 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 19 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Delisle Raymond",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 21 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Meslet Alain",
+            "pais": "Francia",
+            "equipo": "Gitane - Campagnolo",
+            "ventaja": "+ 27 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Esclassan Jacques",
+        "pais": "Francia",
+        "equipo": "Peugeot - Esso - Michelin"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Lejeune - BP"
+    },
+    "ganadorJovenes": {
+        "nombre": "Thurau Dietrich",
+        "pais": "Alemania",
+        "equipo": "TI - Raleigh"
+    },
+    "ganadorEquipos": {
+        "nombre": " TI - Raleigh",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 5.0,
+            "desnivel": 122,
+            "velocidadMedia": 47.872
+        },
+        {
+            "etapa": 1,
+            "nombre": "Villemiane Pierre-Raymond",
+            "pais": "Francia",
+            "distancia": 237.0,
+            "desnivel": 3507,
+            "velocidadMedia": 33.146
+        },
+        {
+            "etapa": 2,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 253.0,
+            "desnivel": 5000,
+            "velocidadMedia": 30.908
+        },
+        {
+            "etapa": 3,
+            "nombre": "Nazábal José",
+            "pais": "España",
+            "distancia": 248.2,
+            "desnivel": 3500,
+            "velocidadMedia": 32.694
+        },
+        {
+            "etapa": 4,
+            "nombre": "Delépine Régis",
+            "pais": "Francia",
+            "distancia": 256.0,
+            "desnivel": 3000,
+            "velocidadMedia": 33.698
+        },
+        {
+            "etapa": 5,
+            "nombre": "Esclassan Jacques",
+            "pais": "Francia",
+            "distancia": 138.5,
+            "desnivel": 950,
+            "velocidadMedia": 38.105
+        },
+        {
+            "etapa": 5,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 30.2,
+            "desnivel": 187,
+            "velocidadMedia": 45.99
+        },
+        {
+            "etapa": 6,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 225.5,
+            "desnivel": 3100,
+            "velocidadMedia": 37.514
+        },
+        {
+            "etapa": 7,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 139.5,
+            "desnivel": 1087,
+            "velocidadMedia": 37.134
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.0,
+            "desnivel": 74,
+            "velocidadMedia": 49.83
+        },
+        {
+            "etapa": 8,
+            "nombre": "Santambrogio Giacinto",
+            "pais": "Italia",
+            "distancia": 246.5,
+            "desnivel": 2453,
+            "velocidadMedia": 37.664
+        },
+        {
+            "etapa": 9,
+            "nombre": "Thaler Klaus-Peter",
+            "pais": "Alemania",
+            "distancia": 187.0,
+            "desnivel": 2315,
+            "velocidadMedia": 36.476
+        },
+        {
+            "etapa": 10,
+            "nombre": "den Hertog Fedor",
+            "pais": "Países Bajos",
+            "distancia": 174.0,
+            "desnivel": 1887,
+            "velocidadMedia": 36.046
+        },
+        {
+            "etapa": 11,
+            "nombre": "Danguillaume Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 242.5,
+            "desnivel": 2052,
+            "velocidadMedia": 34.071
+        },
+        {
+            "etapa": 12,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 192.5,
+            "desnivel": 1802,
+            "velocidadMedia": 42.36
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 46.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.677
+        },
+        {
+            "etapa": 13,
+            "nombre": "Danguillaume Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 159.5,
+            "desnivel": 2615,
+            "velocidadMedia": 38.902
+        },
+        {
+            "etapa": 14,
+            "nombre": "Quilfen Bernard",
+            "pais": "Francia",
+            "distancia": 130.0,
+            "desnivel": 4000,
+            "velocidadMedia": 20.758
+        },
+        {
+            "etapa": 15,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "distancia": 105.0,
+            "desnivel": 2978,
+            "velocidadMedia": 35.799
+        },
+        {
+            "etapa": 15,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 14.0,
+            "desnivel": 1002,
+            "velocidadMedia": 24.84
+        },
+        {
+            "etapa": 16,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 121.0,
+            "desnivel": 3000,
+            "velocidadMedia": 34.593
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 184.5,
+            "desnivel": 6000,
+            "velocidadMedia": 30.722
+        },
+        {
+            "etapa": 18,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "distancia": 199.5,
+            "desnivel": 3000,
+            "velocidadMedia": 33.616
+        },
+        {
+            "etapa": 19,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 171.5,
+            "desnivel": 1184,
+            "velocidadMedia": 38.213
+        },
+        {
+            "etapa": 20,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "distancia": 50.0,
+            "desnivel": 864,
+            "velocidadMedia": 42.403
+        },
+        {
+            "etapa": 21,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 141.5,
+            "desnivel": 1813,
+            "velocidadMedia": 35.469
+        },
+        {
+            "etapa": 22,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 6.0,
+            "desnivel": 109,
+            "velocidadMedia": 45.763
+        },
+        {
+            "etapa": 22,
+            "nombre": "Meslet Alain",
+            "pais": "Francia",
+            "distancia": 90.7,
+            "desnivel": 1061,
+            "velocidadMedia": 42.164
+        }
+    ]
+}

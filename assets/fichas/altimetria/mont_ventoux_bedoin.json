@@ -1,0 +1,38 @@
+{
+  "id": "mont_ventoux_bedoin",
+  "nombre": "Mont Ventoux",
+  "pais": "Francia",
+  "longitud_km": 21.4,
+  "desnivel_m": 1590,
+  "altura_maxima_m": 1900,
+  "pendiente_media_porcentaje": 7.4,
+  "pendiente_maxima_porcentaje": 13,
+  "descripcion": "Su apariencia es única: la cima es una franja de roca caliza blanca desprovista de vegetación, lo que le da un aspecto lunar y la hace visible a kilómetros de distancia.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 300},
+    {"kilometro": 1, "altitud": 340},
+    {"kilometro": 2, "altitud": 378},
+    {"kilometro": 3, "altitud": 417},
+    {"kilometro": 4, "altitud": 468},
+    {"kilometro": 5, "altitud": 520},
+    {"kilometro": 6, "altitud": 578},
+    {"kilometro": 7, "altitud": 672},
+    {"kilometro": 8, "altitud": 765},
+    {"kilometro": 9, "altitud": 864},
+    {"kilometro": 10, "altitud": 956},
+    {"kilometro": 11, "altitud": 1049},
+    {"kilometro": 12, "altitud": 1146},
+    {"kilometro": 13, "altitud": 1234},
+    {"kilometro": 14, "altitud": 1331},
+    {"kilometro": 15, "altitud": 1413},
+    {"kilometro": 16, "altitud": 1490},
+    {"kilometro": 17, "altitud": 1561},
+    {"kilometro": 18, "altitud": 1630},
+    {"kilometro": 19, "altitud": 1705},
+    {"kilometro": 20, "altitud": 1735},
+    {"kilometro": 21, "altitud": 1858},
+    {"kilometro": 21.4, "altitud": 1900}
+  ],
+  "puntos_clave": [
+  ]
+}

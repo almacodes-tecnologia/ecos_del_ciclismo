@@ -1,0 +1,298 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1964,
+    "distancia": 4456.3,
+    "desnivel": 57914,
+    "tiempo": "127h 09' 44\"",
+    "ciclistasInscritos": 132,
+    "ciclistasFinalizados": 81,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Gitane - Dunlop",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Margnat - Paloma - Dunlop",
+            "ventaja": "+ 4 min 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Anglade Henry",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 6 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Groussard Georges",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 10 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Foucher André",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 10 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 12 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Desmet Gilbert",
+            "pais": "Bélgica",
+            "equipo": "Wiel's - Groene Leeuw",
+            "ventaja": "+ 12 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "Wiel's - Groene Leeuw",
+            "ventaja": "+ 14 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 14 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Janssen Jan",
+        "pais": "Países Bajos",
+        "equipo": "Pelforth - Sauvage - Lejeune"
+    },
+    "ganadorMontana": {
+        "nombre": "Bahamontes Federico",
+        "pais": "España",
+        "equipo": "Margnat - Paloma - Dunlop"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Pelforth - Sauvage - Lejeune",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 215.0,
+            "desnivel": 2294,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 2,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 208.0,
+            "desnivel": 1875,
+            "velocidadMedia": 40.55
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van de Kerckhove Bernard",
+            "pais": "Bélgica",
+            "distancia": 196.5,
+            "desnivel": 1169,
+            "velocidadMedia": 38.34
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.3,
+            "desnivel": 527,
+            "velocidadMedia": 13.58
+        },
+        {
+            "etapa": 4,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 291.5,
+            "desnivel": 3465,
+            "velocidadMedia": 34.57
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 161.5,
+            "desnivel": 2030,
+            "velocidadMedia": 39.9
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 2196,
+            "velocidadMedia": 39.31
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 195.0,
+            "desnivel": 3000,
+            "velocidadMedia": 38.71
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "distancia": 248.5,
+            "desnivel": 4500,
+            "velocidadMedia": 33.82
+        },
+        {
+            "etapa": 9,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 239.0,
+            "desnivel": 4269,
+            "velocidadMedia": 32.08
+        },
+        {
+            "etapa": 10,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 187.0,
+            "desnivel": 2000,
+            "velocidadMedia": 33.9
+        },
+        {
+            "etapa": 10,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 21.0,
+            "desnivel": 195,
+            "velocidadMedia": 45.22
+        },
+        {
+            "etapa": 11,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 250.0,
+            "desnivel": 2463,
+            "velocidadMedia": 31.95
+        },
+        {
+            "etapa": 12,
+            "nombre": "de Roo Jo",
+            "pais": "Países Bajos",
+            "distancia": 174.0,
+            "desnivel": 1045,
+            "velocidadMedia": 36.72
+        },
+        {
+            "etapa": 13,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 170.0,
+            "desnivel": 3500,
+            "velocidadMedia": 34.59
+        },
+        {
+            "etapa": 14,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 186.0,
+            "desnivel": 2000,
+            "velocidadMedia": 40.3
+        },
+        {
+            "etapa": 15,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 203.0,
+            "desnivel": 3500,
+            "velocidadMedia": 33.11
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "distancia": 197.0,
+            "desnivel": 5000,
+            "velocidadMedia": 31.21
+        },
+        {
+            "etapa": 17,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 43.0,
+            "desnivel": 644,
+            "velocidadMedia": 41.69
+        },
+        {
+            "etapa": 18,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 187.0,
+            "desnivel": 991,
+            "velocidadMedia": 36.76
+        },
+        {
+            "etapa": 19,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 215.0,
+            "desnivel": 2131,
+            "velocidadMedia": 36.8
+        },
+        {
+            "etapa": 20,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 217.0,
+            "desnivel": 5560,
+            "velocidadMedia": 30.31
+        },
+        {
+            "etapa": 21,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "distancia": 311.0,
+            "desnivel": 3040,
+            "velocidadMedia": 32.76
+        },
+        {
+            "etapa": 22,
+            "nombre": "Beheyt Benoni",
+            "pais": "Bélgica",
+            "distancia": 119.0,
+            "desnivel": 520,
+            "velocidadMedia": 34.76
+        },
+        {
+            "etapa": 22,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.9559
+        }
+    ]
+}

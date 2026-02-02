@@ -1,0 +1,286 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1988,
+    "distancia": 3112.0,
+    "desnivel": 44502,
+    "tiempo": "84h 27' 53\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 151,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rooks Steven",
+            "pais": "Países Bajos",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "+ 7 min 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 9 min 58 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bauer Steve",
+            "pais": "Canadá",
+            "equipo": "Weinmann - La Suisse",
+            "ventaja": "+ 12 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Boyer Éric",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 14 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 14 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pensec Ronan",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 16 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 18 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 19 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roux Denis",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 20 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Planckaert Eddy",
+        "pais": "Bélgica",
+        "equipo": "ADR - Mini Flat - IOC"
+    },
+    "ganadorMontana": {
+        "nombre": "Rooks Steven",
+        "pais": "Países Bajos",
+        "equipo": "PDM - Ultima - Concorde"
+    },
+    "ganadorJovenes": {
+        "nombre": "Breukink Erik",
+        "pais": "Países Bajos",
+        "equipo": "Panasonic - Isostar"
+    },
+    "ganadorEquipos": {
+        "nombre": " PDM - Ultima - Concorde",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 1.0,
+            "desnivel": 44,
+            "velocidadMedia": 48.65
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bauer Steve",
+            "pais": "Canadá",
+            "distancia": 91.5,
+            "desnivel": 459,
+            "velocidadMedia": 40.2
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 48.0,
+            "desnivel": 498,
+            "velocidadMedia": 51.88
+        },
+        {
+            "etapa": 3,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 213.5,
+            "desnivel": 1484,
+            "velocidadMedia": 43.85
+        },
+        {
+            "etapa": 4,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "distancia": 158.0,
+            "desnivel": 1567,
+            "velocidadMedia": 46.19
+        },
+        {
+            "etapa": 5,
+            "nombre": "Nijdam Jelle",
+            "pais": "Países Bajos",
+            "distancia": 147.5,
+            "desnivel": 1336,
+            "velocidadMedia": 45.56
+        },
+        {
+            "etapa": 6,
+            "nombre": "Yates Sean",
+            "pais": "Reino Unido",
+            "distancia": 52.0,
+            "desnivel": 266,
+            "velocidadMedia": 49.24
+        },
+        {
+            "etapa": 7,
+            "nombre": "Tebaldi Valerio",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 2153,
+            "velocidadMedia": 41.26
+        },
+        {
+            "etapa": 8,
+            "nombre": "Gölz Rolf",
+            "pais": "Alemania",
+            "distancia": 219.0,
+            "desnivel": 1820,
+            "velocidadMedia": 40.52
+        },
+        {
+            "etapa": 9,
+            "nombre": "Simon Jérôme",
+            "pais": "Francia",
+            "distancia": 160.5,
+            "desnivel": 2271,
+            "velocidadMedia": 42.33
+        },
+        {
+            "etapa": 10,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 149.5,
+            "desnivel": 2322,
+            "velocidadMedia": 43.02
+        },
+        {
+            "etapa": 11,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "distancia": 232.0,
+            "desnivel": 4000,
+            "velocidadMedia": 38.15
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 227.0,
+            "desnivel": 6000,
+            "velocidadMedia": 32.76
+        },
+        {
+            "etapa": 13,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "distancia": 38.0,
+            "desnivel": 1415,
+            "velocidadMedia": 36.54
+        },
+        {
+            "etapa": 14,
+            "nombre": "Ghirotto Massimo",
+            "pais": "Italia",
+            "distancia": 163.0,
+            "desnivel": 3000,
+            "velocidadMedia": 36.15
+        },
+        {
+            "etapa": 15,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "distancia": 187.5,
+            "desnivel": 6000,
+            "velocidadMedia": 29.548
+        },
+        {
+            "etapa": 16,
+            "nombre": "van der Poel Adrie",
+            "pais": "Países Bajos",
+            "distancia": 38.0,
+            "desnivel": 203,
+            "velocidadMedia": 48.93
+        },
+        {
+            "etapa": 17,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 1155,
+            "velocidadMedia": 42.27
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 93.5,
+            "desnivel": 1489,
+            "velocidadMedia": 42.26
+        },
+        {
+            "etapa": 19,
+            "nombre": "Weltz Johnny",
+            "pais": "Dinamarca",
+            "distancia": 188.0,
+            "desnivel": 4079,
+            "velocidadMedia": 35.86
+        },
+        {
+            "etapa": 20,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 223.5,
+            "desnivel": 2365,
+            "velocidadMedia": 36.87
+        },
+        {
+            "etapa": 21,
+            "nombre": "Martínez Juan",
+            "pais": "España",
+            "distancia": 46.0,
+            "desnivel": 576,
+            "velocidadMedia": 44.08
+        },
+        {
+            "etapa": 22,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8812
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2019,
+    "distancia": 1028.3,
+    "desnivel": 15373,
+    "tiempo": "27h 43' 10\"",
+    "ciclistasInscritos": 147,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "Team INEOS",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "Bahrain Merida",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Konrad Patrick",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Benoot Tiesj",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hirt Jan",
+            "pais": "República Checa",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 3 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "Bahrain Merida",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Betancur Carlos",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 4 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 5 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Carthy Hugh",
+        "pais": "Reino Unido",
+        "equipo": "EF Education First"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernal Egan",
+        "pais": "Colombia",
+        "equipo": "Team INEOS"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 9.5,
+            "desnivel": 52,
+            "velocidadMedia": 52.615
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 159.6,
+            "desnivel": 2598,
+            "velocidadMedia": 39.677
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 162.3,
+            "desnivel": 1733,
+            "velocidadMedia": 44.381
+        },
+        {
+            "etapa": 4,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 163.9,
+            "desnivel": 1953,
+            "velocidadMedia": 43.507
+        },
+        {
+            "etapa": 5,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 2705,
+            "velocidadMedia": 41.094
+        },
+        {
+            "etapa": 6,
+            "nombre": "Tolhoek Antwan",
+            "pais": "Países Bajos",
+            "distancia": 120.2,
+            "desnivel": 1901,
+            "velocidadMedia": 44.092
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "distancia": 216.6,
+            "desnivel": 4336,
+            "velocidadMedia": 38.488
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lampaert Yves",
+            "pais": "Bélgica",
+            "distancia": 19.2,
+            "desnivel": 95,
+            "velocidadMedia": 52.443
+        },
+        {
+            "etapa": 9,
+            "nombre": "Carthy Hugh",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.7498
+        }
+    ]
+}

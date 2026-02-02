@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1964,
+    "distancia": 1006.0,
+    "desnivel": 0,
+    "tiempo": "34h 30' 25\"",
+    "ciclistasInscritos": 47,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "Cynar - Frejus",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "Cynar - Frejus",
+            "ventaja": "+ 1 min 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 4 min 1 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Weber Werner",
+            "pais": "Suiza",
+            "equipo": "Cynar - Frejus",
+            "ventaja": "+ 7 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Colmenarejo José Martín",
+            "pais": "España",
+            "equipo": "Inuri",
+            "ventaja": "+ 10 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 12 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Binggeli René",
+            "pais": "Suiza",
+            "equipo": "Tigra - Meltina",
+            "ventaja": "+ 13 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Barale Germano",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 13 min 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "equipo": "Tigra - Meltina",
+            "ventaja": "+ 15 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zilverberg Huub",
+            "pais": "Países Bajos",
+            "equipo": "Flandria - Romeo",
+            "ventaja": "+ 17 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maurer Rolf",
+        "pais": "Suiza",
+        "equipo": "Cynar - Frejus"
+    },
+    "ganadorMontana": {
+        "nombre": "Maurer Rolf",
+        "pais": "Suiza",
+        "equipo": "Cynar - Frejus"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Vandamme Lionel",
+            "pais": "Bélgica",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.352
+        },
+        {
+            "etapa": 2,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.73
+        },
+        {
+            "etapa": 3,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "distancia": 71.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 4,
+            "nombre": "Weber Werner",
+            "pais": "Suiza",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.04
+        },
+        {
+            "etapa": 5,
+            "nombre": "Colmenarejo José Martín",
+            "pais": "España",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.15
+        },
+        {
+            "etapa": 6,
+            "nombre": "Weber Werner",
+            "pais": "Suiza",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.98
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.863
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2009,
+    "distancia": 877.1,
+    "desnivel": 0,
+    "tiempo": "24h 12' 10\"",
+    "ciclistasInscritos": 163,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Team Garmin - Slipstream",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Astarloza Mikel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dyachenko Alexandr",
+            "pais": "Kazajistán",
+            "equipo": "Astana",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "equipo": "Andalucia-Caja Sur",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "de la Fuente David",
+            "pais": "España",
+            "equipo": "Fuji-Servetto",
+            "ventaja": "+ 1 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Sánchez Julián",
+        "pais": "España",
+        "equipo": "Contentpolis - Ampo"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 3.6,
+            "desnivel": 0,
+            "velocidadMedia": 45.157
+        },
+        {
+            "etapa": 2,
+            "nombre": "Breschel Matti",
+            "pais": "Dinamarca",
+            "distancia": 163.1,
+            "desnivel": 0,
+            "velocidadMedia": 38.9
+        },
+        {
+            "etapa": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 182.9,
+            "desnivel": 0,
+            "velocidadMedia": 38.252
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sánchez Julián",
+            "pais": "España",
+            "distancia": 175.7,
+            "desnivel": 0,
+            "velocidadMedia": 36.798
+        },
+        {
+            "etapa": 5,
+            "nombre": "Trusov Nikolay",
+            "pais": "Rusia",
+            "distancia": 201.3,
+            "desnivel": 0,
+            "velocidadMedia": 44.905
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 150.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.683
+        },
+        {
+            "etapa": 7,
+            "nombre": "Henderson Gregory",
+            "pais": "Nueva Zelanda",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.8111
+        }
+    ]
+}

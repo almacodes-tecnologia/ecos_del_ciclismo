@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1991,
+    "distancia": 3092.8,
+    "desnivel": 33963,
+    "tiempo": "82h 48' 07\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "equipo": "Amaya Seguros",
+            "ventaja": "+ 5 min 38 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 6 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "+ 6 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "equipo": "Seur",
+            "ventaja": "+ 10 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rooks Steven",
+            "pais": "Países Bajos",
+            "equipo": "Buckler - Colnago - Decca",
+            "ventaja": "+ 12 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 12 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Raab Uwe",
+        "pais": "Alemania",
+        "equipo": "PDM - Ultima - Concorde"
+    },
+    "ganadorMontana": {
+        "nombre": "Herrera Luis Alberto",
+        "pais": "Colombia",
+        "equipo": "Manzana Postobón"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Look - Mavic",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "distancia": 8.8,
+            "desnivel": 66,
+            "velocidadMedia": 52.191
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zanoli Michel",
+            "pais": "Países Bajos",
+            "distancia": 134.5,
+            "desnivel": 667,
+            "velocidadMedia": 41.612
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 40.4,
+            "desnivel": 57,
+            "velocidadMedia": 48.05
+        },
+        {
+            "etapa": 3,
+            "nombre": "Skibby Jesper",
+            "pais": "Dinamarca",
+            "distancia": 233.2,
+            "desnivel": 1685,
+            "velocidadMedia": 41.991
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martín Jesús Cruz",
+            "pais": "España",
+            "distancia": 292.0,
+            "desnivel": 1629,
+            "velocidadMedia": 43.04
+        },
+        {
+            "etapa": 5,
+            "nombre": "Raab Uwe",
+            "pais": "Alemania",
+            "distancia": 227.8,
+            "desnivel": 1749,
+            "velocidadMedia": 40.576
+        },
+        {
+            "etapa": 6,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 236.5,
+            "desnivel": 970,
+            "velocidadMedia": 45.801
+        },
+        {
+            "etapa": 7,
+            "nombre": "Skibby Jesper",
+            "pais": "Dinamarca",
+            "distancia": 188.0,
+            "desnivel": 1964,
+            "velocidadMedia": 43.365
+        },
+        {
+            "etapa": 8,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "distancia": 47.0,
+            "desnivel": 332,
+            "velocidadMedia": 46.715
+        },
+        {
+            "etapa": 9,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 140.0,
+            "desnivel": 1435,
+            "velocidadMedia": 43.114
+        },
+        {
+            "etapa": 10,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 3428,
+            "velocidadMedia": 34.72
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 3015,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Ivanov Ivan",
+            "pais": "Rusia",
+            "distancia": 111.0,
+            "desnivel": 2646,
+            "velocidadMedia": 34.736
+        },
+        {
+            "etapa": 13,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 219.0,
+            "desnivel": 1013,
+            "velocidadMedia": 41.371
+        },
+        {
+            "etapa": 14,
+            "nombre": "Parra Fabio Enrique",
+            "pais": "Colombia",
+            "distancia": 24.1,
+            "desnivel": 1523,
+            "velocidadMedia": 28.362
+        },
+        {
+            "etapa": 15,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 219.5,
+            "desnivel": 1978,
+            "velocidadMedia": 38.726
+        },
+        {
+            "etapa": 16,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "distancia": 186.6,
+            "desnivel": 2939,
+            "velocidadMedia": 34.246
+        },
+        {
+            "etapa": 17,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "distancia": 152.0,
+            "desnivel": 2561,
+            "velocidadMedia": 37.073
+        },
+        {
+            "etapa": 18,
+            "nombre": "Diaz Antonio Miguel",
+            "pais": "España",
+            "distancia": 137.5,
+            "desnivel": 390,
+            "velocidadMedia": 43.036
+        },
+        {
+            "etapa": 19,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "distancia": 53.2,
+            "desnivel": 103,
+            "velocidadMedia": 48.181
+        },
+        {
+            "etapa": 20,
+            "nombre": "Montoya Jesús",
+            "pais": "España",
+            "distancia": 212.7,
+            "desnivel": 3813,
+            "velocidadMedia": 35.308
+        },
+        {
+            "etapa": 21,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.851
+        }
+    ]
+}

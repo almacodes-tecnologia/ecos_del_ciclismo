@@ -1,0 +1,306 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1974,
+    "distancia": 3949.2,
+    "desnivel": 56009,
+    "tiempo": "116h 16' 58\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 105,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 8 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 8 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 10 min 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Aja Gonzalo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 11 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Bic",
+            "ventaja": "+ 14 min 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Carpenter - Confortluxe - Flandria",
+            "ventaja": "+ 16 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "equipo": "Sonolor - Gitane",
+            "ventaja": "+ 18 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Santy Alain",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 19 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "M.I.C. - Ludo - De Gribaldy",
+            "ventaja": "+ 24 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sercu Patrick",
+        "pais": "Bélgica",
+        "equipo": "Brooklyn"
+    },
+    "ganadorMontana": {
+        "nombre": "Perurena Domingo",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Kaskol",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 7.1,
+            "desnivel": 129,
+            "velocidadMedia": 47.87
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 144.0,
+            "desnivel": 1898,
+            "velocidadMedia": 42.04
+        },
+        {
+            "etapa": 2,
+            "nombre": "Poppe Henk",
+            "pais": "Países Bajos",
+            "distancia": 163.7,
+            "desnivel": 1995,
+            "velocidadMedia": 42.02
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 190.0,
+            "desnivel": 2294,
+            "velocidadMedia": 39.87
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 184.5,
+            "desnivel": 2315,
+            "velocidadMedia": 38.32
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Witte Ronald",
+            "pais": "Bélgica",
+            "distancia": 165.0,
+            "desnivel": 1722,
+            "velocidadMedia": 38.74
+        },
+        {
+            "etapa": 6,
+            "nombre": "Molinéris Jean-Luc",
+            "pais": "Francia",
+            "distancia": 239.0,
+            "desnivel": 1887,
+            "velocidadMedia": 37.84
+        },
+        {
+            "etapa": 7,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 221.5,
+            "desnivel": 2521,
+            "velocidadMedia": 33.34
+        },
+        {
+            "etapa": 8,
+            "nombre": "Guimard Cyrille",
+            "pais": "Francia",
+            "distancia": 136.0,
+            "desnivel": 1443,
+            "velocidadMedia": 36.41
+        },
+        {
+            "etapa": 8,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 152.0,
+            "desnivel": 1869,
+            "velocidadMedia": 34.41
+        },
+        {
+            "etapa": 9,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 241.0,
+            "desnivel": 4000,
+            "velocidadMedia": 33.63
+        },
+        {
+            "etapa": 10,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 131.5,
+            "desnivel": 2803,
+            "velocidadMedia": 34.8
+        },
+        {
+            "etapa": 11,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "distancia": 199.0,
+            "desnivel": 6659,
+            "velocidadMedia": 28.73
+        },
+        {
+            "etapa": 12,
+            "nombre": "Spruyt Jos",
+            "pais": "Bélgica",
+            "distancia": 231.0,
+            "desnivel": 3000,
+            "velocidadMedia": 31.85
+        },
+        {
+            "etapa": 13,
+            "nombre": "Hoban Barry",
+            "pais": "Reino Unido",
+            "distancia": 126.0,
+            "desnivel": 683,
+            "velocidadMedia": 38.63
+        },
+        {
+            "etapa": 14,
+            "nombre": "Genet Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 248.5,
+            "desnivel": 2963,
+            "velocidadMedia": 34.45
+        },
+        {
+            "etapa": 15,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 3000,
+            "velocidadMedia": 33.54
+        },
+        {
+            "etapa": 16,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 209.0,
+            "desnivel": 5500,
+            "velocidadMedia": 26.48
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 119.0,
+            "desnivel": 3000,
+            "velocidadMedia": 29.91
+        },
+        {
+            "etapa": 18,
+            "nombre": "Danguillaume Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 141.5,
+            "desnivel": 3000,
+            "velocidadMedia": 32.74
+        },
+        {
+            "etapa": 19,
+            "nombre": "Campaner Francis",
+            "pais": "Francia",
+            "distancia": 195.5,
+            "desnivel": 1586,
+            "velocidadMedia": 40.18
+        },
+        {
+            "etapa": 19,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 12.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.78
+        },
+        {
+            "etapa": 20,
+            "nombre": "Vianen Gerard",
+            "pais": "Países Bajos",
+            "distancia": 117.0,
+            "desnivel": 624,
+            "velocidadMedia": 40.5
+        },
+        {
+            "etapa": 21,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 112.5,
+            "desnivel": 911,
+            "velocidadMedia": 48.53
+        },
+        {
+            "etapa": 21,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 37.5,
+            "desnivel": 207,
+            "velocidadMedia": 46.5
+        },
+        {
+            "etapa": 22,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.3501
+        }
+    ]
+}

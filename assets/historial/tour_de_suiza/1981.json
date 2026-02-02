@@ -1,0 +1,194 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1981,
+    "distancia": 1627.5,
+    "desnivel": 0,
+    "tiempo": "42h 40' 41\"",
+    "ciclistasInscritos": 76,
+    "ciclistasFinalizados": 72,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Natale Leonardo",
+            "pais": "Italia",
+            "equipo": "Magniflex - Olmo",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Schmutz Gottfried",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "+ 4 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sutter Ueli",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 4 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "Kotter - G.b.c.",
+            "ventaja": "+ 5 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zweifel Albert",
+            "pais": "Suiza",
+            "equipo": "Sem - France Loire - Campagnolo",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nulens Guy",
+            "pais": "Bélgica",
+            "equipo": "DAF Trucks - Cote d'Or - Gazelle",
+            "ventaja": "+ 7 min 47 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Schepers Eddy",
+            "pais": "Bélgica",
+            "equipo": "DAF Trucks - Cote d'Or - Gazelle",
+            "ventaja": "+ 8 min 48 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Gavazzi Pierino",
+        "pais": "Italia",
+        "equipo": "Magniflex - Olmo"
+    },
+    "ganadorMontana": {
+        "nombre": "Breu Beat",
+        "pais": "Suiza",
+        "equipo": "Cilo - Aufina"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Cilo - Aufina",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 10.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.18
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.9
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.04
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.66
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.34
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.08
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.19
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.01
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 84.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.07
+        },
+        {
+            "etapa": 7,
+            "nombre": "Burghold Andreas",
+            "pais": "Suiza",
+            "distancia": 9.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.84
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.17
+        }
+    ]
+}

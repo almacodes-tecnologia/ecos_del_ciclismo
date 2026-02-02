@@ -1,0 +1,266 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1949,
+    "distancia": 4470.0,
+    "desnivel": 55918,
+    "tiempo": "149h 40' 49\"",
+    "ciclistasInscritos": 120,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 10 min 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Marinelli Jacques",
+            "pais": "Francia",
+            "equipo": "Île-de-France",
+            "ventaja": "+ 25 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "equipo": "Ouest/Nord",
+            "ventaja": "+ 34 min 28 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Dupont Marcel",
+            "pais": "Bélgica",
+            "equipo": "Adelaars",
+            "ventaja": "+ 38 min 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "equipo": "Cadetti",
+            "ventaja": "+ 42 min 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 44 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Goldschmit Jean",
+            "pais": "Luxemburgo",
+            "equipo": "Luxembourg",
+            "ventaja": "+ 47 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lazaridès Apo",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 52 min 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cogan Pierre",
+            "pais": "Francia",
+            "equipo": "Ouest/Nord",
+            "ventaja": "+ 1 h 8 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ockers Stan",
+        "pais": "Bélgica",
+        "equipo": "Belgium"
+    },
+    "ganadorMontana": {
+        "nombre": "Coppi Fausto",
+        "pais": "Italia",
+        "equipo": "Italy"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Italy",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dussault Marcel",
+            "pais": "Francia",
+            "distancia": 182.0,
+            "desnivel": 1983,
+            "velocidadMedia": 34.78
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lambrecht Roger",
+            "pais": "Bélgica",
+            "distancia": 273.0,
+            "desnivel": 3618,
+            "velocidadMedia": 31.62
+        },
+        {
+            "etapa": 3,
+            "nombre": "Callens Norbert",
+            "pais": "Bélgica",
+            "distancia": 211.0,
+            "desnivel": 1403,
+            "velocidadMedia": 34.61
+        },
+        {
+            "etapa": 4,
+            "nombre": "Teisseire Lucien",
+            "pais": "Francia",
+            "distancia": 185.0,
+            "desnivel": 1890,
+            "velocidadMedia": 35.8
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 293.0,
+            "desnivel": 2507,
+            "velocidadMedia": 34.66
+        },
+        {
+            "etapa": 6,
+            "nombre": "Deledda Adolphe",
+            "pais": "Francia",
+            "distancia": 305.0,
+            "desnivel": 2640,
+            "velocidadMedia": 35.25
+        },
+        {
+            "etapa": 7,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 92.0,
+            "desnivel": 330,
+            "velocidadMedia": 39.95
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lapébie Guy",
+            "pais": "Francia",
+            "distancia": 262.0,
+            "desnivel": 1961,
+            "velocidadMedia": 35.14
+        },
+        {
+            "etapa": 9,
+            "nombre": "Caput Louis",
+            "pais": "Francia",
+            "distancia": 228.0,
+            "desnivel": 1662,
+            "velocidadMedia": 35.0
+        },
+        {
+            "etapa": 10,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 3000,
+            "velocidadMedia": 32.63
+        },
+        {
+            "etapa": 11,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "distancia": 193.0,
+            "desnivel": 5500,
+            "velocidadMedia": 27.16
+        },
+        {
+            "etapa": 12,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 134.0,
+            "desnivel": 764,
+            "velocidadMedia": 37.89
+        },
+        {
+            "etapa": 13,
+            "nombre": "Idée Émile",
+            "pais": "Francia",
+            "distancia": 289.0,
+            "desnivel": 2772,
+            "velocidadMedia": 34.06
+        },
+        {
+            "etapa": 14,
+            "nombre": "Goldschmit Jean",
+            "pais": "Luxemburgo",
+            "distancia": 199.0,
+            "desnivel": 2102,
+            "velocidadMedia": 31.66
+        },
+        {
+            "etapa": 15,
+            "nombre": "Keteleer Désiré",
+            "pais": "Bélgica",
+            "distancia": 215.0,
+            "desnivel": 2500,
+            "velocidadMedia": 35.59
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 275.0,
+            "desnivel": 6414,
+            "velocidadMedia": 26.38
+        },
+        {
+            "etapa": 17,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 257.0,
+            "desnivel": 6000,
+            "velocidadMedia": 28.1
+        },
+        {
+            "etapa": 18,
+            "nombre": "Rossello Vincenzo",
+            "pais": "Italia",
+            "distancia": 265.0,
+            "desnivel": 4500,
+            "velocidadMedia": 29.12
+        },
+        {
+            "etapa": 19,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "distancia": 283.0,
+            "desnivel": 3000,
+            "velocidadMedia": 31.45
+        },
+        {
+            "etapa": 20,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 137.0,
+            "desnivel": 1372,
+            "velocidadMedia": 37.563
+        },
+        {
+            "etapa": 21,
+            "nombre": "Van Steenbergen Rik",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.1024
+        }
+    ]
+}

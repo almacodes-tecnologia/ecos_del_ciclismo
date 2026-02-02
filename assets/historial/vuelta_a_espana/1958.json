@@ -1,0 +1,242 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1958,
+    "distancia": 3005.0,
+    "desnivel": 0,
+    "tiempo": "94h 54' 21\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 45,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Ignis - Peña Solera - Doniselli",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 3 min 1 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Couvreur Hilaire",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 5 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "equipo": "Mobylette - GAC",
+            "ventaja": "+ 10 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 11 min 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "San Emeterio Julián",
+            "pais": "España",
+            "equipo": "Boxing Club - Kas",
+            "ventaja": "+ 13 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 16 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Luyten Rik",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 28 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Azpuru Benigno",
+            "pais": "España",
+            "equipo": "Boxing Club - Kas",
+            "ventaja": "+ 33 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Botella Salvador",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorMontana": {
+        "nombre": "Bahamontes Federico",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.16
+        },
+        {
+            "etapa": 2,
+            "nombre": "Jiménez Antonio",
+            "pais": "España",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.05
+        },
+        {
+            "etapa": 3,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.97
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.1
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.5
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.66
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 263.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.58
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.73
+        },
+        {
+            "etapa": 8,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.98
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 241.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.41
+        },
+        {
+            "etapa": 10,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.82
+        },
+        {
+            "etapa": 11,
+            "nombre": "Marigil René",
+            "pais": "España",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.15
+        },
+        {
+            "etapa": 12,
+            "nombre": "Iza Fausto",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.73
+        },
+        {
+            "etapa": 13,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "distancia": 35.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.67
+        },
+        {
+            "etapa": 13,
+            "nombre": "Graczyk Jean",
+            "pais": "Francia",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.51
+        },
+        {
+            "etapa": 14,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.07
+        },
+        {
+            "etapa": 15,
+            "nombre": "Luyten Rik",
+            "pais": "Bélgica",
+            "distancia": 246.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.37
+        },
+        {
+            "etapa": 16,
+            "nombre": "Luyten Rik",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.1965
+        }
+    ]
+}

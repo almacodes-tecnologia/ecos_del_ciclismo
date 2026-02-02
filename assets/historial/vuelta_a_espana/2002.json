@@ -1,0 +1,258 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2002,
+    "distancia": 3104.0,
+    "desnivel": 42609,
+    "tiempo": "75h 13' 52\"",
+    "ciclistasInscritos": 207,
+    "ciclistasFinalizados": 132,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Beloki Joseba",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 3 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 5 min 42 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Casero Ángel Luis",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 6 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "García Casas Félix Miguel",
+            "pais": "España",
+            "equipo": "BigMat - Auber 93",
+            "ventaja": "+ 6 min 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 8 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "Saeco - Longoni Sport",
+            "ventaja": "+ 9 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Osa Aitor",
+        "pais": "España",
+        "equipo": "iBanesto.com"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme - Costa Blanca",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 2,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 144.7,
+            "desnivel": 1892,
+            "velocidadMedia": 36.24
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 134.2,
+            "desnivel": 721,
+            "velocidadMedia": 42.92
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 149.5,
+            "desnivel": 1254,
+            "velocidadMedia": 42.01
+        },
+        {
+            "etapa": 5,
+            "nombre": "Trentin Guido",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 4874,
+            "velocidadMedia": 34.34
+        },
+        {
+            "etapa": 6,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 153.1,
+            "desnivel": 2817,
+            "velocidadMedia": 38.77
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 196.8,
+            "desnivel": 2014,
+            "velocidadMedia": 43.13
+        },
+        {
+            "etapa": 8,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "distancia": 173.5,
+            "desnivel": 3155,
+            "velocidadMedia": 40.26
+        },
+        {
+            "etapa": 9,
+            "nombre": "Lastras Pablo",
+            "pais": "España",
+            "distancia": 130.2,
+            "desnivel": 1330,
+            "velocidadMedia": 46.26
+        },
+        {
+            "etapa": 10,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "distancia": 36.5,
+            "desnivel": 355,
+            "velocidadMedia": 48.1
+        },
+        {
+            "etapa": 11,
+            "nombre": "Lastras Pablo",
+            "pais": "España",
+            "distancia": 166.1,
+            "desnivel": 2609,
+            "velocidadMedia": 42.25
+        },
+        {
+            "etapa": 12,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 210.5,
+            "desnivel": 1204,
+            "velocidadMedia": 49.23
+        },
+        {
+            "etapa": 13,
+            "nombre": "Lombardi Giovanni",
+            "pais": "Italia",
+            "distancia": 189.8,
+            "desnivel": 2208,
+            "velocidadMedia": 45.307
+        },
+        {
+            "etapa": 14,
+            "nombre": "Smetanine Serguei",
+            "pais": "Rusia",
+            "distancia": 190.2,
+            "desnivel": 2003,
+            "velocidadMedia": 44.34
+        },
+        {
+            "etapa": 15,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 176.7,
+            "desnivel": 4541,
+            "velocidadMedia": 35.22
+        },
+        {
+            "etapa": 16,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 154.7,
+            "desnivel": 2373,
+            "velocidadMedia": 43.76
+        },
+        {
+            "etapa": 17,
+            "nombre": "Furlan Angelo",
+            "pais": "Italia",
+            "distancia": 145.6,
+            "desnivel": 833,
+            "velocidadMedia": 49.08
+        },
+        {
+            "etapa": 18,
+            "nombre": "Blanco Santiago",
+            "pais": "España",
+            "distancia": 193.7,
+            "desnivel": 3989,
+            "velocidadMedia": 38.19
+        },
+        {
+            "etapa": 19,
+            "nombre": "García Acosta José Vicente",
+            "pais": "España",
+            "distancia": 177.8,
+            "desnivel": 3005,
+            "velocidadMedia": 40.34
+        },
+        {
+            "etapa": 20,
+            "nombre": "Furlan Angelo",
+            "pais": "Italia",
+            "distancia": 141.2,
+            "desnivel": 1059,
+            "velocidadMedia": 47.032
+        },
+        {
+            "etapa": 21,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "distancia": 41.2,
+            "desnivel": 373,
+            "velocidadMedia": 51.61
+        }
+    ]
+}

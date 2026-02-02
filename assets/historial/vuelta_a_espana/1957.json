@@ -1,0 +1,226 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1957,
+    "distancia": 2918.0,
+    "desnivel": 0,
+    "tiempo": "84h 44' 06\"",
+    "ciclistasInscritos": 90,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 8 min 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ruiz Bernardo",
+            "pais": "España",
+            "equipo": "Mediterranean",
+            "ventaja": "+ 9 min 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "da Silva José Manuel Ribeiro",
+            "pais": "Portugal",
+            "equipo": "Portugal",
+            "ventaja": "+ 14 min 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 17 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Moreno Francisco",
+            "pais": "España",
+            "equipo": "Central-South",
+            "ventaja": "+ 18 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Adriaensens Jan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 19 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 23 min 48 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 25 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Botella Salvador",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 28 min 6 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Iturat Vicente",
+        "pais": "España",
+        "equipo": "Pyrenees"
+    },
+    "ganadorMontana": {
+        "nombre": "Bahamontes Federico",
+        "pais": "España",
+        "equipo": "Spain"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Pyrenees",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Chacón Miguel",
+            "pais": "España",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.21
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.78
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "distancia": 259.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.04
+        },
+        {
+            "etapa": 4,
+            "nombre": "Carvalho José Carlos de Pereira",
+            "pais": "Portugal",
+            "distancia": 136.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.4
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chacón Miguel",
+            "pais": "España",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.25
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 8,
+            "nombre": "Walkowiak Roger",
+            "pais": "Francia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.86
+        },
+        {
+            "etapa": 9,
+            "nombre": "Benedetti Rino",
+            "pais": "Italia",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.94
+        },
+        {
+            "etapa": 10,
+            "nombre": "Tognaccini Bruno",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.15
+        },
+        {
+            "etapa": 11,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.23
+        },
+        {
+            "etapa": 12,
+            "nombre": "Baroni Mario",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.22
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 85.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.23
+        },
+        {
+            "etapa": 14,
+            "nombre": "Ferraz Antonio",
+            "pais": "España",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.54
+        },
+        {
+            "etapa": 15,
+            "nombre": "Baens Roger",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.59
+        },
+        {
+            "etapa": 16,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.7072
+        }
+    ]
+}

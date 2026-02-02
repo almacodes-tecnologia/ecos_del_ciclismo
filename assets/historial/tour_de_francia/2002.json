@@ -1,0 +1,231 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2002,
+    "distancia": 3133.5,
+    "desnivel": 51865,
+    "tiempo": "82h 05' 12\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "DESIERTO",
+            "pais": "Armstrong Lance, Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Beloki Joseba",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 7 min 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 8 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 13 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 13 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 15 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 16 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 17 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam - Tiscali",
+            "ventaja": "+ 19 min 5 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "McEwen Robbie",
+        "pais": "Australia",
+        "equipo": "Lotto - Adecco"
+    },
+    "ganadorMontana": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "CSC ProTeam - Tiscali"
+    },
+    "ganadorJovenes": {
+        "nombre": "Basso Ivan",
+        "pais": "Italia",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Eroski",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bertogliati Rubens",
+            "pais": "Suiza",
+            "distancia": 192.5,
+            "desnivel": 3000,
+            "velocidadMedia": 39.929
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 2860,
+            "velocidadMedia": 41.793
+        },
+        {
+            "etapa": 3,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 174.5,
+            "desnivel": 1351,
+            "velocidadMedia": 41.283
+        },
+        {
+            "etapa": 4,
+            "nombre": "ONCE-Eroski",
+            "pais": "España",
+            "distancia": 67.5,
+            "desnivel": 763,
+            "velocidadMedia": 50.741
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 195.0,
+            "desnivel": 1503,
+            "velocidadMedia": 46.14
+        },
+        {
+            "etapa": 6,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 199.5,
+            "desnivel": 2081,
+            "velocidadMedia": 45.493
+        },
+        {
+            "etapa": 7,
+            "nombre": "McGee Bradley",
+            "pais": "Australia",
+            "distancia": 176.0,
+            "desnivel": 2234,
+            "velocidadMedia": 42.083
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kroon Karsten",
+            "pais": "Países Bajos",
+            "distancia": 217.5,
+            "desnivel": 2436,
+            "velocidadMedia": 47.135
+        },
+        {
+            "etapa": 9,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 52.0,
+            "desnivel": 616,
+            "velocidadMedia": 50.067
+        },
+        {
+            "etapa": 10,
+            "nombre": "Halgand Patrice",
+            "pais": "Francia",
+            "distancia": 147.0,
+            "desnivel": 1183,
+            "velocidadMedia": 48.93
+        },
+        {
+            "etapa": 13,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 171.0,
+            "desnivel": 2180,
+            "velocidadMedia": 41.321
+        },
+        {
+            "etapa": 14,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 221.0,
+            "desnivel": 4000,
+            "velocidadMedia": 38.61
+        },
+        {
+            "etapa": 15,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 226.5,
+            "desnivel": 4619,
+            "velocidadMedia": 38.253
+        },
+        {
+            "etapa": 16,
+            "nombre": "Michael Boogerd",
+            "pais": "Países Bajos",
+            "distancia": 179.5,
+            "desnivel": 5161,
+            "velocidadMedia": 30.905
+        },
+        {
+            "etapa": 17,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "distancia": 142.0,
+            "desnivel": 4000,
+            "velocidadMedia": 35.141
+        },
+        {
+            "etapa": 18,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 176.5,
+            "desnivel": 3814,
+            "velocidadMedia": 39.446
+        },
+        {
+            "etapa": 20,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.8709
+        }
+    ]
+}

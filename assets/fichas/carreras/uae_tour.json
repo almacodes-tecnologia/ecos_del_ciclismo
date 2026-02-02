@@ -1,0 +1,21 @@
+{
+  "id": "uae_tour",
+  "nombre": "UAE Tour",
+  "pais": "Emiratos Árabes Unidos",
+  "categoria": "World Tour",
+  "tipo": "Carrera por etapas",
+  "descripcion": "El UAE Tour es una carrera ciclista por etapas relativamente nueva que se disputa en los Emiratos Árabes Unidos. Su recorrido suele combinar etapas llanas que favorecen a los sprinters, con etapas de montaña en ascensos icónicos como Jebel Hafeet, lo que la convierte en una carrera completa y un buen termómetro del estado de forma al inicio de la temporada.",
+  "anio_inicio": 2019,
+  "edicionesDisponibles": [2025, 2024, 2023, 2022, 2021, 2020, 2019],
+  "imagenes": ["assets/imagenes/uae_tour.webp"],
+  "records": {
+    "mas_victorias_generales": {
+      "valor": "3",
+      "descripcion": "Tadej Pogačar ostenta el récord de más victorias generales en la historia de la carrera."
+    },
+    "mas_victorias_generales_consecutivas": {
+      "valor": "2",
+      "descripcion": "Tadej Pogačar tiene el récord de dos victorias generales consecutivas (2021-2022)."
+    }
+  }
+}

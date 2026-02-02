@@ -1,0 +1,186 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1967,
+    "distancia": 1225.0,
+    "desnivel": 0,
+    "tiempo": "37h 06' 25\"",
+    "ciclistasInscritos": 64,
+    "ciclistasFinalizados": 56,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "equipo": "Tigra - Enicar",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "García Ginés",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lasa José Manuel",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Guyot Bernard",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van de Kerckhove Bernard",
+            "pais": "Bélgica",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 3 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Ryckeghem Daniel",
+        "pais": "Bélgica",
+        "equipo": "Mann - Grundig"
+    },
+    "ganadorMontana": {
+        "nombre": "Galera Joaquín",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Fagor",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.57
+        },
+        {
+            "etapa": 2,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.669
+        },
+        {
+            "etapa": 3,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "distancia": 111.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.337
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.826
+        },
+        {
+            "etapa": 4,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 79.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.71
+        },
+        {
+            "etapa": 5,
+            "nombre": "Guyot Bernard",
+            "pais": "Francia",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.85
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 117.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.56
+        },
+        {
+            "etapa": 6,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.466
+        },
+        {
+            "etapa": 7,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 86.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.44
+        },
+        {
+            "etapa": 7,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.609
+        },
+        {
+            "etapa": 8,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.609
+        }
+    ]
+}

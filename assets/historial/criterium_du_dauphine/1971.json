@@ -1,0 +1,154 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1971,
+    "distancia": 965.5,
+    "desnivel": 0,
+    "tiempo": "26h 42' 39\"",
+    "ciclistasInscritos": 71,
+    "ciclistasFinalizados": 66,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Fagor - Mercier - Hutchinson",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Letort Désiré",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hézard Yves",
+            "pais": "Francia",
+            "equipo": "Sonolor - Lejeune ",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Sonolor - Lejeune ",
+            "ventaja": "+ 3 min 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bracke Ferdinand",
+            "pais": "Bélgica",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bouloux Robert",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 4 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Watney - Avia",
+            "ventaja": "+ 5 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Bic",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 8.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.933
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 128.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.026
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 76.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.685
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.108
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.439
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.346
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.925
+        },
+        {
+            "etapa": 5,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

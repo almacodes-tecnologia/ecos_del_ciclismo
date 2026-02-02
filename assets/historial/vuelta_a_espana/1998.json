@@ -1,0 +1,267 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1998,
+    "distancia": 3598.4,
+    "desnivel": 35914,
+    "tiempo": "93h 44' 08\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "González de Galdeano Álvaro",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 5 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 6 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Serpellini Marco",
+            "pais": "Italia",
+            "equipo": "Brescialat",
+            "ventaja": "+ 8 min 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Serrano Marcos Antonio",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 10 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Guidi Fabrizio",
+        "pais": "Italia",
+        "equipo": "Polti"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez José María",
+        "pais": "España",
+        "equipo": "Banesto"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "distancia": 162.0,
+            "desnivel": 1117,
+            "velocidadMedia": 38.7
+        },
+        {
+            "etapa": 2,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 235.0,
+            "desnivel": 686,
+            "velocidadMedia": 36.117
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 193.0,
+            "desnivel": 1084,
+            "velocidadMedia": 45.164
+        },
+        {
+            "etapa": 4,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "distancia": 174.0,
+            "desnivel": 2300,
+            "velocidadMedia": 39.048
+        },
+        {
+            "etapa": 5,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 166.0,
+            "desnivel": 662,
+            "velocidadMedia": 44.963
+        },
+        {
+            "etapa": 6,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 202.0,
+            "desnivel": 1959,
+            "velocidadMedia": 38.119
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 1594,
+            "velocidadMedia": 45.772
+        },
+        {
+            "etapa": 8,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 1954,
+            "velocidadMedia": 42.598
+        },
+        {
+            "etapa": 9,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 40.0,
+            "desnivel": 119,
+            "velocidadMedia": 50.937
+        },
+        {
+            "etapa": 10,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 200.0,
+            "desnivel": 4219,
+            "velocidadMedia": 37.192
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 3709,
+            "velocidadMedia": 37.82
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bugno Gianni",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 2221,
+            "velocidadMedia": 37.437
+        },
+        {
+            "etapa": 13,
+            "nombre": "Zintchenko Andrei",
+            "pais": "Rusia",
+            "distancia": 208.5,
+            "desnivel": 1942,
+            "velocidadMedia": 40.723
+        },
+        {
+            "etapa": 14,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 145.5,
+            "desnivel": 731,
+            "velocidadMedia": 51.137
+        },
+        {
+            "etapa": 15,
+            "nombre": "Zintchenko Andrei",
+            "pais": "Rusia",
+            "distancia": 178.8,
+            "desnivel": 1284,
+            "velocidadMedia": 43.592
+        },
+        {
+            "etapa": 16,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 143.7,
+            "desnivel": 2459,
+            "velocidadMedia": 41.412
+        },
+        {
+            "etapa": 17,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 188.5,
+            "desnivel": 627,
+            "velocidadMedia": 38.268
+        },
+        {
+            "etapa": 18,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "distancia": 223.0,
+            "desnivel": 751,
+            "velocidadMedia": 37.203
+        },
+        {
+            "etapa": 19,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 170.4,
+            "desnivel": 2417,
+            "velocidadMedia": 40.342
+        },
+        {
+            "etapa": 20,
+            "nombre": "Zintchenko Andrei",
+            "pais": "Rusia",
+            "distancia": 209.0,
+            "desnivel": 3963,
+            "velocidadMedia": 37.596
+        },
+        {
+            "etapa": 21,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 39.0,
+            "desnivel": 116,
+            "velocidadMedia": 50.21
+        },
+        {
+            "etapa": 22,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.1277
+        }
+    ]
+}

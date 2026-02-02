@@ -1,0 +1,266 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1947,
+    "distancia": 4630.0,
+    "desnivel": 54899,
+    "tiempo": "148h 11' 25\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 53,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "equipo": "Ouest",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fachleitner Édouard",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Brambilla Pierre",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 10 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ronconi Aldo",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 11 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 15 min 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Impanis Raymond",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 18 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Camellini Fermo",
+            "pais": "Italia",
+            "equipo": "Netherlands/International",
+            "ventaja": "+ 24 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cottur Giordano",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 1 h 6 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Goasmat Jean-Marie",
+            "pais": "Francia",
+            "equipo": "Ouest",
+            "ventaja": "+ 1 h 16 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lazaridès Apo",
+            "pais": "Francia",
+            "equipo": "Sud-Est",
+            "ventaja": "+ 1 h 18 min 44 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Robic Jean",
+        "pais": "Francia",
+        "equipo": "Ouest"
+    },
+    "ganadorMontana": {
+        "nombre": "Brambilla Pierre",
+        "pais": "Italia",
+        "equipo": "Italy"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Italy",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 236.0,
+            "desnivel": 1733,
+            "velocidadMedia": 34.376
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 182.0,
+            "desnivel": 1270,
+            "velocidadMedia": 35.702
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ronconi Aldo",
+            "pais": "Italia",
+            "distancia": 314.0,
+            "desnivel": 3500,
+            "velocidadMedia": 28.579
+        },
+        {
+            "etapa": 4,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "distancia": 223.0,
+            "desnivel": 2087,
+            "velocidadMedia": 27.059
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kübler Ferdinand",
+            "pais": "Suiza",
+            "distancia": 248.0,
+            "desnivel": 1996,
+            "velocidadMedia": 30.321
+        },
+        {
+            "etapa": 6,
+            "nombre": "Teisseire Lucien",
+            "pais": "Francia",
+            "distancia": 249.0,
+            "desnivel": 2298,
+            "velocidadMedia": 35.947
+        },
+        {
+            "etapa": 7,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "distancia": 172.0,
+            "desnivel": 3500,
+            "velocidadMedia": 31.29
+        },
+        {
+            "etapa": 8,
+            "nombre": "Camellini Fermo",
+            "pais": "Italia",
+            "distancia": 185.0,
+            "desnivel": 5000,
+            "velocidadMedia": 27.132
+        },
+        {
+            "etapa": 9,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "distancia": 217.0,
+            "desnivel": 4500,
+            "velocidadMedia": 29.374
+        },
+        {
+            "etapa": 10,
+            "nombre": "Camellini Fermo",
+            "pais": "Italia",
+            "distancia": 255.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.354
+        },
+        {
+            "etapa": 11,
+            "nombre": "Fachleitner Édouard",
+            "pais": "Francia",
+            "distancia": 230.0,
+            "desnivel": 2500,
+            "velocidadMedia": 35.294
+        },
+        {
+            "etapa": 12,
+            "nombre": "Massal Henri",
+            "pais": "Francia",
+            "distancia": 165.0,
+            "desnivel": 867,
+            "velocidadMedia": 33.259
+        },
+        {
+            "etapa": 13,
+            "nombre": "Teisseire Lucien",
+            "pais": "Francia",
+            "distancia": 172.0,
+            "desnivel": 1411,
+            "velocidadMedia": 32.393
+        },
+        {
+            "etapa": 14,
+            "nombre": "Bourlon Albert",
+            "pais": "Francia",
+            "distancia": 253.0,
+            "desnivel": 4000,
+            "velocidadMedia": 30.968
+        },
+        {
+            "etapa": 15,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 5000,
+            "velocidadMedia": 28.8
+        },
+        {
+            "etapa": 16,
+            "nombre": "Tacca Pierre",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 1031,
+            "velocidadMedia": 34.246
+        },
+        {
+            "etapa": 17,
+            "nombre": "Tassin Eloi",
+            "pais": "Francia",
+            "distancia": 272.0,
+            "desnivel": 1427,
+            "velocidadMedia": 30.274
+        },
+        {
+            "etapa": 18,
+            "nombre": "Tarchini Pietro",
+            "pais": "Suiza",
+            "distancia": 236.0,
+            "desnivel": 1711,
+            "velocidadMedia": 32.921
+        },
+        {
+            "etapa": 19,
+            "nombre": "Impanis Raymond",
+            "pais": "Bélgica",
+            "distancia": 139.0,
+            "desnivel": 1812,
+            "velocidadMedia": 36.324
+        },
+        {
+            "etapa": 20,
+            "nombre": "Diot Maurice",
+            "pais": "Francia",
+            "distancia": 235.0,
+            "desnivel": 2427,
+            "velocidadMedia": 36.755
+        },
+        {
+            "etapa": 21,
+            "nombre": "Schotte Briek",
+            "pais": "Bélgica",
+            "distancia": 257.0,
+            "desnivel": 2329,
+            "velocidadMedia": 35.349
+        }
+    ]
+}

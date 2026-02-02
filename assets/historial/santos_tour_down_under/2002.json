@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2002,
+    "distancia": 733.0,
+    "desnivel": 0,
+    "tiempo": "16h 59' 44\"",
+    "ciclistasInscritos": 96,
+    "ciclistasFinalizados": 92,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Australian Institute of Sport",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Botcharov Alexandre",
+            "pais": "Rusia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "Team UniSA",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Hyfte Paul",
+            "pais": "Bélgica",
+            "equipo": "CSC ProTeam - Tiscali",
+            "ventaja": "+ 3 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tafi Andrea",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 4 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Morin Anthony",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 4 min 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wesemann Steffen",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 5 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "McEwen Robbie",
+        "pais": "Australia",
+        "equipo": "Lotto - Adecco"
+    },
+    "ganadorMontana": {
+        "nombre": "Evans Cadel",
+        "pais": "Australia",
+        "equipo": "Mapei - Quickstep"
+    },
+    "ganadorJovenes": {
+        "nombre": "McPartland David",
+        "pais": "Australia",
+        "equipo": "United Water"
+    },
+    "ganadorEquipos": {
+        "nombre": " Mapei - Quickstep",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 47.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.61
+        },
+        {
+            "etapa": 2,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.584
+        },
+        {
+            "etapa": 3,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.837
+        },
+        {
+            "etapa": 4,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.101
+        },
+        {
+            "etapa": 5,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.096
+        },
+        {
+            "etapa": 6,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.438
+        }
+    ]
+}

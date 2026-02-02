@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1990,
+    "distancia": 970.0,
+    "desnivel": 5092,
+    "tiempo": "26h 08' 31\"",
+    "ciclistasInscritos": 136,
+    "ciclistasFinalizados": 136,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "equipo": "BH - Amaya",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Aja Enrique Alberto",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 2 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vargas Óscar de Jesús",
+            "pais": "Colombia",
+            "equipo": "Postobón - Manzana - Ryalcao",
+            "ventaja": "+ 2 min 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Montoya Jesús",
+            "pais": "España",
+            "equipo": "BH - Amaya",
+            "ventaja": "+ 3 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Corredor Edgar",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 5 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Claveyrolat Thierry",
+        "pais": "Francia",
+        "equipo": "RMO - Mavic - Liberia"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " BH - Amaya",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Elliott Malcolm",
+            "pais": "Reino Unido",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.987
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.779
+        },
+        {
+            "etapa": 3,
+            "nombre": "Elliott Malcolm",
+            "pais": "Reino Unido",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.51
+        },
+        {
+            "etapa": 4,
+            "nombre": "Montoya Jesús",
+            "pais": "España",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.853
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 5092,
+            "velocidadMedia": 39.76
+        },
+        {
+            "etapa": 6,
+            "nombre": "Lietti Marco",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.259
+        },
+        {
+            "etapa": 7,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "distancia": 29.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.774
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pedersen Per",
+            "pais": "Dinamarca",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 59.5928
+        }
+    ]
+}

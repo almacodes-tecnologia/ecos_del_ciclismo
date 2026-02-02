@@ -1,0 +1,110 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1985,
+    "distancia": 38.0,
+    "desnivel": 0,
+    "tiempo": "102h 46' 51\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 135,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "La Vie Claire",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Gis - Gelati",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "La Vie Claire",
+            "ventaja": "+ 2 min 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Prim Tommy",
+            "pais": "Suecia",
+            "equipo": "Sammontana",
+            "ventaja": "+ 4 min 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Alpilatte - Cierre",
+            "ventaja": "+ 6 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Supermercati Brianzoli",
+            "ventaja": "+ 6 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Contini Silvano",
+            "pais": "Italia",
+            "equipo": "Ariostea",
+            "ventaja": "+ 7 min 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wilson Michael",
+            "pais": "Australia",
+            "equipo": "Alpilatte - Cierre",
+            "ventaja": "+ 7 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chioccioli Franco",
+            "pais": "Italia",
+            "equipo": "Maggi Mobili - Fanini",
+            "ventaja": "+ 8 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Volpi Alberto",
+            "pais": "Italia",
+            "equipo": "Sammontana",
+            "ventaja": "+ 10 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van der Velde Johan",
+        "pais": "Países Bajos",
+        "equipo": "Vini Ricordi - Pinarello - Sidermec"
+    },
+    "ganadorMontana": {
+        "nombre": "Navarro José Luis",
+        "pais": "España",
+        "equipo": "Zor - Gemeaz"
+    },
+    "ganadorJovenes": {
+        "nombre": "Volpi Alberto",
+        "pais": "Italia",
+        "equipo": "Sammontana"
+    },
+    "ganadorEquipos": {
+        "nombre": " Alpilatte - Cierre",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 2,
+            "nombre": "Pevenage Rudy",
+            "pais": "Bélgica",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 54.55
+        }
+    ]
+}

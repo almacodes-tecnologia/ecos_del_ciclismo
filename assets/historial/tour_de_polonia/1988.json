@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1988,
+    "distancia": 940.2,
+    "desnivel": 0,
+    "tiempo": "22h 43' 46\"",
+    "ciclistasInscritos": 93,
+    "ciclistasFinalizados": 92,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mierzejewski Andrzej",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tammesalu Arvi",
+            "pais": "Estonia",
+            "equipo": "",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Karłowicz Mieczysław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Wrona Zdzisław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gołdyn Marian",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ludwiniak Zbigniew",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Krawczyk Sławomir",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "equipo": "",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Magosz Jan",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Domin Janusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 5 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Abduzhaparov Djamolidine",
+        "pais": "Uzbekistán",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Ushakov Serhiy",
+        "pais": "Ucrania",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Legia",
+        "pais": "Polonia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Krawczyk Sławomir",
+            "pais": "Polonia",
+            "distancia": 3.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.588
+        },
+        {
+            "etapa": 1,
+            "nombre": "Ludwiniak Zbigniew",
+            "pais": "Polonia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.758
+        },
+        {
+            "etapa": 3,
+            "nombre": "Magosz Jan",
+            "pais": "Polonia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.076
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bodyk Jacek",
+            "pais": "Polonia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.773
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.592
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.926
+        },
+        {
+            "etapa": 7,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 31.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.945
+        }
+    ]
+}

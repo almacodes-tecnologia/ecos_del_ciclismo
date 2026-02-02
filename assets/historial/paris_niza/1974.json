@@ -1,0 +1,178 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1974,
+    "distancia": 1262.5,
+    "desnivel": 0,
+    "tiempo": "33h 16' 55\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 71,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Santy Alain",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Thévenet Bernard",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "equipo": "Sonolor - Gitane",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "Rokado",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mortensen Leif",
+            "pais": "Dinamarca",
+            "equipo": "Bic",
+            "ventaja": "+ 3 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 3 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Linden Rik",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Colner",
+            "ventaja": "+ 3 min 34 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Linden Rik",
+        "pais": "Bélgica",
+        "equipo": "Ijsboerke - Colner"
+    },
+    "ganadorMontana": {
+        "nombre": "Danguillaume Jean-Pierre",
+        "pais": "Francia",
+        "equipo": "Peugeot - BP - Michelin"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Gan - Mercier - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.902
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.317
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.216
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.901
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.141
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.034
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.072
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.713
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 9.5,
+            "desnivel": 0,
+            "velocidadMedia": 27.625
+        }
+    ]
+}

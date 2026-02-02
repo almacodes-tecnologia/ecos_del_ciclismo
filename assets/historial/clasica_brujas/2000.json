@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2000,
+    "distancia": 541.0,
+    "desnivel": 0,
+    "tiempo": "13h 59' 40\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 123,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vainšteins Romāns",
+            "pais": "Letonia",
+            "equipo": "Vini Caldirola - Sidermec",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ivanov Sergei",
+            "pais": "Rusia",
+            "equipo": "Farm Frites",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tchmil Andrei",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "den Bakker Maarten",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hvastija Martin",
+            "pais": "Eslovenia",
+            "equipo": "Alessio",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Spruch Zbigniew",
+            "pais": "Polonia",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Høj Frank",
+            "pais": "Dinamarca",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Serpellini Marco",
+            "pais": "Italia",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Bondt Geert",
+            "pais": "Bélgica",
+            "equipo": "Farm Frites",
+            "ventaja": "+ 1 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vainšteins Romāns",
+        "pais": "Letonia",
+        "equipo": "Vini Caldirola - Sidermec"
+    },
+    "ganadorMontana": {
+        "nombre": "Bracke Tony",
+        "pais": "Bélgica",
+        "equipo": "Collstrop - De Federale Verzekeringen"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.9
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.48
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.85
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 14.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.6
+        }
+    ]
+}

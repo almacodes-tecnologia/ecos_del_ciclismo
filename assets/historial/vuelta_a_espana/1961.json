@@ -1,0 +1,231 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1961,
+    "distancia": 2637.5,
+    "desnivel": 0,
+    "tiempo": "77h 36' 17\"",
+    "ciclistasInscritos": 98,
+    "ciclistasFinalizados": 50,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "equipo": "Faema",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 2 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "equipo": "Faema",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "Faema",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Iturat Vicente",
+            "pais": "España",
+            "equipo": "Catigene",
+            "ventaja": "+ 5 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "Licor 43",
+            "ventaja": "+ 5 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "equipo": "Kas - Royal Asport",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Morales Carmelo",
+            "pais": "España",
+            "equipo": "Licor 43",
+            "ventaja": "+ 7 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 7 min 47 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Suárez Antonio",
+        "pais": "España",
+        "equipo": "Faema"
+    },
+    "ganadorMontana": {
+        "nombre": "Karmany Antonio",
+        "pais": "España",
+        "equipo": "Kas - Royal Asport"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 10.5,
+            "desnivel": 0,
+            "velocidadMedia": 10.69
+        },
+        {
+            "etapa": 1,
+            "nombre": "Rohrbach Marcel",
+            "pais": "Francia",
+            "distancia": 91.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.52
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "Iturat Vicente",
+            "pais": "España",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.45
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.3
+        },
+        {
+            "etapa": 5,
+            "nombre": "Galdeano Jesús",
+            "pais": "España",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 6,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.12
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Meenen René",
+            "pais": "Bélgica",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.34
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.31
+        },
+        {
+            "etapa": 9,
+            "nombre": "Barbosa Antonio da Silva Alves",
+            "pais": "Portugal",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.7
+        },
+        {
+            "etapa": 10,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.99
+        },
+        {
+            "etapa": 11,
+            "nombre": "Decabooter Arthur",
+            "pais": "Bélgica",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.36
+        },
+        {
+            "etapa": 12,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "distancia": 48.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.26
+        },
+        {
+            "etapa": 13,
+            "nombre": "Moreno Francisco",
+            "pais": "España",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.49
+        },
+        {
+            "etapa": 14,
+            "nombre": "Mahé François",
+            "pais": "Francia",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.94
+        },
+        {
+            "etapa": 15,
+            "nombre": "Karmany Antonio",
+            "pais": "España",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.46
+        },
+        {
+            "etapa": 16,
+            "nombre": "Company Gabriel",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.7274
+        }
+    ]
+}

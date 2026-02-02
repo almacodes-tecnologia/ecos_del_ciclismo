@@ -1,0 +1,270 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2021,
+    "distancia": 3417.0,
+    "desnivel": 52543,
+    "tiempo": "83h 55' 29\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 142,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 7 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 9 min 6 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mäder Gino",
+            "pais": "Suiza",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 11 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 13 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 18 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 18 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Martin Guillaume",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 20 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 22 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jakobsen Fabio",
+        "pais": "Países Bajos",
+        "equipo": "Deceuninck - Quick Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Storer Michael",
+        "pais": "Australia",
+        "equipo": "Team DSM"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mäder Gino",
+        "pais": "Suiza",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bahrain - Victorious",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 7.1,
+            "desnivel": 87,
+            "velocidadMedia": 49.922
+        },
+        {
+            "etapa": 2,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 166.7,
+            "desnivel": 1049,
+            "velocidadMedia": 41.858
+        },
+        {
+            "etapa": 3,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "distancia": 202.8,
+            "desnivel": 2787,
+            "velocidadMedia": 38.391
+        },
+        {
+            "etapa": 4,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 163.9,
+            "desnivel": 1534,
+            "velocidadMedia": 44.076
+        },
+        {
+            "etapa": 5,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 184.4,
+            "desnivel": 640,
+            "velocidadMedia": 41.801
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 158.3,
+            "desnivel": 902,
+            "velocidadMedia": 45.039
+        },
+        {
+            "etapa": 7,
+            "nombre": "Storer Michael",
+            "pais": "Australia",
+            "distancia": 152.0,
+            "desnivel": 3744,
+            "velocidadMedia": 36.448
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 173.7,
+            "desnivel": 923,
+            "velocidadMedia": 44.145
+        },
+        {
+            "etapa": 9,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "distancia": 188.0,
+            "desnivel": 4725,
+            "velocidadMedia": 37.199
+        },
+        {
+            "etapa": 10,
+            "nombre": "Storer Michael",
+            "pais": "Australia",
+            "distancia": 189.0,
+            "desnivel": 2390,
+            "velocidadMedia": 45.478
+        },
+        {
+            "etapa": 11,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 133.6,
+            "desnivel": 2647,
+            "velocidadMedia": 41.969
+        },
+        {
+            "etapa": 12,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 175.0,
+            "desnivel": 2018,
+            "velocidadMedia": 46.802
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sénéchal Florian",
+            "pais": "Francia",
+            "distancia": 203.7,
+            "desnivel": 1645,
+            "velocidadMedia": 40.961
+        },
+        {
+            "etapa": 14,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "distancia": 165.7,
+            "desnivel": 3448,
+            "velocidadMedia": 38.15
+        },
+        {
+            "etapa": 15,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "distancia": 197.5,
+            "desnivel": 3860,
+            "velocidadMedia": 40.638
+        },
+        {
+            "etapa": 16,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 180.0,
+            "desnivel": 2279,
+            "velocidadMedia": 43.382
+        },
+        {
+            "etapa": 17,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 185.8,
+            "desnivel": 4519,
+            "velocidadMedia": 40.575
+        },
+        {
+            "etapa": 18,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "distancia": 162.6,
+            "desnivel": 4951,
+            "velocidadMedia": 34.676
+        },
+        {
+            "etapa": 19,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 191.2,
+            "desnivel": 3540,
+            "velocidadMedia": 43.307
+        },
+        {
+            "etapa": 20,
+            "nombre": "Champoussin Clément",
+            "pais": "Francia",
+            "distancia": 202.2,
+            "desnivel": 4214,
+            "velocidadMedia": 37.697
+        },
+        {
+            "etapa": 21,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 33.8,
+            "desnivel": 641,
+            "velocidadMedia": 46.056
+        }
+    ]
+}

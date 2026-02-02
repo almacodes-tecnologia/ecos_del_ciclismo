@@ -1,0 +1,135 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1970,
+    "distancia": 664.5,
+    "desnivel": 0,
+    "tiempo": "18h 48' 31\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "equipo": "Ferretti",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Boifava Davide",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Faema - Faemino",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "equipo": "G.B.C. - Zimba",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Simonetti Mauro",
+            "pais": "Italia",
+            "equipo": "Ferretti",
+            "ventaja": "+ 2 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poggiali Roberto",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Sonolor - Lejeune",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 3 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van den Bossche Martin",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "+ 3 min 39 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Bilsland William",
+            "pais": "Reino Unido",
+            "distancia": 4.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.685
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.081
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 258.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.093
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 93.2,
+            "desnivel": 0,
+            "velocidadMedia": 43.021
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

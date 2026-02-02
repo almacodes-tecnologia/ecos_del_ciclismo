@@ -1,0 +1,21 @@
+{
+  "id": "gp_quebec",
+  "nombre": "GP de Quebec",
+  "pais": "Canadá",
+  "categoria": "World Tour",
+  "tipo": "Clásica de un día",
+  "descripcion": "El Gran Premio de Quebec se disputa en un circuito urbano a través de la histórica Ciudad de Quebec. El recorrido, con sus constantes subidas y bajadas, es ideal para los 'punchers' o clasicómanos. A menudo, el resultado se decide en un sprint en grupo reducido en la rampa final.",
+  "anio_inicio": 2010,
+  "edicionesDisponibles": [2025, 2024, 2023, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010],
+  "imagenes": ["assets/imagenes/gp_quebec.webp"],
+  "records": {
+    "mas_victorias": {
+      "valor": "3",
+      "descripcion": "Michael Matthews ostenta el récord de más victorias en la historia de la carrera."
+    },
+    "mas_victorias_consecutivas": {
+      "valor": "2",
+      "descripcion": "Peter Sagan (2016-2017) y Michael Matthews (2018-2019) han logrado dos victorias consecutivas."
+    }
+  }
+}

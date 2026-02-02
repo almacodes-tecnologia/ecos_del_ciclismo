@@ -1,0 +1,33 @@
+{
+  "id": "la_covatilla_bejar",
+  "nombre": "La Covatilla",
+  "pais": "España",
+  "longitud_km": 17.2,
+  "desnivel_m": 1032,
+  "altura_maxima_m": 1959,
+  "pendiente_media_porcentaje": 6.0,
+  "pendiente_maxima_porcentaje": 11.3,
+  "descripcion": "Una subida de gran longitud caracterizada por una pendiente media moderada (alrededor del 6%), pero con una segunda mitad muy expuesta al viento y con rampas más duras, especialmente en los kilómetros finales.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 927},
+    {"kilometro": 1.0, "altitud": 979},
+    {"kilometro": 2.0, "altitud": 1020},
+    {"kilometro": 3.0, "altitud": 1072},
+    {"kilometro": 4.0, "altitud": 1109},
+    {"kilometro": 5.0, "altitud": 1110},
+    {"kilometro": 6.0, "altitud": 1177},
+    {"kilometro": 7.0, "altitud": 1240},
+    {"kilometro": 8.0, "altitud": 1270},
+    {"kilometro": 9.0, "altitud": 1304},
+    {"kilometro": 10.0, "altitud": 1390},
+    {"kilometro": 11.0, "altitud": 1450},
+    {"kilometro": 12.0, "altitud": 1545},
+    {"kilometro": 13.0, "altitud": 1640},
+    {"kilometro": 14.0, "altitud": 1730},
+    {"kilometro": 15.0, "altitud": 1815},
+    {"kilometro": 16.0, "altitud": 1910},
+    {"kilometro": 17.0, "altitud": 1946},
+    {"kilometro": 17.2, "altitud": 1959}
+  ],
+  "puntos_clave": []
+}

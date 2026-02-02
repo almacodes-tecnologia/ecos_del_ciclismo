@@ -1,0 +1,246 @@
+[
+  {
+    "id": "caida_beloki_2003",
+    "titulo": "La caída de Joseba Beloki",
+    "anio": 2003,
+    "tipo_momento": "caída",
+    "categoria": "dramático",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Joseba Beloki", "Lance Armstrong"]
+  },
+  {
+    "id": "escapada_coppi_milan_sanremo_1946",
+    "titulo": "La escapada de Fausto Coppi en Milán–San Remo",
+    "anio": 1946,
+    "tipo_momento": "ataque",
+    "categoria": "histórico",
+    "carrera": "Milán–San Remo",
+    "protagonistas": ["Fausto Coppi"]
+  },
+  {
+    "id": "victoria_hinault_liege_1980",
+    "titulo": "Hinault gana Lieja–Bastoña–Lieja bajo la nieve",
+    "anio": 1980,
+    "tipo_momento": "victoria",
+    "categoria": "épico",
+    "carrera": "Lieja–Bastoña–Lieja",
+    "protagonistas": ["Bernard Hinault"]
+  },
+  {
+    "id": "froome_corriendo_ventoux_2016",
+    "titulo": "Chris Froome corriendo a pie en el Mont Ventoux",
+    "anio": 2016,
+    "tipo_momento": "insolito",
+    "categoria": "insólito",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Chris Froome"]
+  },
+  {
+    "id": "pogacar_remontada_crono_2020",
+    "titulo": "Remontada de Tadej Pogačar en la crono de La Planche des Belles Filles",
+    "anio": 2020,
+    "tipo_momento": "contrarreloj",
+    "categoria": "épico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Tadej Pogačar", "Primož Roglič"]
+  },
+  {
+    "id": "delgado_retraso_crono_1988",
+    "titulo": "Perico Delgado llega tarde a la contrarreloj",
+    "anio": 1988,
+    "tipo_momento": "retraso",
+    "categoria": "insólito",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Perico Delgado"],
+    "descripcion": "Delgado llegó con 2 minutos y 40 segundos de retraso al inicio del prólogo, un fallo organizativo que se convertiría en uno de los momentos más recordados de la carrera, que él finalmente ganaría."
+  },
+  {
+    "id": "le_mond_vs_fignon_1989",
+    "titulo": "Greg LeMond gana el Tour por 8 segundos",
+    "anio": 1989,
+    "tipo_momento": "contrarreloj",
+    "categoria": "épico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Greg LeMond", "Laurent Fignon"],
+    "descripcion": "El final más ajustado de la historia del Tour. LeMond le arrebató el maillot amarillo a Fignon en la contrarreloj final de París por la diferencia mínima de 8 segundos, utilizando un manillar aerodinámico."
+  },
+  {
+    "id": "pantani_ataque_les_deux_alpes_1998",
+    "titulo": "El ataque de Pantani en Les Deux Alpes (Doble Corona)",
+    "anio": 1998,
+    "tipo_momento": "ataque",
+    "categoria": "épico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Marco Pantani", "Jan Ullrich"],
+    "descripcion": "Bajo la lluvia, Pantani lanzó un ataque decisivo en el Galibier y sentenció el Tour (que luego ganaría) con una exhibición de escalada y pundonor, camino de su histórico doblete Giro-Tour."
+  },
+  {
+    "id": "merckx_ataque_mourenx_1969",
+    "titulo": "Eddy Merckx ataca solo en el Tourmalet y gana en Mourenx",
+    "anio": 1969,
+    "tipo_momento": "ataque",
+    "categoria": "histórico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Eddy Merckx"],
+    "descripcion": "Una de las mayores exhibiciones de dominio: Merckx atacó a más de 140 km de la meta después de coronar el Tourmalet, ganando la etapa con una ventaja de casi ocho minutos."
+  },
+  {
+    "id": "pantani_crisis_apríca_1994",
+    "titulo": "El bidón y la crisis de Induráin en Aprica",
+    "anio": 1994,
+    "tipo_momento": "crisis",
+    "categoria": "dramático",
+    "carrera": "Giro de Italia",
+    "protagonistas": ["Miguel Induráin", "Marco Pantani", "Evgeni Berzin"],
+    "descripcion": "Induráin sufrió una crisis ('pájara') en el Giro, siendo atacado por Pantani en el Mortirolo. La imagen del campeón aceptando un bidón de un aficionado se hizo viral y simbolizó su debilidad en ese momento."
+  },
+  {
+    "id": "gimondi_triplete_1968",
+    "titulo": "Felice Gimondi completa la Triple Corona",
+    "anio": 1968,
+    "tipo_momento": "victoria",
+    "categoria": "histórico",
+    "carrera": "Vuelta a España",
+    "protagonistas": ["Felice Gimondi"],
+    "descripcion": "Gimondi se convierte en el segundo ciclista de la historia en ganar las tres Grandes Vueltas (Giro, Tour, Vuelta), estableciendo el exclusivo club de la 'Triple Corona'."
+  },
+  {
+    "id": "coppi_campionato_mondial_1953",
+    "titulo": "Fausto Coppi, el 'Campionissimo' en el Campeonato Mundial",
+    "anio": 1953,
+    "tipo_momento": "victoria",
+    "categoria": "épico",
+    "carrera": "Campeonato Mundial en Ruta",
+    "protagonistas": ["Fausto Coppi"],
+    "descripcion": "El legendario Coppi se corona por fin Campeón del Mundo en Ruta en Lugano, consolidando su estatus como el 'Campionissimo' en la era dorada del ciclismo italiano."
+  },
+  {
+    "id": "van_der_poel_vs_van_aert_roubaix_2020",
+    "titulo": "El duelo Van Aert/Van der Poel en el Mundial de Ciclocross",
+    "anio": 2020,
+    "tipo_momento": "duelo",
+    "categoria": "épico",
+    "carrera": "Campeonato Mundial de Ciclocross",
+    "protagonistas": ["Mathieu van der Poel", "Wout van Aert"],
+    "descripcion": "Aunque es Ciclocross, este duelo representa la gran rivalidad de la época moderna, con Van der Poel logrando el título en un espectacular mano a mano contra su gran rival, Van Aert."
+  },
+  {
+    "id": "indurain_record_de_la_hora_1994",
+    "titulo": "Miguel Induráin rompe el Récord de la Hora",
+    "anio": 1994,
+    "tipo_momento": "récord",
+    "categoria": "histórico",
+    "carrera": "Récord de la Hora",
+    "protagonistas": ["Miguel Induráin"],
+    "descripcion": "Induráin batió el récord de la hora en el velódromo de Burdeos (53.040 km), demostrando su dominio absoluto en la contrarreloj, aunque su récord fue batido poco después."
+  },
+  {
+    "id": "poulidor_vs_ansquetil_1964",
+    "titulo": "El codo con codo de Anquetil y Poulidor en el Puy de Dôme",
+    "anio": 1964,
+    "tipo_momento": "duelo",
+    "categoria": "dramático",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Jacques Anquetil", "Raymond Poulidor"],
+    "descripcion": "El duelo que definió una generación: Anquetil y Poulidor subiendo codo con codo el Puy de Dôme, la imagen más icónica de la eterna rivalidad entre ambos."
+  },
+  {
+    "id": "pogacar_ataque_zurich_2024",
+    "titulo": "Tadej Pogačar gana el Mundial con una exhibición solitaria",
+    "anio": 2024,
+    "tipo_momento": "victoria",
+    "categoria": "épico",
+    "carrera": "Campeonato Mundial en Ruta",
+    "protagonistas": ["Tadej Pogačar"]
+  },
+  {
+    "id": "museeuw_roubaix_2000",
+    "titulo": "Johan Museeuw, el regreso del 'León de Flandes' a Roubaix",
+    "anio": 2000,
+    "tipo_momento": "victoria",
+    "categoria": "épico",
+    "carrera": "París-Roubaix",
+    "protagonistas": ["Johan Museeuw"]
+  },
+  {
+    "id": "ataque_alberto_tour_2009",
+    "titulo": "Contador ataca a su propio líder: La fractura del Astana",
+    "anio": 2009,
+    "tipo_momento": "polémica",
+    "categoria": "dramático",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Alberto Contador", "Lance Armstrong"]
+  },{
+  "id": "primer_espanol_tour_1959",
+  "titulo": "Federico Martín Bahamontes, el Águila de Toledo",
+  "anio": 1959,
+  "tipo_momento": "victoria",
+  "categoria": "histórico",
+  "carrera": "Tour de Francia",
+  "protagonistas": ["Federico Martín Bahamontes"]
+},
+  {
+    "id": "ataque_mas_corto_2004",
+    "titulo": "Christophe Edaleine: El ataque más fugaz del Tour",
+    "anio": 2004,
+    "tipo_momento": "insólito",
+    "categoria": "cómico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Christophe Edaleine"],
+    "descripcion": "El ataque más corto en la historia del Tour: 50 metros después de la salida neutralizada."
+  },
+  {
+    "id": "nibali_ataque_sanremo_2018",
+    "titulo": "Vincenzo Nibali: El ataque 'suicida' del Tiburón en el Poggio",
+    "anio": 2018,
+    "tipo_momento": "ataque",
+    "categoria": "épico",
+    "carrera": "Milán–San Remo",
+    "protagonistas": ["Vincenzo Nibali"]
+  },
+  {
+    "id": "maior_velocidad_descenso",
+    "titulo": "El Descenso Vertiginoso: Récord de Velocidad Máxima en Carrera",
+    "anio": 2021,
+    "tipo_momento": "récord",
+    "categoria": "épico",
+    "carrera": "Giro de Italia",
+    "protagonistas": ["Samuele Battistella"]
+  },
+  {
+    "id": "cambio_manillar_1989",
+    "titulo": "La revolución tecnológica: El Manillar Aerodinámico",
+    "anio": 1989,
+    "tipo_momento": "tecnología",
+    "categoria": "histórico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Greg LeMond"]
+  },
+  {
+    "id": "stevens_record_de_la_hora",
+    "titulo": "Evelyn Stevens establece un nuevo Récord de la Hora Femenino",
+    "anio": 2016,
+    "tipo_momento": "récord",
+    "categoria": "histórico",
+    "carrera": "Récord de la Hora Femenino",
+    "protagonistas": ["Evelyn Stevens"]
+  },
+  {
+    "id": "etapa_linea_mas_larga",
+    "titulo": "La Etapa Maratón: Tour de Francia y sus 482 kilómetros",
+    "anio": 1919,
+    "tipo_momento": "récord",
+    "categoria": "histórico",
+    "carrera": "Tour de Francia",
+    "protagonistas": ["Jean Alavoine", "Honoré Barthélemy"]
+  },
+  {
+    "id": "vuelta_final_ajustado_1984",
+    "titulo": "Final de Infarto: La Vuelta a España de 1984 por 6 Segundos",
+    "anio": 1984,
+    "tipo_momento": "duelo",
+    "categoria": "dramático",
+    "carrera": "Vuelta a España",
+    "protagonistas": ["Eric Caritoux", "Alberto Fernández"]
+  }
+]

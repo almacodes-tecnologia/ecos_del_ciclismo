@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1975,
+    "distancia": 1636.1,
+    "desnivel": 0,
+    "tiempo": "44h 22' 48\"",
+    "ciclistasInscritos": 61,
+    "ciclistasFinalizados": 59,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni - RYC",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "equipo": "Zonca - Santini",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pronk Bert",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 4 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Riccomi Walter",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 4 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dierickx André",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 4 min 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 4 min 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Janssens Ward",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 9 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 10 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 10 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Vlaeminck Roger",
+        "pais": "Bélgica",
+        "equipo": "Brooklyn"
+    },
+    "ganadorMontana": {
+        "nombre": "Bellini Giancarlo",
+        "pais": "Italia",
+        "equipo": "Brooklyn"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Brooklyn",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 3.7,
+            "desnivel": 0,
+            "velocidadMedia": 29.67
+        },
+        {
+            "etapa": 1,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Crepaldi Ottavio",
+            "pais": "Italia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.37
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.12
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pronk Bert",
+            "pais": "Países Bajos",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.3
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.5
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.05
+        },
+        {
+            "etapa": 7,
+            "nombre": "Oliva Andrés",
+            "pais": "España",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.34
+        },
+        {
+            "etapa": 8,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5
+        },
+        {
+            "etapa": 9,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 9,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 20.4,
+            "desnivel": 0,
+            "velocidadMedia": 45.59
+        }
+    ]
+}

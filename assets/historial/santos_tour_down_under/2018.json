@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2018,
+    "distancia": 693.8,
+    "desnivel": 7789,
+    "tiempo": "20h 03' 34\"",
+    "ciclistasInscritos": 131,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Slagter Tom-Jelte",
+            "pais": "Países Bajos",
+            "equipo": "Team Dimension Data",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Devenyns Dries",
+            "pais": "Bélgica",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Guerreiro Ruben",
+            "pais": "Portugal",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 24 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Dlamini Nic",
+        "pais": "Sudáfrica",
+        "equipo": "Team Dimension Data"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernal Egan",
+        "pais": "Colombia",
+        "equipo": "Team Sky"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bahrain Merida Pro Cycling Team",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 145.0,
+            "desnivel": 1290,
+            "velocidadMedia": 37.77
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 148.6,
+            "desnivel": 2347,
+            "velocidadMedia": 36.55
+        },
+        {
+            "etapa": 3,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 120.5,
+            "desnivel": 1142,
+            "velocidadMedia": 39.15
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 128.2,
+            "desnivel": 1625,
+            "velocidadMedia": 38.25
+        },
+        {
+            "etapa": 5,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 151.5,
+            "desnivel": 1385,
+            "velocidadMedia": 40.88
+        },
+        {
+            "etapa": 6,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.0641
+        }
+    ]
+}

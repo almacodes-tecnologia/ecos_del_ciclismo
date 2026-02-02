@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2002,
+    "distancia": 598.0,
+    "desnivel": 0,
+    "tiempo": "17h 27' 20\"",
+    "ciclistasInscritos": 126,
+    "ciclistasFinalizados": 97,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "US Postal Service",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Garmendia Aitor",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pérez Rodríguez Luis",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Plaza David",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Noval Benjamín",
+            "pais": "España",
+            "equipo": "Colchon Relax - Fuenlabrada",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Garrido José Antonio",
+            "pais": "España",
+            "equipo": "Jazztel - Costa de Almeria",
+            "ventaja": "+ 1 min 51 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Noval Benjamín",
+        "pais": "España",
+        "equipo": "Colchon Relax - Fuenlabrada"
+    },
+    "ganadorMontana": {
+        "nombre": "Garrido José Antonio",
+        "pais": "España",
+        "equipo": "Jazztel - Costa de Almeria"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Coast",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 30.9,
+            "desnivel": 0,
+            "velocidadMedia": 53.584
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "distancia": 182.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.89
+        },
+        {
+            "etapa": 3,
+            "nombre": "Garmendia Aitor",
+            "pais": "España",
+            "distancia": 10.8,
+            "desnivel": 0,
+            "velocidadMedia": 29.1
+        },
+        {
+            "etapa": 4,
+            "nombre": "Garrido José Antonio",
+            "pais": "España",
+            "distancia": 52.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.39
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maestre José Manuel",
+            "pais": "España",
+            "distancia": 141.3,
+            "desnivel": 0,
+            "velocidadMedia": 42.37
+        },
+        {
+            "etapa": 6,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 180.1,
+            "desnivel": 0,
+            "velocidadMedia": 43.11
+        },
+        {
+            "etapa": 7,
+            "nombre": "Fofonov Dmitriy",
+            "pais": "Kazajistán",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.8982
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2016,
+    "distancia": 691.3,
+    "desnivel": 8878,
+    "tiempo": "19h 11' 33\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 134,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "McCarthy Jay",
+            "pais": "Australia",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "Cannondale Pro Cycling Team",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Valls Rafael",
+            "pais": "España",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Morabito Steve",
+            "pais": "Suiza",
+            "equipo": "FDJ",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bevin Patrick",
+            "pais": "Nueva Zelanda",
+            "equipo": "Cannondale Pro Cycling Team",
+            "ventaja": "+ 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Gerrans Simon",
+        "pais": "Australia",
+        "equipo": "Orica GreenEDGE"
+    },
+    "ganadorMontana": {
+        "nombre": "Henao Sergio",
+        "pais": "Colombia",
+        "equipo": "Team Sky"
+    },
+    "ganadorJovenes": {
+        "nombre": "McCarthy Jay",
+        "pais": "Australia",
+        "equipo": "Tinkoff"
+    },
+    "ganadorEquipos": {
+        "nombre": " Cannondale Pro Cycling Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 130.8,
+            "desnivel": 1393,
+            "velocidadMedia": 38.43
+        },
+        {
+            "etapa": 2,
+            "nombre": "McCarthy Jay",
+            "pais": "Australia",
+            "distancia": 132.0,
+            "desnivel": 2623,
+            "velocidadMedia": 38.32
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 139.0,
+            "desnivel": 1936,
+            "velocidadMedia": 38.33
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 138.0,
+            "desnivel": 1481,
+            "velocidadMedia": 42.68
+        },
+        {
+            "etapa": 5,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 151.5,
+            "desnivel": 1445,
+            "velocidadMedia": 42.42
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.6921
+        }
+    ]
+}

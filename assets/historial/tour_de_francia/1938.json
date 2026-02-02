@@ -1,0 +1,326 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1938,
+    "distancia": 4402.0,
+    "desnivel": 0,
+    "tiempo": "148h 29' 12\"",
+    "ciclistasInscritos": 89,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 18 min 27 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Cosson Victor",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 29 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vissers Edward",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 35 min 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Clemens Mathias",
+            "pais": "Luxemburgo",
+            "equipo": "Luxembourg",
+            "ventaja": "+ 42 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vicini Mario",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 44 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lowie Jules",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 48 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 49 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kint Marcel",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 59 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gianello Dante",
+            "pais": "Francia",
+            "equipo": "Bleuets",
+            "ventaja": "+ 1 h 6 min 47 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": "Italy"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Oberbeck Willi",
+            "pais": "Alemania",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.38
+        },
+        {
+            "etapa": 2,
+            "nombre": "Majerus Jean",
+            "pais": "Luxemburgo",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.77
+        },
+        {
+            "etapa": 3,
+            "nombre": "Schulte Gerrit",
+            "pais": "Países Bajos",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.11
+        },
+        {
+            "etapa": 4,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 62.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.04
+        },
+        {
+            "etapa": 4,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 83.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.27
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 83.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.72
+        },
+        {
+            "etapa": 5,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.99
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rossi Giulio",
+            "pais": "Italia",
+            "distancia": 53.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.66
+        },
+        {
+            "etapa": 6,
+            "nombre": "Servadei Glauco",
+            "pais": "Italia",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.47
+        },
+        {
+            "etapa": 7,
+            "nombre": "Middelkamp Theo",
+            "pais": "Países Bajos",
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.26
+        },
+        {
+            "etapa": 8,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.6
+        },
+        {
+            "etapa": 9,
+            "nombre": "Fréchaut Jean",
+            "pais": "Francia",
+            "distancia": 260.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.43
+        },
+        {
+            "etapa": 10,
+            "nombre": "van Schendel Antoon",
+            "pais": "Países Bajos",
+            "distancia": 63.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.54
+        },
+        {
+            "etapa": 10,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 27.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.0
+        },
+        {
+            "etapa": 10,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 73.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.66
+        },
+        {
+            "etapa": 11,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.46
+        },
+        {
+            "etapa": 12,
+            "nombre": "Fréchaut Jean",
+            "pais": "Francia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.19
+        },
+        {
+            "etapa": 13,
+            "nombre": "Gianello Dante",
+            "pais": "Francia",
+            "distancia": 284.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.44
+        },
+        {
+            "etapa": 14,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.83
+        },
+        {
+            "etapa": 15,
+            "nombre": "Kint Marcel",
+            "pais": "Bélgica",
+            "distancia": 311.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.6
+        },
+        {
+            "etapa": 16,
+            "nombre": "Kint Marcel",
+            "pais": "Bélgica",
+            "distancia": 284.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.38
+        },
+        {
+            "etapa": 17,
+            "nombre": "Masson jr Émile",
+            "pais": "Bélgica",
+            "distancia": 89.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.13
+        },
+        {
+            "etapa": 17,
+            "nombre": "Fréchaut Jean",
+            "pais": "Francia",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.74
+        },
+        {
+            "etapa": 18,
+            "nombre": "Kint Marcel",
+            "pais": "Bélgica",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.49
+        },
+        {
+            "etapa": 19,
+            "nombre": "Galateau Fabien",
+            "pais": "Francia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.75
+        },
+        {
+            "etapa": 20,
+            "nombre": "Servadei Glauco",
+            "pais": "Italia",
+            "distancia": 48.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.51
+        },
+        {
+            "etapa": 20,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 20,
+            "nombre": "Neuville François",
+            "pais": "Bélgica",
+            "distancia": 107.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.29
+        },
+        {
+            "etapa": 21,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.4731
+        }
+    ]
+}

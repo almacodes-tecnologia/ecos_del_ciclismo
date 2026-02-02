@@ -1,0 +1,278 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1989,
+    "distancia": 3260.8,
+    "desnivel": 50239,
+    "tiempo": "87h 38' 35\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 138,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "ADR - Agrigel - Bottecchia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Super U - Raleigh - Fiat",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Reynolds - Banesto",
+            "ventaja": "+ 3 min 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Theunisse Gert-Jan",
+            "pais": "Países Bajos",
+            "equipo": "PDM ",
+            "ventaja": "+ 7 min 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Paternina - Marcos Equizabal",
+            "ventaja": "+ 9 min 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "RMO - Mavic - Liberia",
+            "ventaja": "+ 10 min 6 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rooks Steven",
+            "pais": "Países Bajos",
+            "equipo": "PDM ",
+            "ventaja": "+ 11 min 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "equipo": "PDM ",
+            "ventaja": "+ 14 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "PDM ",
+            "ventaja": "+ 18 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 18 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "PDM "
+    },
+    "ganadorMontana": {
+        "nombre": "Theunisse Gert-Jan",
+        "pais": "Países Bajos",
+        "equipo": "PDM "
+    },
+    "ganadorJovenes": {
+        "nombre": "Philipot Fabrice",
+        "pais": "Francia",
+        "equipo": "Toshiba"
+    },
+    "ganadorEquipos": {
+        "nombre": " PDM ",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Breukink Erik",
+            "pais": "Países Bajos",
+            "distancia": 7.8,
+            "desnivel": 152,
+            "velocidadMedia": 47.27
+        },
+        {
+            "etapa": 1,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "distancia": 135.5,
+            "desnivel": 2028,
+            "velocidadMedia": 40.33
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 46.0,
+            "desnivel": 433,
+            "velocidadMedia": 51.3
+        },
+        {
+            "etapa": 3,
+            "nombre": "Alcalá Raúl",
+            "pais": "México",
+            "distancia": 241.0,
+            "desnivel": 3895,
+            "velocidadMedia": 36.67
+        },
+        {
+            "etapa": 4,
+            "nombre": "Nijdam Jelle",
+            "pais": "Países Bajos",
+            "distancia": 255.0,
+            "desnivel": 2076,
+            "velocidadMedia": 40.91
+        },
+        {
+            "etapa": 5,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "distancia": 73.0,
+            "desnivel": 785,
+            "velocidadMedia": 44.6
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pelier Joël",
+            "pais": "Francia",
+            "distancia": 259.0,
+            "desnivel": 1854,
+            "velocidadMedia": 37.2
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 258.5,
+            "desnivel": 1619,
+            "velocidadMedia": 35.09
+        },
+        {
+            "etapa": 8,
+            "nombre": "Earley Martin",
+            "pais": "Irlanda",
+            "distancia": 157.0,
+            "desnivel": 1838,
+            "velocidadMedia": 40.7
+        },
+        {
+            "etapa": 9,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 147.0,
+            "desnivel": 4500,
+            "velocidadMedia": 32.36
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 136.0,
+            "desnivel": 4750,
+            "velocidadMedia": 31.11
+        },
+        {
+            "etapa": 11,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 158.5,
+            "desnivel": 1911,
+            "velocidadMedia": 43.67
+        },
+        {
+            "etapa": 12,
+            "nombre": "Tebaldi Valerio",
+            "pais": "Italia",
+            "distancia": 242.0,
+            "desnivel": 2648,
+            "velocidadMedia": 42.59
+        },
+        {
+            "etapa": 13,
+            "nombre": "Barteau Vincent",
+            "pais": "Francia",
+            "distancia": 179.0,
+            "desnivel": 1451,
+            "velocidadMedia": 41.71
+        },
+        {
+            "etapa": 14,
+            "nombre": "Nijdam Jelle",
+            "pais": "Países Bajos",
+            "distancia": 240.0,
+            "desnivel": 3500,
+            "velocidadMedia": 37.12
+        },
+        {
+            "etapa": 15,
+            "nombre": "Rooks Steven",
+            "pais": "Países Bajos",
+            "distancia": 39.0,
+            "desnivel": 1453,
+            "velocidadMedia": 33.1
+        },
+        {
+            "etapa": 16,
+            "nombre": "Richard Pascal",
+            "pais": "Suiza",
+            "distancia": 175.0,
+            "desnivel": 4000,
+            "velocidadMedia": 36.62
+        },
+        {
+            "etapa": 17,
+            "nombre": "Theunisse Gert-Jan",
+            "pais": "Países Bajos",
+            "distancia": 165.0,
+            "desnivel": 5000,
+            "velocidadMedia": 31.87
+        },
+        {
+            "etapa": 18,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "distancia": 91.5,
+            "desnivel": 2560,
+            "velocidadMedia": 36.25
+        },
+        {
+            "etapa": 19,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "distancia": 125.0,
+            "desnivel": 2500,
+            "velocidadMedia": 37.901
+        },
+        {
+            "etapa": 20,
+            "nombre": "Fidanza Giovanni",
+            "pais": "Italia",
+            "distancia": 130.0,
+            "desnivel": 1286,
+            "velocidadMedia": 37.82
+        },
+        {
+            "etapa": 21,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.485
+        }
+    ]
+}

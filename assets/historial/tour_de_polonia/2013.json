@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2013,
+    "distancia": 1188.0,
+    "desnivel": 0,
+    "tiempo": "31h 58' 07\"",
+    "ciclistasInscritos": 138,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Capecchi Eros",
+            "pais": "Italia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Cannondale Pro Cycling Team",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kangert Tanel",
+            "pais": "Estonia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 2 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sørensen Chris Anker",
+            "pais": "Dinamarca",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 2 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Majka Rafał",
+        "pais": "Polonia",
+        "equipo": "Team Saxo - Tinkoff"
+    },
+    "ganadorMontana": {
+        "nombre": "Marczyński Tomasz",
+        "pais": "Polonia",
+        "equipo": "Vacansoleil - DCM"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " RadioShack - Leopard",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "distancia": 183.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.76
+        },
+        {
+            "etapa": 2,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "distancia": 195.5,
+            "desnivel": 0,
+            "velocidadMedia": 32.25
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.74
+        },
+        {
+            "etapa": 4,
+            "nombre": "Phinney Taylor",
+            "pais": "Estados Unidos",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.73
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.91
+        },
+        {
+            "etapa": 6,
+            "nombre": "Atapuma Darwin",
+            "pais": "Colombia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.05
+        },
+        {
+            "etapa": 7,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.3188
+        }
+    ]
+}

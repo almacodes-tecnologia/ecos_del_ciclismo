@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2007,
+    "distancia": 1130.7,
+    "desnivel": 0,
+    "tiempo": "29h 55' 22\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 81,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pellizotti Franco",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "López David",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 1 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pellizotti Franco",
+        "pais": "Italia",
+        "equipo": "Liquigas"
+    },
+    "ganadorMontana": {
+        "nombre": "Voeckler Thomas",
+        "pais": "Francia",
+        "equipo": "Bouygues Telecom"
+    },
+    "ganadorJovenes": {
+        "nombre": "Contador Alberto",
+        "pais": "España",
+        "equipo": "Discovery Channel Pro Cycling Team "
+    },
+    "ganadorEquipos": {
+        "nombre": " Caisse d'Epargne",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 4.7,
+            "desnivel": 0,
+            "velocidadMedia": 46.87
+        },
+        {
+            "etapa": 1,
+            "nombre": "Nazon Jean-Patrick",
+            "pais": "Francia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.387
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pellizotti Franco",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.697
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kolobnev Alexandr",
+            "pais": "Rusia",
+            "distancia": 215.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.16
+        },
+        {
+            "etapa": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 169.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.102
+        },
+        {
+            "etapa": 5,
+            "nombre": "Popovych Yaroslav",
+            "pais": "Ucrania",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.406
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.88
+        },
+        {
+            "etapa": 7,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.1073
+        }
+    ]
+}

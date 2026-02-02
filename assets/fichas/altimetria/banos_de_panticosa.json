@@ -1,0 +1,27 @@
+{
+  "id": "banos_de_panticosa",
+  "nombre": "Alto del Balneario de Panticosa",
+  "pais": "España",
+  "longitud_km": 10.2,
+  "desnivel_m": 514,
+  "altura_maxima_m": 1639,
+  "pendiente_media_porcentaje": 5,
+  "pendiente_maxima_porcentaje": 12,
+  "descripcion": "Clásico puerto pirenaico. La ascensión se caracteriza por un inicio muy suave, un tramo central de gran dureza con rampas de hasta el 12%, y un final casi llano que lleva al Balneario, rodeado de un impresionante circo montañoso.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 1125},
+    {"kilometro": 1, "altitud": 1140},
+    {"kilometro": 2, "altitud": 1165},
+    {"kilometro": 3, "altitud": 1190},
+    {"kilometro": 4, "altitud": 1220},
+    {"kilometro": 5, "altitud": 1270},
+    {"kilometro": 6, "altitud": 1345},
+    {"kilometro": 7, "altitud": 1430},
+    {"kilometro": 8, "altitud": 1515},
+    {"kilometro": 9, "altitud": 1591},
+    {"kilometro": 10, "altitud": 1634},
+    {"kilometro": 10.2, "altitud": 1639}
+  ],
+  "puntos_clave": [
+  ]
+}

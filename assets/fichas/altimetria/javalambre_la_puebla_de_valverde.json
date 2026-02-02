@@ -1,0 +1,37 @@
+{
+  "id": "javalambre_la_puebla_de_valverde",
+  "nombre": "Javalambre",
+  "pais": "España",
+  "longitud_km": 20.8,
+  "desnivel_m": 740,
+  "altura_maxima_m": 1857,
+  "pendiente_media_porcentaje": 3.6,
+  "pendiente_maxima_porcentaje": 10.0,
+  "descripcion": "Ascenso muy largo caracterizado por una pendiente media baja debido a un tramo inicial de rodaje. El perfil se endurece drásticamente a partir del kilómetro 10, donde se concentran las rampas más exigentes.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 1117},
+    {"kilometro": 1.0, "altitud": 1159},
+    {"kilometro": 2.0, "altitud": 1185},
+    {"kilometro": 3.0, "altitud": 1222},
+    {"kilometro": 4.0, "altitud": 1250},
+    {"kilometro": 5.0, "altitud": 1245},
+    {"kilometro": 6.0, "altitud": 1275},
+    {"kilometro": 7.0, "altitud": 1310},
+    {"kilometro": 8.0, "altitud": 1360},
+    {"kilometro": 9.0, "altitud": 1390},
+    {"kilometro": 10.0, "altitud": 1416},
+    {"kilometro": 11.0, "altitud": 1400},
+    {"kilometro": 12.0, "altitud": 1420},
+    {"kilometro": 13.0, "altitud": 1472},
+    {"kilometro": 14.0, "altitud": 1532},
+    {"kilometro": 15.0, "altitud": 1575},
+    {"kilometro": 16.0, "altitud": 1580},
+    {"kilometro": 17.0, "altitud": 1630},
+    {"kilometro": 18.0, "altitud": 1696},
+    {"kilometro": 19.0, "altitud": 1775},
+    {"kilometro": 20.0, "altitud": 1835},
+    {"kilometro": 20.8, "altitud": 1857}
+  ],
+  "puntos_clave": [
+  ]
+}

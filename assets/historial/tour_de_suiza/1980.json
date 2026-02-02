@@ -1,0 +1,202 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1980,
+    "distancia": 1680.3,
+    "desnivel": 0,
+    "tiempo": "45h 13' 57\"",
+    "ciclistasInscritos": 76,
+    "ciclistasFinalizados": 49,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "equipo": "Hoonved - Bottecchia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Marc - IWC - VRD",
+            "ventaja": "+ 4 min 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Warncke Eis - Koga Miyata",
+            "ventaja": "+ 4 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Loro Luciano",
+            "pais": "Italia",
+            "equipo": "Hoonved - Bottecchia",
+            "ventaja": "+ 5 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zweifel Albert",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 5 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Schmutz Gottfried",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 6 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "+ 6 min 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "de Rooij Theo",
+            "pais": "Países Bajos",
+            "equipo": "Ijsboerke - Warncke Eis - Koga Miyata",
+            "ventaja": "+ 6 min 36 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Willems Daniel",
+        "pais": "Bélgica",
+        "equipo": "Ijsboerke - Warncke Eis - Koga Miyata"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Marc - IWC - VRD"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Cilo - Aufina",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 3.5,
+            "desnivel": 0,
+            "velocidadMedia": 52.282
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.124
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.26
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.223
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.387
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 23.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.928
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 233.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.76
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.959
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 66.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.826
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 11.3,
+            "desnivel": 0,
+            "velocidadMedia": 21.343
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 265.5,
+            "desnivel": 0,
+            "velocidadMedia": 34.347
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.956
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 85.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.757
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2018,
+    "distancia": 3456.9,
+    "desnivel": 50290,
+    "tiempo": "89h 02' 39\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 149,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 4 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 5 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 8 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 11 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Konrad Patrick",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 13 min 1 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 13 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Oomen Sam",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 14 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 15 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Viviani Elia",
+        "pais": "Italia",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorMontana": {
+        "nombre": "Froome Chris",
+        "pais": "Reino Unido",
+        "equipo": "Team Sky"
+    },
+    "ganadorJovenes": {
+        "nombre": "López Miguel Ángel",
+        "pais": "Colombia",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 9.7,
+            "desnivel": 155,
+            "velocidadMedia": 48.37
+        },
+        {
+            "etapa": 2,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 167.0,
+            "desnivel": 988,
+            "velocidadMedia": 43.31
+        },
+        {
+            "etapa": 3,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 1771,
+            "velocidadMedia": 45.47
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 202.0,
+            "desnivel": 3428,
+            "velocidadMedia": 38.17
+        },
+        {
+            "etapa": 5,
+            "nombre": "Battaglin Enrico",
+            "pais": "Italia",
+            "distancia": 153.0,
+            "desnivel": 2237,
+            "velocidadMedia": 37.23
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chaves Esteban",
+            "pais": "Colombia",
+            "distancia": 164.0,
+            "desnivel": 3307,
+            "velocidadMedia": 38.41
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 159.0,
+            "desnivel": 1023,
+            "velocidadMedia": 42.32
+        },
+        {
+            "etapa": 8,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "distancia": 209.0,
+            "desnivel": 3248,
+            "velocidadMedia": 40.25
+        },
+        {
+            "etapa": 9,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 225.0,
+            "desnivel": 4034,
+            "velocidadMedia": 38.11
+        },
+        {
+            "etapa": 10,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 244.0,
+            "desnivel": 4133,
+            "velocidadMedia": 40.12
+        },
+        {
+            "etapa": 11,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 156.0,
+            "desnivel": 2027,
+            "velocidadMedia": 45.46
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 214.0,
+            "desnivel": 874,
+            "velocidadMedia": 44.34
+        },
+        {
+            "etapa": 13,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 429,
+            "velocidadMedia": 45.68
+        },
+        {
+            "etapa": 14,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 186.0,
+            "desnivel": 4477,
+            "velocidadMedia": 34.28
+        },
+        {
+            "etapa": 15,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 176.0,
+            "desnivel": 4112,
+            "velocidadMedia": 37.99
+        },
+        {
+            "etapa": 16,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 34.2,
+            "desnivel": 223,
+            "velocidadMedia": 51.3
+        },
+        {
+            "etapa": 17,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 155.0,
+            "desnivel": 2040,
+            "velocidadMedia": 46.51
+        },
+        {
+            "etapa": 18,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "distancia": 196.0,
+            "desnivel": 2314,
+            "velocidadMedia": 39.77
+        },
+        {
+            "etapa": 19,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 184.0,
+            "desnivel": 5216,
+            "velocidadMedia": 35.34
+        },
+        {
+            "etapa": 20,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "distancia": 214.0,
+            "desnivel": 4254,
+            "velocidadMedia": 37.35
+        },
+        {
+            "etapa": 21,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.1109
+        }
+    ]
+}

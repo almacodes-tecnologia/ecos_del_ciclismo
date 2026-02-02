@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1984,
+    "distancia": 1626.5,
+    "desnivel": 0,
+    "tiempo": "43h 18' 43\"",
+    "ciclistasInscritos": 108,
+    "ciclistasFinalizados": 77,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zimmermann Urs",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "Switzerland",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zadrobilek Gerhard",
+            "pais": "Austria",
+            "equipo": "Atala - Campagnolo",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Skil - Reydel - Sem",
+            "ventaja": "+ 5 min 47 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "Panasonic - Raleigh",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 6 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Maier Harald",
+            "pais": "Austria",
+            "equipo": "Europ Decor - Boule d'Or",
+            "ventaja": "+ 8 min 30 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wellens Léo",
+            "pais": "Bélgica",
+            "equipo": "Dries - Verandalux - Gios",
+            "ventaja": "+ 8 min 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Veldscholten Gerard",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Raleigh",
+            "ventaja": "+ 13 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Savini Claudio",
+            "pais": "Italia",
+            "equipo": "Dromedario - Alan - Oece - Sidermeg",
+            "ventaja": "+ 15 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Skil - Reydel - Sem"
+    },
+    "ganadorMontana": {
+        "nombre": "da Silva Acácio",
+        "pais": "Portugal",
+        "equipo": "Switzerland"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Panasonic - Raleigh",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.154
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 186.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 176.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.82
+        },
+        {
+            "etapa": 3,
+            "nombre": "Veldscholten Gerard",
+            "pais": "Países Bajos",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.62
+        },
+        {
+            "etapa": 4,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "distancia": 22.5,
+            "desnivel": 0,
+            "velocidadMedia": 24.55
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sergeant Marc",
+            "pais": "Bélgica",
+            "distancia": 174.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.03
+        },
+        {
+            "etapa": 6,
+            "nombre": "Boyer Jonathan",
+            "pais": "Estados Unidos",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.53
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 273.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.72
+        },
+        {
+            "etapa": 8,
+            "nombre": "Oosterbosch Bert",
+            "pais": "Países Bajos",
+            "distancia": 19.5,
+            "desnivel": 0,
+            "velocidadMedia": 49.44
+        },
+        {
+            "etapa": 8,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.84
+        },
+        {
+            "etapa": 9,
+            "nombre": "Baumgartner Walter",
+            "pais": "Suiza",
+            "distancia": 208.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.88
+        }
+    ]
+}

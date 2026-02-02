@@ -1,0 +1,31 @@
+{
+  "id": "plateau_de_beille_les_cabannes",
+  "nombre": "Plateau de Beille",
+  "pais": "Francia",
+  "longitud_km": 15.8,
+  "desnivel_m": 1240,
+  "altura_maxima_m": 1779,
+  "pendiente_media_porcentaje": 7.8,
+  "pendiente_maxima_porcentaje": 11.0,
+  "descripcion": "Un coloso alpino de los Pirineos franceses. Famoso final de etapa del Tour de Francia, conocido por su pendiente media alta y constante.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 539},
+    {"kilometro": 1.0, "altitud": 604},
+    {"kilometro": 2.0, "altitud": 700},
+    {"kilometro": 3.0, "altitud": 785},
+    {"kilometro": 4.0, "altitud": 880},
+    {"kilometro": 5.0, "altitud": 955},
+    {"kilometro": 6.0, "altitud": 1030},
+    {"kilometro": 7.0, "altitud": 1105},
+    {"kilometro": 8.0, "altitud": 1185},
+    {"kilometro": 9.0, "altitud": 1265},
+    {"kilometro": 10.0, "altitud": 1365},
+    {"kilometro": 11.0, "altitud": 1445},
+    {"kilometro": 12.0, "altitud": 1505},
+    {"kilometro": 13.0, "altitud": 1575},
+    {"kilometro": 14.0, "altitud": 1640},
+    {"kilometro": 15.0, "altitud": 1730},
+    {"kilometro": 15.8, "altitud": 1779}
+  ],
+  "puntos_clave": []
+}

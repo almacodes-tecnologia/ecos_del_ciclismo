@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2009,
+    "distancia": 1353.4,
+    "desnivel": 0,
+    "tiempo": "33h 05' 51\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 142,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "equipo": "Saxo Bank ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas",
+            "ventaja": "+ 2 min 24 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre - NGC",
+            "ventaja": "+ 3 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 3 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Cofidis, le Crédit en Ligne",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Monfort Maxime",
+            "pais": "Bélgica",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 4 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cancellara Fabian",
+        "pais": "Suiza",
+        "equipo": "Saxo Bank "
+    },
+    "ganadorMontana": {
+        "nombre": "Martin Tony",
+        "pais": "Alemania",
+        "equipo": "Team Columbia"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Saxo Bank ",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 7.8,
+            "desnivel": 0,
+            "velocidadMedia": 50.053
+        },
+        {
+            "etapa": 2,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 149.8,
+            "desnivel": 0,
+            "velocidadMedia": 41.44
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 195.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.95
+        },
+        {
+            "etapa": 4,
+            "nombre": "Breschel Matti",
+            "pais": "Dinamarca",
+            "distancia": 196.6,
+            "desnivel": 0,
+            "velocidadMedia": 39.11
+        },
+        {
+            "etapa": 5,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 201.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.31
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.326
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "distancia": 204.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.28
+        },
+        {
+            "etapa": 8,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 181.7,
+            "desnivel": 0,
+            "velocidadMedia": 43.17
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 38.5,
+            "desnivel": 0,
+            "velocidadMedia": 50.24
+        }
+    ]
+}

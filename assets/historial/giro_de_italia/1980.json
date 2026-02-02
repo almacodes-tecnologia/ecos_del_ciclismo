@@ -1,0 +1,286 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1980,
+    "distancia": 3911.5,
+    "desnivel": 0,
+    "tiempo": "112h 08' 20\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 89,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane - Campagnolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Gis",
+            "ventaja": "+ 5 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "+ 6 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Prim Tommy",
+            "pais": "Suecia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 7 min 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 11 min 49 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "equipo": "Hoonved - Bottecchia",
+            "ventaja": "+ 12 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "Gis",
+            "ventaja": "+ 12 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Gis",
+            "ventaja": "+ 20 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Visentini Roberto",
+            "pais": "Italia",
+            "equipo": "San Giacomo",
+            "ventaja": "+ 20 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Natale Leonardo",
+            "pais": "Italia",
+            "equipo": "Magniflex - Olmo",
+            "ventaja": "+ 21 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Saronni Giuseppe",
+        "pais": "Italia",
+        "equipo": "Gis"
+    },
+    "ganadorMontana": {
+        "nombre": "Bortolotto Claudio",
+        "pais": "Italia",
+        "equipo": "San Giacomo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Prim Tommy",
+        "pais": "Suecia",
+        "equipo": "Bianchi"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bianchi",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 7.5,
+            "desnivel": 0,
+            "velocidadMedia": 48.825
+        },
+        {
+            "etapa": 1,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.841
+        },
+        {
+            "etapa": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.68
+        },
+        {
+            "etapa": 3,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.322
+        },
+        {
+            "etapa": 4,
+            "nombre": "Morandi Dante",
+            "pais": "Italia",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.931
+        },
+        {
+            "etapa": 5,
+            "nombre": "Marcussen Jørgen",
+            "pais": "Dinamarca",
+            "distancia": 36.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.876
+        },
+        {
+            "etapa": 6,
+            "nombre": "Barone Carmelo",
+            "pais": "Italia",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.053
+        },
+        {
+            "etapa": 7,
+            "nombre": "Contini Silvano",
+            "pais": "Italia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.204
+        },
+        {
+            "etapa": 8,
+            "nombre": "Fernández Juan",
+            "pais": "España",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.644
+        },
+        {
+            "etapa": 9,
+            "nombre": "Mantovani Giovanni",
+            "pais": "Italia",
+            "distancia": 247.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.235
+        },
+        {
+            "etapa": 10,
+            "nombre": "Mantovani Giovanni",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.453
+        },
+        {
+            "etapa": 11,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.894
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bertin Yvon",
+            "pais": "Francia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.773
+        },
+        {
+            "etapa": 13,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.477
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.151
+        },
+        {
+            "etapa": 15,
+            "nombre": "Prim Tommy",
+            "pais": "Suecia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.18
+        },
+        {
+            "etapa": 16,
+            "nombre": "Martinelli Giuseppe",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.608
+        },
+        {
+            "etapa": 17,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.648
+        },
+        {
+            "etapa": 18,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.846
+        },
+        {
+            "etapa": 19,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 241.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.619
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bernaudeau Jean-René",
+            "pais": "Francia",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.495
+        },
+        {
+            "etapa": 21,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 50.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.974
+        },
+        {
+            "etapa": 22,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9047
+        }
+    ]
+}

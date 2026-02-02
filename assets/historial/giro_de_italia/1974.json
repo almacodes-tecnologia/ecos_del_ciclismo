@@ -1,0 +1,282 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1974,
+    "distancia": 3744.0,
+    "desnivel": 0,
+    "tiempo": "113h 08' 13\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 96,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Baronchelli Gianbattista",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Bianchi - Campagnolo",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Conti Tino",
+            "pais": "Italia",
+            "equipo": "Zonca",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 3 min 22 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 6 min 17 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 10 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 16 min 5 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "equipo": "Magniflex",
+            "ventaja": "+ 17 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Vlaeminck Roger",
+        "pais": "Bélgica",
+        "equipo": "Brooklyn"
+    },
+    "ganadorMontana": {
+        "nombre": "Fuente José Manuel",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Reybrouck Wilfried",
+            "pais": "Bélgica",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.407
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 121.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.912
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.772
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.802
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gavazzi Pierino",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.347
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.622
+        },
+        {
+            "etapa": 7,
+            "nombre": "Colombo Ugo",
+            "pais": "Italia",
+            "distancia": 257.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.538
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.731
+        },
+        {
+            "etapa": 9,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.296
+        },
+        {
+            "etapa": 10,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.512
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.727
+        },
+        {
+            "etapa": 11,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 62.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.983
+        },
+        {
+            "etapa": 12,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 40.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.469
+        },
+        {
+            "etapa": 13,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.188
+        },
+        {
+            "etapa": 14,
+            "nombre": "Perletto Giuseppe",
+            "pais": "Italia",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.221
+        },
+        {
+            "etapa": 15,
+            "nombre": "Gualazzini Ercole",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.124
+        },
+        {
+            "etapa": 16,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.324
+        },
+        {
+            "etapa": 17,
+            "nombre": "Lazcano Santiago",
+            "pais": "España",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.757
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.956
+        },
+        {
+            "etapa": 19,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.806
+        },
+        {
+            "etapa": 20,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.69
+        },
+        {
+            "etapa": 21,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.619
+        },
+        {
+            "etapa": 22,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.372
+        }
+    ]
+}

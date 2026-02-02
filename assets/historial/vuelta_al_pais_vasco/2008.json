@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2008,
+    "distancia": 818.0,
+    "desnivel": 0,
+    "tiempo": "21h 03' 59\"",
+    "ciclistasInscritos": 150,
+    "ciclistasFinalizados": 99,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Silence - Lotto",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Monfort Maxime",
+            "pais": "Bélgica",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Astarloza Mikel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Team High Road",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "equipo": "Karpin - Galicia",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 2 min 5 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cunego Damiano",
+        "pais": "Italia",
+        "equipo": "Lampre"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Egoi",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Rabobank ProTeam",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.474
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.595
+        },
+        {
+            "etapa": 3,
+            "nombre": "Herrero David",
+            "pais": "España",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.742
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.84
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.033
+        },
+        {
+            "etapa": 6,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7795
+        }
+    ]
+}

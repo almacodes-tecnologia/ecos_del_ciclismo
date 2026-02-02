@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2019,
+    "distancia": 614.3,
+    "desnivel": 9434,
+    "tiempo": "15h 25' 11\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 112,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 2 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "EF Education First",
+            "ventaja": "+ 2 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Team Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Pellaud Simon",
+        "pais": "Suiza",
+        "equipo": "Swiss Cycling"
+    },
+    "ganadorJovenes": {
+        "nombre": "Gaudu David",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ"
+    },
+    "ganadorEquipos": {
+        "nombre": " EF Education First",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Tratnik Jan",
+            "pais": "Eslovenia",
+            "distancia": 3.87,
+            "desnivel": 38,
+            "velocidadMedia": 45.529
+        },
+        {
+            "etapa": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 168.4,
+            "desnivel": 3094,
+            "velocidadMedia": 39.577
+        },
+        {
+            "etapa": 2,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 174.4,
+            "desnivel": 1936,
+            "velocidadMedia": 41.692
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "distancia": 160.0,
+            "desnivel": 2527,
+            "velocidadMedia": 41.579
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 107.6,
+            "desnivel": 1839,
+            "velocidadMedia": 39.766
+        },
+        {
+            "etapa": 5,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9117
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1967,
+    "distancia": 1492.0,
+    "desnivel": 0,
+    "tiempo": "42h 18' 25\"",
+    "ciclistasInscritos": 44,
+    "ciclistasFinalizados": 20,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bławdzin Andrzej",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kulibin Alexandre",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 9 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mikołajczyk Józef",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 11 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hanusik Zygmunt",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 14 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gawliczek Józef",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 14 min 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kegel Marian",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 16 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gazda Stanislaw",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 16 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fadiejew Mikolaj",
+            "pais": "Rusia",
+            "equipo": "",
+            "ventaja": "+ 16 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zadrożny Tadeusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 16 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Baścik Benedykt",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 17 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Mikołajczyk Józef",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kulibin Alexandre",
+            "pais": "Rusia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.613
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bławdzin Andrzej",
+            "pais": "Polonia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.68
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gazda Stanislaw",
+            "pais": "Polonia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.847
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bławdzin Andrzej",
+            "pais": "Polonia",
+            "distancia": 23.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.936
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hanusik Zygmunt",
+            "pais": "Polonia",
+            "distancia": 87.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.353
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mikołajczyk Józef",
+            "pais": "Polonia",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.529
+        },
+        {
+            "etapa": 7,
+            "nombre": "Prasek Tadeusz",
+            "pais": "Polonia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.158
+        },
+        {
+            "etapa": 8,
+            "nombre": "Mainuš Jiří",
+            "pais": "República Checa",
+            "distancia": 43.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.692
+        },
+        {
+            "etapa": 9,
+            "nombre": "Polewiak Czesław",
+            "pais": "Polonia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.607
+        },
+        {
+            "etapa": 10,
+            "nombre": "Fadiejew Mikolaj",
+            "pais": "Rusia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.417
+        },
+        {
+            "etapa": 11,
+            "nombre": "Matusiak Wojciech",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 53.427
+        }
+    ]
+}

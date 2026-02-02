@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1975,
+    "distancia": 3044.0,
+    "desnivel": 0,
+    "tiempo": "88h 00' 56\"",
+    "ciclistasInscritos": 11,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "Frisol - G.B.C.",
+            "ventaja": "+ 2 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mendes Fernando dos Reis Dias",
+            "pais": "Portugal",
+            "equipo": "Sport Lisboa e Benfica",
+            "ventaja": "+ 5 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Perletto Giuseppe",
+            "pais": "Italia",
+            "equipo": "Magniflex",
+            "ventaja": "+ 5 min 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martins José Freitas",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "+ 6 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lazcano Santiago",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 7 min 26 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "equipo": "Monteverde - Sanson",
+            "ventaja": "+ 7 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Lasa Miguel María",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorMontana": {
+        "nombre": "Oliva Andrés",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Kaskol",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "distancia": 4.4,
+            "desnivel": 0,
+            "velocidadMedia": 48.15
+        },
+        {
+            "etapa": 1,
+            "nombre": "Wesemael Wilfried",
+            "pais": "Bélgica",
+            "distancia": 78.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.48
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.81
+        },
+        {
+            "etapa": 4,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.2
+        },
+        {
+            "etapa": 5,
+            "nombre": "Leman Luc",
+            "pais": "Bélgica",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.64
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.41
+        },
+        {
+            "etapa": 7,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 8.3,
+            "desnivel": 0,
+            "velocidadMedia": 33.31
+        },
+        {
+            "etapa": 8,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.86
+        },
+        {
+            "etapa": 9,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.07
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.09
+        },
+        {
+            "etapa": 11,
+            "nombre": "Menéndez Antonio",
+            "pais": "España",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.8
+        },
+        {
+            "etapa": 11,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 30.3,
+            "desnivel": 0,
+            "velocidadMedia": 39.71
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.09
+        },
+        {
+            "etapa": 13,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.32
+        },
+        {
+            "etapa": 14,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 233.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.63
+        },
+        {
+            "etapa": 15,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.27
+        },
+        {
+            "etapa": 16,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9
+        },
+        {
+            "etapa": 17,
+            "nombre": "Allan Donald",
+            "pais": "Australia",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.85
+        },
+        {
+            "etapa": 18,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.37
+        },
+        {
+            "etapa": 19,
+            "nombre": "Stevens Julien",
+            "pais": "Bélgica",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.01
+        },
+        {
+            "etapa": 19,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.9337
+        }
+    ]
+}

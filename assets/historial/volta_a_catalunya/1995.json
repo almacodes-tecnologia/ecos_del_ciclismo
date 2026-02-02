@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1995,
+    "distancia": 943.1,
+    "desnivel": 18610,
+    "tiempo": "29h 24' 54\"",
+    "ciclistasInscritos": 127,
+    "ciclistasFinalizados": 89,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E.",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Montoya Jesús",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zaina Enrico",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hamburger Bo",
+            "pais": "Dinamarca",
+            "equipo": "TVM",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mauleon Francisco Javier",
+            "pais": "España",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Clavero Daniel",
+            "pais": "España",
+            "equipo": "Artiach",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hodge Stephen",
+            "pais": "Australia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 3 min 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vicario Juan Carlos",
+            "pais": "España",
+            "equipo": "Castellblanch",
+            "ventaja": "+ 6 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 6 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Hervé Pascal",
+        "pais": "Francia",
+        "equipo": "Festina - Lotus"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E.",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "distancia": 3.1,
+            "desnivel": 0,
+            "velocidadMedia": 47.692
+        },
+        {
+            "etapa": 1,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 191.0,
+            "desnivel": 4475,
+            "velocidadMedia": 37.928
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 172.4,
+            "desnivel": 2158,
+            "velocidadMedia": 41.637
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 169.5,
+            "desnivel": 2651,
+            "velocidadMedia": 37.241
+        },
+        {
+            "etapa": 4,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 226.8,
+            "desnivel": 6687,
+            "velocidadMedia": 35.057
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 163.3,
+            "desnivel": 2639,
+            "velocidadMedia": 41.142
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "distancia": 17.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.96
+        },
+        {
+            "etapa": 7,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8067
+        }
+    ]
+}

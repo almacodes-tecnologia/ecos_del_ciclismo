@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 1986,
+    "distancia": 769.0,
+    "desnivel": 0,
+    "tiempo": "20h 21' 53\"",
+    "ciclistasInscritos": 55,
+    "ciclistasFinalizados": 90,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Kas",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rossi Maurizio",
+            "pais": "Italia",
+            "equipo": "Ecoflam-Jolly",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuerte Anselmo",
+            "pais": "España",
+            "equipo": "Zor - BH",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Blanco Jesús",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "equipo": "Kas",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dietzen Reimund",
+            "pais": "Alemania",
+            "equipo": "Teka",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Earley Martin",
+            "pais": "Irlanda",
+            "equipo": "Fagor",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "Seat - Orbea ",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 1 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Kas"
+    },
+    "ganadorMontana": {
+        "nombre": "Gastón Iñaki",
+        "pais": "España",
+        "equipo": "Kas"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Teka",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Rossi Maurizio",
+            "pais": "Italia",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Earley Martin",
+            "pais": "Irlanda",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 96.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fuerte Anselmo",
+            "pais": "España",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

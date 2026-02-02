@@ -1,0 +1,147 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2006,
+    "distancia": 967.1,
+    "desnivel": 0,
+    "tiempo": "28h 07' 06\"",
+    "ciclistasInscritos": 165,
+    "ciclistasFinalizados": 128,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "Gerolsteiner",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kohl Bernhard",
+            "pais": "Austria",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 3 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 3 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 4 min 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 5 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Caucchioli Pietro",
+            "pais": "Italia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 5 min 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mancebo Francisco",
+        "pais": "España",
+        "equipo": "AG2R Prévoyance"
+    },
+    "ganadorMontana": {
+        "nombre": "Moreau Christophe",
+        "pais": "Francia",
+        "equipo": "AG2R Prévoyance"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " AG2R Prévoyance",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zabriskie David",
+            "pais": "Estados Unidos",
+            "distancia": 4.1,
+            "desnivel": 0,
+            "velocidadMedia": 53.673
+        },
+        {
+            "etapa": 1,
+            "nombre": "Wegmann Fabian",
+            "pais": "Alemania",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.509
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.605
+        },
+        {
+            "etapa": 4,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.401
+        },
+        {
+            "etapa": 5,
+            "nombre": "Turpin Ludovic",
+            "pais": "Francia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.68
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.61
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.0532
+        }
+    ]
+}

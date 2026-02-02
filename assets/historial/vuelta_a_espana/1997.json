@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1997,
+    "distancia": 3619.2,
+    "desnivel": 43452,
+    "tiempo": "91h 15' 55\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E.",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 5 min 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 6 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zaina Enrico",
+            "pais": "Italia",
+            "equipo": "Asics - CGA",
+            "ventaja": "+ 7 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 8 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Clavero Daniel",
+            "pais": "España",
+            "equipo": "Estepona en Marcha - Cafés Toscaf",
+            "ventaja": "+ 10 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 10 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Serrano Marcos Antonio",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 10 min 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Faresin Gianni",
+            "pais": "Italia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 13 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ledanois Yvon",
+            "pais": "Francia",
+            "equipo": "GAN",
+            "ventaja": "+ 15 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E."
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez José María",
+        "pais": "España",
+        "equipo": "Banesto"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme - Costa Blanca",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Michaelsen Lars",
+            "pais": "Dinamarca",
+            "distancia": 160.0,
+            "desnivel": 1959,
+            "velocidadMedia": 39.75
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 224.0,
+            "desnivel": 1648,
+            "velocidadMedia": 39.27
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 173.0,
+            "desnivel": 748,
+            "velocidadMedia": 38.71
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 193.0,
+            "desnivel": 1003,
+            "velocidadMedia": 44.95
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 229.0,
+            "desnivel": 2771,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 147.0,
+            "desnivel": 2169,
+            "velocidadMedia": 40.82
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 219.2,
+            "desnivel": 5218,
+            "velocidadMedia": 35.06
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 175.0,
+            "desnivel": 1863,
+            "velocidadMedia": 44.68
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 38.0,
+            "desnivel": 238,
+            "velocidadMedia": 34.27
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 235.0,
+            "desnivel": 1345,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 1501,
+            "velocidadMedia": 45.42
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 147.0,
+            "desnivel": 2454,
+            "velocidadMedia": 43.36
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 196.0,
+            "desnivel": 3887,
+            "velocidadMedia": 37.93
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 160.0,
+            "desnivel": 2677,
+            "velocidadMedia": 38.84
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 159.0,
+            "desnivel": 2995,
+            "velocidadMedia": 39.11
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 169.0,
+            "desnivel": 2070,
+            "velocidadMedia": 43.31
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 195.0,
+            "desnivel": 2083,
+            "velocidadMedia": 45.7
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 830,
+            "velocidadMedia": 47.74
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 184.0,
+            "desnivel": 2538,
+            "velocidadMedia": 40.64
+        },
+        {
+            "etapa": 20,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 190.0,
+            "desnivel": 2978,
+            "velocidadMedia": 35.95
+        },
+        {
+            "etapa": 21,
+            "nombre": null,
+            "pais": null,
+            "distancia": 43.0,
+            "desnivel": 477,
+            "velocidadMedia": 50.02
+        },
+        {
+            "etapa": 22,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.0802
+        }
+    ]
+}

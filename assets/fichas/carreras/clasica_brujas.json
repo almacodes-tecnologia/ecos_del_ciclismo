@@ -1,0 +1,29 @@
+{
+  "id": "classic_brugge_de_panne",
+  "nombre": "Clásica Brujas-La Panne",
+  "pais": "Bélgica",
+  "categoria": "World Tour",
+  "tipo": "Clásica de un día",
+  "descripcion": "La Classic Brugge–De Panne, anteriormente conocida como Tres Días de Brujas–La Panne (y otros formatos), es una clásica belga disputada en la provincia de Flandes Occidental. Desde 2018 se disputa como prueba de un día, con salida en Brujas y llegada en De Panne. Es una cita para velocistas en terreno llano, a menudo marcada por el viento y finales masivos.",
+  "anio_inicio": 1977,
+  "edicionesDisponibles": [
+    2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018,
+    2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010,
+    2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002,
+    2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994,
+    1993, 1992, 1991, 1990, 1989, 1988, 1987, 1986,
+    1985, 1984, 1983, 1982, 1981, 1980, 1979, 1978,
+    1977
+  ],
+  "imagenes": ["assets/imagenes/clasica_brujas.webp"],
+  "records": {
+    "mas_victorias_generales": {
+      "valor": "5",
+      "descripcion": "Eric Vanderaerden posee el récord de más victorias en esta carrera con cinco triunfos (1986, 1987, 1988, 1989, 1993). :contentReference[oaicite:2]{index=2}"
+    },
+    "mas_victorias_generales_consecutivas": {
+      "valor": "4",
+      "descripcion": "Eric Vanderaerden consiguió cuatro victorias consecutivas entre 1986 y 1989. :contentReference[oaicite:3]{index=3}"
+    }
+  }
+}

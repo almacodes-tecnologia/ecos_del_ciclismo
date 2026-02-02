@@ -1,0 +1,194 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1978,
+    "distancia": 1562.5,
+    "desnivel": 0,
+    "tiempo": "39h 44' 47\"",
+    "ciclistasInscritos": 70,
+    "ciclistasFinalizados": 64,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "TI - Raleigh",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sutter Ueli",
+            "pais": "Suiza",
+            "equipo": "Zonca",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Fiorella",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schmutz Gottfried",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 4 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 4 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Velda - Lano - Flandria",
+            "ventaja": "+ 4 min 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lienhard Erwin",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 4 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zweifel Albert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 7 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Martínez Mariano",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Mariano",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " TI - Raleigh",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.68
+        },
+        {
+            "etapa": 1,
+            "nombre": "Verlinden Gery",
+            "pais": "Bélgica",
+            "distancia": 197.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.44
+        },
+        {
+            "etapa": 2,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 169.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.55
+        },
+        {
+            "etapa": 3,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.29
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.5
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.8
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 188.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.72
+        },
+        {
+            "etapa": 6,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.37
+        },
+        {
+            "etapa": 7,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 191.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.43
+        },
+        {
+            "etapa": 8,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 218.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.01
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bellini Giancarlo",
+            "pais": "Italia",
+            "distancia": 97.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.28
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 20.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.64
+        }
+    ]
+}

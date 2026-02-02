@@ -1,0 +1,259 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1955,
+    "distancia": 3730.4,
+    "desnivel": 0,
+    "tiempo": "108h 56' 12\"",
+    "ciclistasInscritos": 98,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "equipo": "Nivea - Fuchs",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "Bianchi - Pirelli",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "equipo": "Leo - Chlorodont",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 4 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Coletto Agostino",
+            "pais": "Italia",
+            "equipo": "Frejus",
+            "ventaja": "+ 7 min 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Moser Aldo",
+            "pais": "Italia",
+            "equipo": "Torpado - Ursus",
+            "ventaja": "+ 8 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Leo - Chlorodont",
+            "ventaja": "+ 9 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Botella Salvador",
+            "pais": "España",
+            "equipo": "Ignis",
+            "ventaja": "+ 14 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "equipo": "Locomotief - Vredestein",
+            "ventaja": "+ 16 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "equipo": "Faema - Guerra",
+            "ventaja": "+ 20 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Nencini Gastone",
+        "pais": "Italia",
+        "equipo": "Leo - Chlorodont"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Messina Guido",
+            "pais": "Italia",
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.292
+        },
+        {
+            "etapa": 2,
+            "nombre": "Magni Fiorenzo",
+            "pais": "Italia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.294
+        },
+        {
+            "etapa": 3,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.335
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fantini Alessandro",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.998
+        },
+        {
+            "etapa": 5,
+            "nombre": "Astrua Giancarlo",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.537
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 18.4,
+            "desnivel": 0,
+            "velocidadMedia": 46.648
+        },
+        {
+            "etapa": 7,
+            "nombre": "Corrieri Giovanni",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Benedetti Rino",
+            "pais": "Italia",
+            "distancia": 260.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.392
+        },
+        {
+            "etapa": 9,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.171
+        },
+        {
+            "etapa": 10,
+            "nombre": "Ruiz Bernardo",
+            "pais": "España",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.503
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zucconelli Vincenzo",
+            "pais": "Italia",
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.384
+        },
+        {
+            "etapa": 12,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.941
+        },
+        {
+            "etapa": 13,
+            "nombre": "Albani Giorgio",
+            "pais": "Italia",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.036
+        },
+        {
+            "etapa": 14,
+            "nombre": "Minardi Giuseppe",
+            "pais": "Italia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.059
+        },
+        {
+            "etapa": 15,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "distancia": 50.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.455
+        },
+        {
+            "etapa": 16,
+            "nombre": "Benedetti Rino",
+            "pais": "Italia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.241
+        },
+        {
+            "etapa": 17,
+            "nombre": "Fantini Alessandro",
+            "pais": "Italia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.302
+        },
+        {
+            "etapa": 18,
+            "nombre": "Conterno Angelo",
+            "pais": "Italia",
+            "distancia": 246.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.052
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.979
+        },
+        {
+            "etapa": 20,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.773
+        },
+        {
+            "etapa": 21,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.55
+        }
+    ]
+}

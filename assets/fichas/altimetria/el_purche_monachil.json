@@ -1,0 +1,27 @@
+{
+  "id": "el_purche_monachil",
+  "nombre": "El Purche",
+  "pais": "España",
+  "longitud_km": 12.2,
+  "desnivel_m": 763,
+  "altura_maxima_m": 1490,
+  "pendiente_media_porcentaje": 6.25,
+  "pendiente_maxima_porcentaje": 17,
+  "descripcion": "El Puerto de El Purche, ascendido desde Monachil en Granada, es un puerto de montaña de alta dificultad, famoso por sus rampas extremadamente empinadas. Con una longitud de aproximadamente 10 km y una pendiente media del 8%, su mayor desafío son los tramos con rampas que superan el 15%, lo que lo convierte en uno de los ascensos más exigentes de la provincia, ideal para ciclistas que buscan un gran reto.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 724},
+    {"kilometro": 1, "altitud": 771},
+    {"kilometro": 2, "altitud": 810},
+    {"kilometro": 3, "altitud": 801},
+    {"kilometro": 4, "altitud": 827},
+    {"kilometro": 5, "altitud": 939},
+    {"kilometro": 6, "altitud": 1050},
+    {"kilometro": 7, "altitud": 1140},
+    {"kilometro": 8, "altitud": 1224},
+    {"kilometro": 9, "altitud": 1300},
+    {"kilometro": 10, "altitud": 1400},
+    {"kilometro": 11, "altitud": 1416},
+    {"kilometro": 12, "altitud": 1473},
+    {"kilometro": 12.2, "altitud": 1490}
+  ]
+}

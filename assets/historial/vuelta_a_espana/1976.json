@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1976,
+    "distancia": 3309.2,
+    "desnivel": 0,
+    "tiempo": "93h 19' 10\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 49,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Nazábal José",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 2 min 0 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Teka",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fuchs Josef",
+            "pais": "Suiza",
+            "equipo": "Super Ser",
+            "ventaja": "+ 3 min 45 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 4 min 43 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 7 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Thurau Dietrich",
+        "pais": "Alemania",
+        "equipo": "TI - Raleigh"
+    },
+    "ganadorMontana": {
+        "nombre": "Oliva Andrés",
+        "pais": "España",
+        "equipo": "Kas - Campagnolo"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Campagnolo",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 3.2,
+            "desnivel": 0,
+            "velocidadMedia": 47.41
+        },
+        {
+            "etapa": 1,
+            "nombre": "De Cauwer José",
+            "pais": "Bélgica",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.76
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.53
+        },
+        {
+            "etapa": 3,
+            "nombre": "Smit Theo",
+            "pais": "Países Bajos",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.32
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.39
+        },
+        {
+            "etapa": 5,
+            "nombre": "Smit Theo",
+            "pais": "Países Bajos",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.11
+        },
+        {
+            "etapa": 6,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "distancia": 14.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.9
+        },
+        {
+            "etapa": 7,
+            "nombre": "Van Den Haute Ferdi",
+            "pais": "Bélgica",
+            "distancia": 136.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.75
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.56
+        },
+        {
+            "etapa": 9,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.19
+        },
+        {
+            "etapa": 10,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.24
+        },
+        {
+            "etapa": 11,
+            "nombre": "Vallori Antonio",
+            "pais": "España",
+            "distancia": 151.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.9
+        },
+        {
+            "etapa": 12,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.51
+        },
+        {
+            "etapa": 13,
+            "nombre": "Ongenae Dirk",
+            "pais": "Bélgica",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.55
+        },
+        {
+            "etapa": 14,
+            "nombre": "Priem Cees",
+            "pais": "Países Bajos",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.95
+        },
+        {
+            "etapa": 15,
+            "nombre": "López Vicente",
+            "pais": "España",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.38
+        },
+        {
+            "etapa": 16,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.63
+        },
+        {
+            "etapa": 17,
+            "nombre": "Van de Vijver Arthur",
+            "pais": "Bélgica",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.35
+        },
+        {
+            "etapa": 18,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.57
+        },
+        {
+            "etapa": 19,
+            "nombre": "Ongenae Dirk",
+            "pais": "Bélgica",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.66
+        },
+        {
+            "etapa": 19,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.8091
+        }
+    ]
+}

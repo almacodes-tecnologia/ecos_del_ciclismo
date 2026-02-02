@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1991,
+    "distancia": 710.0,
+    "desnivel": 11712,
+    "tiempo": "21h 35' 56\"",
+    "ciclistasInscritos": 1,
+    "ciclistasFinalizados": 134,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mejia Alvaro",
+            "pais": "Colombia",
+            "equipo": "Manzana Postobón",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "equipo": "Seur",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hodge Stephen",
+            "pais": "Australia",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 2 min 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Murguialday Javier",
+            "pais": "España",
+            "equipo": "Amaya Seguros",
+            "ventaja": "+ 2 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Herrera Luis Alberto",
+        "pais": "Colombia",
+        "equipo": "Manzana Postobón"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 17.0,
+            "desnivel": 0,
+            "velocidadMedia": 52.941
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 4334,
+            "velocidadMedia": 38.47
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 81.0,
+            "desnivel": 870,
+            "velocidadMedia": 40.243
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 76.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.179
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 172.0,
+            "desnivel": 2400,
+            "velocidadMedia": 42.037
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.754
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 158.0,
+            "desnivel": 4108,
+            "velocidadMedia": 36.993
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

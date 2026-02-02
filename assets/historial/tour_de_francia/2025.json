@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2025,
+    "distancia": 3302.0,
+    "desnivel": 48772,
+    "tiempo": "76h 00' 32\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 160,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 4 min 24 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 11 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team Picnic PostNL",
+            "ventaja": "+ 12 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 17 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 20 min 14 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "equipo": "Arkéa - B&B Hotels",
+            "ventaja": "+ 22 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 25 min 30 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Healy Ben",
+            "pais": "Irlanda",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 28 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jegat Jordan",
+            "pais": "Francia",
+            "equipo": "Team TotalEnergies",
+            "ventaja": "+ 32 min 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Milan Jonathan",
+        "pais": "Italia",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorMontana": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorJovenes": {
+        "nombre": "Lipowitz Florian",
+        "pais": "Alemania",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 184.9,
+            "desnivel": 1065,
+            "velocidadMedia": 47.576
+        },
+        {
+            "etapa": 2,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 209.1,
+            "desnivel": 1953,
+            "velocidadMedia": 43.916
+        },
+        {
+            "etapa": 3,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 178.3,
+            "desnivel": 792,
+            "velocidadMedia": 41.64
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 174.2,
+            "desnivel": 1745,
+            "velocidadMedia": 45.348
+        },
+        {
+            "etapa": 5,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 33.0,
+            "desnivel": 191,
+            "velocidadMedia": 53.951
+        },
+        {
+            "etapa": 6,
+            "nombre": "Healy Ben",
+            "pais": "Irlanda",
+            "distancia": 201.5,
+            "desnivel": 3309,
+            "velocidadMedia": 45.767
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 197.0,
+            "desnivel": 2096,
+            "velocidadMedia": 48.117
+        },
+        {
+            "etapa": 8,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 171.4,
+            "desnivel": 1257,
+            "velocidadMedia": 44.629
+        },
+        {
+            "etapa": 9,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 174.1,
+            "desnivel": 1019,
+            "velocidadMedia": 50.013
+        },
+        {
+            "etapa": 10,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 165.3,
+            "desnivel": 4307,
+            "velocidadMedia": 38.134
+        },
+        {
+            "etapa": 11,
+            "nombre": "Abrahamsen Jonas",
+            "pais": "Noruega",
+            "distancia": 156.8,
+            "desnivel": 1567,
+            "velocidadMedia": 48.016
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 180.6,
+            "desnivel": 3794,
+            "velocidadMedia": 41.467
+        },
+        {
+            "etapa": 13,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 10.9,
+            "desnivel": 645,
+            "velocidadMedia": 28.435
+        },
+        {
+            "etapa": 14,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "distancia": 182.6,
+            "desnivel": 5020,
+            "velocidadMedia": 37.318
+        },
+        {
+            "etapa": 15,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 169.3,
+            "desnivel": 2305,
+            "velocidadMedia": 47.434
+        },
+        {
+            "etapa": 16,
+            "nombre": "Paret-Peintre Valentin",
+            "pais": "Francia",
+            "distancia": 171.5,
+            "desnivel": 2929,
+            "velocidadMedia": 42.291
+        },
+        {
+            "etapa": 17,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 160.4,
+            "desnivel": 1660,
+            "velocidadMedia": 46.832
+        },
+        {
+            "etapa": 18,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "distancia": 171.5,
+            "desnivel": 5642,
+            "velocidadMedia": 33.873
+        },
+        {
+            "etapa": 19,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "distancia": 93.1,
+            "desnivel": 3431,
+            "velocidadMedia": 33.63
+        },
+        {
+            "etapa": 20,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 184.2,
+            "desnivel": 2916,
+            "velocidadMedia": 44.899
+        },
+        {
+            "etapa": 21,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 132.3,
+            "desnivel": 1129,
+            "velocidadMedia": 42.336
+        }
+    ]
+}

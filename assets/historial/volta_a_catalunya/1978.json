@@ -1,0 +1,167 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1978,
+    "distancia": 1145.6,
+    "desnivel": 0,
+    "tiempo": "32h 31' 20\"",
+    "ciclistasInscritos": 56,
+    "ciclistasFinalizados": 51,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 5 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pujol Juan",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 5 min 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Transmallorca - Flavia ",
+            "ventaja": "+ 6 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 9 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lejarreta Ismael",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 9 min 46 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Houbrechts Antoon",
+            "pais": "Bélgica",
+            "equipo": "Mini Flat - Boule d'Or ",
+            "ventaja": "+ 10 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bortolotto Claudio",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 10 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vilardebo Pedro",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 11 min 53 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 4.1,
+            "desnivel": 0,
+            "velocidadMedia": 47.46
+        },
+        {
+            "etapa": 1,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 173.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 159.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Looy Frans",
+            "pais": "Bélgica",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 109.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Houbrechts Antoon",
+            "pais": "Bélgica",
+            "distancia": 149.2,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "distancia": 206.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "García José Manuel",
+            "pais": "España",
+            "distancia": 179.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Edwards Phil",
+            "pais": "Reino Unido",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

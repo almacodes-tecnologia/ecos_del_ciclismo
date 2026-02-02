@@ -1,0 +1,135 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1934,
+    "distancia": 1085.0,
+    "desnivel": 0,
+    "tiempo": "33h 47' 06\"",
+    "ciclistasInscritos": 60,
+    "ciclistasFinalizados": 35,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rebry Gaston",
+            "pais": "Bélgica",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "+ 6 min 24 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "+ 8 min 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Merviel Jules",
+            "pais": "Francia",
+            "equipo": "F. Pélissier - Mercier - Hutchinson",
+            "ventaja": "+ 11 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Louviot Raymond",
+            "pais": "Francia",
+            "equipo": "Génial Lucifer - Hutchinson",
+            "ventaja": "+ 18 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vietto René",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 25 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "De Caluwé Edgard",
+            "pais": "Bélgica",
+            "equipo": "Dilecta - Wolber",
+            "ventaja": "+ 25 min 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Speicher Georges",
+            "pais": "Francia",
+            "equipo": "Alcyon - Dunlop",
+            "ventaja": "+ 30 min 42 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Level Léon",
+            "pais": "Francia",
+            "equipo": "Génial Lucifer - Hutchinson",
+            "ventaja": "+ 30 min 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Herckenrath Theo",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 33 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Merviel Jules",
+            "pais": "Francia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.87
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.16
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.89
+        },
+        {
+            "etapa": 4,
+            "nombre": "Maes Romain",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cornez Fernand",
+            "pais": "Francia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.9742
+        }
+    ]
+}

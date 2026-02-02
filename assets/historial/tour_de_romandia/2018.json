@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2018,
+    "distancia": 503.6,
+    "desnivel": 9248,
+    "tiempo": "17h 09' 00\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 103,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Latour Pierre",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Bernal Egan",
+        "pais": "Colombia",
+        "equipo": "Team Sky"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 4.02,
+            "desnivel": 102,
+            "velocidadMedia": 43.46
+        },
+        {
+            "etapa": 1,
+            "nombre": "Fraile Omar",
+            "pais": "España",
+            "distancia": 166.6,
+            "desnivel": 2486,
+            "velocidadMedia": 41.02
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 173.9,
+            "desnivel": 2195,
+            "velocidadMedia": 42.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "distancia": 9.9,
+            "desnivel": 781,
+            "velocidadMedia": 23.603
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 149.2,
+            "desnivel": 3684,
+            "velocidadMedia": 34.59
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.9623
+        }
+    ]
+}

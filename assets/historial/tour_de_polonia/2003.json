@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2003,
+    "distancia": 1214.0,
+    "desnivel": 0,
+    "tiempo": "29h 46' 11\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 66,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zamana Cezary",
+            "pais": "Polonia",
+            "equipo": "Action - Nvidia - Mróz",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "equipo": "Alessio",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bruylandts Dave",
+            "pais": "Bélgica",
+            "equipo": "Marlux-Wincor Nixdorf",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Brochard Laurent",
+            "pais": "Francia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rutkiewicz Marek",
+            "pais": "Polonia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 2 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zintchenko Andrei",
+            "pais": "Rusia",
+            "equipo": "L.A. Aluminios - Pecol",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bru Jon",
+            "pais": "España",
+            "equipo": "L.A. Aluminios - Pecol",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Piątek Zbigniew",
+            "pais": "Polonia",
+            "equipo": "Action - Nvidia - Mróz",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brożyna Tomasz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Przydział Piotr",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 16 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bru Jon",
+        "pais": "España",
+        "equipo": "L.A. Aluminios - Pecol"
+    },
+    "ganadorMontana": {
+        "nombre": "Ribeiro Nuno",
+        "pais": "Portugal",
+        "equipo": "L.A. Aluminios - Pecol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " L.A. Aluminios - Pecol",
+        "pais": "Portugal"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cadamuro Simone",
+            "pais": "Italia",
+            "distancia": 168.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.3
+        },
+        {
+            "etapa": 2,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.1
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.89
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hinault Sébastien",
+            "pais": "Francia",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.45
+        },
+        {
+            "etapa": 5,
+            "nombre": "Marzoli Ruggero",
+            "pais": "Italia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.08
+        },
+        {
+            "etapa": 6,
+            "nombre": "Zamana Cezary",
+            "pais": "Polonia",
+            "distancia": 166.5,
+            "desnivel": 0,
+            "velocidadMedia": 35.78
+        },
+        {
+            "etapa": 7,
+            "nombre": "Roulston Hayden",
+            "pais": "Nueva Zelanda",
+            "distancia": 61.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.04
+        },
+        {
+            "etapa": 8,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.4133
+        }
+    ]
+}

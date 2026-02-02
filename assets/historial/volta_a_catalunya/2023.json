@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2023,
+    "distancia": 1185.3,
+    "desnivel": 18837,
+    "tiempo": "28h 19' 10\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 130,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 3 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 3 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 3 min 53 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorJovenes": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 164.6,
+            "desnivel": 2091,
+            "velocidadMedia": 43.262
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "distancia": 165.4,
+            "desnivel": 3291,
+            "velocidadMedia": 39.13
+        },
+        {
+            "etapa": 3,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 180.6,
+            "desnivel": 3998,
+            "velocidadMedia": 38.601
+        },
+        {
+            "etapa": 4,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 188.2,
+            "desnivel": 2437,
+            "velocidadMedia": 43.495
+        },
+        {
+            "etapa": 5,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 176.6,
+            "desnivel": 2644,
+            "velocidadMedia": 39.584
+        },
+        {
+            "etapa": 6,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 174.1,
+            "desnivel": 2534,
+            "velocidadMedia": 45.312
+        },
+        {
+            "etapa": 7,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 135.8,
+            "desnivel": 1842,
+            "velocidadMedia": 45.418
+        }
+    ]
+}

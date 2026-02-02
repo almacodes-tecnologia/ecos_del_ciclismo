@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2022,
+    "distancia": 882.2,
+    "desnivel": 15827,
+    "tiempo": "21h 59' 36\"",
+    "ciclistasInscritos": 156,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Quick-Step Alpha Vinyl Team",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 5 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Martínez Daniel Felipe",
+        "pais": "Colombia",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorMontana": {
+        "nombre": "Rodríguez Cristián",
+        "pais": "España",
+        "equipo": "TotalEnergies"
+    },
+    "ganadorJovenes": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Quick-Step Alpha Vinyl Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 7.51,
+            "desnivel": 100,
+            "velocidadMedia": 45.98
+        },
+        {
+            "etapa": 2,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 207.92,
+            "desnivel": 2625,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "distancia": 181.7,
+            "desnivel": 3278,
+            "velocidadMedia": 39.586
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "distancia": 185.6,
+            "desnivel": 2703,
+            "velocidadMedia": 43.605
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "distancia": 163.76,
+            "desnivel": 3485,
+            "velocidadMedia": 39.765
+        },
+        {
+            "etapa": 6,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "distancia": 135.7,
+            "desnivel": 3636,
+            "velocidadMedia": 35.849
+        }
+    ]
+}

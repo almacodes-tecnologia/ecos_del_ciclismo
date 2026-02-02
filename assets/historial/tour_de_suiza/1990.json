@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1990,
+    "distancia": 1859.5,
+    "desnivel": 0,
+    "tiempo": "48h 10' 42\"",
+    "ciclistasInscritos": 139,
+    "ciclistasFinalizados": 95,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "7 Eleven - Hoonved",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Steiger Daniel",
+            "pais": "Suiza",
+            "equipo": "Frank - Toyo",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "equipo": "Diana - Colnago ",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kvålsvoll Atle",
+            "pais": "Noruega",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 3 min 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bouwmans Eddy",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Sportlife",
+            "ventaja": "+ 3 min 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Madouas Laurent",
+            "pais": "Francia",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vitali Marco",
+            "pais": "Italia",
+            "equipo": "Frank - Toyo",
+            "ventaja": "+ 5 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 5 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "PDM - Ultima - Concorde"
+    },
+    "ganadorMontana": {
+        "nombre": "Millar Robert",
+        "pais": "Reino Unido",
+        "equipo": "Z - Tomasso"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Frank - Toyo",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.74
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.63
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.56
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 98.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.533
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.683
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 253.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.844
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 194.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.316
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 214.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.296
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.86
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.171
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.214
+        }
+    ]
+}

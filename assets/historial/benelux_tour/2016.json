@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2016,
+    "distancia": 784.1,
+    "desnivel": 3465,
+    "tiempo": "22h 43' 26\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 84,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Terpstra Niki",
+            "pais": "Países Bajos",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Naesen Oliver",
+            "pais": "Bélgica",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Emden Jos",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Giant - Alpecin",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 1 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Tinkoff"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Etixx - Quick Step",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 184.7,
+            "desnivel": 145,
+            "velocidadMedia": 43.63
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 9.6,
+            "desnivel": 0,
+            "velocidadMedia": 53.33
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 182.3,
+            "desnivel": 344,
+            "velocidadMedia": 43.65
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 201.4,
+            "desnivel": 1397,
+            "velocidadMedia": 42.82
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 20.9,
+            "desnivel": 171,
+            "velocidadMedia": 54.09
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pibernik Luka",
+            "pais": "Eslovenia",
+            "distancia": 185.2,
+            "desnivel": 1408,
+            "velocidadMedia": 41.35
+        },
+        {
+            "etapa": 7,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.2021
+        }
+    ]
+}

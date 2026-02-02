@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-of-guangxi",
+    "anio": 2023,
+    "distancia": 958.8,
+    "desnivel": 7377,
+    "tiempo": "21h 17' 17\"",
+    "ciclistasInscritos": 118,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vader Milan",
+            "pais": "Países Bajos",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rochas Rémy",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hayter Ethan",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Carthy Hugh",
+            "pais": "Reino Unido",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Barré Louis",
+            "pais": "Francia",
+            "equipo": "Team Arkéa Samsic",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Peña Jesús David",
+            "pais": "Colombia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Moniquet Sylvain",
+            "pais": "Bélgica",
+            "equipo": "Lotto Dstny",
+            "ventaja": "+ 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Bondt Dries",
+        "pais": "Bélgica",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorMontana": {
+        "nombre": "Wandahl Frederik",
+        "pais": "Dinamarca",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorJovenes": {
+        "nombre": "Hayter Ethan",
+        "pais": "Reino Unido",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorEquipos": {
+        "nombre": " Cofidis",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 135.6,
+            "desnivel": 432,
+            "velocidadMedia": 44.72
+        },
+        {
+            "etapa": 2,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 149.6,
+            "desnivel": 638,
+            "velocidadMedia": 45.823
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 134.3,
+            "desnivel": 1647,
+            "velocidadMedia": 43.758
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vader Milan",
+            "pais": "Países Bajos",
+            "distancia": 161.4,
+            "desnivel": 1631,
+            "velocidadMedia": 43.28
+        },
+        {
+            "etapa": 5,
+            "nombre": "Molano Juan Sebastián",
+            "pais": "Colombia",
+            "distancia": 209.6,
+            "desnivel": 1969,
+            "velocidadMedia": 45.417
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 168.3,
+            "desnivel": 1060,
+            "velocidadMedia": 47.004
+        }
+    ]
+}

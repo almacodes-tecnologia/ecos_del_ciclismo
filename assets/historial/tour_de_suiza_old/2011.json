@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2011,
+    "distancia": 1245.2,
+    "desnivel": 0,
+    "tiempo": "31h 45' 02\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 139,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre - ISD",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Leopard Trek",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 2 min 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "Leopard Trek",
+            "ventaja": "+ 2 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "ten Dam Laurens",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "+ 3 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Monfort Maxime",
+            "pais": "Bélgica",
+            "equipo": "Leopard Trek",
+            "ventaja": "+ 4 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Liquigas - Cannondale"
+    },
+    "ganadorMontana": {
+        "nombre": "Schleck Andy",
+        "pais": "Luxemburgo",
+        "equipo": "Leopard Trek"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Leopard Trek",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 7.3,
+            "desnivel": 0,
+            "velocidadMedia": 45.232
+        },
+        {
+            "etapa": 2,
+            "nombre": "Soler Juan Mauricio",
+            "pais": "Colombia",
+            "distancia": 147.8,
+            "desnivel": 0,
+            "velocidadMedia": 33.676
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 107.6,
+            "desnivel": 0,
+            "velocidadMedia": 34.018
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 198.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.61
+        },
+        {
+            "etapa": 5,
+            "nombre": "Božič Borut",
+            "pais": "Eslovenia",
+            "distancia": 204.2,
+            "desnivel": 0,
+            "velocidadMedia": 43.02
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "distancia": 157.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.54
+        },
+        {
+            "etapa": 7,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "distancia": 222.8,
+            "desnivel": 0,
+            "velocidadMedia": 39.469
+        },
+        {
+            "etapa": 8,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 167.3,
+            "desnivel": 0,
+            "velocidadMedia": 43.267
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 32.1,
+            "desnivel": 0,
+            "velocidadMedia": 46.957
+        }
+    ]
+}

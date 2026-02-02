@@ -1,0 +1,294 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1978,
+    "distancia": 3763.0,
+    "desnivel": 52573,
+    "tiempo": "108h 18' 00\"",
+    "ciclistasInscritos": 110,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane - Campagnolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 3 min 56 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Agostinho Joaquim",
+            "pais": "Portugal",
+            "equipo": "Velda - Lano - Flandria",
+            "ventaja": "+ 7 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bruyère Joseph",
+            "pais": "Bélgica",
+            "equipo": "C&A",
+            "ventaja": "+ 9 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Seznec Christian",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 12 min 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 14 min 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 17 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 17 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "C&A",
+            "ventaja": "+ 21 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "equipo": "Jobo - Superia",
+            "ventaja": "+ 22 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maertens Freddy",
+        "pais": "Bélgica",
+        "equipo": "Velda - Lano - Flandria"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Mariano",
+        "pais": "Francia",
+        "equipo": "Jobo - Superia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Lubberding Henk",
+        "pais": "Países Bajos",
+        "equipo": "TI - Raleigh"
+    },
+    "ganadorEquipos": {
+        "nombre": " Miko - Mercier - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 5.2,
+            "desnivel": 27,
+            "velocidadMedia": 47.04
+        },
+        {
+            "etapa": 1,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 135.0,
+            "desnivel": 438,
+            "velocidadMedia": 39.64
+        },
+        {
+            "etapa": 1,
+            "nombre": "Planckaert Walter",
+            "pais": "Bélgica",
+            "distancia": 100.0,
+            "desnivel": 398,
+            "velocidadMedia": 42.18
+        },
+        {
+            "etapa": 2,
+            "nombre": "Esclassan Jacques",
+            "pais": "Francia",
+            "distancia": 199.0,
+            "desnivel": 1847,
+            "velocidadMedia": 37.14
+        },
+        {
+            "etapa": 3,
+            "nombre": "Thaler Klaus-Peter",
+            "pais": "Alemania",
+            "distancia": 244.0,
+            "desnivel": 1705,
+            "velocidadMedia": 32.85
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 244.0,
+            "desnivel": 2323,
+            "velocidadMedia": 40.64
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 162.0,
+            "desnivel": 1101,
+            "velocidadMedia": 40.1
+        },
+        {
+            "etapa": 7,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 242.0,
+            "desnivel": 1980,
+            "velocidadMedia": 34.48
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 59.3,
+            "desnivel": 815,
+            "velocidadMedia": 43.16
+        },
+        {
+            "etapa": 9,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 233.0,
+            "desnivel": 1453,
+            "velocidadMedia": 34.68
+        },
+        {
+            "etapa": 10,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "distancia": 192.0,
+            "desnivel": 3500,
+            "velocidadMedia": 33.21
+        },
+        {
+            "etapa": 11,
+            "nombre": "Martínez Mariano",
+            "pais": "Francia",
+            "distancia": 161.0,
+            "desnivel": 4500,
+            "velocidadMedia": 27.8
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 158.0,
+            "desnivel": 1401,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": "Esclassan Jacques",
+            "pais": "Francia",
+            "distancia": 96.0,
+            "desnivel": 646,
+            "velocidadMedia": 41.38
+        },
+        {
+            "etapa": 13,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "distancia": 221.0,
+            "desnivel": 5174,
+            "velocidadMedia": 32.84
+        },
+        {
+            "etapa": 14,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 52.0,
+            "desnivel": 1351,
+            "velocidadMedia": 36.34
+        },
+        {
+            "etapa": 15,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 196.0,
+            "desnivel": 4761,
+            "velocidadMedia": 33.62
+        },
+        {
+            "etapa": 16,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "distancia": 240.5,
+            "desnivel": 5492,
+            "velocidadMedia": 32.52
+        },
+        {
+            "etapa": 17,
+            "nombre": "Seznec Christian",
+            "pais": "Francia",
+            "distancia": 225.0,
+            "desnivel": 6500,
+            "velocidadMedia": 31.14
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 137.0,
+            "desnivel": 2500,
+            "velocidadMedia": 37.9
+        },
+        {
+            "etapa": 19,
+            "nombre": "Demeyer Marc",
+            "pais": "Bélgica",
+            "distancia": 182.0,
+            "desnivel": 2000,
+            "velocidadMedia": 35.69
+        },
+        {
+            "etapa": 20,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 72.0,
+            "desnivel": 719,
+            "velocidadMedia": 43.42
+        },
+        {
+            "etapa": 21,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 207.0,
+            "desnivel": 1942,
+            "velocidadMedia": 34.614
+        },
+        {
+            "etapa": 22,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.9607
+        }
+    ]
+}

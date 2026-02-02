@@ -1,0 +1,255 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1972,
+    "distancia": 3083.0,
+    "desnivel": 0,
+    "tiempo": "82h 34' 14\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 57,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 34 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 7 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Aja Gonzalo",
+            "pais": "España",
+            "equipo": "Karpy - Licor",
+            "ventaja": "+ 8 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 8 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 8 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 8 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 8 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Letort Désiré",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 8 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Labourdette Bernard",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 8 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Perurena Domingo",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorMontana": {
+        "nombre": "Fuente José Manuel",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Pijnen René",
+            "pais": "Países Bajos",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.47
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vianen Gerard",
+            "pais": "Países Bajos",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.03
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.06
+        },
+        {
+            "etapa": 4,
+            "nombre": "Harings Ger",
+            "pais": "Países Bajos",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.47
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.76
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kindt Roger",
+            "pais": "Bélgica",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "van der Vleuten Jos",
+            "pais": "Países Bajos",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.9
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.69
+        },
+        {
+            "etapa": 9,
+            "nombre": "Harings Ger",
+            "pais": "Países Bajos",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.82
+        },
+        {
+            "etapa": 9,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "distancia": 10.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.32
+        },
+        {
+            "etapa": 10,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.79
+        },
+        {
+            "etapa": 11,
+            "nombre": "Balagué Luis",
+            "pais": "España",
+            "distancia": 259.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.13
+        },
+        {
+            "etapa": 12,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.69
+        },
+        {
+            "etapa": 13,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.25
+        },
+        {
+            "etapa": 15,
+            "nombre": "Vianen Gerard",
+            "pais": "Países Bajos",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.63
+        },
+        {
+            "etapa": 16,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.2
+        },
+        {
+            "etapa": 17,
+            "nombre": "Aranzabal Jesús",
+            "pais": "España",
+            "distancia": 138.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.57
+        },
+        {
+            "etapa": 17,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 54.7027
+        }
+    ]
+}

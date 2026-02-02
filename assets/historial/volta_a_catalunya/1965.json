@@ -1,0 +1,182 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1965,
+    "distancia": 1046.0,
+    "desnivel": 0,
+    "tiempo": "29h 08' 07\"",
+    "ciclistasInscritos": 59,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 6 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Poggiali Roberto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 7 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "García Ginés",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 7 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 9 min 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Massignan Imerio",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 9 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 9 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Schleck Johny",
+            "pais": "Luxemburgo",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 9 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 9 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 11 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Galera Joaquín",
+        "pais": "España",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 79.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.013
+        },
+        {
+            "etapa": 2,
+            "nombre": "Stefanoni Remo",
+            "pais": "Italia",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.62
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.988
+        },
+        {
+            "etapa": 4,
+            "nombre": "dos Santos João Henrique Roque",
+            "pais": "Portugal",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.55
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.018
+        },
+        {
+            "etapa": 5,
+            "nombre": "Poggiali Roberto",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.45
+        },
+        {
+            "etapa": 6,
+            "nombre": "Monty Willy",
+            "pais": "Bélgica",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.036
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.691
+        },
+        {
+            "etapa": 7,
+            "nombre": "Monty Willy",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.471
+        },
+        {
+            "etapa": 7,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 57.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.75
+        },
+        {
+            "etapa": 8,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.511
+        }
+    ]
+}

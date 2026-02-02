@@ -1,0 +1,26 @@
+{
+  "id": "santos_tour_down_under",
+  "nombre": "Santos Tour Down Under",
+  "pais": "Australia",
+  "categoria": "World Tour",
+  "tipo": "Carrera por etapas",
+  "descripcion": "El Santos Tour Down Under es la primera carrera del calendario UCI World Tour. Se celebra en Adelaida, Australia, y se caracteriza por un clima cálido y un recorrido que mezcla sprints masivos con subidas decisivas como Willunga Hill. Es una carrera que da el pistoletazo de salida a la temporada de élite, y es popular por el ambiente festivo de sus etapas.",
+  "anio_inicio": 1999,
+  "edicionesDisponibles": [2025, 2024, 2023, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008,
+    2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999],
+  "imagenes": ["assets/imagenes/santos_tour_down_under.webp"],
+  "records": {
+    "mas_victorias_generales": {
+      "valor": "4",
+      "descripcion": "Simon Gerrans ostenta el récord de más victorias generales en la historia de la carrera."
+    },
+    "mas_victorias_generales_consecutivas": {
+      "valor": "2",
+      "descripcion": "Daryl Impey (2018-2019) tiene el récord de dos victorias generales consecutivas."
+    },
+    "mas_victorias_etapa": {
+      "valor": "18",
+      "descripcion": "André Greipel es el ciclista con más victorias de etapa en la historia de la carrera."
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2008,
+  "distancia": 3558.5,
+  "desnivel": 0,
+  "tiempo": "87h 52' 52\"",
+  "ciclistasInscritos": 180,
+  "ciclistasFinalizados": 142,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Carlos Sastre",
+      "pais": "España",
+      "equipo": "Team CSC - Saxo Bank",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Cadel Evans",
+      "pais": "Australia",
+      "equipo": "Silence - Lotto",
+      "ventaja": "+58 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Denis Menchov",
+      "pais": "Rusia",
+      "equipo": "Rabobank",
+      "ventaja": "+2 min 10 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Christian Vande Velde",
+      "pais": "Estados Unidos",
+      "equipo": "Garmin-Chipotle p/b H30",
+      "ventaja": "+3 min 05 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Fränk Schleck",
+      "pais": "Luxemburgo",
+      "equipo": "Team CSC - Saxo Bank",
+      "ventaja": "+4 min 28 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Samuel Sánchez",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+6 min 25 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Kim Kirchen",
+      "pais": "Luxemburgo",
+      "equipo": "Team Columbia",
+      "ventaja": "+6 min 55 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Caisse d'Epargne",
+      "ventaja": "+7 min 12 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Tadej Valjavec",
+      "pais": "Eslovenia",
+      "equipo": "AG2R La Mondiale",
+      "ventaja": "+9 min 05 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Vladimir Efimkin",
+      "pais": "Rusia",
+      "equipo": "AG2R La Mondiale",
+      "ventaja": "+9 min 55 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Óscar Freire",
+    "pais": "España",
+    "equipo": "Rabobank"
+  },
+  "ganadorMontana": {
+    "nombre": "Carlos Sastre",
+    "pais": "España",
+    "equipo": "Team CSC - Saxo Bank"
+  },
+  "ganadorJovenes": {
+    "nombre": "Andy Schleck",
+    "pais": "Luxemburgo",
+    "equipo": "Team CSC - Saxo Bank"
+  },
+  "ganadorEquipos": {
+    "nombre": "CSC Saxo Bank",
+    "pais": "Dinamarca"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Alejandro Valverde",
+      "pais": "España"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Thor Hushovd",
+      "pais": "Noruega"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Samuel Dumoulin",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Kim Kirchen",
+      "pais": "Luxemburgo"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Riccardo Riccò",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Luis León Sánchez",
+      "pais": "España"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Vladimir Efimkin",
+      "pais": "Rusia"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Juan José Cobo",
+      "pais": "España"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Kurt-Asle Arvesen",
+      "pais": "Noruega"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Óscar Freire",
+      "pais": "España"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Simon Gerrans",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Cyril Dessel",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Carlos Sastre",
+      "pais": "España"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Marcus Burghardt",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Sylvain Chavanel",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Gert Steegmans",
+      "pais": "Bélgica"
+    }
+  ]
+}

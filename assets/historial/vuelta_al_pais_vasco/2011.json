@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2011,
+    "distancia": 849.5,
+    "desnivel": 14610,
+    "tiempo": "22h 12' 11\"",
+    "ciclistasInscritos": 158,
+    "ciclistasFinalizados": 131,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "RadioShack",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "López David",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Pro Team Astana",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kiryienka Vasil",
+            "pais": "Bielorrusia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Klöden Andreas",
+        "pais": "Alemania",
+        "equipo": "RadioShack"
+    },
+    "ganadorMontana": {
+        "nombre": "Albasini Michael",
+        "pais": "Suiza",
+        "equipo": "HTC - High Road"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 149.5,
+            "desnivel": 2975,
+            "velocidadMedia": 36.959
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kiryienka Vasil",
+            "pais": "Bielorrusia",
+            "distancia": 167.0,
+            "desnivel": 2997,
+            "velocidadMedia": 40.624
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 177.0,
+            "desnivel": 2560,
+            "velocidadMedia": 40.747
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 177.0,
+            "desnivel": 3112,
+            "velocidadMedia": 37.584
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gavazzi Francesco",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 2966,
+            "velocidadMedia": 40.217
+        },
+        {
+            "etapa": 6,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.3414
+        }
+    ]
+}

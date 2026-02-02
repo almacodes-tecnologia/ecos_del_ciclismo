@@ -1,0 +1,282 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1957,
+    "distancia": 4441.8,
+    "desnivel": 0,
+    "tiempo": "135h 44' 42\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 56,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Janssens Marcel",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 14 min 56 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Christian Adolf",
+            "pais": "Austria",
+            "equipo": "Switzerland",
+            "ventaja": "+ 17 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 18 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 20 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 26 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 27 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "van Est Wim",
+            "pais": "Países Bajos",
+            "equipo": "Netherlands",
+            "ventaja": "+ 28 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Adriaensens Jan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 34 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Dotto Jean",
+            "pais": "Francia",
+            "equipo": "Sud-Est",
+            "ventaja": "+ 36 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Forestier Jean",
+        "pais": "Francia",
+        "equipo": "France"
+    },
+    "ganadorMontana": {
+        "nombre": "Nencini Gastone",
+        "pais": "Italia",
+        "equipo": "Italy"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " France",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.31
+        },
+        {
+            "etapa": 2,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.71
+        },
+        {
+            "etapa": 3,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.46
+        },
+        {
+            "etapa": 4,
+            "nombre": "Janssens Marcel",
+            "pais": "Bélgica",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.29
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.43
+        },
+        {
+            "etapa": 6,
+            "nombre": "Trochut André",
+            "pais": "Francia",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.16
+        },
+        {
+            "etapa": 7,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.1
+        },
+        {
+            "etapa": 8,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.11
+        },
+        {
+            "etapa": 9,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.03
+        },
+        {
+            "etapa": 10,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "distancia": 247.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.64
+        },
+        {
+            "etapa": 11,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "distancia": 286.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.7
+        },
+        {
+            "etapa": 12,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.98
+        },
+        {
+            "etapa": 13,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.69
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 246.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.11
+        },
+        {
+            "etapa": 15,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.39
+        },
+        {
+            "etapa": 15,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 9.8,
+            "desnivel": 0,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bourlès Jean",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.34
+        },
+        {
+            "etapa": 17,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.71
+        },
+        {
+            "etapa": 18,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.24
+        },
+        {
+            "etapa": 19,
+            "nombre": "Baffi Pierino",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.24
+        },
+        {
+            "etapa": 20,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 66.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.91
+        },
+        {
+            "etapa": 21,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 317.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.87
+        },
+        {
+            "etapa": 22,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.5736
+        }
+    ]
+}

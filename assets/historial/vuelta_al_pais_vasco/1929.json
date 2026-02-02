@@ -1,0 +1,119 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 1929,
+    "distancia": 546.0,
+    "desnivel": 0,
+    "tiempo": "24h 27' 55\"",
+    "ciclistasInscritos": 20,
+    "ciclistasFinalizados": 20,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bidot Marcel",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 17 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 28 min 22 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vervaecke Julien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 29 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fontan Victor",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 36 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Faure Benoît",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 44 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Déolet Aimé",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 46 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 53 min 48 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bidot Marcel",
+            "pais": "Francia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leducq André",
+            "pais": "Francia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dewaele Maurice",
+            "pais": "Bélgica",
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

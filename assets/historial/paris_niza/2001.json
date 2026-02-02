@@ -1,0 +1,162 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2001,
+    "distancia": 1211.7,
+    "desnivel": 0,
+    "tiempo": "30h 32' 29\"",
+    "ciclistasInscritos": 181,
+    "ciclistasFinalizados": 136,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Petegem Peter",
+            "pais": "Bélgica",
+            "equipo": "Mercury - Viatel",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Aerts Mario",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Steinhauser Tobias",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 1 min 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hondo Danilo",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Wadecki Piotr",
+        "pais": "Polonia",
+        "equipo": "Domo - Farm Frites"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Eroski",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Mattan Nico",
+            "pais": "Bélgica",
+            "distancia": 6.2,
+            "desnivel": 0,
+            "velocidadMedia": 47.692
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 189.2,
+            "desnivel": 0,
+            "velocidadMedia": 35.377
+        },
+        {
+            "etapa": 2,
+            "nombre": "Van Petegem Peter",
+            "pais": "Bélgica",
+            "distancia": 195.4,
+            "desnivel": 0,
+            "velocidadMedia": 38.965
+        },
+        {
+            "etapa": 3,
+            "nombre": "Koerts Jans",
+            "pais": "Países Bajos",
+            "distancia": 217.9,
+            "desnivel": 0,
+            "velocidadMedia": 46.122
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 195.6,
+            "desnivel": 0,
+            "velocidadMedia": 39.761
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wadecki Piotr",
+            "pais": "Polonia",
+            "distancia": 240.3,
+            "desnivel": 0,
+            "velocidadMedia": 37.527
+        },
+        {
+            "etapa": 6,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "distancia": 10.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.176
+        },
+        {
+            "etapa": 7,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "distancia": 157.1,
+            "desnivel": 0,
+            "velocidadMedia": 43.103
+        }
+    ]
+}

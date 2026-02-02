@@ -1,0 +1,154 @@
+{
+    "idCarrera": "uae-tour",
+    "anio": 2023,
+    "distancia": 1016.3,
+    "desnivel": 5614,
+    "tiempo": "23h 25' 26\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Plapp Luke",
+            "pais": "Australia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 2 min 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zwiehoff Ben",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vanhoucke Harm",
+            "pais": "Bélgica",
+            "equipo": "Team DSM",
+            "ventaja": "+ 2 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Merlier Tim",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 151.0,
+            "desnivel": 518,
+            "velocidadMedia": 45.854
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 17.3,
+            "desnivel": 5,
+            "velocidadMedia": 56.77
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rubio Einer",
+            "pais": "Colombia",
+            "distancia": 185.0,
+            "desnivel": 2741,
+            "velocidadMedia": 38.092
+        },
+        {
+            "etapa": 4,
+            "nombre": "Molano Juan Sebastián",
+            "pais": "Colombia",
+            "distancia": 174.0,
+            "desnivel": 304,
+            "velocidadMedia": 45.388
+        },
+        {
+            "etapa": 5,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 170.0,
+            "desnivel": 522,
+            "velocidadMedia": 43.017
+        },
+        {
+            "etapa": 6,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 166.0,
+            "desnivel": 146,
+            "velocidadMedia": 45.027
+        },
+        {
+            "etapa": 7,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 153.0,
+            "desnivel": 1378,
+            "velocidadMedia": 43.777
+        }
+    ]
+}

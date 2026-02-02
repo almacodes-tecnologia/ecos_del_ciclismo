@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1999,
+    "distancia": 1173.1,
+    "desnivel": 0,
+    "tiempo": "35h 22' 40\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 102,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "equipo": "Vini Caldirola - Sidermec",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "Alessio - Ballan",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Saeco - Cannondale",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Camenzind Oscar",
+            "pais": "Suiza",
+            "equipo": "Lampre - Daikin - Colnago",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Montgomery Sven",
+            "pais": "Suiza",
+            "equipo": "Post Swiss Team",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sgambelluri Roberto",
+            "pais": "Italia",
+            "equipo": "Cantina Tollo - Alexia Alluminio",
+            "ventaja": "+ 4 min 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 4 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 4 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 4 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E. - Deutsche Bank"
+    },
+    "ganadorMontana": {
+        "nombre": "Zberg Markus",
+        "pais": "Suiza",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Cantina Tollo - Alexia Alluminio",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.0
+        },
+        {
+            "etapa": 1,
+            "nombre": "Richard Pascal",
+            "pais": "Suiza",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.95
+        },
+        {
+            "etapa": 2,
+            "nombre": "Martinello Silvio",
+            "pais": "Italia",
+            "distancia": 220.6,
+            "desnivel": 0,
+            "velocidadMedia": 38.48
+        },
+        {
+            "etapa": 3,
+            "nombre": "Missaglia Gabriele",
+            "pais": "Italia",
+            "distancia": 167.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.44
+        },
+        {
+            "etapa": 4,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 171.4,
+            "desnivel": 0,
+            "velocidadMedia": 31.74
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "distancia": 29.5,
+            "desnivel": 0,
+            "velocidadMedia": 48.96
+        },
+        {
+            "etapa": 6,
+            "nombre": "White Matthew",
+            "pais": "Australia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.84
+        },
+        {
+            "etapa": 7,
+            "nombre": "Camenzind Oscar",
+            "pais": "Suiza",
+            "distancia": 47.5,
+            "desnivel": 0,
+            "velocidadMedia": 47.21
+        },
+        {
+            "etapa": 8,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "distancia": 168.6,
+            "desnivel": 0,
+            "velocidadMedia": 37.15
+        },
+        {
+            "etapa": 9,
+            "nombre": "De Pasquale Maurizio",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5164
+        }
+    ]
+}

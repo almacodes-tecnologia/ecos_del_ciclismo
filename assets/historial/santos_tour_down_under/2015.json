@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2015,
+    "distancia": 722.3,
+    "desnivel": 8865,
+    "tiempo": "19h 15' 18\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 121,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Giant - Alpecin",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Impey Daryl",
+            "pais": "Sudáfrica",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pantano Jarlinson",
+            "pais": "Colombia",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Impey Daryl",
+        "pais": "Sudáfrica",
+        "equipo": "Orica GreenEDGE"
+    },
+    "ganadorMontana": {
+        "nombre": "Bobridge Jack",
+        "pais": "Australia",
+        "equipo": "UniSA-Australia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Dennis Rohan",
+        "pais": "Australia",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bobridge Jack",
+            "pais": "Australia",
+            "distancia": 132.6,
+            "desnivel": 1092,
+            "velocidadMedia": 44.27
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lobato Juan José",
+            "pais": "España",
+            "distancia": 150.5,
+            "desnivel": 2595,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 143.2,
+            "desnivel": 2033,
+            "velocidadMedia": 39.94
+        },
+        {
+            "etapa": 4,
+            "nombre": "Von Hoff Steele",
+            "pais": "Australia",
+            "distancia": 144.5,
+            "desnivel": 1670,
+            "velocidadMedia": 42.4
+        },
+        {
+            "etapa": 5,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 151.5,
+            "desnivel": 1475,
+            "velocidadMedia": 41.79
+        },
+        {
+            "etapa": 6,
+            "nombre": "Wippert Wouter",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.1767
+        }
+    ]
+}

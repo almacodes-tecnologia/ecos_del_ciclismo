@@ -1,0 +1,158 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2009,
+    "distancia": 1128.1,
+    "desnivel": 0,
+    "tiempo": "26h 49' 40\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 131,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "equipo": "Team Columbia - HTC",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Langeveld Sebastian",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Silence - Lotto",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Monfort Maxime",
+            "pais": "Bélgica",
+            "equipo": "Team Columbia - HTC",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Flecha Juan Antonio",
+            "pais": "España",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bak Lars Ytting",
+            "pais": "Dinamarca",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tjallingii Maarten",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bakelants Jan",
+            "pais": "Bélgica",
+            "equipo": "Topsport Vlaanderen - Mercator",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gavazzi Francesco",
+            "pais": "Italia",
+            "equipo": "Lampre - NGC",
+            "ventaja": "+ 1 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Boasson Hagen Edvald",
+        "pais": "Noruega",
+        "equipo": "Team Columbia - HTC"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Rabobank ProTeam",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "distancia": 4.4,
+            "desnivel": 0,
+            "velocidadMedia": 53.695
+        },
+        {
+            "etapa": 2,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 185.4,
+            "desnivel": 0,
+            "velocidadMedia": 43.01
+        },
+        {
+            "etapa": 3,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 178.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.44
+        },
+        {
+            "etapa": 4,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 158.3,
+            "desnivel": 0,
+            "velocidadMedia": 42.53
+        },
+        {
+            "etapa": 5,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 221.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.59
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bak Lars Ytting",
+            "pais": "Dinamarca",
+            "distancia": 204.3,
+            "desnivel": 0,
+            "velocidadMedia": 39.13
+        },
+        {
+            "etapa": 7,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 163.3,
+            "desnivel": 0,
+            "velocidadMedia": 46.89
+        },
+        {
+            "etapa": 8,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 13.1,
+            "desnivel": 0,
+            "velocidadMedia": 48.77
+        }
+    ]
+}

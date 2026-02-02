@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1987,
+    "distancia": 782.3,
+    "desnivel": 0,
+    "tiempo": "21h 56' 58\"",
+    "ciclistasInscritos": 96,
+    "ciclistasFinalizados": 77,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "equipo": "Carrera Jeans - Vagabond",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Leclercq Jean-Claude",
+            "pais": "Francia",
+            "equipo": "Toshiba - La Vie Claire",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pensec Ronan",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Simon Jérôme",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 2 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cornillet Bruno",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 3 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Pedersen Dag Erik",
+            "pais": "Noruega",
+            "equipo": "Ariostea",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roche Stephen",
+        "pais": "Irlanda",
+        "equipo": "Carrera Jeans - Vagabond"
+    },
+    "ganadorMontana": {
+        "nombre": "Breu Beat",
+        "pais": "Suiza",
+        "equipo": "Isotonic - Blacky"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Z - Peugeot",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Lang Czesław",
+            "pais": "Polonia",
+            "distancia": 4.9,
+            "desnivel": 0,
+            "velocidadMedia": 48.065
+        },
+        {
+            "etapa": 1,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.928
+        },
+        {
+            "etapa": 2,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "distancia": 185.4,
+            "desnivel": 0,
+            "velocidadMedia": 34.959
+        },
+        {
+            "etapa": 3,
+            "nombre": "Joho Stephan",
+            "pais": "Suiza",
+            "distancia": 163.4,
+            "desnivel": 0,
+            "velocidadMedia": 41.294
+        },
+        {
+            "etapa": 4,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.675
+        },
+        {
+            "etapa": 5,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "distancia": 66.6,
+            "desnivel": 0,
+            "velocidadMedia": 34.11
+        },
+        {
+            "etapa": 5,
+            "nombre": "Roche Stephen",
+            "pais": "Irlanda",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.641
+        }
+    ]
+}

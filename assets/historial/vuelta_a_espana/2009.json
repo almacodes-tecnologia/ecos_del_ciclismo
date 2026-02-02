@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2009,
+    "distancia": 3154.5,
+    "desnivel": 47027,
+    "tiempo": "87h 22' 37\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 139,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Silence - Lotto",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "equipo": "Xacobeo - Galicia",
+            "ventaja": "+ 4 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 6 min 40 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 9 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tiralongo Paolo",
+            "pais": "Italia",
+            "equipo": "Lampre - NGC",
+            "ventaja": "+ 9 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Deignan Philip",
+            "pais": "Irlanda",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 11 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Dani Moreno",
+            "pais": "España",
+            "equipo": "Caisse d'Épargne",
+            "ventaja": "+ 14 min 24 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Greipel André",
+        "pais": "Alemania",
+        "equipo": "Team Columbia - HTC"
+    },
+    "ganadorMontana": {
+        "nombre": "Moncoutié David",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit en Ligne"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Xacobeo - Galicia",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 4.8,
+            "desnivel": 13,
+            "velocidadMedia": 54.0
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ciolek Gerald",
+            "pais": "Alemania",
+            "distancia": 203.7,
+            "desnivel": 355,
+            "velocidadMedia": 43.16
+        },
+        {
+            "etapa": 3,
+            "nombre": "Henderson Gregory",
+            "pais": "Nueva Zelanda",
+            "distancia": 189.7,
+            "desnivel": 601,
+            "velocidadMedia": 40.5
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 225.5,
+            "desnivel": 1888,
+            "velocidadMedia": 39.436
+        },
+        {
+            "etapa": 5,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 174.0,
+            "desnivel": 1802,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 6,
+            "nombre": "Božič Borut",
+            "pais": "Eslovenia",
+            "distancia": 185.7,
+            "desnivel": 2308,
+            "velocidadMedia": 39.675
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 30.3,
+            "desnivel": 40,
+            "velocidadMedia": 49.56
+        },
+        {
+            "etapa": 8,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 204.7,
+            "desnivel": 5017,
+            "velocidadMedia": 33.66
+        },
+        {
+            "etapa": 9,
+            "nombre": "César Veloso Gustavo",
+            "pais": "España",
+            "distancia": 188.8,
+            "desnivel": 3873,
+            "velocidadMedia": 35.28
+        },
+        {
+            "etapa": 10,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 162.0,
+            "desnivel": 1529,
+            "velocidadMedia": 41.131
+        },
+        {
+            "etapa": 11,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 191.0,
+            "desnivel": 3226,
+            "velocidadMedia": 36.829
+        },
+        {
+            "etapa": 12,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "distancia": 179.3,
+            "desnivel": 5234,
+            "velocidadMedia": 32.16
+        },
+        {
+            "etapa": 13,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "distancia": 172.4,
+            "desnivel": 4763,
+            "velocidadMedia": 33.44
+        },
+        {
+            "etapa": 14,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 157.0,
+            "desnivel": 3197,
+            "velocidadMedia": 38.546
+        },
+        {
+            "etapa": 15,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "distancia": 167.7,
+            "desnivel": 2048,
+            "velocidadMedia": 39.78
+        },
+        {
+            "etapa": 16,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 170.3,
+            "desnivel": 2760,
+            "velocidadMedia": 35.146
+        },
+        {
+            "etapa": 17,
+            "nombre": "Roux Anthony",
+            "pais": "Francia",
+            "distancia": 175.0,
+            "desnivel": 1337,
+            "velocidadMedia": 39.145
+        },
+        {
+            "etapa": 18,
+            "nombre": "Deignan Philip",
+            "pais": "Irlanda",
+            "distancia": 165.0,
+            "desnivel": 3363,
+            "velocidadMedia": 38.19
+        },
+        {
+            "etapa": 19,
+            "nombre": "Cobo Juan José",
+            "pais": "España",
+            "distancia": 179.8,
+            "desnivel": 3363,
+            "velocidadMedia": 40.636
+        },
+        {
+            "etapa": 20,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 27.8,
+            "desnivel": 310,
+            "velocidadMedia": 46.48
+        },
+        {
+            "etapa": 21,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.3442
+        }
+    ]
+}

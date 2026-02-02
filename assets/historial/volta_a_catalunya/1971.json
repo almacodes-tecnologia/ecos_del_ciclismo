@@ -1,0 +1,150 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1971,
+    "distancia": 1014.8,
+    "desnivel": 0,
+    "tiempo": "28h 07' 29\"",
+    "ciclistasInscritos": 64,
+    "ciclistasFinalizados": 39,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Labourdette Bernard",
+            "pais": "Francia",
+            "equipo": "Bic",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Houbrechts Antoon",
+            "pais": "Bélgica",
+            "equipo": "Salvarani",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 2 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lazcano Santiago",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sahagún Eufrenio Enrique",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 2 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Lazcano Santiago",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Salvarani",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 19.5,
+            "desnivel": 0,
+            "velocidadMedia": 50.431
+        },
+        {
+            "etapa": 1,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 160.9,
+            "desnivel": 0,
+            "velocidadMedia": 36.742
+        },
+        {
+            "etapa": 2,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.411
+        },
+        {
+            "etapa": 3,
+            "nombre": "Genty Jean-Claude",
+            "pais": "Francia",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.878
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.086
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mori Primo",
+            "pais": "Italia",
+            "distancia": 171.4,
+            "desnivel": 0,
+            "velocidadMedia": 34.904
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.1272
+        }
+    ]
+}

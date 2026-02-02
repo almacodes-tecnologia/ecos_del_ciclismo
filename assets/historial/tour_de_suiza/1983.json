@@ -1,0 +1,194 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1983,
+    "distancia": 1808.5,
+    "desnivel": 0,
+    "tiempo": "48h 31' 13\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Sem - Mavic - Reydel",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Grezet Jean-Marie",
+            "pais": "Suiza",
+            "equipo": "Sem - Mavic - Reydel",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mutter Stefan",
+            "pais": "Suiza",
+            "equipo": "Mixed Team",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Beccia Mario",
+            "pais": "Italia",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Wilmann Jostein",
+            "pais": "Noruega",
+            "equipo": "Eorotex - Mavic",
+            "ventaja": "+ 2 min 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "Eorotex - Mavic",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wellens Paul",
+            "pais": "Bélgica",
+            "equipo": "Eorotex - Mavic",
+            "ventaja": "+ 2 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 3 min 1 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Sem - Mavic - Reydel"
+    },
+    "ganadorMontana": {
+        "nombre": "da Silva Acácio",
+        "pais": "Portugal",
+        "equipo": "Eorotex - Mavic"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Sem - Mavic - Reydel",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Gisiger Daniel",
+            "pais": "Suiza",
+            "distancia": 9.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.698
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.756
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.72
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.65
+        },
+        {
+            "etapa": 4,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.65
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 64.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.95
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 19.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.07
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mächler Erich",
+            "pais": "Suiza",
+            "distancia": 177.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.89
+        },
+        {
+            "etapa": 7,
+            "nombre": "Seiz Hubert",
+            "pais": "Suiza",
+            "distancia": 218.5,
+            "desnivel": 0,
+            "velocidadMedia": 33.64
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 206.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.48
+        },
+        {
+            "etapa": 9,
+            "nombre": "Dall'Armellina Éric",
+            "pais": "Francia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.87
+        },
+        {
+            "etapa": 10,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.83
+        }
+    ]
+}

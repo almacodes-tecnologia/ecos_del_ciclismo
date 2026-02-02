@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2023,
+  "distancia": 3405.6,
+  "desnivel": 55460,
+  "tiempo": "82h 05' 42\"",
+  "ciclistasInscritos": 176,
+  "ciclistasFinalizados": 150,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Jonas Vingegaard",
+      "pais": "Dinamarca",
+      "equipo": "Jumbo-Visma",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Tadej Pogačar",
+      "pais": "Eslovenia",
+      "equipo": "UAE Team Emirates",
+      "ventaja": "+7 min 29 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Adam Yates",
+      "pais": "Reino Unido",
+      "equipo": "UAE Team Emirates",
+      "ventaja": "+10 min 56 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Simon Yates",
+      "pais": "Reino Unido",
+      "equipo": "Team Jayco-AlUla",
+      "ventaja": "+12 min 23 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Carlos Rodríguez",
+      "pais": "España",
+      "equipo": "INEOS Grenadiers",
+      "ventaja": "+13 min 17 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Pello Bilbao",
+      "pais": "España",
+      "equipo": "Bahrain Victorious",
+      "ventaja": "+13 min 27 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Jai Hindley",
+      "pais": "Australia",
+      "equipo": "BORA-hansgrohe",
+      "ventaja": "+14 min 44 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Felix Gall",
+      "pais": "Austria",
+      "equipo": "AG2R Citroën Team",
+      "ventaja": "+16 min 09 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "David Gaudu",
+      "pais": "Francia",
+      "equipo": "Groupama-FDJ",
+      "ventaja": "+23 min 08 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Guillaume Martin",
+      "pais": "Francia",
+      "equipo": "Cofidis",
+      "ventaja": "+26 min 30 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Jasper Philipsen",
+    "pais": "Bélgica",
+    "equipo": "Alpecin–Deceuninck"
+  },
+  "ganadorMontana": {
+    "nombre": "Giulio Ciccone",
+    "pais": "Italia",
+    "equipo": "Lidl–Trek"
+  },
+  "ganadorJovenes": {
+    "nombre": "Tadej Pogačar",
+    "pais": "Eslovenia",
+    "equipo": "UAE Team Emirates"
+  },
+  "ganadorEquipos": {
+    "nombre": "Jumbo-Visma",
+    "pais": "Países Bajos"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Adam Yates",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Victor Lafay",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Jasper Philipsen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Jasper Philipsen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Jai Hindley",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Tadej Pogačar",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Jasper Philipsen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Mads Pedersen",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Michael Woods",
+      "pais": "Canadá"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Pello Bilbao",
+      "pais": "España"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Jasper Philipsen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Ion Izagirre",
+      "pais": "España"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Michał Kwiatkowski",
+      "pais": "Polonia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Carlos Rodríguez",
+      "pais": "España"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Wout Poels",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Jonas Vingegaard",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Felix Gall",
+      "pais": "Austria"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Kasper Asgreen",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Matej Mohorič",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Tadej Pogačar",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Jordi Meeus",
+      "pais": "Bélgica"
+    }
+  ]
+}

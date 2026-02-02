@@ -1,0 +1,286 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1991,
+    "distancia": 3765.9,
+    "desnivel": 48202,
+    "tiempo": "101h 01' 20\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 158,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bugno Gianni",
+            "pais": "Italia",
+            "equipo": "Gatorade - Chateau d'Ax",
+            "ventaja": "+ 3 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "R.M.O.",
+            "ventaja": "+ 7 min 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Castorama - Raleigh",
+            "ventaja": "+ 10 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Castorama - Raleigh",
+            "ventaja": "+ 11 min 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "LeMond Greg",
+            "pais": "Estados Unidos",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 13 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 13 min 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 20 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rué Gérard",
+            "pais": "Francia",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 20 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Abduzhaparov Djamolidine",
+        "pais": "Uzbekistán",
+        "equipo": "Carrera Jeans - Tassoni"
+    },
+    "ganadorMontana": {
+        "nombre": "Chiappucci Claudio",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Tassoni"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mejia Alvaro",
+        "pais": "Colombia",
+        "equipo": "Manzana Postobón"
+    },
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 5.4,
+            "desnivel": 63,
+            "velocidadMedia": 52.4
+        },
+        {
+            "etapa": 1,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 114.5,
+            "desnivel": 1653,
+            "velocidadMedia": 46.14
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 36.5,
+            "desnivel": 265,
+            "velocidadMedia": 52.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "De Wilde Etienne",
+            "pais": "Bélgica",
+            "distancia": 210.5,
+            "desnivel": 1532,
+            "velocidadMedia": 40.07
+        },
+        {
+            "etapa": 4,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 286.0,
+            "desnivel": 2950,
+            "velocidadMedia": 36.57
+        },
+        {
+            "etapa": 5,
+            "nombre": "Nijdam Jelle",
+            "pais": "Países Bajos",
+            "distancia": 149.5,
+            "desnivel": 1191,
+            "velocidadMedia": 45.39
+        },
+        {
+            "etapa": 6,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 259.0,
+            "desnivel": 2593,
+            "velocidadMedia": 39.0
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Países Bajos",
+            "distancia": 196.5,
+            "desnivel": 1707,
+            "velocidadMedia": 48.66
+        },
+        {
+            "etapa": 8,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 73.0,
+            "desnivel": 934,
+            "velocidadMedia": 45.75
+        },
+        {
+            "etapa": 9,
+            "nombre": "Ribeiro Mauro",
+            "pais": "Brasil",
+            "distancia": 161.0,
+            "desnivel": 1679,
+            "velocidadMedia": 43.74
+        },
+        {
+            "etapa": 10,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "distancia": 207.5,
+            "desnivel": 2047,
+            "velocidadMedia": 38.5
+        },
+        {
+            "etapa": 11,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 246.0,
+            "desnivel": 2402,
+            "velocidadMedia": 47.23
+        },
+        {
+            "etapa": 12,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 4000,
+            "velocidadMedia": 36.47
+        },
+        {
+            "etapa": 13,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "distancia": 232.0,
+            "desnivel": 6000,
+            "velocidadMedia": 32.28
+        },
+        {
+            "etapa": 14,
+            "nombre": "Cenghialta Bruno",
+            "pais": "Italia",
+            "distancia": 172.5,
+            "desnivel": 1912,
+            "velocidadMedia": 40.45
+        },
+        {
+            "etapa": 15,
+            "nombre": "Argentin Moreno",
+            "pais": "Italia",
+            "distancia": 235.0,
+            "desnivel": 3000,
+            "velocidadMedia": 36.97
+        },
+        {
+            "etapa": 16,
+            "nombre": "Lietti Marco",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 2500,
+            "velocidadMedia": 35.18
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bugno Gianni",
+            "pais": "Italia",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.44
+        },
+        {
+            "etapa": 18,
+            "nombre": "Claveyrolat Thierry",
+            "pais": "Francia",
+            "distancia": 255.0,
+            "desnivel": 5000,
+            "velocidadMedia": 34.24
+        },
+        {
+            "etapa": 19,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 177.0,
+            "desnivel": 3000,
+            "velocidadMedia": 41.09
+        },
+        {
+            "etapa": 20,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "distancia": 160.0,
+            "desnivel": 2910,
+            "velocidadMedia": 37.96
+        },
+        {
+            "etapa": 21,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 57.0,
+            "desnivel": 864,
+            "velocidadMedia": 47.67
+        },
+        {
+            "etapa": 22,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.0399
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2010,
+    "distancia": 704.0,
+    "desnivel": 0,
+    "tiempo": "18h 47' 05\"",
+    "ciclistasInscritos": 132,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Henderson Gregory",
+            "pais": "Nueva Zelanda",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Roberts Luke",
+            "pais": "Australia",
+            "equipo": "Milram",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vorganov Eduard",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Roelandts Jürgen",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hunter Robert",
+            "pais": "Sudáfrica",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fothen Markus",
+            "pais": "Alemania",
+            "equipo": "Milram",
+            "ventaja": "+ 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Greipel André",
+        "pais": "Alemania",
+        "equipo": "Team HTC - Columbia "
+    },
+    "ganadorMontana": {
+        "nombre": "Rohregger Thomas",
+        "pais": "Austria",
+        "equipo": "Milram"
+    },
+    "ganadorJovenes": {
+        "nombre": "Roelandts Jürgen",
+        "pais": "Bélgica",
+        "equipo": "Omega Pharma-Lotto "
+    },
+    "ganadorEquipos": {
+        "nombre": " AG2R La Mondiale",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.274
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.153
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cardoso Manuel Antonio Leal",
+            "pais": "Portugal",
+            "distancia": 132.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.846
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 149.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.616
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.356
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sutton Chris",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.2496
+        }
+    ]
+}

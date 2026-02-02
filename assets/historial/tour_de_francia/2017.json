@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2017,
+    "distancia": 3542.0,
+    "desnivel": 49124,
+    "tiempo": "86h 20' 55\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 167,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 2 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 4 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "ORICA-Scott",
+            "ventaja": "+ 6 min 14 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Meintjes Louis",
+            "pais": "Sudáfrica",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 8 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 8 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 9 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Matthews Michael",
+        "pais": "Australia",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorMontana": {
+        "nombre": "Barguil Warren",
+        "pais": "Francia",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorJovenes": {
+        "nombre": "Yates Simon",
+        "pais": "Reino Unido",
+        "equipo": "ORICA-Scott"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 14.0,
+            "desnivel": 61,
+            "velocidadMedia": 52.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 203.5,
+            "desnivel": 1278,
+            "velocidadMedia": 44.06
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 212.5,
+            "desnivel": 2706,
+            "velocidadMedia": 41.49
+        },
+        {
+            "etapa": 4,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 207.5,
+            "desnivel": 1404,
+            "velocidadMedia": 42.36
+        },
+        {
+            "etapa": 5,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "distancia": 160.5,
+            "desnivel": 2348,
+            "velocidadMedia": 42.97
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 216.0,
+            "desnivel": 1735,
+            "velocidadMedia": 42.41
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 213.5,
+            "desnivel": 1578,
+            "velocidadMedia": 42.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Calmejane Lilian",
+            "pais": "Francia",
+            "distancia": 187.5,
+            "desnivel": 3591,
+            "velocidadMedia": 41.59
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 181.5,
+            "desnivel": 4696,
+            "velocidadMedia": 35.43
+        },
+        {
+            "etapa": 10,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 178.0,
+            "desnivel": 1407,
+            "velocidadMedia": 44.32
+        },
+        {
+            "etapa": 11,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 203.5,
+            "desnivel": 1163,
+            "velocidadMedia": 44.49
+        },
+        {
+            "etapa": 12,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "distancia": 214.5,
+            "desnivel": 4903,
+            "velocidadMedia": 36.81
+        },
+        {
+            "etapa": 13,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "distancia": 101.0,
+            "desnivel": 2856,
+            "velocidadMedia": 38.73
+        },
+        {
+            "etapa": 14,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 181.5,
+            "desnivel": 1786,
+            "velocidadMedia": 41.58
+        },
+        {
+            "etapa": 15,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "distancia": 189.5,
+            "desnivel": 3164,
+            "velocidadMedia": 40.35
+        },
+        {
+            "etapa": 16,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 165.0,
+            "desnivel": 2033,
+            "velocidadMedia": 45.36
+        },
+        {
+            "etapa": 17,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 183.0,
+            "desnivel": 5064,
+            "velocidadMedia": 35.69
+        },
+        {
+            "etapa": 18,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "distancia": 179.5,
+            "desnivel": 4059,
+            "velocidadMedia": 38.39
+        },
+        {
+            "etapa": 19,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 222.5,
+            "desnivel": 2613,
+            "velocidadMedia": 43.61
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bodnar Maciej",
+            "pais": "Polonia",
+            "distancia": 22.5,
+            "desnivel": 160,
+            "velocidadMedia": 47.79
+        },
+        {
+            "etapa": 21,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 105.0,
+            "desnivel": 519,
+            "velocidadMedia": 43.25
+        }
+    ]
+}

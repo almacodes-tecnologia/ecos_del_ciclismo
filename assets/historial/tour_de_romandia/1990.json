@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1990,
+    "distancia": 660.5,
+    "desnivel": 0,
+    "tiempo": "22h 20' 01\"",
+    "ciclistasInscritos": 78,
+    "ciclistasFinalizados": 74,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "RMO - Mavic - Liberia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 2 min 0 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Roosen Luc",
+            "pais": "Bélgica",
+            "equipo": "Histor - Sigma",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Wilson Michael",
+            "pais": "Australia",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hodge Stephen",
+            "pais": "Australia",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 3 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Simon Pascal",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 3 min 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Simon Jérôme",
+            "pais": "Francia",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 3 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cornillet Bruno",
+            "pais": "Francia",
+            "equipo": "Z - Tomasso",
+            "ventaja": "+ 4 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "equipo": "Frank - Toyo",
+            "ventaja": "+ 4 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fuchs Fabian",
+            "pais": "Suiza",
+            "equipo": "Buckler - Colnago - Decca",
+            "ventaja": "+ 5 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 4.6,
+            "desnivel": 0,
+            "velocidadMedia": 45.49
+        },
+        {
+            "etapa": 1,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "distancia": 174.6,
+            "desnivel": 0,
+            "velocidadMedia": 34.74
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 99.6,
+            "desnivel": 0,
+            "velocidadMedia": 42.428
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "distancia": 22.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Dernies Michel",
+            "pais": "Bélgica",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.02
+        },
+        {
+            "etapa": 4,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "distancia": 168.7,
+            "desnivel": 0,
+            "velocidadMedia": 37.14
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.045
+        }
+    ]
+}

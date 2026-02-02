@@ -1,0 +1,278 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1982,
+    "distancia": 3243.0,
+    "desnivel": 44793,
+    "tiempo": "92h 08' 46\"",
+    "ciclistasInscritos": 170,
+    "ciclistasFinalizados": 125,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Coop - Mercier - Mavic",
+            "ventaja": "+ 6 min 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Campagnolo ",
+            "ventaja": "+ 8 min 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Capri Sonne - Campagnolo - Merckx",
+            "ventaja": "+ 9 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "Peugeot - Shell - Michelin",
+            "ventaja": "+ 12 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Cilo - Aufina",
+            "ventaja": "+ 13 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "equipo": "Boule d'Or - Sunair",
+            "ventaja": "+ 15 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Raymond",
+            "pais": "Francia",
+            "equipo": "Coop - Mercier - Mavic",
+            "ventaja": "+ 15 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "DAF Trucks - Tévé Blad - Rossin",
+            "ventaja": "+ 17 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 17 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Sem - France Loire - Campagnolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Vallet Bernard",
+        "pais": "Francia",
+        "equipo": "La Redoute - Motobecane"
+    },
+    "ganadorJovenes": {
+        "nombre": "Anderson Phil",
+        "pais": "Australia",
+        "equipo": "Peugeot - Shell - Michelin"
+    },
+    "ganadorEquipos": {
+        "nombre": " Coop - Mercier - Mavic",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 7.0,
+            "desnivel": 112,
+            "velocidadMedia": 44.13
+        },
+        {
+            "etapa": 1,
+            "nombre": "Peeters Ludo",
+            "pais": "Bélgica",
+            "distancia": 207.0,
+            "desnivel": 3367,
+            "velocidadMedia": 38.77
+        },
+        {
+            "etapa": 2,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "distancia": 246.0,
+            "desnivel": 2500,
+            "velocidadMedia": 37.7
+        },
+        {
+            "etapa": 3,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "distancia": 134.0,
+            "desnivel": 1591,
+            "velocidadMedia": 40.58
+        },
+        {
+            "etapa": 4,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 207.0,
+            "desnivel": 1972,
+            "velocidadMedia": 35.87
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 556,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 233.0,
+            "desnivel": 1184,
+            "velocidadMedia": 39.3
+        },
+        {
+            "etapa": 7,
+            "nombre": "Verschuere Pol",
+            "pais": "Bélgica",
+            "distancia": 234.0,
+            "desnivel": 2596,
+            "velocidadMedia": 38.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 2823,
+            "velocidadMedia": 40.527
+        },
+        {
+            "etapa": 9,
+            "nombre": "Mutter Stefan",
+            "pais": "Suiza",
+            "distancia": 138.0,
+            "desnivel": 1350,
+            "velocidadMedia": 44.15
+        },
+        {
+            "etapa": 10,
+            "nombre": "Villemiane Pierre-Raymond",
+            "pais": "Francia",
+            "distancia": 148.0,
+            "desnivel": 1272,
+            "velocidadMedia": 45.11
+        },
+        {
+            "etapa": 11,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 57.0,
+            "desnivel": 588,
+            "velocidadMedia": 44.14
+        },
+        {
+            "etapa": 12,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 249.0,
+            "desnivel": 4000,
+            "velocidadMedia": 35.93
+        },
+        {
+            "etapa": 13,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "distancia": 122.0,
+            "desnivel": 3406,
+            "velocidadMedia": 33.2
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 32.0,
+            "desnivel": 551,
+            "velocidadMedia": 42.48
+        },
+        {
+            "etapa": 15,
+            "nombre": "Simon Pascal",
+            "pais": "Francia",
+            "distancia": 208.0,
+            "desnivel": 4500,
+            "velocidadMedia": 31.62
+        },
+        {
+            "etapa": 16,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "distancia": 123.0,
+            "desnivel": 3000,
+            "velocidadMedia": 36.11
+        },
+        {
+            "etapa": 17,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "distancia": 251.0,
+            "desnivel": 5000,
+            "velocidadMedia": 33.15
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 233.0,
+            "desnivel": 2500,
+            "velocidadMedia": 35.59
+        },
+        {
+            "etapa": 19,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 48.0,
+            "desnivel": 508,
+            "velocidadMedia": 44.66
+        },
+        {
+            "etapa": 20,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 1417,
+            "velocidadMedia": 36.82
+        },
+        {
+            "etapa": 21,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.934
+        }
+    ]
+}

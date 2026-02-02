@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2025,
+    "distancia": 1075.9,
+    "desnivel": 14374,
+    "tiempo": "25h 10' 57\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 112,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sobrero Matteo",
+            "pais": "Italia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Christen Jan",
+            "pais": "Suiza",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Langellotti Victor",
+            "pais": "Mónaco",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bettiol Alberto",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Frigo Marco",
+            "pais": "Italia",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zana Filippo",
+            "pais": "Italia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 1 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Turner Ben",
+        "pais": "Reino Unido",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorMontana": {
+        "nombre": "Kielich Timo",
+        "pais": "Bélgica",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates - XRG",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 199.7,
+            "desnivel": 722,
+            "velocidadMedia": 44.944
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lapeira Paul",
+            "pais": "Francia",
+            "distancia": 149.4,
+            "desnivel": 2199,
+            "velocidadMedia": 42.692
+        },
+        {
+            "etapa": 3,
+            "nombre": "Turner Ben",
+            "pais": "Reino Unido",
+            "distancia": 159.3,
+            "desnivel": 3465,
+            "velocidadMedia": 39.698
+        },
+        {
+            "etapa": 4,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 201.4,
+            "desnivel": 2242,
+            "velocidadMedia": 43.759
+        },
+        {
+            "etapa": 5,
+            "nombre": "Brennan Matthew",
+            "pais": "Reino Unido",
+            "distancia": 206.1,
+            "desnivel": 2763,
+            "velocidadMedia": 42.632
+        },
+        {
+            "etapa": 6,
+            "nombre": "Langellotti Victor",
+            "pais": "Mónaco",
+            "distancia": 147.5,
+            "desnivel": 2808,
+            "velocidadMedia": 41.556
+        },
+        {
+            "etapa": 7,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "distancia": 12.5,
+            "desnivel": 175,
+            "velocidadMedia": 51.665
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2008,
+    "distancia": 553.0,
+    "desnivel": 0,
+    "tiempo": "14h 15' 05\"",
+    "ciclistasInscritos": 179,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quinziato Manuel",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gasparotto Enrico",
+            "pais": "Italia",
+            "equipo": "Barloworld",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Terpstra Niki",
+            "pais": "Países Bajos",
+            "equipo": "Milram",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Lampre",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Flens Rick",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bäckstedt Magnus",
+            "pais": "Suecia",
+            "equipo": "Slipstream - Chipotle presented by H3O",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "Team High Road",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "equipo": "Acqua & Sapone",
+            "ventaja": "+ 1 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cavendish Mark",
+        "pais": "Reino Unido",
+        "equipo": "Team High Road"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Hecke Preben",
+        "pais": "Bélgica",
+        "equipo": "Chocolade Jacques / Topsport Vlaanderen"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Rabobank ProTeam",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gasparotto Enrico",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.658
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.318
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 119.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.129
+        },
+        {
+            "etapa": 4,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "distancia": 14.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.012
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1973,
+    "distancia": 564.0,
+    "desnivel": 0,
+    "tiempo": "14h 26' 12\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 18,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Watney - Maes Pils",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pettersson Gösta",
+            "pais": "Suecia",
+            "equipo": "Scic",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Boifava Davide",
+            "pais": "Italia",
+            "equipo": "Magniflex",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ritter Ole",
+            "pais": "Dinamarca",
+            "equipo": "Bianchi - Campagnolo ",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Dreher Forte",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 11,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Sammontana",
+            "ventaja": "+ 1 min 58 s"
+        },
+        {
+            "puesto": 12,
+            "nombre": "Pettersson Tomas",
+            "pais": "Suecia",
+            "equipo": "Scic",
+            "ventaja": "+ 1 min 59 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.43
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Guerra Pietro",
+            "pais": "Italia",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.61
+        },
+        {
+            "etapa": 4,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "distancia": 95.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.42
+        },
+        {
+            "etapa": 4,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 68.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 107.0,
+            "desnivel": 0,
+            "velocidadMedia": 50.93
+        },
+        {
+            "etapa": 5,
+            "nombre": "Swerts Roger",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 54.8396
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1946,
+    "distancia": 3013.0,
+    "desnivel": 0,
+    "tiempo": "65h 32' 20\"",
+    "ciclistasInscritos": 79,
+    "ciclistasFinalizados": 40,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "equipo": "Legnano - Pirelli",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "equipo": "Bianchi",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ortelli Vito",
+            "pais": "Italia",
+            "equipo": "Benotto - Superga",
+            "ventaja": "+ 15 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Crippa Salvatore",
+            "pais": "Italia",
+            "equipo": "Enal - Campari",
+            "ventaja": "+ 15 min 31 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ronconi Aldo",
+            "pais": "Italia",
+            "equipo": "Benotto - Superga",
+            "ventaja": "+ 24 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bresci Giulio",
+            "pais": "Italia",
+            "equipo": "Welter - Ursus",
+            "ventaja": "+ 27 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cecchi Ezio",
+            "pais": "Italia",
+            "equipo": "Centro Sportivo Italiano",
+            "ventaja": "+ 37 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cottur Giordano",
+            "pais": "Italia",
+            "equipo": "Wilier Triestina",
+            "ventaja": "+ 38 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Martini Alfredo",
+            "pais": "Italia",
+            "equipo": "Welter - Ursus",
+            "ventaja": "+ 39 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Volpi Primo",
+            "pais": "Italia",
+            "equipo": "V.C. Bustese",
+            "ventaja": "+ 43 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Bartali Gino",
+        "pais": "Italia",
+        "equipo": "Legnano - Pirelli"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cottur Giordano",
+            "pais": "Italia",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bevilacqua Antonio",
+            "pais": "Italia",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Leoni Adolfo",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bevilacqua Antonio",
+            "pais": "Italia",
+            "distancia": 40.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bizzi Olimpio",
+            "pais": "Italia",
+            "distancia": 80.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bini Aldo",
+            "pais": "Italia",
+            "distancia": 128.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ortelli Vito",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ricci Mario",
+            "pais": "Italia",
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bertocchi Elio",
+            "pais": "Italia",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": "Baito Aldo",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.26
+        },
+        {
+            "etapa": 10,
+            "nombre": "Zanazzi Renzo",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Conte Oreste",
+            "pais": "Italia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 13,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Coppi Fausto",
+            "pais": "Italia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 15,
+            "nombre": "Ronconi Aldo",
+            "pais": "Italia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Conte Oreste",
+            "pais": "Italia",
+            "distancia": 72.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bertocchi Elio",
+            "pais": "Italia",
+            "distancia": 90.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Conte Oreste",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.369
+        }
+    ]
+}

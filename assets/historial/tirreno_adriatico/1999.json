@@ -1,0 +1,151 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1999,
+    "distancia": 1248.0,
+    "desnivel": 0,
+    "tiempo": "36h 03' 30\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 155,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno - Bianchi",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Spezialetti Alessandro",
+            "pais": "Italia",
+            "equipo": "Mobilvetta Design - Northwave",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hamburger Bo",
+            "pais": "Dinamarca",
+            "equipo": "Cantina Tollo - Alexia Alluminio",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Jenner Christopher",
+            "pais": "Nueva Zelanda",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Camenzind Oscar",
+            "pais": "Suiza",
+            "equipo": "Lampre - Daikin - Colnago",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Casarotto Davide",
+            "pais": "Italia",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "+ 4 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Vainšteins Romāns",
+            "pais": "Letonia",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.66
+        },
+        {
+            "etapa": 2,
+            "nombre": "Strazzer Massimo",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.71
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.93
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.23
+        },
+        {
+            "etapa": 5,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.92
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vainšteins Romāns",
+            "pais": "Letonia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.54
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.04
+        },
+        {
+            "etapa": 8,
+            "nombre": "Svorada Ján",
+            "pais": "República Checa",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.1917
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2010,
+    "distancia": 3285.2,
+    "desnivel": 50471,
+    "tiempo": "87h 18' 31\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 156,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Liquigas - Doimo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Velits Peter",
+            "pais": "Eslovaquia",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "Saxo Bank ",
+            "ventaja": "+ 4 min 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 4 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 5 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 6 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Transitions",
+            "ventaja": "+ 6 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mikel Nieve",
+            "pais": "España",
+            "equipo": "Euskaltel-Euskadi",
+            "ventaja": "+ 11 min 00 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cavendish Mark",
+        "pais": "Reino Unido",
+        "equipo": "Team HTC - Columbia "
+    },
+    "ganadorMontana": {
+        "nombre": "Moncoutié David",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit en Ligne"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 13.0,
+            "desnivel": 33,
+            "velocidadMedia": 55.32
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 173.0,
+            "desnivel": 2506,
+            "velocidadMedia": 37.652
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 2868,
+            "velocidadMedia": 38.018
+        },
+        {
+            "etapa": 4,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "distancia": 177.0,
+            "desnivel": 3442,
+            "velocidadMedia": 35.343
+        },
+        {
+            "etapa": 5,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 194.0,
+            "desnivel": 1763,
+            "velocidadMedia": 38.34
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 144.0,
+            "desnivel": 1243,
+            "velocidadMedia": 39.938
+        },
+        {
+            "etapa": 7,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 187.1,
+            "desnivel": 1161,
+            "velocidadMedia": 40.644
+        },
+        {
+            "etapa": 8,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "distancia": 188.8,
+            "desnivel": 3870,
+            "velocidadMedia": 36.02
+        },
+        {
+            "etapa": 9,
+            "nombre": "López David",
+            "pais": "España",
+            "distancia": 187.0,
+            "desnivel": 4329,
+            "velocidadMedia": 34.97
+        },
+        {
+            "etapa": 10,
+            "nombre": "Erviti Imanol",
+            "pais": "España",
+            "distancia": 173.7,
+            "desnivel": 2459,
+            "velocidadMedia": 41.11
+        },
+        {
+            "etapa": 11,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "distancia": 208.0,
+            "desnivel": 4199,
+            "velocidadMedia": 38.314
+        },
+        {
+            "etapa": 12,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 196.0,
+            "desnivel": 2133,
+            "velocidadMedia": 48.898
+        },
+        {
+            "etapa": 13,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 193.7,
+            "desnivel": 2305,
+            "velocidadMedia": 40.034
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 178.8,
+            "desnivel": 3248,
+            "velocidadMedia": 40.222
+        },
+        {
+            "etapa": 15,
+            "nombre": "Barredo Carlos",
+            "pais": "España",
+            "distancia": 170.0,
+            "desnivel": 2673,
+            "velocidadMedia": 37.19
+        },
+        {
+            "etapa": 16,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "distancia": 181.4,
+            "desnivel": 4431,
+            "velocidadMedia": 37.276
+        },
+        {
+            "etapa": 17,
+            "nombre": "Velits Peter",
+            "pais": "Eslovaquia",
+            "distancia": 46.0,
+            "desnivel": 101,
+            "velocidadMedia": 52.36
+        },
+        {
+            "etapa": 18,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 148.9,
+            "desnivel": 964,
+            "velocidadMedia": 43.121
+        },
+        {
+            "etapa": 19,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 200.0,
+            "desnivel": 2554,
+            "velocidadMedia": 34.916
+        },
+        {
+            "etapa": 20,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "distancia": 168.8,
+            "desnivel": 4189,
+            "velocidadMedia": 35.479
+        },
+        {
+            "etapa": 21,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5962
+        }
+    ]
+}

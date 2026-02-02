@@ -1,0 +1,282 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1956,
+    "distancia": 4196.1,
+    "desnivel": 0,
+    "tiempo": "124h 01' 16\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 88,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Walkowiak Roger",
+            "pais": "Francia",
+            "equipo": "Nord-est/Centre",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Bauvin Gilbert",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Adriaensens Jan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 3 min 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Spain",
+            "ventaja": "+ 10 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 10 min 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Wagtmans Wout",
+            "pais": "Países Bajos",
+            "equipo": "Netherlands",
+            "ventaja": "+ 10 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lauredi Nello",
+            "pais": "Francia",
+            "equipo": "Sud-Est",
+            "ventaja": "+ 14 min 1 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 16 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 22 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barbosa Antonio da Silva Alves",
+            "pais": "Portugal",
+            "equipo": "Luxembourg/International",
+            "ventaja": "+ 26 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ockers Stan",
+        "pais": "Bélgica",
+        "equipo": "Belgium"
+    },
+    "ganadorMontana": {
+        "nombre": "Gaul Charly",
+        "pais": "Luxemburgo",
+        "equipo": "Luxembourg/International"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.91
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.92
+        },
+        {
+            "etapa": 3,
+            "nombre": "Padovan Arrigo",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.22
+        },
+        {
+            "etapa": 4,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 15.1,
+            "desnivel": 0,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 125.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.44
+        },
+        {
+            "etapa": 5,
+            "nombre": "Morvan Joseph",
+            "pais": "Francia",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.86
+        },
+        {
+            "etapa": 6,
+            "nombre": "De Bruyne Alfred",
+            "pais": "Bélgica",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.24
+        },
+        {
+            "etapa": 7,
+            "nombre": "Fantini Alessandro",
+            "pais": "Italia",
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.74
+        },
+        {
+            "etapa": 8,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.36
+        },
+        {
+            "etapa": 9,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 219.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7
+        },
+        {
+            "etapa": 10,
+            "nombre": "De Bruyne Alfred",
+            "pais": "Bélgica",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.25
+        },
+        {
+            "etapa": 11,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 255.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.64
+        },
+        {
+            "etapa": 12,
+            "nombre": "Schmitz Jean-Pierre",
+            "pais": "Luxemburgo",
+            "distancia": 130.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.24
+        },
+        {
+            "etapa": 13,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.44
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.5
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.64
+        },
+        {
+            "etapa": 16,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.88
+        },
+        {
+            "etapa": 17,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.91
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.35
+        },
+        {
+            "etapa": 19,
+            "nombre": "Ockers Stan",
+            "pais": "Bélgica",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.25
+        },
+        {
+            "etapa": 20,
+            "nombre": null,
+            "pais": null,
+            "distancia": 73.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.02
+        },
+        {
+            "etapa": 21,
+            "nombre": "Hassenforder Roger",
+            "pais": "Francia",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.54
+        },
+        {
+            "etapa": 22,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.5059
+        }
+    ]
+}

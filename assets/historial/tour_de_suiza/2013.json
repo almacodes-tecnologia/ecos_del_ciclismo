@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2013,
+    "distancia": 1272.5,
+    "desnivel": 16875,
+    "tiempo": "31h 08' 11\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 143,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Blanco Pro Cycling Team",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kangert Tanel",
+            "pais": "Estonia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 2 min 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Meyer Cameron",
+            "pais": "Australia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 3 min 44 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Cannondale Pro Cycling Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Vrečer Robert",
+        "pais": "Eslovenia",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Meyer Cameron",
+            "pais": "Australia",
+            "distancia": 8.1,
+            "desnivel": 101,
+            "velocidadMedia": 50.36
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "distancia": 132.3,
+            "desnivel": 3024,
+            "velocidadMedia": 48.7
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 204.9,
+            "desnivel": 2833,
+            "velocidadMedia": 42.92
+        },
+        {
+            "etapa": 4,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 174.4,
+            "desnivel": 1697,
+            "velocidadMedia": 42.13
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 178.4,
+            "desnivel": 1759,
+            "velocidadMedia": 43.08
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rast Grégory",
+            "pais": "Suiza",
+            "distancia": 187.9,
+            "desnivel": 2189,
+            "velocidadMedia": 42.72
+        },
+        {
+            "etapa": 7,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "distancia": 206.0,
+            "desnivel": 3513,
+            "velocidadMedia": 39.73
+        },
+        {
+            "etapa": 8,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 180.5,
+            "desnivel": 1759,
+            "velocidadMedia": 39.61
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.7293
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1981,
+    "distancia": 3362.1,
+    "desnivel": 0,
+    "tiempo": "98h 04' 49\"",
+    "ciclistasInscritos": 89,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Inoxpran",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Muñoz Pedro",
+            "pais": "España",
+            "equipo": "Zor - Helios - Novostil",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Belda Vicente",
+            "pais": "España",
+            "equipo": "Kelme - Gios",
+            "ventaja": "+ 2 min 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Marcussen Jørgen",
+            "pais": "Dinamarca",
+            "equipo": "Inoxpran",
+            "ventaja": "+ 3 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Coll Antonio",
+            "pais": "España",
+            "equipo": "Colchón CR - Velasquez Seguros - Campagnolo ",
+            "ventaja": "+ 4 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "equipo": "Zor - Helios - Novostil",
+            "ventaja": "+ 4 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Laguía José Luis",
+            "pais": "España",
+            "equipo": "Reynolds - Galli ",
+            "ventaja": "+ 6 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Zor - Helios - Novostil",
+            "ventaja": "+ 7 min 9 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Clère Régis",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Vivagel",
+            "ventaja": "+ 7 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Zor - Helios - Novostil",
+            "ventaja": "+ 10 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cedena Francisco Javier",
+        "pais": "España",
+        "equipo": "Colchón CR - Velasquez Seguros - Campagnolo "
+    },
+    "ganadorMontana": {
+        "nombre": "Laguía José Luis",
+        "pais": "España",
+        "equipo": "Reynolds - Galli "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Zor - Helios - Novostil",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 6.3,
+            "desnivel": 0,
+            "velocidadMedia": 44.82
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.87
+        },
+        {
+            "etapa": 2,
+            "nombre": "Chinetti Alfredo",
+            "pais": "Italia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.56
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bontempi Guido",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.89
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.85
+        },
+        {
+            "etapa": 5,
+            "nombre": "Nieuwdorp Heddy",
+            "pais": "Países Bajos",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.73
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.38
+        },
+        {
+            "etapa": 7,
+            "nombre": "Fernández Juan",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.16
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.23
+        },
+        {
+            "etapa": 8,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "distancia": 30.5,
+            "desnivel": 0,
+            "velocidadMedia": 25.76
+        },
+        {
+            "etapa": 9,
+            "nombre": "Murga Manuel Imanol",
+            "pais": "España",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.26
+        },
+        {
+            "etapa": 10,
+            "nombre": "Andersen Kim",
+            "pais": "Dinamarca",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.83
+        },
+        {
+            "etapa": 11,
+            "nombre": "Suárez Jesús",
+            "pais": "España",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.97
+        },
+        {
+            "etapa": 12,
+            "nombre": "Vichot Frédéric",
+            "pais": "Francia",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.34
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.7
+        },
+        {
+            "etapa": 14,
+            "nombre": "López José Luis",
+            "pais": "España",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.46
+        },
+        {
+            "etapa": 15,
+            "nombre": "Muñoz Pedro",
+            "pais": "España",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.33
+        },
+        {
+            "etapa": 15,
+            "nombre": "Clère Régis",
+            "pais": "Francia",
+            "distancia": 11.3,
+            "desnivel": 0,
+            "velocidadMedia": 43.23
+        },
+        {
+            "etapa": 16,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.8
+        },
+        {
+            "etapa": 17,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.69
+        },
+        {
+            "etapa": 18,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.82
+        },
+        {
+            "etapa": 19,
+            "nombre": "Cedena Francisco Javier",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.2726
+        }
+    ]
+}

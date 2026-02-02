@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2024,
+    "distancia": 1173.6,
+    "desnivel": 19829,
+    "tiempo": "28h 21' 29\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 136,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 3 min 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 5 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 5 min 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 6 min 1 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Harper Chris",
+            "pais": "Australia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 6 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 6 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 6 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fortunato Lorenzo",
+            "pais": "Italia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 7 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorMontana": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorJovenes": {
+        "nombre": "Martinez Lenny",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bahrain - Victorious",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Schultz Nick",
+            "pais": "Australia",
+            "distancia": 173.9,
+            "desnivel": 2677,
+            "velocidadMedia": 41.465
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 186.5,
+            "desnivel": 3470,
+            "velocidadMedia": 38.241
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 176.7,
+            "desnivel": 3958,
+            "velocidadMedia": 38.635
+        },
+        {
+            "etapa": 4,
+            "nombre": "van den Berg Marijn",
+            "pais": "Países Bajos",
+            "distancia": 169.2,
+            "desnivel": 1346,
+            "velocidadMedia": 46.079
+        },
+        {
+            "etapa": 5,
+            "nombre": "Laurance Axel",
+            "pais": "Francia",
+            "distancia": 167.3,
+            "desnivel": 2243,
+            "velocidadMedia": 46.454
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 154.7,
+            "desnivel": 4075,
+            "velocidadMedia": 36.85
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 145.3,
+            "desnivel": 2060,
+            "velocidadMedia": 44.62
+        }
+    ]
+}

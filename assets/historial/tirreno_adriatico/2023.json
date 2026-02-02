@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2023,
+    "distancia": 1168.1,
+    "desnivel": 15651,
+    "tiempo": "28h 38' 57\"",
+    "ciclistasInscritos": 174,
+    "ciclistasFinalizados": 147,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kämna Lennard",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Carthy Hugh",
+            "pais": "Reino Unido",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorJovenes": {
+        "nombre": "Almeida João",
+        "pais": "Portugal",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 11.5,
+            "desnivel": 3,
+            "velocidadMedia": 55.348
+        },
+        {
+            "etapa": 2,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 1592,
+            "velocidadMedia": 41.103
+        },
+        {
+            "etapa": 3,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 216.0,
+            "desnivel": 2601,
+            "velocidadMedia": 40.61
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 218.0,
+            "desnivel": 2503,
+            "velocidadMedia": 43.59
+        },
+        {
+            "etapa": 5,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 165.6,
+            "desnivel": 3682,
+            "velocidadMedia": 35.673
+        },
+        {
+            "etapa": 6,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 193.0,
+            "desnivel": 3610,
+            "velocidadMedia": 40.03
+        },
+        {
+            "etapa": 7,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 154.0,
+            "desnivel": 1660,
+            "velocidadMedia": 43.462
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2015,
+    "distancia": 1262.6,
+    "desnivel": 16608,
+    "tiempo": "30h 15' 09\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 120,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Giant - Alpecin",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Morabito Steve",
+            "pais": "Suiza",
+            "equipo": "FDJ",
+            "ventaja": "+ 3 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 3 min 20 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Tinkoff - Saxo"
+    },
+    "ganadorMontana": {
+        "nombre": "Denifl Stefan",
+        "pais": "Austria",
+        "equipo": "IAM Cycling"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 5.1,
+            "desnivel": 24,
+            "velocidadMedia": 53.84
+        },
+        {
+            "etapa": 2,
+            "nombre": "Đurasek Kristijan",
+            "pais": "Croacia",
+            "distancia": 161.1,
+            "desnivel": 2023,
+            "velocidadMedia": 44.57
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 117.3,
+            "desnivel": 2213,
+            "velocidadMedia": 38.97
+        },
+        {
+            "etapa": 4,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 193.2,
+            "desnivel": 2323,
+            "velocidadMedia": 42.0
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 237.3,
+            "desnivel": 4458,
+            "velocidadMedia": 37.2
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 193.1,
+            "desnivel": 1296,
+            "velocidadMedia": 42.17
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 164.6,
+            "desnivel": 1604,
+            "velocidadMedia": 45.28
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "distancia": 152.5,
+            "desnivel": 2138,
+            "velocidadMedia": 43.95
+        },
+        {
+            "etapa": 9,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 38.4,
+            "desnivel": 529,
+            "velocidadMedia": 47.41
+        }
+    ]
+}

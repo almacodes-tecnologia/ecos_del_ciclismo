@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-of-guangxi",
+    "anio": 2019,
+    "distancia": 804.5,
+    "desnivel": 7050,
+    "tiempo": "22h 42' 42\"",
+    "ciclistasInscritos": 123,
+    "ciclistasFinalizados": 118,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "EF Education First",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rosa Diego",
+            "pais": "Italia",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tolhoek Antwan",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Eiking Odd Christian",
+            "pais": "Noruega",
+            "equipo": "Wanty - Gobert Cycling Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hagen Carl Fredrik",
+            "pais": "Noruega",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "Team INEOS",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Villella Davide",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Tusveld Martijn",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ackermann Pascal",
+        "pais": "Alemania",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Marczyński Tomasz",
+        "pais": "Polonia",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mas Enric",
+        "pais": "España",
+        "equipo": "Deceuninck - Quick Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " Lotto Soudal",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 135.6,
+            "desnivel": 537,
+            "velocidadMedia": 46.839
+        },
+        {
+            "etapa": 2,
+            "nombre": "McLay Daniel",
+            "pais": "Reino Unido",
+            "distancia": 152.3,
+            "desnivel": 601,
+            "velocidadMedia": 40.601
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 143.0,
+            "desnivel": 2190,
+            "velocidadMedia": 43.04
+        },
+        {
+            "etapa": 4,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "distancia": 161.4,
+            "desnivel": 1589,
+            "velocidadMedia": 41.583
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 212.2,
+            "desnivel": 2133,
+            "velocidadMedia": 40.587
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.8274
+        }
+    ]
+}

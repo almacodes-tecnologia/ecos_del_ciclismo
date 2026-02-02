@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2011,
+    "distancia": 1065.8,
+    "desnivel": 13228,
+    "tiempo": "27h 26' 33\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Lampre - ISD",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pinotti Marco",
+            "pais": "Italia",
+            "equipo": "HTC - High Road",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "RadioShack",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre - ISD",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Scarponi Michele",
+        "pais": "Italia",
+        "equipo": "Lampre - ISD"
+    },
+    "ganadorMontana": {
+        "nombre": "Malacarne Davide",
+        "pais": "Italia",
+        "equipo": "Quickstep Cycling Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Gesink Robert",
+        "pais": "Países Bajos",
+        "equipo": "Rabobank Cycling Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Liquigas - Cannondale",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 16.8,
+            "desnivel": 20,
+            "velocidadMedia": 55.588
+        },
+        {
+            "etapa": 2,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 202.0,
+            "desnivel": 1783,
+            "velocidadMedia": 40.932
+        },
+        {
+            "etapa": 3,
+            "nombre": "Haedo Juan José",
+            "pais": "Argentina",
+            "distancia": 189.0,
+            "desnivel": 1438,
+            "velocidadMedia": 40.536
+        },
+        {
+            "etapa": 4,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "distancia": 240.0,
+            "desnivel": 3351,
+            "velocidadMedia": 38.816
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 240.0,
+            "desnivel": 3941,
+            "velocidadMedia": 35.698
+        },
+        {
+            "etapa": 6,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "distancia": 178.0,
+            "desnivel": 2695,
+            "velocidadMedia": 38.422
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.9094
+        }
+    ]
+}

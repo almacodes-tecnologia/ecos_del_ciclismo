@@ -1,0 +1,147 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2018,
+    "distancia": 697.7,
+    "desnivel": 11372,
+    "tiempo": "20h 53' 47\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 99,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 3 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 3 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 3 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 4 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Konrad Patrick",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 5 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Roglič Primož",
+        "pais": "Eslovenia",
+        "equipo": "Team LottoNL-Jumbo"
+    },
+    "ganadorMontana": {
+        "nombre": "Verona Carlos",
+        "pais": "España",
+        "equipo": "Mitchelton-Scott"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mas Enric",
+        "pais": "España",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 162.1,
+            "desnivel": 2820,
+            "velocidadMedia": 37.73
+        },
+        {
+            "etapa": 2,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 166.7,
+            "desnivel": 3232,
+            "velocidadMedia": 39.72
+        },
+        {
+            "etapa": 3,
+            "nombre": "McCarthy Jay",
+            "pais": "Australia",
+            "distancia": 184.8,
+            "desnivel": 2988,
+            "velocidadMedia": 38.28
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 19.4,
+            "desnivel": 63,
+            "velocidadMedia": 51.89
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fraile Omar",
+            "pais": "España",
+            "distancia": 164.7,
+            "desnivel": 2269,
+            "velocidadMedia": 42.23
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2271
+        }
+    ]
+}

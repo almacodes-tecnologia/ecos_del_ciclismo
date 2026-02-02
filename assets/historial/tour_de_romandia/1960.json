@@ -1,0 +1,134 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1960,
+    "distancia": 686.0,
+    "desnivel": 0,
+    "tiempo": "19h 21' 31\"",
+    "ciclistasInscritos": 45,
+    "ciclistasFinalizados": 33,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rostollan Louis",
+            "pais": "Francia",
+            "equipo": "Helyett - Leroux - Fynsec - Hutchinson - A.C.B.B.",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Delberghe Edouard",
+            "pais": "Francia",
+            "equipo": "Helyett - Leroux - Fynsec - Hutchinson - A.C.B.B.",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hoevenaers Jos",
+            "pais": "Bélgica",
+            "equipo": "Wiel's - Flandria",
+            "ventaja": "+ 4 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pizzoglio Ezio",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 10 min 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Moresi Attilio",
+            "pais": "Suiza",
+            "equipo": "Mondia",
+            "ventaja": "+ 11 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "equipo": "Carpano",
+            "ventaja": "+ 13 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Conterno Angelo",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 14 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Helyett - Leroux - Fynsec - Hutchinson - A.C.B.B.",
+            "ventaja": "+ 15 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Venturelli Romeo",
+            "pais": "Italia",
+            "equipo": "San Pellegrino Sport",
+            "ventaja": "+ 15 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "equipo": "Helyett - Leroux - Fynsec - Hutchinson - A.C.B.B.",
+            "ventaja": "+ 16 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Hoevenaers Jos",
+        "pais": "Bélgica",
+        "equipo": "Wiel's - Flandria"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Helyett - Leroux - Fynsec - Hutchinson - A.C.B.B.",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.795
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.61
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 216.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.887
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.114
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.6996
+        }
+    ]
+}

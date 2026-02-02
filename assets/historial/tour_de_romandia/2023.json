@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2023,
+    "distancia": 691.6,
+    "desnivel": 11958,
+    "tiempo": "17h 12' 42\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 119,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Poole Max",
+            "pais": "Reino Unido",
+            "equipo": "Team DSM",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "Team DSM",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dunbar Eddie",
+            "pais": "Irlanda",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Hayter Ethan",
+        "pais": "Reino Unido",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorMontana": {
+        "nombre": "Bernard Julien",
+        "pais": "Francia",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Jorgenson Matteo",
+        "pais": "Estados Unidos",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Černý Josef",
+            "pais": "República Checa",
+            "distancia": 6.82,
+            "desnivel": 10,
+            "velocidadMedia": 55.173
+        },
+        {
+            "etapa": 1,
+            "nombre": "Vernon Ethan",
+            "pais": "Reino Unido",
+            "distancia": 170.9,
+            "desnivel": 2323,
+            "velocidadMedia": 41.756
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hayter Ethan",
+            "pais": "Reino Unido",
+            "distancia": 162.7,
+            "desnivel": 2653,
+            "velocidadMedia": 41.482
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 18.75,
+            "desnivel": 377,
+            "velocidadMedia": 44.554
+        },
+        {
+            "etapa": 4,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 161.6,
+            "desnivel": 4308,
+            "velocidadMedia": 34.544
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 170.8,
+            "desnivel": 2287,
+            "velocidadMedia": 43.056
+        }
+    ]
+}

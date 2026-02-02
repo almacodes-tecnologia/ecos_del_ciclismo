@@ -1,0 +1,138 @@
+{
+    "idCarrera": "uae-tour",
+    "anio": 2020,
+    "distancia": 835.0,
+    "desnivel": 7830,
+    "tiempo": "20h 35' 04\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "CCC Team",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "de la Parte Víctor",
+            "pais": "España",
+            "equipo": "CCC Team",
+            "ventaja": "+ 2 min 51 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ewan Caleb",
+        "pais": "Australia",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 148.0,
+            "desnivel": 1556,
+            "velocidadMedia": 42.42
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 168.0,
+            "desnivel": 2770,
+            "velocidadMedia": 39.03
+        },
+        {
+            "etapa": 3,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 184.0,
+            "desnivel": 1555,
+            "velocidadMedia": 39.07
+        },
+        {
+            "etapa": 4,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 173.0,
+            "desnivel": 541,
+            "velocidadMedia": 40.51
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 162.0,
+            "desnivel": 1408,
+            "velocidadMedia": 42.47
+        }
+    ]
+}

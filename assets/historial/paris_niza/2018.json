@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2018,
+    "distancia": 1196.9,
+    "desnivel": 16636,
+    "tiempo": "30h 22' 41\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 77,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Konrad Patrick",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vuillermoz Alexis",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Wellens Tim",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Soler Marc",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bahrain Merida Pro Cycling Team",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Démare Arnaud",
+            "pais": "Francia",
+            "distancia": 135.0,
+            "desnivel": 1224,
+            "velocidadMedia": 43.17
+        },
+        {
+            "etapa": 2,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 187.0,
+            "desnivel": 640,
+            "velocidadMedia": 38.49
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hivert Jonathan",
+            "pais": "Francia",
+            "distancia": 210.0,
+            "desnivel": 2380,
+            "velocidadMedia": 39.03
+        },
+        {
+            "etapa": 4,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 18.4,
+            "desnivel": 383,
+            "velocidadMedia": 43.21
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cousin Jérôme",
+            "pais": "Francia",
+            "distancia": 163.5,
+            "desnivel": 2611,
+            "velocidadMedia": 41.32
+        },
+        {
+            "etapa": 6,
+            "nombre": "Molard Rudy",
+            "pais": "Francia",
+            "distancia": 198.0,
+            "desnivel": 3189,
+            "velocidadMedia": 42.42
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 175.0,
+            "desnivel": 4044,
+            "velocidadMedia": 34.66
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 110.0,
+            "desnivel": 2165,
+            "velocidadMedia": 38.13
+        }
+    ]
+}

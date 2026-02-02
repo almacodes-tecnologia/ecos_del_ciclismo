@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2020,
+    "distancia": 3482.2,
+    "desnivel": 58915,
+    "tiempo": "87h 20' 05\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 146,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 3 min 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 5 min 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 6 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 7 min 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "EF Pro Cycling",
+            "ventaja": "+ 8 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 9 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 14 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennett Sam",
+        "pais": "Irlanda",
+        "equipo": "Deceuninck - Quick Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 156.0,
+            "desnivel": 1597,
+            "velocidadMedia": 41.35
+        },
+        {
+            "etapa": 2,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 185.0,
+            "desnivel": 4066,
+            "velocidadMedia": 37.57
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 198.0,
+            "desnivel": 3003,
+            "velocidadMedia": 37.39
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 160.5,
+            "desnivel": 3200,
+            "velocidadMedia": 38.86
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 183.0,
+            "desnivel": 1388,
+            "velocidadMedia": 42.01
+        },
+        {
+            "etapa": 6,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "distancia": 191.0,
+            "desnivel": 3087,
+            "velocidadMedia": 42.04
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 168.0,
+            "desnivel": 2011,
+            "velocidadMedia": 47.54
+        },
+        {
+            "etapa": 8,
+            "nombre": "Peters Nans",
+            "pais": "Francia",
+            "distancia": 141.0,
+            "desnivel": 3821,
+            "velocidadMedia": 34.93
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 153.0,
+            "desnivel": 3500,
+            "velocidadMedia": 39.02
+        },
+        {
+            "etapa": 10,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 168.5,
+            "desnivel": 531,
+            "velocidadMedia": 46.94
+        },
+        {
+            "etapa": 11,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 166.5,
+            "desnivel": 1008,
+            "velocidadMedia": 41.62
+        },
+        {
+            "etapa": 12,
+            "nombre": "Hirschi Marc",
+            "pais": "Suiza",
+            "distancia": 218.0,
+            "desnivel": 3389,
+            "velocidadMedia": 42.36
+        },
+        {
+            "etapa": 13,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "distancia": 191.5,
+            "desnivel": 4459,
+            "velocidadMedia": 38.07
+        },
+        {
+            "etapa": 14,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "distancia": 194.0,
+            "desnivel": 2646,
+            "velocidadMedia": 43.41
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 174.5,
+            "desnivel": 3724,
+            "velocidadMedia": 38.18
+        },
+        {
+            "etapa": 16,
+            "nombre": "Kämna Lennard",
+            "pais": "Alemania",
+            "distancia": 164.0,
+            "desnivel": 3903,
+            "velocidadMedia": 38.91
+        },
+        {
+            "etapa": 17,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "distancia": 170.0,
+            "desnivel": 4430,
+            "velocidadMedia": 35.28
+        },
+        {
+            "etapa": 18,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 175.0,
+            "desnivel": 5166,
+            "velocidadMedia": 36.52
+        },
+        {
+            "etapa": 19,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "distancia": 166.5,
+            "desnivel": 2208,
+            "velocidadMedia": 46.13
+        },
+        {
+            "etapa": 20,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 36.2,
+            "desnivel": 962,
+            "velocidadMedia": 38.84
+        },
+        {
+            "etapa": 21,
+            "nombre": "Bennett Sam",
+            "pais": "Irlanda",
+            "distancia": 122.0,
+            "desnivel": 816,
+            "velocidadMedia": 42.18
+        }
+    ]
+}

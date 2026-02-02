@@ -1,0 +1,135 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1903,
+    "distancia": 1957.0,
+    "desnivel": 0,
+    "tiempo": "94h 33' 14\"",
+    "ciclistasInscritos": 46,
+    "ciclistasFinalizados": 21,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Garin Maurice",
+            "pais": "Francia",
+            "equipo": "La Française",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pothier Lucien",
+            "pais": "Francia",
+            "equipo": "La Française",
+            "ventaja": "+ 2 h 59 min 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Augereau Fernand",
+            "pais": "Francia",
+            "equipo": "La Française",
+            "ventaja": "+ 4 h 29 min 24 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Muller Rodolfo",
+            "pais": "Italia",
+            "equipo": "La Française",
+            "ventaja": "+ 4 h 39 min 31 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Fischer Jean",
+            "pais": "Francia",
+            "equipo": "La Française",
+            "ventaja": "+ 4 h 58 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kerff Marcel",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 5 h 52 min 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lootens Julien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 8 h 31 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pasquier Gustave",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 10 h 24 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Beaugendre François",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 10 h 52 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Catteau Aloïs",
+            "pais": "Bélgica",
+            "equipo": "La Française",
+            "ventaja": "+ 12 h 44 min 56 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Garin Maurice",
+            "pais": "Francia",
+            "distancia": 467.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.305
+        },
+        {
+            "etapa": 2,
+            "nombre": "Aucouturier Hippolyte",
+            "pais": "Francia",
+            "distancia": 374.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.826
+        },
+        {
+            "etapa": 3,
+            "nombre": "Aucouturier Hippolyte",
+            "pais": "Francia",
+            "distancia": 423.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.608
+        },
+        {
+            "etapa": 4,
+            "nombre": "Laeser Charles",
+            "pais": "Suiza",
+            "distancia": 268.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.57
+        },
+        {
+            "etapa": 5,
+            "nombre": "Garin Maurice",
+            "pais": "Francia",
+            "distancia": 425.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.849
+        },
+        {
+            "etapa": 6,
+            "nombre": "Garin Maurice",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.6786
+        }
+    ]
+}

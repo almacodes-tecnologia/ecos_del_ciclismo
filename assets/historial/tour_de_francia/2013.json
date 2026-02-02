@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2013,
+    "distancia": 3388.0,
+    "desnivel": 50755,
+    "tiempo": "83h 56' 40\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 169,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 min 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 5 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 6 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Team Saxo - Tinkoff",
+            "ventaja": "+ 7 min 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 11 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 12 min 17 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 15 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Navarro Daniel",
+            "pais": "España",
+            "equipo": "Cofidis, Solutions Crédits",
+            "ventaja": "+ 15 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 17 min 39 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Cannondale Pro Cycling Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Quintana Nairo",
+        "pais": "Colombia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Quintana Nairo",
+        "pais": "Colombia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Saxo - Tinkoff",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 213.0,
+            "desnivel": 1529,
+            "velocidadMedia": 43.05
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bakelants Jan",
+            "pais": "Bélgica",
+            "distancia": 156.0,
+            "desnivel": 2373,
+            "velocidadMedia": 41.94
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 145.5,
+            "desnivel": 2426,
+            "velocidadMedia": 39.43
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 25.0,
+            "desnivel": 48,
+            "velocidadMedia": 57.77
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 228.5,
+            "desnivel": 2775,
+            "velocidadMedia": 41.31
+        },
+        {
+            "etapa": 6,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 176.5,
+            "desnivel": 837,
+            "velocidadMedia": 44.3
+        },
+        {
+            "etapa": 7,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 205.5,
+            "desnivel": 2675,
+            "velocidadMedia": 41.91
+        },
+        {
+            "etapa": 8,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 195.0,
+            "desnivel": 3839,
+            "velocidadMedia": 38.58
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 168.5,
+            "desnivel": 4411,
+            "velocidadMedia": 35.72
+        },
+        {
+            "etapa": 10,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 197.0,
+            "desnivel": 1762,
+            "velocidadMedia": 40.28
+        },
+        {
+            "etapa": 11,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 33.0,
+            "desnivel": 283,
+            "velocidadMedia": 54.271
+        },
+        {
+            "etapa": 12,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 218.0,
+            "desnivel": 1425,
+            "velocidadMedia": 45.13
+        },
+        {
+            "etapa": 13,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 173.0,
+            "desnivel": 1036,
+            "velocidadMedia": 47.15
+        },
+        {
+            "etapa": 14,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 2158,
+            "velocidadMedia": 44.91
+        },
+        {
+            "etapa": 15,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 242.5,
+            "desnivel": 4146,
+            "velocidadMedia": 41.72
+        },
+        {
+            "etapa": 16,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "distancia": 168.0,
+            "desnivel": 3073,
+            "velocidadMedia": 43.31
+        },
+        {
+            "etapa": 17,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 32.0,
+            "desnivel": 928,
+            "velocidadMedia": 37.25
+        },
+        {
+            "etapa": 18,
+            "nombre": "Riblon Christophe",
+            "pais": "Francia",
+            "distancia": 172.5,
+            "desnivel": 4789,
+            "velocidadMedia": 35.5
+        },
+        {
+            "etapa": 19,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "distancia": 204.5,
+            "desnivel": 5567,
+            "velocidadMedia": 34.18
+        },
+        {
+            "etapa": 20,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 125.0,
+            "desnivel": 3909,
+            "velocidadMedia": 34.24
+        },
+        {
+            "etapa": 21,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 118.0,
+            "desnivel": 766,
+            "velocidadMedia": 38.02
+        }
+    ]
+}

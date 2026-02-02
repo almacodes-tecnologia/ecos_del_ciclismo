@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2012,
+    "distancia": 530.8,
+    "desnivel": 0,
+    "tiempo": "12h 05' 44\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 111,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Westra Lieuwe",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bodnar Maciej",
+            "pais": "Polonia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tuft Svein",
+            "pais": "Canadá",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Terpstra Niki",
+            "pais": "Países Bajos",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sergent Jesse",
+            "pais": "Nueva Zelanda",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Devolder Stijn",
+            "pais": "Bélgica",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Irizar Markel",
+            "pais": "España",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Turgot Sébastien",
+            "pais": "Francia",
+            "equipo": "Team Europcar",
+            "ventaja": "+ 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kristoff Alexander",
+        "pais": "Noruega",
+        "equipo": "Team Katusha "
+    },
+    "ganadorMontana": {
+        "nombre": "Van der Sande Tosh",
+        "pais": "Bélgica",
+        "equipo": "Lotto Belisol Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 201.6,
+            "desnivel": 0,
+            "velocidadMedia": 44.197
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 216.1,
+            "desnivel": 0,
+            "velocidadMedia": 44.516
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 113.1,
+            "desnivel": 0,
+            "velocidadMedia": 47.466
+        },
+        {
+            "etapa": 3,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.0992
+        }
+    ]
+}

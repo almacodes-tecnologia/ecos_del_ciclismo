@@ -1,0 +1,207 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1914,
+    "distancia": 5048.0,
+    "desnivel": 0,
+    "tiempo": "200h 28' 48\"",
+    "ciclistasInscritos": 143,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thys Philippe",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 36 min 53 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rossius Jean",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 57 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garrigou Gustave",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 h 0 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Georget Émile",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 h 20 min 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Spiessens Alfons",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 3 h 53 min 55 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lambot Firmin",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 5 h 8 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Faber François",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "+ 6 h 15 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Heusghem Louis",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 7 h 49 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Thys Philippe",
+            "pais": "Bélgica",
+            "distancia": 388.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.16
+        },
+        {
+            "etapa": 2,
+            "nombre": "Rossius Jean",
+            "pais": "Bélgica",
+            "distancia": 364.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.7
+        },
+        {
+            "etapa": 3,
+            "nombre": "Engel Émile",
+            "pais": "Francia",
+            "distancia": 405.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.06
+        },
+        {
+            "etapa": 4,
+            "nombre": "Egg Oscar",
+            "pais": "Suiza",
+            "distancia": 470.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.96
+        },
+        {
+            "etapa": 5,
+            "nombre": "Egg Oscar",
+            "pais": "Suiza",
+            "distancia": 376.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.01
+        },
+        {
+            "etapa": 6,
+            "nombre": "Lambot Firmin",
+            "pais": "Bélgica",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.25
+        },
+        {
+            "etapa": 7,
+            "nombre": "Alavoine Jean",
+            "pais": "Francia",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.41
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lapize Octave",
+            "pais": "Francia",
+            "distancia": 370.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.46
+        },
+        {
+            "etapa": 9,
+            "nombre": "Rossius Jean",
+            "pais": "Bélgica",
+            "distancia": 338.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.84
+        },
+        {
+            "etapa": 10,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.16
+        },
+        {
+            "etapa": 11,
+            "nombre": "Garrigou Gustave",
+            "pais": "Francia",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.03
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.93
+        },
+        {
+            "etapa": 13,
+            "nombre": "Faber François",
+            "pais": "Luxemburgo",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.92
+        },
+        {
+            "etapa": 14,
+            "nombre": "Faber François",
+            "pais": "Luxemburgo",
+            "distancia": 390.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.91
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pélissier Henri",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.9471
+        }
+    ]
+}

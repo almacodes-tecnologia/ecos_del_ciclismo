@@ -1,0 +1,155 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2002,
+    "distancia": 1037.2,
+    "desnivel": 0,
+    "tiempo": "30h 39' 27\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 122,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "CSC ProTeam - Tiscali",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kivilev Andrei",
+            "pais": "Kazajistán",
+            "equipo": "Cofidis",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garmendia Aitor",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rous Didier",
+            "pais": "Francia",
+            "equipo": "Bonjour",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "equipo": "Tacconi Sport",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Aerts Mario",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 2 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Bodrogi László",
+            "pais": "Hungría",
+            "distancia": 5.2,
+            "desnivel": 0,
+            "velocidadMedia": 45.0
+        },
+        {
+            "etapa": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.244
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.026
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 147.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.95
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.092
+        },
+        {
+            "etapa": 5,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 188.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.295
+        },
+        {
+            "etapa": 6,
+            "nombre": "Frigo Dario",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.688
+        },
+        {
+            "etapa": 7,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.9491
+        }
+    ]
+}

@@ -1,0 +1,342 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1937,
+    "distancia": 4182.0,
+    "desnivel": 0,
+    "tiempo": "138h 58' 31\"",
+    "ciclistasInscritos": 94,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vicini Mario",
+            "pais": "Italia",
+            "equipo": "Individuals",
+            "ventaja": "+ 7 min 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 26 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "equipo": "Italy",
+            "ventaja": "+ 26 min 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Marcaillou Sylvain",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 35 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vissers Edward",
+            "pais": "Bélgica",
+            "equipo": "Individuals",
+            "ventaja": "+ 38 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Chocque Paul",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 1 h 5 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gallien Pierre",
+            "pais": "Francia",
+            "equipo": "Individuals",
+            "ventaja": "+ 1 h 6 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bautz Erich",
+            "pais": "Alemania",
+            "equipo": "Germany",
+            "ventaja": "+ 1 h 6 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fréchaut Jean",
+            "pais": "Francia",
+            "equipo": "Individuals",
+            "ventaja": "+ 1 h 24 min 34 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Vervaecke Félicien",
+        "pais": "Bélgica",
+        "equipo": "Belgium"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " France",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Majerus Jean",
+            "pais": "Luxemburgo",
+            "distancia": 263.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.77
+        },
+        {
+            "etapa": 2,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.17
+        },
+        {
+            "etapa": 3,
+            "nombre": "Generati Walter",
+            "pais": "Italia",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.18
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bautz Erich",
+            "pais": "Alemania",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.94
+        },
+        {
+            "etapa": 5,
+            "nombre": "Puppo Henri",
+            "pais": "Francia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.23
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 34.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.72
+        },
+        {
+            "etapa": 5,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "distancia": 93.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.58
+        },
+        {
+            "etapa": 6,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.09
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bartali Gino",
+            "pais": "Italia",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.33
+        },
+        {
+            "etapa": 8,
+            "nombre": "Weckerling Otto",
+            "pais": "Alemania",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.72
+        },
+        {
+            "etapa": 9,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.48
+        },
+        {
+            "etapa": 10,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.57
+        },
+        {
+            "etapa": 11,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.18
+        },
+        {
+            "etapa": 11,
+            "nombre": "Danneels Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 65.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.56
+        },
+        {
+            "etapa": 12,
+            "nombre": "Antoine Alphonse",
+            "pais": "Francia",
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.6
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pedroli René",
+            "pais": "Suiza",
+            "distancia": 51.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.84
+        },
+        {
+            "etapa": 13,
+            "nombre": "Camusso Francesco",
+            "pais": "Italia",
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.48
+        },
+        {
+            "etapa": 13,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 63.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.48
+        },
+        {
+            "etapa": 14,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 99.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.25
+        },
+        {
+            "etapa": 14,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 59.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.48
+        },
+        {
+            "etapa": 14,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.18
+        },
+        {
+            "etapa": 15,
+            "nombre": "Berrendero Julián",
+            "pais": "España",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.65
+        },
+        {
+            "etapa": 16,
+            "nombre": "Chocque Paul",
+            "pais": "Francia",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.57
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bautz Erich",
+            "pais": "Alemania",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.85
+        },
+        {
+            "etapa": 17,
+            "nombre": "Wengler Heinz",
+            "pais": "Alemania",
+            "distancia": 37.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.41
+        },
+        {
+            "etapa": 17,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 67.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.57
+        },
+        {
+            "etapa": 18,
+            "nombre": "Lapébie Roger",
+            "pais": "Francia",
+            "distancia": 82.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.29
+        },
+        {
+            "etapa": 18,
+            "nombre": "Chocque Paul",
+            "pais": "Francia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.18
+        },
+        {
+            "etapa": 19,
+            "nombre": "Passat Raymond",
+            "pais": "Francia",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.87
+        },
+        {
+            "etapa": 19,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "distancia": 59.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.95
+        },
+        {
+            "etapa": 20,
+            "nombre": "Vissers Edward",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.7573
+        }
+    ]
+}

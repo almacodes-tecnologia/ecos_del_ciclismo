@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2024,
+    "distancia": 832.1,
+    "desnivel": 13385,
+    "tiempo": "15h 56' 50\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "equipo": "Arkéa - B&B Hotels",
+            "ventaja": "+ 2 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 3 min 6 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Baudin Alex",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 3 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Aranburu Alex",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Kuss Sepp",
+        "pais": "Estados Unidos",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ayuso Juan",
+        "pais": "España",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 10.0,
+            "desnivel": 179,
+            "velocidadMedia": 47.745
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lapeira Paul",
+            "pais": "Francia",
+            "distancia": 160.0,
+            "desnivel": 2312,
+            "velocidadMedia": 43.153
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hermans Quinten",
+            "pais": "Bélgica",
+            "distancia": 190.9,
+            "desnivel": 3057,
+            "velocidadMedia": 40.764
+        },
+        {
+            "etapa": 4,
+            "nombre": "Meintjes Louis",
+            "pais": "Sudáfrica",
+            "distancia": 157.5,
+            "desnivel": 2151,
+            "velocidadMedia": 36.172
+        },
+        {
+            "etapa": 5,
+            "nombre": "Grégoire Romain",
+            "pais": "Francia",
+            "distancia": 175.9,
+            "desnivel": 2214,
+            "velocidadMedia": 47.229
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "distancia": 137.8,
+            "desnivel": 3472,
+            "velocidadMedia": 38.063
+        }
+    ]
+}

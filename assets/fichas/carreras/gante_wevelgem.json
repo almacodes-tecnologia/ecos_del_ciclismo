@@ -1,0 +1,36 @@
+{
+  "id": "gent_wevelgem",
+  "nombre": "Gent–Wevelgem",
+  "pais": "Bélgica",
+  "categoria": "World Tour",
+  "tipo": "Clásica de un día",
+  "descripcion": "Gent–Wevelgem (oficialmente Gent–Wevelgem – In Flanders Fields) es una clásica belga de un día que se celebra en Flandes, generalmente a finales de marzo. Su recorrido combina tramos llanos, viento y repechos clave como el Kemmelberg, lo que la convierte en una cita para clasicómanos y sprinters resistentes al desgaste de la temporada de primavera.",
+  "anio_inicio": 1934,
+  "edicionesDisponibles": [
+    2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010,
+    2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994,
+    1993, 1992, 1991, 1990, 1989, 1988, 1987, 1986, 1985, 1984, 1983, 1982, 1981, 1980, 1979, 1978,
+    1977, 1976, 1975, 1974, 1973, 1972, 1971, 1970, 1969, 1968, 1967, 1966, 1965, 1964, 1963, 1962,
+    1961, 1960, 1959, 1958, 1957, 1956, 1955, 1954, 1953, 1952, 1951, 1950, 1949, 1948, 1947, 1946,
+    1945, 1939, 1938, 1937, 1936, 1935, 1934
+  ],
+  "imagenes": ["assets/imagenes/gent_wevelgem.webp"],
+  "records": {
+    "mas_victorias": {
+      "valor": "3",
+      "descripcion": "Robert Van Eenaeme, Rik Van Looy, Eddy Merckx, Mario Cipollini, Tom Boonen, Peter Sagan y Mads Pedersen comparten el récord de tres victorias en Gent–Wevelgem."
+    },
+    "mas_victorias_consecutivas": {
+      "valor": "2",
+      "descripcion": "Robert Van Eenaeme (1936–1937), Mario Cipollini (2002–2003) y Tom Boonen (2011–2012) han conseguido dos victorias consecutivas."
+    },
+    "ganador_mas_joven": {
+      "valor": "20",
+      "descripcion": "Briek Schotte ganó la edición de 1942 con 20 años, siendo uno de los vencedores más jóvenes de la historia de la carrera."
+    },
+    "ganador_mas_veterano": {
+      "valor": "36",
+      "descripcion": "Józef Planckaert se impuso en 1962 con 36 años, siendo uno de los ganadores de mayor edad."
+    }
+  }
+}

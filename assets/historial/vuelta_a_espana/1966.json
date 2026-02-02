@@ -1,0 +1,271 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1966,
+    "distancia": 2796.5,
+    "desnivel": 0,
+    "tiempo": "78h 53' 55\"",
+    "ciclistasInscritos": 88,
+    "ciclistasFinalizados": 55,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Momeñe José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 3 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Haast Cees",
+            "pais": "Países Bajos",
+            "equipo": "Televizier - Batavus",
+            "ventaja": "+ 3 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 4 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 4 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van der Vleuten Jos",
+        "pais": "Países Bajos",
+        "equipo": "Televizier - Batavus"
+    },
+    "ganadorMontana": {
+        "nombre": "San Miguel Gregorio",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sivilotti Bruno",
+            "pais": "Argentina",
+            "distancia": 111.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.17
+        },
+        {
+            "etapa": 1,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "distancia": 3.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.49
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pretolani Enzo",
+            "pais": "Italia",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.48
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mendiburu Ramón",
+            "pais": "España",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.04
+        },
+        {
+            "etapa": 3,
+            "nombre": "Momeñe José Antonio",
+            "pais": "España",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.35
+        },
+        {
+            "etapa": 4,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.62
+        },
+        {
+            "etapa": 5,
+            "nombre": "Echeverría Carlos",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.1
+        },
+        {
+            "etapa": 6,
+            "nombre": "de Roo Jo",
+            "pais": "Países Bajos",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.15
+        },
+        {
+            "etapa": 7,
+            "nombre": "Haast Cees",
+            "pais": "Países Bajos",
+            "distancia": 105.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.57
+        },
+        {
+            "etapa": 8,
+            "nombre": "Nijdam Henk",
+            "pais": "Países Bajos",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.24
+        },
+        {
+            "etapa": 9,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "distancia": 128.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.55
+        },
+        {
+            "etapa": 10,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "distancia": 40.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.56
+        },
+        {
+            "etapa": 10,
+            "nombre": "Nijdam Henk",
+            "pais": "Países Bajos",
+            "distancia": 49.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.43
+        },
+        {
+            "etapa": 11,
+            "nombre": "Zanin Mario",
+            "pais": "Italia",
+            "distancia": 266.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.51
+        },
+        {
+            "etapa": 12,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.52
+        },
+        {
+            "etapa": 13,
+            "nombre": "Haast Cees",
+            "pais": "Países Bajos",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.35
+        },
+        {
+            "etapa": 14,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.62
+        },
+        {
+            "etapa": 15,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "distancia": 61.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.34
+        },
+        {
+            "etapa": 15,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 52.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.94
+        },
+        {
+            "etapa": 16,
+            "nombre": "Nijdam Henk",
+            "pais": "Países Bajos",
+            "distancia": 116.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.1
+        },
+        {
+            "etapa": 17,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 226.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.35
+        },
+        {
+            "etapa": 18,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.4289
+        }
+    ]
+}

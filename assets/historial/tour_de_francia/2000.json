@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2000,
+    "distancia": 3523.5,
+    "desnivel": 50799,
+    "tiempo": "92h 33' 08\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 128,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "DESIERTO",
+            "pais": "Armstrong Lance, Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 6 min 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Beloki Joseba",
+            "pais": "España",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 10 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 10 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 11 min 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Polti",
+            "ventaja": "+ 13 min 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 14 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 17 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 18 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 18 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Botero Santiago",
+        "pais": "Colombia",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {
+        "nombre": "Mancebo Francisco",
+        "pais": "España",
+        "equipo": "Banesto"
+    },
+    "ganadorEquipos": {
+        "nombre": " Kelme - Costa Blanca",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 16.5,
+            "desnivel": 205,
+            "velocidadMedia": 51.969
+        },
+        {
+            "etapa": 2,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 1383,
+            "velocidadMedia": 40.68
+        },
+        {
+            "etapa": 3,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 161.5,
+            "desnivel": 1331,
+            "velocidadMedia": 44.48
+        },
+        {
+            "etapa": 4,
+            "nombre": "ONCE",
+            "pais": "España",
+            "distancia": 70.0,
+            "desnivel": 202,
+            "velocidadMedia": 48.88
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 202.0,
+            "desnivel": 2014,
+            "velocidadMedia": 46.78
+        },
+        {
+            "etapa": 6,
+            "nombre": "van Bon Léon",
+            "pais": "Países Bajos",
+            "distancia": 198.5,
+            "desnivel": 1522,
+            "velocidadMedia": 44.424
+        },
+        {
+            "etapa": 7,
+            "nombre": "Agnolutto Christophe",
+            "pais": "Francia",
+            "distancia": 205.5,
+            "desnivel": 1997,
+            "velocidadMedia": 39.56
+        },
+        {
+            "etapa": 8,
+            "nombre": "Erik Dekker",
+            "pais": "Países Bajos",
+            "distancia": 203.5,
+            "desnivel": 2570,
+            "velocidadMedia": 46.562
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 1762,
+            "velocidadMedia": 40.357
+        },
+        {
+            "etapa": 10,
+            "nombre": "Otxoa Javier",
+            "pais": "España",
+            "distancia": 205.0,
+            "desnivel": 5202,
+            "velocidadMedia": 33.29
+        },
+        {
+            "etapa": 11,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "distancia": 218.5,
+            "desnivel": 2632,
+            "velocidadMedia": 42.873
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pantani Marco",
+            "pais": "Italia",
+            "distancia": 149.0,
+            "desnivel": 3830,
+            "velocidadMedia": 35.034
+        },
+        {
+            "etapa": 13,
+            "nombre": "García Acosta José Vicente",
+            "pais": "España",
+            "distancia": 185.5,
+            "desnivel": 2270,
+            "velocidadMedia": 45.796
+        },
+        {
+            "etapa": 14,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 249.0,
+            "desnivel": 6425,
+            "velocidadMedia": 31.372
+        },
+        {
+            "etapa": 15,
+            "nombre": "Pantani Marco",
+            "pais": "Italia",
+            "distancia": 173.5,
+            "desnivel": 5231,
+            "velocidadMedia": 31.096
+        },
+        {
+            "etapa": 16,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 196.0,
+            "desnivel": 4992,
+            "velocidadMedia": 35.386
+        },
+        {
+            "etapa": 17,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "distancia": 155.0,
+            "desnivel": 2455,
+            "velocidadMedia": 45.392
+        },
+        {
+            "etapa": 18,
+            "nombre": "Commesso Salvatore",
+            "pais": "Italia",
+            "distancia": 246.5,
+            "desnivel": 2137,
+            "velocidadMedia": 40.163
+        },
+        {
+            "etapa": 19,
+            "nombre": "Armstrong Lance",
+            "pais": "Estados Unidos",
+            "distancia": 58.5,
+            "desnivel": 235,
+            "velocidadMedia": 53.986
+        },
+        {
+            "etapa": 20,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 254.5,
+            "desnivel": 2404,
+            "velocidadMedia": 40.805
+        },
+        {
+            "etapa": 21,
+            "nombre": "Stefano Zanini",
+            "pais": "Italia",
+            "distancia": 138,
+            "desnivel": 0,
+            "velocidadMedia": 39.5586
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1979,
+    "distancia": 1025.8,
+    "desnivel": 0,
+    "tiempo": "28h 36' 23\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 93,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Miko - Mercier",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Nilsson Sven-Åke",
+            "pais": "Suecia",
+            "equipo": "Miko - Mercier",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lubberding Henk",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Warncke",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Gitane",
+            "ventaja": "+ 3 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Schepers Eddy",
+            "pais": "Bélgica",
+            "equipo": "Daf Trucks",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bittinger René",
+            "pais": "Francia",
+            "equipo": "Flandria - Ca Va Seul",
+            "ventaja": "+ 6 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vallet Bernard",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 7 min 44 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bazzo Pierre",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 7 min 47 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 7.8,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bertin Yvon",
+            "pais": "Francia",
+            "distancia": 97.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "van Vliet Leo",
+            "pais": "Países Bajos",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Nilsson Sven-Åke",
+            "pais": "Suecia",
+            "distancia": 142.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chassang Jean",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Tinchella Daniele",
+            "pais": "Italia",
+            "distancia": 59.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

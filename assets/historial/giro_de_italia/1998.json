@@ -1,0 +1,282 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1998,
+    "distancia": 3796.0,
+    "desnivel": 11,
+    "tiempo": "98h 48' 32\"",
+    "ciclistasInscritos": 162,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pantani Marco",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Camenzind Oscar",
+            "pais": "Suiza",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 12 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Clavero Daniel",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros",
+            "ventaja": "+ 18 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Faresin Gianni",
+            "pais": "Italia",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 18 min 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "equipo": "Asics - CGA",
+            "ventaja": "+ 21 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "De Paoli Daniele",
+            "pais": "Italia",
+            "equipo": "Ros Mary - Amica Chips",
+            "ventaja": "+ 21 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Saeco Macchine da Caffe' - Cannondale",
+            "ventaja": "+ 25 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "equipo": "Cantina Tollo - Alexia Alluminio",
+            "ventaja": "+ 25 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Piccoli Mariano",
+        "pais": "Italia",
+        "equipo": "Brescialat"
+    },
+    "ganadorMontana": {
+        "nombre": "Pantani Marco",
+        "pais": "Italia",
+        "equipo": "Mercatone Uno"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mapei - Bricobi     ",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 7.0,
+            "desnivel": 11,
+            "velocidadMedia": 53.05
+        },
+        {
+            "etapa": 1,
+            "nombre": "Piccoli Mariano",
+            "pais": "Italia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.248
+        },
+        {
+            "etapa": 2,
+            "nombre": "Edo Ángel",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.13
+        },
+        {
+            "etapa": 3,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.33
+        },
+        {
+            "etapa": 4,
+            "nombre": "Miceli Nicola",
+            "pais": "Italia",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.19
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.46
+        },
+        {
+            "etapa": 6,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.68
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.15
+        },
+        {
+            "etapa": 8,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.113
+        },
+        {
+            "etapa": 9,
+            "nombre": "Magnusson Glenn",
+            "pais": "Suecia",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.02
+        },
+        {
+            "etapa": 10,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.94
+        },
+        {
+            "etapa": 11,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.11
+        },
+        {
+            "etapa": 12,
+            "nombre": "Roux Laurent",
+            "pais": "Francia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.73
+        },
+        {
+            "etapa": 13,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.84
+        },
+        {
+            "etapa": 14,
+            "nombre": "Pantani Marco",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.76
+        },
+        {
+            "etapa": 15,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 40.0,
+            "desnivel": 0,
+            "velocidadMedia": 53.77
+        },
+        {
+            "etapa": 16,
+            "nombre": "Fontanelli Fabiano",
+            "pais": "Italia",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 17,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.22
+        },
+        {
+            "etapa": 18,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.81
+        },
+        {
+            "etapa": 19,
+            "nombre": "Pantani Marco",
+            "pais": "Italia",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.5
+        },
+        {
+            "etapa": 20,
+            "nombre": "Fagnini Gian Matteo",
+            "pais": "Italia",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.57
+        },
+        {
+            "etapa": 21,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "distancia": 34.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.13
+        },
+        {
+            "etapa": 22,
+            "nombre": "Fagnini Gian Matteo",
+            "pais": "Italia",
+            "distancia": 101.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.07
+        }
+    ]
+}

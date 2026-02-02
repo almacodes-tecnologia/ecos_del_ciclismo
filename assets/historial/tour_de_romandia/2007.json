@@ -1,0 +1,143 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2007,
+    "distancia": 646.7,
+    "desnivel": 0,
+    "tiempo": "17h 27' 02\"",
+    "ciclistasInscritos": 166,
+    "ciclistasFinalizados": 121,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Astana",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kashechkin Andrey",
+            "pais": "Kazajistán",
+            "equipo": "Astana",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Schleck Andy",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Szmyd Sylwester",
+            "pais": "Polonia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 2 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Dekker Thomas",
+        "pais": "Países Bajos",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Brochard Laurent",
+        "pais": "Francia",
+        "equipo": "Bouygues Telecom"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa" : 0,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "distancia": 3.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.818
+        },
+        {
+            "etapa": 1,
+            "nombre": "Fothen Markus",
+            "pais": "Alemania",
+            "distancia": 157.8,
+            "desnivel": 0,
+            "velocidadMedia": 38.029
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 166.9,
+            "desnivel": 0,
+            "velocidadMedia": 41.434
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bono Matteo",
+            "pais": "Italia",
+            "distancia": 162.6,
+            "desnivel": 0,
+            "velocidadMedia": 39.943
+        },
+        {
+            "etapa": 4,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "distancia": 155.9,
+            "desnivel": 0,
+            "velocidadMedia": 33.777
+        },
+        {
+            "etapa": 5,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.2244
+        }
+    ]
+}

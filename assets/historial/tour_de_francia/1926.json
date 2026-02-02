@@ -1,0 +1,223 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1926,
+    "distancia": 5404.0,
+    "desnivel": 0,
+    "tiempo": "238h 44' 25\"",
+    "ciclistasInscritos": 126,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "equipo": "",
+            "ventaja": "+ 1 h 22 min 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Aimo Bartolomeo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 1 h 22 min 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Beeckman Théophile",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 43 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sellier Félix",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 49 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dejonghe Albert",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 1 h 56 min 15 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Parmentier Léon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 9 min 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cuvelier Georges",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 h 28 min 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Buysse Jules",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 2 h 37 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bidot Marcel",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 2 h 53 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Buysse Jules",
+            "pais": "Bélgica",
+            "distancia": 373.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.27
+        },
+        {
+            "etapa": 2,
+            "nombre": "Dossche Aimé",
+            "pais": "Bélgica",
+            "distancia": 334.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.76
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Slembrouck Gustave",
+            "pais": "Bélgica",
+            "distancia": 433.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.19
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sellier Félix",
+            "pais": "Bélgica",
+            "distancia": 361.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.15
+        },
+        {
+            "etapa": 5,
+            "nombre": "Benoît Adelin",
+            "pais": "Bélgica",
+            "distancia": 357.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.08
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Dam Joseph",
+            "pais": "Bélgica",
+            "distancia": 405.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.98
+        },
+        {
+            "etapa": 7,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 412.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.2
+        },
+        {
+            "etapa": 8,
+            "nombre": "Van Dam Joseph",
+            "pais": "Bélgica",
+            "distancia": 285.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.75
+        },
+        {
+            "etapa": 9,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.74
+        },
+        {
+            "etapa": 10,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 18.95
+        },
+        {
+            "etapa": 11,
+            "nombre": "Buysse Lucien",
+            "pais": "Bélgica",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.8
+        },
+        {
+            "etapa": 12,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 427.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.81
+        },
+        {
+            "etapa": 13,
+            "nombre": "Frantz Nicolas",
+            "pais": "Luxemburgo",
+            "distancia": 280.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.31
+        },
+        {
+            "etapa": 14,
+            "nombre": "Aimo Bartolomeo",
+            "pais": "Italia",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 22.92
+        },
+        {
+            "etapa": 15,
+            "nombre": "Van Dam Joseph",
+            "pais": "Bélgica",
+            "distancia": 303.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.93
+        },
+        {
+            "etapa": 16,
+            "nombre": "Van de Casteele Camille",
+            "pais": "Bélgica",
+            "distancia": 321.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.32
+        },
+        {
+            "etapa": 17,
+            "nombre": "Dossche Aimé",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.0646
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1936,
+    "distancia": 4204.0,
+    "desnivel": 0,
+    "tiempo": "142h 47' 32\"",
+    "ciclistasInscritos": 74,
+    "ciclistasFinalizados": 43,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "equipo": "France",
+            "ventaja": "+ 26 min 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 27 min 53 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Clemens Pierre",
+            "pais": "Luxemburgo",
+            "equipo": "Spain/Luxembourg",
+            "ventaja": "+ 42 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mersch Arsène",
+            "pais": "Luxemburgo",
+            "equipo": "Spain/Luxembourg",
+            "ventaja": "+ 52 min 52 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "Spain/Luxembourg",
+            "ventaja": "+ 1 h 3 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Clemens Mathias",
+            "pais": "Luxemburgo",
+            "equipo": "Spain/Luxembourg",
+            "ventaja": "+ 1 h 10 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Amberg Leo",
+            "pais": "Suiza",
+            "equipo": "Switzerland",
+            "ventaja": "+ 1 h 19 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kint Marcel",
+            "pais": "Bélgica",
+            "equipo": "Belgium",
+            "ventaja": "+ 1 h 22 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Level Léon",
+            "pais": "Francia",
+            "equipo": "Isoles",
+            "ventaja": "+ 1 h 27 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Berrendero Julián",
+        "pais": "España",
+        "equipo": "Spain/Luxembourg"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Belgium",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Egli Paul",
+            "pais": "Suiza",
+            "distancia": 258.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.31
+        },
+        {
+            "etapa": 2,
+            "nombre": "Wierinckx Robert",
+            "pais": "Bélgica",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.66
+        },
+        {
+            "etapa": 3,
+            "nombre": "Clemens Mathias",
+            "pais": "Luxemburgo",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.82
+        },
+        {
+            "etapa": 4,
+            "nombre": "Archambaud Maurice",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.16
+        },
+        {
+            "etapa": 5,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 298.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.16
+        },
+        {
+            "etapa": 6,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.05
+        },
+        {
+            "etapa": 7,
+            "nombre": "Middelkamp Theo",
+            "pais": "Países Bajos",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.95
+        },
+        {
+            "etapa": 8,
+            "nombre": "Goasmat Jean-Marie",
+            "pais": "Francia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.0
+        },
+        {
+            "etapa": 9,
+            "nombre": "Level Léon",
+            "pais": "Francia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.15
+        },
+        {
+            "etapa": 10,
+            "nombre": "Maye Paul",
+            "pais": "Francia",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.93
+        },
+        {
+            "etapa": 11,
+            "nombre": "Ezquerra Federico",
+            "pais": "España",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.07
+        },
+        {
+            "etapa": 12,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.53
+        },
+        {
+            "etapa": 13,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 112.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.64
+        },
+        {
+            "etapa": 13,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 52.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.88
+        },
+        {
+            "etapa": 14,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.05
+        },
+        {
+            "etapa": 14,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 63.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.66
+        },
+        {
+            "etapa": 15,
+            "nombre": "Ducazeaux Sauveur",
+            "pais": "Francia",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.18
+        },
+        {
+            "etapa": 16,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.89
+        },
+        {
+            "etapa": 17,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 229.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.2
+        },
+        {
+            "etapa": 18,
+            "nombre": "Meulenberg Eloi",
+            "pais": "Bélgica",
+            "distancia": 117.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.41
+        },
+        {
+            "etapa": 18,
+            "nombre": "Maes Sylvère",
+            "pais": "Bélgica",
+            "distancia": 75.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.1
+        },
+        {
+            "etapa": 19,
+            "nombre": "Kint Marcel",
+            "pais": "Bélgica",
+            "distancia": 81.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.68
+        },
+        {
+            "etapa": 19,
+            "nombre": "Vervaecke Félicien",
+            "pais": "Bélgica",
+            "distancia": 65.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.89
+        },
+        {
+            "etapa": 19,
+            "nombre": "Maye Paul",
+            "pais": "Francia",
+            "distancia": 67.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.81
+        },
+        {
+            "etapa": 20,
+            "nombre": "Le Grevès René",
+            "pais": "Francia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.71
+        },
+        {
+            "etapa": 20,
+            "nombre": "Magne Antonin",
+            "pais": "Francia",
+            "distancia": 55.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.16
+        },
+        {
+            "etapa": 21,
+            "nombre": "Mersch Arsène",
+            "pais": "Luxemburgo",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.045
+        }
+    ]
+}

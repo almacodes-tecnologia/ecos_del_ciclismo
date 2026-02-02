@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1977,
+    "distancia": 2681.1,
+    "desnivel": 0,
+    "tiempo": "78h 54' 36\"",
+    "ciclistasInscritos": 70,
+    "ciclistasFinalizados": 54,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Flandria Velda",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Thaler Klaus-Peter",
+            "pais": "Alemania",
+            "equipo": "Teka",
+            "ventaja": "+ 3 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Perurena Domingo",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 4 min 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Viejo José Luis",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 5 min 14 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "equipo": "Flandria Velda",
+            "ventaja": "+ 5 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Clively Gary",
+            "pais": "Australia",
+            "equipo": "Magniflex",
+            "ventaja": "+ 7 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 9 min 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 10 min 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 11 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maertens Freddy",
+        "pais": "Bélgica",
+        "equipo": "Flandria Velda"
+    },
+    "ganadorMontana": {
+        "nombre": "Torres Pedro",
+        "pais": "España",
+        "equipo": "Teka"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Teka",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.86
+        },
+        {
+            "etapa": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.57
+        },
+        {
+            "etapa": 2,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.94
+        },
+        {
+            "etapa": 3,
+            "nombre": "den Hertog Fedor",
+            "pais": "Países Bajos",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.14
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pollentier Michel",
+            "pais": "Bélgica",
+            "distancia": 8.3,
+            "desnivel": 0,
+            "velocidadMedia": 33.76
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.65
+        },
+        {
+            "etapa": 6,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.8
+        },
+        {
+            "etapa": 7,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.12
+        },
+        {
+            "etapa": 8,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.37
+        },
+        {
+            "etapa": 9,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.05
+        },
+        {
+            "etapa": 10,
+            "nombre": "Priem Cees",
+            "pais": "Países Bajos",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.2
+        },
+        {
+            "etapa": 11,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 3.8,
+            "desnivel": 0,
+            "velocidadMedia": 48.34
+        },
+        {
+            "etapa": 11,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.81
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.62
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.96
+        },
+        {
+            "etapa": 14,
+            "nombre": "Melero Carlos",
+            "pais": "España",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.33
+        },
+        {
+            "etapa": 15,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.46
+        },
+        {
+            "etapa": 16,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.46
+        },
+        {
+            "etapa": 17,
+            "nombre": "Ordiales Luis Alberto",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.31
+        },
+        {
+            "etapa": 18,
+            "nombre": "Nazábal José",
+            "pais": "España",
+            "distancia": 126.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.01
+        },
+        {
+            "etapa": 19,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.272
+        }
+    ]
+}

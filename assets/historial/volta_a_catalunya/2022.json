@@ -1,0 +1,158 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2022,
+    "distancia": 1214.9,
+    "desnivel": 18091,
+    "tiempo": "29h 53' 33\"",
+    "ciclistasInscritos": 165,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Team Arkéa Samsic",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Pro Cycling Team",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Guillaume",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Træen Torstein",
+            "pais": "Noruega",
+            "equipo": "Uno-X Pro Cycling Team",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Oomen Sam",
+            "pais": "Países Bajos",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 1 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Groves Kaden",
+        "pais": "Australia",
+        "equipo": "Team BikeExchange - Jayco"
+    },
+    "ganadorMontana": {
+        "nombre": "Higuita Sergio",
+        "pais": "Colombia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorJovenes": {
+        "nombre": "Higuita Sergio",
+        "pais": "Colombia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorEquipos": {
+        "nombre": " Bahrain - Victorious",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 171.2,
+            "desnivel": 1688,
+            "velocidadMedia": 45.215
+        },
+        {
+            "etapa": 2,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 202.4,
+            "desnivel": 2166,
+            "velocidadMedia": 42.69
+        },
+        {
+            "etapa": 3,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "distancia": 161.1,
+            "desnivel": 3394,
+            "velocidadMedia": 38.228
+        },
+        {
+            "etapa": 4,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 166.7,
+            "desnivel": 3538,
+            "velocidadMedia": 38.403
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vernon Ethan",
+            "pais": "Reino Unido",
+            "distancia": 206.3,
+            "desnivel": 2478,
+            "velocidadMedia": 38.527
+        },
+        {
+            "etapa": 6,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "distancia": 168.6,
+            "desnivel": 2706,
+            "velocidadMedia": 40.575
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bagioli Andrea",
+            "pais": "Italia",
+            "distancia": 138.6,
+            "desnivel": 2121,
+            "velocidadMedia": 41.968
+        }
+    ]
+}

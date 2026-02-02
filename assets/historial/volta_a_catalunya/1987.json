@@ -1,0 +1,178 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1987,
+    "distancia": 1265.8,
+    "desnivel": 0,
+    "tiempo": "34h 32' 36\"",
+    "ciclistasInscritos": 6,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "equipo": "Reynolds - Seur",
+            "ventaja": "+ 2 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gastón Iñaki",
+            "pais": "España",
+            "equipo": "Kas - Miko",
+            "ventaja": "+ 3 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Corredor Edgar",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 3 min 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Kas - Miko",
+            "ventaja": "+ 3 min 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fignon Laurent",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "PDM - GIN MG - Ultima - Concorde",
+            "ventaja": "+ 4 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Recio José",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 4 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Caja Rural - Orbea",
+            "ventaja": "+ 4 min 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Muñoz Pedro",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 5 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Kas - Miko"
+    },
+    "ganadorMontana": {
+        "nombre": "Muñoz Pedro",
+        "pais": "España",
+        "equipo": "Fagor"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Reynolds - Seur",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 4.8,
+            "desnivel": 0,
+            "velocidadMedia": 51.429
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.658
+        },
+        {
+            "etapa": 2,
+            "nombre": "Joho Stephan",
+            "pais": "Suiza",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.09
+        },
+        {
+            "etapa": 3,
+            "nombre": "Caroli Daniele",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.068
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fondriest Maurizio",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.78
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.175
+        },
+        {
+            "etapa": 6,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.621
+        },
+        {
+            "etapa": 7,
+            "nombre": "Alonso Marino",
+            "pais": "España",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.293
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "distancia": 27.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.441
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bagot Jean-Claude",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.2625
+        }
+    ]
+}

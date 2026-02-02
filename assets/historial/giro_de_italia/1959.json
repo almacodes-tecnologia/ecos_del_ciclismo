@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1959,
+    "distancia": 3432.0,
+    "desnivel": 0,
+    "tiempo": "101h 50' 26\"",
+    "ciclistasInscritos": 129,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Emi - Guerra",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Helyett - Leroux - Fynsec - Hutchinson - A.C.B.B.",
+            "ventaja": "+ 6 min 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ronchini Diego",
+            "pais": "Italia",
+            "equipo": "Bianchi - Pirelli ",
+            "ventaja": "+ 6 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "equipo": "Faema - Guerra",
+            "ventaja": "+ 7 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Massignan Imerio",
+            "pais": "Italia",
+            "equipo": "Legnano - Pirelli",
+            "ventaja": "+ 7 min 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "equipo": "Ignis - Frejus",
+            "ventaja": "+ 10 min 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Battistini Graziano",
+            "pais": "Italia",
+            "equipo": "Legnano - Pirelli",
+            "ventaja": "+ 10 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 13 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bono Ernesto",
+            "pais": "Italia",
+            "equipo": "San Pellegrino Sport",
+            "ventaja": "+ 13 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 13 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Gaul Charly",
+        "pais": "Luxemburgo",
+        "equipo": "Emi - Guerra"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Atala - Pirelli - Lygie",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.306
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 22.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.539
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pellegrini Armando",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 8.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.083
+        },
+        {
+            "etapa": 8,
+            "nombre": "Catalano Antonio",
+            "pais": "Italia",
+            "distancia": 31.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 10,
+            "nombre": "Benedetti Rino",
+            "pais": "Italia",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 11,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.763
+        },
+        {
+            "etapa": 12,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.092
+        },
+        {
+            "etapa": 13,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 14,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.667
+        },
+        {
+            "etapa": 15,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.621
+        },
+        {
+            "etapa": 16,
+            "nombre": "Fantini Alessandro",
+            "pais": "Italia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": "Padovan Arrigo",
+            "pais": "Italia",
+            "distancia": 241.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 18,
+            "nombre": "Favero Vito",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 51.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 20,
+            "nombre": "Sabbadin Alfredo",
+            "pais": "Italia",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.439
+        },
+        {
+            "etapa": 21,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "distancia": 296.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.004
+        },
+        {
+            "etapa": 22,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.909
+        }
+    ]
+}

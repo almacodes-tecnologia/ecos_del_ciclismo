@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2023,
+    "distancia": 1212.5,
+    "desnivel": 21714,
+    "tiempo": "29h 28' 39\"",
+    "ciclistasInscritos": 147,
+    "ciclistasFinalizados": 116,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "Bora - Hansgrohe",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martin Guillaume",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 4 min 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Meintjes Louis",
+            "pais": "Sudáfrica",
+            "equipo": "Intermarché - Circus - Wanty",
+            "ventaja": "+ 5 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Træen Torstein",
+            "pais": "Noruega",
+            "equipo": "Uno-X Pro Cycling Team",
+            "ventaja": "+ 5 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 5 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Laporte Christophe",
+        "pais": "Francia",
+        "equipo": "Jumbo-Visma"
+    },
+    "ganadorMontana": {
+        "nombre": "Ciccone Giulio",
+        "pais": "Italia",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Rodríguez Carlos",
+        "pais": "España",
+        "equipo": "INEOS Grenadiers"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Laporte Christophe",
+            "pais": "Francia",
+            "distancia": 158.0,
+            "desnivel": 2753,
+            "velocidadMedia": 42.416
+        },
+        {
+            "etapa": 2,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "distancia": 167.3,
+            "desnivel": 2865,
+            "velocidadMedia": 42.736
+        },
+        {
+            "etapa": 3,
+            "nombre": "Laporte Christophe",
+            "pais": "Francia",
+            "distancia": 194.1,
+            "desnivel": 2089,
+            "velocidadMedia": 41.084
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bjerg Mikkel",
+            "pais": "Dinamarca",
+            "distancia": 31.1,
+            "desnivel": 408,
+            "velocidadMedia": 49.804
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 191.1,
+            "desnivel": 2018,
+            "velocidadMedia": 47.05
+        },
+        {
+            "etapa": 6,
+            "nombre": "Zimmermann Georg",
+            "pais": "Alemania",
+            "distancia": 170.2,
+            "desnivel": 3406,
+            "velocidadMedia": 42.054
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 147.9,
+            "desnivel": 4015,
+            "velocidadMedia": 34.693
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "distancia": 152.8,
+            "desnivel": 4160,
+            "velocidadMedia": 37.258
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2000,
+    "distancia": 970.8,
+    "desnivel": 0,
+    "tiempo": "24h 36' 59\"",
+    "ciclistasInscritos": 128,
+    "ciclistasFinalizados": 56,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "Banesto",
+            "ventaja": "+ 3 min 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 4 min 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 4 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Blanco Santiago",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 5 min 5 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 5 min 44 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sgambelluri Roberto",
+            "pais": "Italia",
+            "equipo": "Cantina Tollo - Regain",
+            "ventaja": "+ 5 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Merckx Axel",
+            "pais": "Bélgica",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 6 min 0 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 6 min 10 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sevilla Óscar",
+        "pais": "España",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorMontana": {
+        "nombre": "Sevilla Óscar",
+        "pais": "España",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 21.8,
+            "desnivel": 0,
+            "velocidadMedia": 49.61
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.24
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6
+        },
+        {
+            "etapa": 4,
+            "nombre": "Missaglia Gabriele",
+            "pais": "Italia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.44
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lombardi Giovanni",
+            "pais": "Italia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.22
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.77
+        },
+        {
+            "etapa": 7,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.14
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.9571
+        }
+    ]
+}

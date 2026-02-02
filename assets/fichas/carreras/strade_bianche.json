@@ -1,0 +1,23 @@
+{
+  "id": "strade_bianche",
+  "nombre": "Strade Bianche",
+  "pais": "Italia",
+  "categoria": "World Tour",
+  "tipo": "Clásica de un día",
+  "descripcion": "La Strade Bianche es una clásica de un día que se disputa en la región de la Toscana, con salida y meta en Siena. Incluye varios sectores de caminos de tierra («sterrato») que la convierten en una carrera única dentro del calendario de clásicas. Fue creada en 2007.)",
+  "anio_inicio": 2007,
+  "edicionesDisponibles": [
+    2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007
+  ],
+  "imagenes": ["assets/imagenes/strade_bianche.webp"],
+  "records": {
+    "mas_victorias_generales": {
+      "valor": "3",
+      "descripcion": "Tadej Pogačar (2022‑24‑25) y Fabian Cancellara (2008‑12‑16) comparten el récord de tres victorias."
+    },
+    "mas_victorias_generales_consecutivas": {
+      "valor": "2",
+      "descripcion": "Tadej ogačar logró victorias consecutivas en 2024‑25."
+    }
+  }
+}

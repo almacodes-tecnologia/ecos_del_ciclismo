@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2002,
+    "distancia": 1412.4,
+    "desnivel": 0,
+    "tiempo": "37h 15' 09\"",
+    "ciclistasInscritos": 135,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "Team Coast",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Wadecki Piotr",
+            "pais": "Polonia",
+            "equipo": "Domo - Farm Frites",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fritsch Nicolas",
+            "pais": "Francia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Alessio",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Totschnig Georg",
+            "pais": "Austria",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Lampre - Daikin",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Luttenberger Peter",
+            "pais": "Austria",
+            "equipo": "Tacconi Sport",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Di Grande Giuseppe",
+            "pais": "Italia",
+            "equipo": "Index - Alexia Alluminio",
+            "ventaja": "+ 4 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 4 min 17 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 4 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Zampieri Steve",
+        "pais": "Suiza",
+        "equipo": "Tacconi Sport"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Phonak Hearing Systems",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 5.7,
+            "desnivel": 0,
+            "velocidadMedia": 44.9
+        },
+        {
+            "etapa": 1,
+            "nombre": "Lembo Eddy",
+            "pais": "Francia",
+            "distancia": 171.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.88
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.88
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.98
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Bon Léon",
+            "pais": "Países Bajos",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.46
+        },
+        {
+            "etapa": 5,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.21
+        },
+        {
+            "etapa": 6,
+            "nombre": "Moos Alexandre",
+            "pais": "Suiza",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.66
+        },
+        {
+            "etapa": 7,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "distancia": 170.9,
+            "desnivel": 0,
+            "velocidadMedia": 41.12
+        },
+        {
+            "etapa": 8,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 228.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.71
+        },
+        {
+            "etapa": 9,
+            "nombre": "Steinhauser Tobias",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8496
+        }
+    ]
+}

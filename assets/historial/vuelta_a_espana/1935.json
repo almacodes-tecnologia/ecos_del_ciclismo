@@ -1,0 +1,203 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1935,
+    "distancia": 3175.0,
+    "desnivel": 0,
+    "tiempo": "120h 01' 02\"",
+    "ciclistasInscritos": 51,
+    "ciclistasFinalizados": 29,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 12 min 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Dignef Antoon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 19 min 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Molinar Edoardo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 22 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bulla Max",
+            "pais": "Austria",
+            "equipo": "",
+            "ventaja": "+ 27 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Deloor Alfons",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 46 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bianchi Paolo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 50 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fayolle Fernand",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 52 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Blattmann Walter",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 1 h 8 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Valentijn Marinus",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 1 h 8 min 51 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Molinar Edoardo",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Dignef Antoon",
+            "pais": "Bélgica",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.99
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 251.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.76
+        },
+        {
+            "etapa": 3,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.62
+        },
+        {
+            "etapa": 4,
+            "nombre": "Dignef Antoon",
+            "pais": "Bélgica",
+            "distancia": 235.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.42
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cañardo Mariano",
+            "pais": "España",
+            "distancia": 264.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.26
+        },
+        {
+            "etapa": 6,
+            "nombre": "Adam François",
+            "pais": "Bélgica",
+            "distancia": 310.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.03
+        },
+        {
+            "etapa": 7,
+            "nombre": "Montes Antonio",
+            "pais": "España",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.66
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bulla Max",
+            "pais": "Austria",
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.48
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cardona Salvador",
+            "pais": "España",
+            "distancia": 265.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.7
+        },
+        {
+            "etapa": 10,
+            "nombre": "Bulla Max",
+            "pais": "Austria",
+            "distancia": 285.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.72
+        },
+        {
+            "etapa": 11,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 260.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.04
+        },
+        {
+            "etapa": 12,
+            "nombre": "Adam François",
+            "pais": "Bélgica",
+            "distancia": 270.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.94
+        },
+        {
+            "etapa": 13,
+            "nombre": "Molinar Edoardo",
+            "pais": "Italia",
+            "distancia": 275.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.93
+        },
+        {
+            "etapa": 14,
+            "nombre": "Deloor Gustaaf",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.854
+        }
+    ]
+}

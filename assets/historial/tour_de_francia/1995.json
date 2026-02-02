@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1995,
+    "distancia": 3377.3,
+    "desnivel": 56900,
+    "tiempo": "92h 44' 59\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "equipo": "Gewiss - Ballan",
+            "ventaja": "+ 6 min 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 8 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gotti Ivan",
+            "pais": "Italia",
+            "equipo": "Gewiss - Ballan",
+            "ventaja": "+ 11 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "equipo": "O.N.C.E.",
+            "ventaja": "+ 15 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 15 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 16 min 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 17 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Buenahora Hernan",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 18 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E."
+    },
+    "ganadorMontana": {
+        "nombre": "Virenque Richard",
+        "pais": "Francia",
+        "equipo": "Festina - Lotus"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pantani Marco",
+        "pais": "Italia",
+        "equipo": "Carrera Jeans - Tassoni"
+    },
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E.",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Durand Jacky",
+            "pais": "Francia",
+            "distancia": 7.3,
+            "desnivel": 280,
+            "velocidadMedia": 48.667
+        },
+        {
+            "etapa": 1,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 228.0,
+            "desnivel": 2500,
+            "velocidadMedia": 39.164
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 241.0,
+            "desnivel": 2723,
+            "velocidadMedia": 44.277
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 64.0,
+            "desnivel": 729,
+            "velocidadMedia": 52.483
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 154.0,
+            "desnivel": 1845,
+            "velocidadMedia": 41.927
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 264.0,
+            "desnivel": 2194,
+            "velocidadMedia": 45.03
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 191.0,
+            "desnivel": 1310,
+            "velocidadMedia": 42.296
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 3572,
+            "velocidadMedia": 41.633
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 54.0,
+            "desnivel": 937,
+            "velocidadMedia": 50.41
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 166.0,
+            "desnivel": 5000,
+            "velocidadMedia": 35.407
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 159.0,
+            "desnivel": 5500,
+            "velocidadMedia": 30.457
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 2500,
+            "velocidadMedia": 41.942
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 223.0,
+            "desnivel": 4000,
+            "velocidadMedia": 41.933
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 223.0,
+            "desnivel": 3500,
+            "velocidadMedia": 38.147
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 159.0,
+            "desnivel": 3500,
+            "velocidadMedia": 35.447
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 207.0,
+            "desnivel": 6000,
+            "velocidadMedia": 32.616
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 229.0,
+            "desnivel": 5000,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 210.0,
+            "desnivel": 2237,
+            "velocidadMedia": 32.32
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 154.0,
+            "desnivel": 2476,
+            "velocidadMedia": 40.547
+        },
+        {
+            "etapa": 19,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 46.0,
+            "desnivel": 1097,
+            "velocidadMedia": 47.944
+        },
+        {
+            "etapa": 20,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.5385
+        }
+    ]
+}

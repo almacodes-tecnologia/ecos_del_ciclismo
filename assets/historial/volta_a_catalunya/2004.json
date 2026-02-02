@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2004,
+    "distancia": 705.3,
+    "desnivel": 0,
+    "tiempo": "20h 39' 44\"",
+    "ciclistasInscritos": 118,
+    "ciclistasFinalizados": 103,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martín Perdiguero Miguel Ángel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Illes Balears - Banesto",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Laiseka Roberto",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Latasa David",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana - Kelme",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jiménez Eladio",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana - Kelme",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Parra Iván Ramiro",
+            "pais": "Colombia",
+            "equipo": "Comunidad Valenciana - Kelme",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "López de Munain Alberto",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Jufré Josep",
+            "pais": "España",
+            "equipo": "Relax - Bodysol",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lastras Pablo",
+            "pais": "España",
+            "equipo": "Illes Balears - Banesto",
+            "ventaja": "+ 2 min 46 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Atienza Daniel",
+            "pais": "España",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 3 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Martín Perdiguero Miguel Ángel",
+        "pais": "España",
+        "equipo": "Saunier Duval - Prodir"
+    },
+    "ganadorMontana": {
+        "nombre": "Martín Perdiguero Miguel Ángel",
+        "pais": "España",
+        "equipo": "Saunier Duval - Prodir"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Comunidad Valenciana - Kelme",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 18.1,
+            "desnivel": 0,
+            "velocidadMedia": 53.99
+        },
+        {
+            "etapa": 2,
+            "nombre": "Martín Perdiguero Miguel Ángel",
+            "pais": "España",
+            "distancia": 145.4,
+            "desnivel": 0,
+            "velocidadMedia": 38.53
+        },
+        {
+            "etapa": 3,
+            "nombre": "Martín Perdiguero Miguel Ángel",
+            "pais": "España",
+            "distancia": 200.7,
+            "desnivel": 0,
+            "velocidadMedia": 35.03
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martín Perdiguero Miguel Ángel",
+            "pais": "España",
+            "distancia": 12.4,
+            "desnivel": 0,
+            "velocidadMedia": 24.18
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "distancia": 180.6,
+            "desnivel": 0,
+            "velocidadMedia": 42.54
+        },
+        {
+            "etapa": 6,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 148.1,
+            "desnivel": 0,
+            "velocidadMedia": 47.76
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gálvez Isaac",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5472
+        }
+    ]
+}

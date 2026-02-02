@@ -1,0 +1,170 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1955,
+    "distancia": 1780.0,
+    "desnivel": 0,
+    "tiempo": "49h 40' 01\"",
+    "ciclistasInscritos": 39,
+    "ciclistasFinalizados": 49,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Walkowiak Roger",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 9 min 51 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "De Mulder Marcel",
+            "pais": "Bélgica",
+            "equipo": "Groene Leeuw",
+            "ventaja": "+ 12 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 17 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rolland Antonin",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 18 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vliegen Jean",
+            "pais": "Bélgica",
+            "equipo": "Elvé - Peugeot",
+            "ventaja": "+ 19 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Meunier Georges",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 20 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bobet Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 23 min 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lampre Maurice",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 29 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vitetta Vincent",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 29 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Privat René",
+        "pais": "Francia",
+        "equipo": "Mercier - BP - Hutchinson"
+    },
+    "ganadorMontana": {
+        "nombre": "Lampre Maurice",
+        "pais": "Francia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mercier - BP - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Huyghe Camille",
+            "pais": "Francia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lampre Maurice",
+            "pais": "Francia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Meunier Georges",
+            "pais": "Francia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "distancia": 32.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Polo Pierre",
+            "pais": "Italia",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Gauthier Bernard",
+            "pais": "Francia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

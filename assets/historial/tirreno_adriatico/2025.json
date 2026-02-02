@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2025,
+    "distancia": 1147.5,
+    "desnivel": 15116,
+    "tiempo": "28h 41' 24\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 138,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gee Derek",
+            "pais": "Canadá",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pidcock Thomas",
+            "pais": "Reino Unido",
+            "equipo": "Q36.5 Pro Cycling Team",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "de la Cruz David",
+            "pais": "España",
+            "equipo": "Q36.5 Pro Cycling Team",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Cattaneo Mattia",
+            "pais": "Italia",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Milan Jonathan",
+        "pais": "Italia",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorMontana": {
+        "nombre": "Tarozzi Manuele",
+        "pais": "Italia",
+        "equipo": "VF Group - Bardiani CSF - Faizanè"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ayuso Juan",
+        "pais": "España",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates - XRG",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 11.5,
+            "desnivel": 10,
+            "velocidadMedia": 56.174
+        },
+        {
+            "etapa": 2,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 1245,
+            "velocidadMedia": 40.39
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vendrame Andrea",
+            "pais": "Italia",
+            "distancia": 239.0,
+            "desnivel": 3236,
+            "velocidadMedia": 36.919
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 190.0,
+            "desnivel": 2610,
+            "velocidadMedia": 39.572
+        },
+        {
+            "etapa": 5,
+            "nombre": "Dversnes Fredrik",
+            "pais": "Noruega",
+            "distancia": 205.0,
+            "desnivel": 3499,
+            "velocidadMedia": 40.337
+        },
+        {
+            "etapa": 6,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 163.0,
+            "desnivel": 3508,
+            "velocidadMedia": 38.499
+        },
+        {
+            "etapa": 7,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 147.0,
+            "desnivel": 1008,
+            "velocidadMedia": 46.886
+        }
+    ]
+}

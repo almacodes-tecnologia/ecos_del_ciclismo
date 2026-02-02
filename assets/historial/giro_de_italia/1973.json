@@ -1,0 +1,266 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1973,
+    "distancia": 3604.0,
+    "desnivel": 0,
+    "tiempo": "106h 54' 41\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 113,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Molteni",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Bianchi - Campagnolo ",
+            "ventaja": "+ 7 min 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Battaglin Giovanni",
+            "pais": "Italia",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 10 min 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 15 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lazcano Santiago",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 19 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "G.B.C. - Sony - Furzi",
+            "ventaja": "+ 19 min 45 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ritter Ole",
+            "pais": "Dinamarca",
+            "equipo": "Bianchi - Campagnolo ",
+            "ventaja": "+ 24 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fuente José Manuel",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 26 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 26 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "Zonca",
+            "ventaja": "+ 26 min 49 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Merckx Eddy",
+        "pais": "Bélgica",
+        "equipo": "Molteni"
+    },
+    "ganadorMontana": {
+        "nombre": "Fuente José Manuel",
+        "pais": "España",
+        "equipo": "Kas - Kaskol"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Molteni",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Eddy Merckx/Roger Swerts",
+            "pais": "Belgica",
+            "distancia": 5.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.226
+        },
+        {
+            "etapa": 1,
+            "nombre": "Eddy Merckx",
+            "pais": "Belgica",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.415
+        },
+        {
+            "etapa": 2,
+            "nombre": "Roger De Vlaeminck",
+            "pais": "Belgica",
+            "distancia": 227.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.053
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gustaaf Van Roosbroeck",
+            "pais": "Belgica",
+            "distancia": 239.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Eddy Merckx",
+            "pais": "Belgica",
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.477
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gerben Karstens",
+            "pais": "Países Bajos",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.116
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gianni Motta",
+            "pais": "Italia",
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rik Van Linden",
+            "pais": "Belgica",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.77
+        },
+        {
+            "etapa": 8,
+            "nombre": "Eddy Merckx",
+            "pais": "Belgica",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.359
+        },
+        {
+            "etapa": 9,
+            "nombre": "Patrick Sercu",
+            "pais": "Belgica",
+            "distancia": 243.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.88
+        },
+        {
+            "etapa": 10,
+            "nombre": "Eddy Merckx",
+            "pais": "Belgica",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.875
+        },
+        {
+            "etapa": 11,
+            "nombre": "Roger De Vlaeminck",
+            "pais": "Belgica",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.996
+        },
+        {
+            "etapa": 12,
+            "nombre": "Tullio Rossi",
+            "pais": "Italia",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.12
+        },
+        {
+            "etapa": 13,
+            "nombre": "Roger De Vlaeminck",
+            "pais": "Belgica",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.456
+        },
+        {
+            "etapa": 14,
+            "nombre": "Francesco Moser",
+            "pais": "Italia",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.691
+        },
+        {
+            "etapa": 15,
+            "nombre": "Martín Emilio Rodríguez",
+            "pais": "Colombia",
+            "distancia": 150.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.613
+        },
+        {
+            "etapa": 16,
+            "nombre": "Felice Gimondi",
+            "pais": "Italia",
+            "distancia": 37.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.862
+        },
+        {
+            "etapa": 17,
+            "nombre": "Rik Van Linden",
+            "pais": "Belgica",
+            "distancia": 244.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.13
+        },
+        {
+            "etapa": 18,
+            "nombre": "Eddy Merckx",
+            "pais": "Belgica",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.677
+        },
+        {
+            "etapa": 19,
+            "nombre": "José Manuel Fuente",
+            "pais": "España",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.976
+        },
+        {
+            "etapa": 20,
+            "nombre": "Marino Basso",
+            "pais": "Italia",
+            "distancia": 197,
+            "desnivel": 0,
+            "velocidadMedia": 35.506
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tour_de_flandes",
+  "nombre": "Tour de Flandes",
+  "pais": "Bélgica",
+  "categoria": "World Tour",
+  "tipo": "Clásica Monumento",
+  "descripcion": "El Tour de Flandes, también conocido como 'Ronde van Vlaanderen', es uno de los cinco monumentos del ciclismo. Esta exigente clásica es famosa por sus empinadas y adoquinadas subidas (bergen) que la convierten en una de las carreras más duras y prestigiosas del calendario.",
+  "anio_inicio": 1913,
+  "edicionesDisponibles": [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010,
+    2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993, 1992, 1991, 1990,
+    1989, 1988, 1987, 1986, 1985, 1984, 1983, 1982, 1981, 1980, 1979, 1978, 1977, 1976, 1975, 1974, 1973, 1972, 1971,1970,
+  1969, 1968,  1967, 1966, 1965, 1964, 1963, 1962, 1961, 1960, 1959, 1958, 1957, 1956, 1955, 1954, 1953, 1952, 1951, 1950,
+  1949, 1948, 1947, 1946, 1945, 1944, 1943, 1942, 1941, 1940, 1939, 1938, 1937, 1936, 1935, 1934, 1933, 1932, 1931, 1930,
+  1929, 1928, 1927, 1926, 1925, 1924, 1923, 1922, 1921, 1920, 1919, 1914, 1913],
+  "imagenes": ["assets/imagenes/tour_de_flandes.webp"],
+  "records": {
+    "mas_victorias": {
+      "valor": "3",
+      "descripcion": "Achiel Buysse, Fiorenzo Magni, Eric Leman, Johan Museeuw, Tom Boonen y Fabian Cancellara han ganado el Tour de Flandes en tres ocasiones."
+    },
+    "mas_victorias_consecutivas": {
+      "valor": "3",
+      "descripcion": "Fiorenzo Magni ostenta el récord de más victorias consecutivas (1949-1951)."
+    },
+    "mas_podios": {
+      "valor": "8",
+      "descripcion": "Johan Museeuw (3 victorias, 3 segundos puestos, 2 terceros) y Albéric Schotte (2 victorias, 2 segundos puestos, 4 terceros) comparten el récord de más podios."
+    },
+    "edicion_mas_larga": {
+      "valor": "324 km",
+      "descripcion": "La edición de 1913 fue la más larga en la historia del Tour de Flandes."
+    },
+    "edicion_mas_lenta": {
+      "valor": "26.233 km/h",
+      "descripcion": "La edición de 1923, ganada por Henri Suter, fue la más lenta registrada."
+    },
+    "edicion_mas_rapida": {
+      "valor": "44.981 km/h",
+      "descripcion": "Tadej Pogačar (2025) tiene el récord de la edición más rápida."
+    },
+    "mas_participaciones": {
+      "valor": "20",
+      "descripcion": "Albéric 'Briek' Schotte tiene el récord de 20 participaciones en la carrera."
+    },
+    "ganador_mas_joven": {
+      "valor": "19 años",
+      "descripcion": "Rik Van Steenbergen es el ganador más joven, con 19 años (1944)."
+    },
+    "ganador_mas_veterano": {
+      "valor": "37 años",
+      "descripcion": "Andrei Tchmil es el ganador más veterano, con 37 años (2000)."
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 1975,
+    "distancia": 798.0,
+    "desnivel": 0,
+    "tiempo": "21h 34' 38\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 30,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Brooklyn",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Knudsen Knut",
+            "pais": "Noruega",
+            "equipo": "Jolly Ceramica",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Panizza Wladimiro",
+            "pais": "Italia",
+            "equipo": "Brooklyn",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Moser Francesco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Bianchi - Campagnolo",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Maes Pils - Watney ",
+            "ventaja": "+ 1 min 15 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Polidori Giancarlo",
+            "pais": "Italia",
+            "equipo": "Furzi - F.T. ",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Paolini Enrico",
+            "pais": "Italia",
+            "equipo": "Scic",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "Frisol - G.B.C.",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Chinetti Alfredo",
+            "pais": "Italia",
+            "equipo": "Furzi - F.T. ",
+            "ventaja": "+ 2 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Planckaert Walter",
+            "pais": "Bélgica",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 95.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "distancia": 84.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2018,
+    "distancia": 877.4,
+    "desnivel": 9924,
+    "tiempo": "24h 23' 54\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bennett George",
+            "pais": "Nueva Zelanda",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Buchmann Emanuel",
+            "pais": "Alemania",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Oomen Sam",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 44 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kwiatkowski Michał",
+        "pais": "Polonia",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "Konrad Patrick",
+        "pais": "Austria",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 134.0,
+            "desnivel": 1252,
+            "velocidadMedia": 44.87
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 144.4,
+            "desnivel": 812,
+            "velocidadMedia": 44.06
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hodeg Álvaro José",
+            "pais": "Colombia",
+            "distancia": 139.0,
+            "desnivel": 753,
+            "velocidadMedia": 43.9
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 179.0,
+            "desnivel": 2293,
+            "velocidadMedia": 40.42
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 152.0,
+            "desnivel": 2169,
+            "velocidadMedia": 41.6
+        },
+        {
+            "etapa": 6,
+            "nombre": "Preidler Georg",
+            "pais": "Austria",
+            "distancia": 129.0,
+            "desnivel": 2645,
+            "velocidadMedia": 39.49
+        },
+        {
+            "etapa": 7,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.5238
+        }
+    ]
+}

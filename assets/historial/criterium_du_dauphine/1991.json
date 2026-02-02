@@ -1,0 +1,151 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1991,
+    "distancia": 1068.5,
+    "desnivel": 0,
+    "tiempo": "28h 38' 09\"",
+    "ciclistasInscritos": 128,
+    "ciclistasFinalizados": 102,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Herrera Luis Alberto",
+            "pais": "Colombia",
+            "equipo": "Manzana Postobón",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "equipo": "Amaya Seguros",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "Toshiba",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 4 min 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 4 min 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bouwmans Eddy",
+            "pais": "Países Bajos",
+            "equipo": "Panasonic - Sportlife",
+            "ventaja": "+ 5 min 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 5 min 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Castorama - Raleigh",
+            "ventaja": "+ 5 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Farfán José Martín",
+            "pais": "Colombia",
+            "equipo": "Kelme",
+            "ventaja": "+ 6 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mejia Alvaro",
+            "pais": "Colombia",
+            "equipo": "Manzana Postobón",
+            "ventaja": "+ 7 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 10.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.87
+        },
+        {
+            "etapa": 3,
+            "nombre": "Abadie Henri",
+            "pais": "Francia",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.24
+        },
+        {
+            "etapa": 1,
+            "nombre": "Talen John",
+            "pais": "",
+            "distancia": 153.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.85
+        },
+        {
+            "etapa": 2,
+            "nombre": "van Poppel Jean-Paul",
+            "pais": "Paises Bajos",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.01
+        },
+        {
+            "etapa": 4,
+            "nombre": "Yates Sean",
+            "pais": "Reino Unido",
+            "distancia": 186.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.29
+        },
+        {
+            "etapa": 5,
+            "nombre": "Luis Herrera",
+            "pais": "Colombia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.96
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.31
+        },
+        {
+            "etapa": 7,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "distancia": 33,
+            "desnivel": 0,
+            "velocidadMedia": 35.128
+        }
+    ]
+}

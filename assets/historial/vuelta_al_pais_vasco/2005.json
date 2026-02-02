@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2005,
+    "distancia": 735.0,
+    "desnivel": 0,
+    "tiempo": "18h 13' 53\"",
+    "ciclistasInscritos": 183,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Osa Aitor",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre-Caffita",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Serrano Ricardo",
+            "pais": "España",
+            "equipo": "Kaiku",
+            "ventaja": "+ 29 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Di Luca Danilo",
+        "pais": "Italia",
+        "equipo": "Liquigas"
+    },
+    "ganadorMontana": {
+        "nombre": "Latasa David",
+        "pais": "España",
+        "equipo": "Comunidad Valenciana"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Liberty Seguros - Würth Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 133.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.81
+        },
+        {
+            "etapa": 2,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.76
+        },
+        {
+            "etapa": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.75
+        },
+        {
+            "etapa": 4,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 167.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.75
+        },
+        {
+            "etapa": 5,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "distancia": 93.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.91
+        },
+        {
+            "etapa": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.8252
+        }
+    ]
+}

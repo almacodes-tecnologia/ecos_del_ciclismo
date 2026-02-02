@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1998,
+    "distancia": 1443.0,
+    "desnivel": 0,
+    "tiempo": "34h 21' 25\"",
+    "ciclistasInscritos": 134,
+    "ciclistasFinalizados": 84,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ivanov Sergei",
+            "pais": "Rusia",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Durand Jacky",
+            "pais": "Francia",
+            "equipo": "Casino - AG2R",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Malberti Fabio",
+            "pais": "Italia",
+            "equipo": "Asics - CGA",
+            "ventaja": "+ 3 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bassons Christophe",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 3 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rumšas Raimondas",
+            "pais": "Lituania",
+            "equipo": "Mróz",
+            "ventaja": "+ 3 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Baranowski Dariusz",
+            "pais": "Polonia",
+            "equipo": "Poland",
+            "ventaja": "+ 3 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Spruch Zbigniew",
+            "pais": "Polonia",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 4 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Casino - AG2R",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gimondi Massimo",
+            "pais": "Italia",
+            "equipo": "Amore & Vita - Forzacore",
+            "ventaja": "+ 5 min 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bobrik Vladislav",
+            "pais": "Rusia",
+            "equipo": "Riso Scotti - MG       ",
+            "ventaja": "+ 6 min 6 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Spruch Zbigniew",
+        "pais": "Polonia",
+        "equipo": "Mapei - Bricobi     "
+    },
+    "ganadorMontana": {
+        "nombre": "Sypytkowski Andrzej",
+        "pais": "Polonia",
+        "equipo": "Mróz"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mróz",
+        "pais": "Polonia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Spruch Zbigniew",
+            "pais": "Polonia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.827
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.952
+        },
+        {
+            "etapa": 3,
+            "nombre": "Chrzanowski Sławomir",
+            "pais": "Polonia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.373
+        },
+        {
+            "etapa": 4,
+            "nombre": "Krzeszowiec Artur",
+            "pais": "Polonia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.481
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ivanov Sergei",
+            "pais": "Rusia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.08
+        },
+        {
+            "etapa": 6,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.666
+        },
+        {
+            "etapa": 7,
+            "nombre": "Durand Jacky",
+            "pais": "Francia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.982
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ivanov Sergei",
+            "pais": "Rusia",
+            "distancia": 30.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.532
+        }
+    ]
+}

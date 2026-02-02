@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2015,
+    "distancia": 1127.2,
+    "desnivel": 12643,
+    "tiempo": "29h 10' 41\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 105,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Valls Rafael",
+            "pais": "España",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 2 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Matthews Michael",
+        "pais": "Australia",
+        "equipo": "Orica GreenEDGE"
+    },
+    "ganadorMontana": {
+        "nombre": "De Gendt Thomas",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kwiatkowski Michał",
+        "pais": "Polonia",
+        "equipo": "Etixx - Quick Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 6.7,
+            "desnivel": 61,
+            "velocidadMedia": 52.43
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 192.0,
+            "desnivel": 748,
+            "velocidadMedia": 36.54
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 172.0,
+            "desnivel": 1074,
+            "velocidadMedia": 38.18
+        },
+        {
+            "etapa": 3,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 179.0,
+            "desnivel": 2085,
+            "velocidadMedia": 39.46
+        },
+        {
+            "etapa": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 204.0,
+            "desnivel": 3295,
+            "velocidadMedia": 38.41
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cimolai Davide",
+            "pais": "Italia",
+            "distancia": 192.0,
+            "desnivel": 1789,
+            "velocidadMedia": 45.69
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "distancia": 181.5,
+            "desnivel": 3591,
+            "velocidadMedia": 37.17
+        },
+        {
+            "etapa": 7,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.9571
+        }
+    ]
+}

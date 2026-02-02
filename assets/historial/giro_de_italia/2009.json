@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2009,
+    "distancia": 3415.1,
+    "desnivel": 45248,
+    "tiempo": "86h 03' 11\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 169,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 3 min 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 3 min 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "Astana",
+            "ventaja": "+ 5 min 28 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Acqua & Sapone",
+            "ventaja": "+ 8 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 10 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bruseghin Marzio",
+            "pais": "Italia",
+            "equipo": "Lampre - NGC",
+            "ventaja": "+ 11 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "David Arroyo",
+            "pais": "España",
+            "equipo": "Caisse d'Épargne",
+            "ventaja": "+ 12 min 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "José Serpa",
+            "pais": "Colombia",
+            "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli",
+            "ventaja": "+ 16 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kevin Seeldraeyers",
+            "pais": "Belgica",
+            "equipo": "Quick Step",
+            "ventaja": "+ 16 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Di Luca Danilo",
+        "pais": "Italia",
+        "equipo": "LPR Brakes - Farnese Vini"
+    },
+    "ganadorMontana": {
+        "nombre": "Garzelli Stefano",
+        "pais": "Italia",
+        "equipo": "Acqua & Sapone"
+    },
+    "ganadorJovenes": {
+        "nombre": "Seeldraeyers Kevin",
+        "pais": "Bélgica",
+        "equipo": "Quickstep - Innergetic"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 20.5,
+            "desnivel": 19,
+            "velocidadMedia": 56.336
+        },
+        {
+            "etapa": 2,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 156.0,
+            "desnivel": 646,
+            "velocidadMedia": 41.951
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 1155,
+            "velocidadMedia": 41.618
+        },
+        {
+            "etapa": 4,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 165.0,
+            "desnivel": 2685,
+            "velocidadMedia": 38.813
+        },
+        {
+            "etapa": 5,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 125.0,
+            "desnivel": 2851,
+            "velocidadMedia": 38.383
+        },
+        {
+            "etapa": 6,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "distancia": 242.0,
+            "desnivel": 3252,
+            "velocidadMedia": 41.496
+        },
+        {
+            "etapa": 7,
+            "nombre": "Boasson Hagen Edvald",
+            "pais": "Noruega",
+            "distancia": 244.0,
+            "desnivel": 2501,
+            "velocidadMedia": 41.022
+        },
+        {
+            "etapa": 8,
+            "nombre": "Siutsou Kanstantsin",
+            "pais": "Bielorrusia",
+            "distancia": 208.0,
+            "desnivel": 3042,
+            "velocidadMedia": 40.976
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 155.0,
+            "desnivel": 195,
+            "velocidadMedia": 36.297
+        },
+        {
+            "etapa": 10,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 250.0,
+            "desnivel": 4215,
+            "velocidadMedia": 38.391
+        },
+        {
+            "etapa": 11,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 214.0,
+            "desnivel": 1278,
+            "velocidadMedia": 44.08
+        },
+        {
+            "etapa": 12,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 60.6,
+            "desnivel": 1497,
+            "velocidadMedia": 38.48
+        },
+        {
+            "etapa": 13,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 176.0,
+            "desnivel": 745,
+            "velocidadMedia": 46.19
+        },
+        {
+            "etapa": 14,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 174.0,
+            "desnivel": 2675,
+            "velocidadMedia": 40.654
+        },
+        {
+            "etapa": 15,
+            "nombre": "Bertagnolli Leonardo",
+            "pais": "Italia",
+            "distancia": 159.0,
+            "desnivel": 3104,
+            "velocidadMedia": 36.77
+        },
+        {
+            "etapa": 16,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "distancia": 237.0,
+            "desnivel": 5699,
+            "velocidadMedia": 32.924
+        },
+        {
+            "etapa": 17,
+            "nombre": "Pellizotti Franco",
+            "pais": "Italia",
+            "distancia": 83.0,
+            "desnivel": 2085,
+            "velocidadMedia": 35.29
+        },
+        {
+            "etapa": 18,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 2106,
+            "velocidadMedia": 43.846
+        },
+        {
+            "etapa": 19,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "distancia": 164.0,
+            "desnivel": 3921,
+            "velocidadMedia": 35.993
+        },
+        {
+            "etapa": 20,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 203.0,
+            "desnivel": 1577,
+            "velocidadMedia": 45.092
+        },
+        {
+            "etapa": 21,
+            "nombre": "Konovalovas Ignatas",
+            "pais": "Lituania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.8591
+        }
+    ]
+}

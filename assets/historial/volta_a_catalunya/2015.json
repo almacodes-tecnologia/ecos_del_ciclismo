@@ -1,0 +1,154 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2015,
+    "distancia": 1111.5,
+    "desnivel": 15490,
+    "tiempo": "30h 30' 30\"",
+    "ciclistasInscritos": 191,
+    "ciclistasFinalizados": 119,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Atapuma Darwin",
+            "pais": "Colombia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Valls Rafael",
+            "pais": "España",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Team Cannondale - Garmin ",
+            "ventaja": "+ 1 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Danielson Tom",
+        "pais": "Estados Unidos",
+        "equipo": "Team Cannondale - Garmin "
+    },
+    "ganadorJovenes": {
+        "nombre": "Kelderman Wilco",
+        "pais": "Países Bajos",
+        "equipo": "Team LottoNL-Jumbo"
+    },
+    "ganadorEquipos": {
+        "nombre": " BMC Racing Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Paterski Maciej",
+            "pais": "Polonia",
+            "distancia": 185.2,
+            "desnivel": 2557,
+            "velocidadMedia": 40.6
+        },
+        {
+            "etapa": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 191.8,
+            "desnivel": 2364,
+            "velocidadMedia": 38.0
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "distancia": 156.6,
+            "desnivel": 2219,
+            "velocidadMedia": 40.39
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "distancia": 188.4,
+            "desnivel": 3867,
+            "velocidadMedia": 37.6
+        },
+        {
+            "etapa": 5,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 195.4,
+            "desnivel": 2020,
+            "velocidadMedia": 44.1
+        },
+        {
+            "etapa": 6,
+            "nombre": "Chernetski Sergei",
+            "pais": "Rusia",
+            "distancia": 194.1,
+            "desnivel": 2463,
+            "velocidadMedia": 41.18
+        },
+        {
+            "etapa": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5801
+        }
+    ]
+}

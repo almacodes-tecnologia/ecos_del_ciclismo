@@ -1,0 +1,192 @@
+{
+  "idCarrera": "vuelta_a_espana",
+  "anio": 2020,
+  "distancia": 2846.9,
+  "desnivel": 0,
+  "tiempo": "72h 46' 12\"",
+  "ciclistasInscritos": 176,
+  "ciclistasFinalizados": 142,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Primoz Roglic",
+      "pais": "Eslovenia",
+      "equipo": "Team Jumbo-Visma",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Richard Carapaz",
+      "pais": "Ecuador",
+      "equipo": "INEOS Grenadiers",
+      "ventaja": "+24 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Hugh Carthy",
+      "pais": "Reino Unido",
+      "equipo": "EF Pro Cycling",
+      "ventaja": "+1 min 15 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Dan Martin",
+      "pais": "Irlanda",
+      "equipo": "Israel Start-Up Nation",
+      "ventaja": "+2 min 43 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Enric Mas",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+3 min 36 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Wout Poels",
+      "pais": "Países Bajos",
+      "equipo": "Bahrain-McLaren",
+      "ventaja": "+7 min 16 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "David de la Cruz",
+      "pais": "España",
+      "equipo": "UAE Team Emirates",
+      "ventaja": "+7 min 35 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "David Gaudu",
+      "pais": "Francia",
+      "equipo": "Groupama - FDJ",
+      "ventaja": "+7 min 45 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Felix Großschartner",
+      "pais": "Austria",
+      "equipo": "Bora-hansgrohe",
+      "ventaja": "+8 min 15 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Alejandro Valverde",
+      "pais": "España",
+      "equipo": "Movistar Team",
+      "ventaja": "+9 min 34 s"
+    }
+  ],
+  "ganadorMontana": {
+    "nombre": "Guillaume Martin",
+    "pais": "Francia",
+    "equipo": "Cofidis"
+  },
+  "ganadorPuntos": {
+    "nombre": "Primoz Roglic",
+    "pais": "Eslovenia",
+    "equipo": "Team Jumbo-Visma"
+  },
+  "ganadorJovenes": {
+    "nombre": "Enric Mas",
+    "pais": "España",
+    "equipo": "Movistar Team"
+  },
+  "ganadorEquipos": {
+    "nombre": "Movistar Team",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Primoz Roglic",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Marc Soler",
+      "pais": "España"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Dan Martin",
+      "pais": "Irlanda"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Sam Bennett",
+      "pais": "Irlanda"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Tim Wellens",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Ion Izagirre",
+      "pais": "España"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Michael Woods",
+      "pais": "Canadá"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Primoz Roglic",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Pascal Ackermann",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Primoz Roglic",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "David Gaudu",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Hugh Carthy",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Primoz Roglic",
+      "pais": "Eslovenia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Tim Wellens",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Jasper Philipsen",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Magnus Cort",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 17,
+      "nombre": "David Gaudu",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Pascal Ackermann",
+      "pais": "Alemania"
+    }
+  ]
+}

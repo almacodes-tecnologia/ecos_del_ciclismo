@@ -1,0 +1,170 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1965,
+    "distancia": 1160.0,
+    "desnivel": 0,
+    "tiempo": "36h 14' 09\"",
+    "ciclistasInscritos": 65,
+    "ciclistasFinalizados": 60,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Ford France - Gitane",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "equipo": "Margnat - Paloma - Inuri - Dunlop",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Sanson",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 4 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "den Hartog Arie",
+            "pais": "Países Bajos",
+            "equipo": "Ford France - Gitane",
+            "ventaja": "+ 4 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "Margnat - Paloma - Inuri - Dunlop",
+            "ventaja": "+ 4 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "Molteni ",
+            "ventaja": "+ 5 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nédélec Michel",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Michelin",
+            "ventaja": "+ 6 min 24 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Haast Cees",
+            "pais": "Países Bajos",
+            "equipo": "Televizier",
+            "ventaja": "+ 6 min 58 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Altig Rudi",
+        "pais": "Alemania",
+        "equipo": "Margnat - Paloma - Inuri - Dunlop"
+    },
+    "ganadorMontana": {
+        "nombre": "Motta Gianni",
+        "pais": "Italia",
+        "equipo": "Molteni "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 156.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bocklant Willy",
+            "pais": "Bélgica",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vannitsen Willy",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 33.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Altig Rudi",
+            "pais": "Alemania",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vanconingsloo Georges",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": "Spruyt Jos",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

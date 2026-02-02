@@ -1,0 +1,587 @@
+{
+  "id": "greg_lemond",
+  "nombre": "Greg LeMond",
+  "nacionalidad": "Estados Unidos",
+  "anioNacimiento": 1961,
+  "activo": "1981-1994",
+  "especialidad": [
+    "carretera"
+  ],
+  "equipos": [
+    {
+      "anio": 1981,
+      "equipo": "Renault-Elf"
+    },
+    {
+      "anio": 1982,
+      "equipo": "Renault-Elf"
+    },
+    {
+      "anio": 1983,
+      "equipo": "Renault-Elf"
+    },
+    {
+      "anio": 1984,
+      "equipo": "Renault-Elf"
+    },
+    {
+      "anio": 1985,
+      "equipo": "La Vie Claire"
+    },
+    {
+      "anio": 1986,
+      "equipo": "La Vie Claire"
+    },
+    {
+      "anio": 1987,
+      "equipo": "Toshiba"
+    },
+    {
+      "anio": 1988,
+      "equipo": "PDM-Concorde"
+    },
+    {
+      "anio": 1989,
+      "equipo": "AD Renting"
+    },
+    {
+      "anio": 1990,
+      "equipo": "Z"
+    },
+    {
+      "anio": 1991,
+      "equipo": "Z"
+    },
+    {
+      "anio": 1992,
+      "equipo": "Z"
+    },
+    {
+      "anio": 1993,
+      "equipo": "Gan"
+    },
+    {
+      "anio": 1994,
+      "equipo": "Gan"
+    }
+  ],
+  "palmares": {
+    "1982": [
+      "Tour del Porvenir",
+      "3 etapas del Tour del Porvenir",
+      "2.º en el Campeonato del Mundo en Ruta",
+      "1 etapa de la Tirreno-Adriático"
+    ],
+    "1983": [
+      "Campeonato del Mundo en Ruta",
+      "Dauphiné Libéré",
+      "3 etapas del Dauphiné Libéré",
+      "1 etapa del Tour del Mediterráneo",
+      "Super Prestige Pernod International",
+      "Critérium de As"
+    ],
+    "1984": [
+      "3.º en el Tour de Francia, más clasificación de los jóvenes",
+      "Clasificación de los jóvenes en el Tour de Francia",
+      "1 etapa de la Dauphiné Libéré"
+    ],
+    "1985": [
+      "2.º en el Campeonato del Mundo en Ruta",
+      "2.º en el Tour de Francia",
+      "Clasificación de la combinada en el Tour de Francia",
+      "1 etapa en el Tour de Francia",
+      "3.º en el Giro de Italia",
+      "3.º en el Super Prestige Pernod International"
+    ],
+    "1986": [
+      "Tour de Francia",
+      "1 etapa en el Tour de Francia",
+      "Clasificación de la combinada en el Tour de Francia",
+      "1 etapa del Giro de Italia",
+      "2.º en el Super Prestige Pernod International"
+    ],
+    "1989": [
+      "Campeonato del Mundo en Ruta",
+      "Tour de Francia",
+      "3 etapas en el Tour de Francia"
+    ],
+    "1990": [
+      "Tour de Francia"
+    ],
+    "1992": [
+      "Tour DuPont",
+      "1 etapa del Tour DuPont"
+    ]
+  },
+  "resumenPalmares": [
+    "3 Tour de Francia",
+    "5 etapas del Tour de Francia",
+    "2 Campeonatos del Mundo en Ruta",
+    "3.º en 1 Giro de Italia"
+  ],
+
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 1984,
+      "carrera": "Tour de Francia",
+      "puesto": "3"
+    },
+    {
+      "anio": 1985,
+      "carrera": "Tour de Francia",
+      "puesto": "2"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Tour de Francia",
+      "puesto": "1"
+    },
+    {
+      "anio": 1989,
+      "carrera": "Tour de Francia",
+      "puesto": "1"
+    },
+    {
+      "anio": 1990,
+      "carrera": "Tour de Francia",
+      "puesto": "1"
+    },
+    {
+      "anio": 1991,
+      "carrera": "Tour de Francia",
+      "puesto": "7"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1994,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1985,
+      "carrera": "Giro de Italia",
+      "puesto": "3"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Giro de Italia",
+      "puesto": "4"
+    },
+    {
+      "anio": 1988,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1989,
+      "carrera": "Giro de Italia",
+      "puesto": "39"
+    },
+    {
+      "anio": 1990,
+      "carrera": "Giro de Italia",
+      "puesto": "105"
+    },
+    {
+      "anio": 1991,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1993,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1983,
+      "carrera": "Vuelta a España",
+      "puesto": "NC."
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 1982,
+      "carrera": "Giro de Lombardía",
+      "puesto": "2"
+    },
+    {
+      "anio": 1982,
+      "carrera": "París-Tours",
+      "puesto": "4"
+    },
+    {
+      "anio": 1985,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "4"
+    },
+    {
+      "anio": 1987,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "19"
+    },
+    {
+      "anio": 1989,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "17"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "55"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "52"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Campeonato de Zúrich",
+      "puesto": "4"
+    },
+    {
+      "anio": 1990,
+      "carrera": "Campeonato de Zúrich",
+      "puesto": "2"
+    },
+    {
+      "anio": 1980,
+      "carrera": "Clásica San Sebastián",
+      "puesto": "91"
+    },
+    {
+      "anio": 1989,
+      "carrera": "Clásica San Sebastián",
+      "puesto": "113"
+    },
+    {
+      "anio": 1982,
+      "carrera": "Milán-San Remo",
+      "puesto": "17"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Milán-San Remo",
+      "puesto": "30"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Milán-San Remo",
+      "puesto": "2"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Milán-San Remo",
+      "puesto": "22"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Milán-San Remo",
+      "puesto": "140"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "78"
+    },
+    {
+      "anio": 1984,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "3"
+    },
+    {
+      "anio": 1985,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "17"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "14"
+    },
+    {
+      "anio": 1993,
+      "carrera": "A Través de Flandes",
+      "puesto": "34"
+    },
+    {
+      "anio": 1993,
+      "carrera": "E3 Harelbeke",
+      "puesto": "98"
+    },
+    {
+      "anio": 1994,
+      "carrera": "E3 Harelbeke",
+      "puesto": "42"
+    },
+    {
+      "anio": 1981,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "112"
+    },
+    {
+      "anio": 1982,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "12"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "12"
+    },
+    {
+      "anio": 1984,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "9"
+    },
+    {
+      "anio": 1985,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "18"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "19"
+    },
+    {
+      "anio": 1991,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "119"
+    },
+    {
+      "anio": 1984,
+      "carrera": "Tour de Flandes",
+      "puesto": "15"
+    },
+    {
+      "anio": 1985,
+      "carrera": "Tour de Flandes",
+      "puesto": "7"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Tour de Flandes",
+      "puesto": "11"
+    },
+    {
+      "anio": 1988,
+      "carrera": "Tour de Flandes",
+      "puesto": "30"
+    },
+    {
+      "anio": 1989,
+      "carrera": "Tour de Flandes",
+      "puesto": "63"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Tour de Flandes",
+      "puesto": "25"
+    },
+    {
+      "anio": 1985,
+      "carrera": "París-Roubaix",
+      "puesto": "4"
+    },
+    {
+      "anio": 1986,
+      "carrera": "París-Roubaix",
+      "puesto": "30"
+    },
+    {
+      "anio": 1991,
+      "carrera": "París-Roubaix",
+      "puesto": "55"
+    },
+    {
+      "anio": 1992,
+      "carrera": "París-Roubaix",
+      "puesto": "9"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Flecha Brabanzona",
+      "puesto": "47"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 1981,
+      "carrera": "Mundial Ruta",
+      "puesto": "47"
+    },
+    {
+      "anio": 1982,
+      "carrera": "Mundial Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Mundial Ruta",
+      "puesto": "1"
+    },
+    {
+      "anio": 1984,
+      "carrera": "Mundial Ruta",
+      "puesto": "27"
+    },
+    {
+      "anio": 1985,
+      "carrera": "Mundial Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Mundial Ruta",
+      "puesto": "7"
+    },
+    {
+      "anio": 1988,
+      "carrera": "Mundial Ruta",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1989,
+      "carrera": "Mundial Ruta",
+      "puesto": "1"
+    },
+    {
+      "anio": 1990,
+      "carrera": "Mundial Ruta",
+      "puesto": "4"
+    },
+    {
+      "anio": 1991,
+      "carrera": "Mundial Ruta",
+      "puesto": "NC."
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 1986,
+      "carrera": "París-Niza",
+      "puesto": "3"
+    },
+    {
+      "anio": 1991,
+      "carrera": "París-Niza",
+      "puesto": "33"
+    },
+    {
+      "anio": 1992,
+      "carrera": "París-Niza",
+      "puesto": "58"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "4"
+    },
+    {
+      "anio": 1986,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "3"
+    },
+    {
+      "anio": 1990,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "10"
+    },
+    {
+      "anio": 1991,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "22"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "4"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "41"
+    },
+    {
+      "anio": 1981,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "3"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "1"
+    },
+    {
+      "anio": 1984,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "3"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "11"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1985,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "2"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "NC."
+    },
+    {
+      "anio": 1982,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "3"
+    },
+    {
+      "anio": 1983,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "9"
+    },
+    {
+      "anio": 1984,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "5"
+    },
+    {
+      "anio": 1988,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "44"
+    },
+    {
+      "anio": 1989,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "6"
+    }
+  ],
+  "habilidades": {
+    "llano": 4,
+    "montana": 4,
+    "media_montana": 5,
+    "muros": 4,
+    "pave": 3,
+    "sprint": 3,
+    "aceleracion": 4,
+    "resistencia_gran_vuelta": 5,
+    "resistencia_clasicas": 4,
+    "combatividad": 4,
+    "contrarreloj": 5,
+    "pista": 2,
+    "tierra": 2
+  }
+
+}

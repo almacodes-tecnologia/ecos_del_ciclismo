@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2005,
+    "distancia": 3223.0,
+    "desnivel": 46189,
+    "tiempo": "82h 22' 55\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 4 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 4 min 54 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 5 min 58 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "García Quesada Carlos",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "+ 8 min 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Plaza Rubén",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "+ 11 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 13 min 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Danielson Tom",
+            "pais": "Estados Unidos",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 16 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Ardila Mauricio Alberto",
+            "pais": "Colombia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 18 min 15 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 18 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Fassa Bortolo"
+    },
+    "ganadorMontana": {
+        "nombre": "Rodríguez Joaquim",
+        "pais": "España",
+        "equipo": "Saunier Duval - Prodir"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Comunidad Valenciana",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 7.0,
+            "desnivel": 162,
+            "velocidadMedia": 43.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bertagnolli Leonardo",
+            "pais": "Italia",
+            "distancia": 189.3,
+            "desnivel": 2065,
+            "velocidadMedia": 38.98
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 153.3,
+            "desnivel": 2029,
+            "velocidadMedia": 40.22
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 232.3,
+            "desnivel": 1119,
+            "velocidadMedia": 40.82
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 176.0,
+            "desnivel": 1470,
+            "velocidadMedia": 47.6
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 217.0,
+            "desnivel": 3559,
+            "velocidadMedia": 39.78
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 212.5,
+            "desnivel": 2754,
+            "velocidadMedia": 39.68
+        },
+        {
+            "etapa": 8,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 189.0,
+            "desnivel": 1671,
+            "velocidadMedia": 43.74
+        },
+        {
+            "etapa": 9,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 48.0,
+            "desnivel": 606,
+            "velocidadMedia": 47.29
+        },
+        {
+            "etapa": 10,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "distancia": 206.3,
+            "desnivel": 4570,
+            "velocidadMedia": 37.08
+        },
+        {
+            "etapa": 11,
+            "nombre": "Laiseka Roberto",
+            "pais": "España",
+            "distancia": 192.6,
+            "desnivel": 4757,
+            "velocidadMedia": 37.32
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 133.0,
+            "desnivel": 1680,
+            "velocidadMedia": 41.22
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 196.0,
+            "desnivel": 2334,
+            "velocidadMedia": 48.26
+        },
+        {
+            "etapa": 14,
+            "nombre": "Jiménez Eladio",
+            "pais": "España",
+            "distancia": 172.3,
+            "desnivel": 3655,
+            "velocidadMedia": 38.92
+        },
+        {
+            "etapa": 15,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 3940,
+            "velocidadMedia": 39.0
+        },
+        {
+            "etapa": 16,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 162.5,
+            "desnivel": 732,
+            "velocidadMedia": 44.13
+        },
+        {
+            "etapa": 17,
+            "nombre": "García Quesada Carlos",
+            "pais": "España",
+            "distancia": 165.6,
+            "desnivel": 2973,
+            "velocidadMedia": 43.01
+        },
+        {
+            "etapa": 18,
+            "nombre": "Sørensen Nicki",
+            "pais": "Dinamarca",
+            "distancia": 197.5,
+            "desnivel": 3625,
+            "velocidadMedia": 38.78
+        },
+        {
+            "etapa": 19,
+            "nombre": "Haussler Heinrich",
+            "pais": "Alemania",
+            "distancia": 142.9,
+            "desnivel": 2287,
+            "velocidadMedia": 42.78
+        },
+        {
+            "etapa": 20,
+            "nombre": "Plaza Rubén",
+            "pais": "España",
+            "distancia": 38.9,
+            "desnivel": 201,
+            "velocidadMedia": 56.22
+        },
+        {
+            "etapa": 21,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.776
+        }
+    ]
+}

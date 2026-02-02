@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1996,
+    "distancia": 3788.0,
+    "desnivel": 44458,
+    "tiempo": "97h 31' 46\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E.",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 6 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 8 min 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pistore Roberto",
+            "pais": "Italia",
+            "equipo": "MG Maglificio - Technogym",
+            "ventaja": "+ 10 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Faustini Stefano",
+            "pais": "Italia",
+            "equipo": "AKI - Gipiemme - Safi",
+            "ventaja": "+ 11 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Totschnig Georg",
+            "pais": "Austria",
+            "equipo": "Polti",
+            "ventaja": "+ 11 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 13 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Peron Andrea",
+            "pais": "Italia",
+            "equipo": "Motorola",
+            "ventaja": "+ 14 min 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 15 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme-Artiach-Costa Blanca",
+            "ventaja": "+ 18 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Jalabert Laurent",
+        "pais": "Francia",
+        "equipo": "O.N.C.E."
+    },
+    "ganadorMontana": {
+        "nombre": "Rominger Tony",
+        "pais": "Suiza",
+        "equipo": "Mapei-GB   "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Polti",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Conte Biagio",
+            "pais": "Italia",
+            "distancia": 162.0,
+            "desnivel": 862,
+            "velocidadMedia": 41.82
+        },
+        {
+            "etapa": 2,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 2390,
+            "velocidadMedia": 42.63
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 167.0,
+            "desnivel": 872,
+            "velocidadMedia": 49.2
+        },
+        {
+            "etapa": 4,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 166.5,
+            "desnivel": 917,
+            "velocidadMedia": 42.9
+        },
+        {
+            "etapa": 5,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 208.0,
+            "desnivel": 1247,
+            "velocidadMedia": 44.63
+        },
+        {
+            "etapa": 6,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 196.5,
+            "desnivel": 2027,
+            "velocidadMedia": 34.6
+        },
+        {
+            "etapa": 7,
+            "nombre": "Baldato Fabio",
+            "pais": "Italia",
+            "distancia": 171.0,
+            "desnivel": 2093,
+            "velocidadMedia": 41.22
+        },
+        {
+            "etapa": 8,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 1842,
+            "velocidadMedia": 36.98
+        },
+        {
+            "etapa": 9,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 203.5,
+            "desnivel": 1408,
+            "velocidadMedia": 40.05
+        },
+        {
+            "etapa": 10,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "distancia": 46.5,
+            "desnivel": 971,
+            "velocidadMedia": 39.67
+        },
+        {
+            "etapa": 11,
+            "nombre": "Di Renzo Marco Antonio",
+            "pais": "Italia",
+            "distancia": 188.0,
+            "desnivel": 2018,
+            "velocidadMedia": 38.38
+        },
+        {
+            "etapa": 12,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "distancia": 191.7,
+            "desnivel": 1935,
+            "velocidadMedia": 41.73
+        },
+        {
+            "etapa": 13,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 159.0,
+            "desnivel": 3051,
+            "velocidadMedia": 39.45
+        },
+        {
+            "etapa": 14,
+            "nombre": "Conte Biagio",
+            "pais": "Italia",
+            "distancia": 202.6,
+            "desnivel": 3067,
+            "velocidadMedia": 42.15
+        },
+        {
+            "etapa": 15,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 220.0,
+            "desnivel": 4265,
+            "velocidadMedia": 37.88
+        },
+        {
+            "etapa": 16,
+            "nombre": "Minali Nicola",
+            "pais": "Italia",
+            "distancia": 220.9,
+            "desnivel": 2213,
+            "velocidadMedia": 39.63
+        },
+        {
+            "etapa": 17,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "distancia": 165.7,
+            "desnivel": 3535,
+            "velocidadMedia": 39.42
+        },
+        {
+            "etapa": 18,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 219.5,
+            "desnivel": 1791,
+            "velocidadMedia": 38.58
+        },
+        {
+            "etapa": 19,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "distancia": 217.1,
+            "desnivel": 3307,
+            "velocidadMedia": 43.67
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bugno Gianni",
+            "pais": "Italia",
+            "distancia": 209.5,
+            "desnivel": 4056,
+            "velocidadMedia": 40.03
+        },
+        {
+            "etapa": 21,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "distancia": 43.0,
+            "desnivel": 591,
+            "velocidadMedia": 48.12
+        },
+        {
+            "etapa": 22,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.4527
+        }
+    ]
+}

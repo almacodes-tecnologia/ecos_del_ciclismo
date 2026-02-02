@@ -1,0 +1,278 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1998,
+    "distancia": 3705.6,
+    "desnivel": 55410,
+    "tiempo": "92h 49' 46\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 96,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pantani Marco",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 3 min 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "equipo": "Cofidis",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rinero Christophe",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 9 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 11 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Robin Jean-Cyril",
+            "pais": "Francia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 14 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Meier Roland",
+            "pais": "Suiza",
+            "equipo": "Cofidis",
+            "ventaja": "+ 15 min 13 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 16 min 7 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Di Grande Giuseppe",
+            "pais": "Italia",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 17 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Merckx Axel",
+            "pais": "Bélgica",
+            "equipo": "Polti",
+            "ventaja": "+ 17 min 39 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Rinero Christophe",
+        "pais": "Francia",
+        "equipo": "Cofidis"
+    },
+    "ganadorJovenes": {
+        "nombre": "Ullrich Jan",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorEquipos": {
+        "nombre": " Cofidis",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 5.6,
+            "desnivel": 80,
+            "velocidadMedia": 54.194
+        },
+        {
+            "etapa": 1,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 2311,
+            "velocidadMedia": 40.0
+        },
+        {
+            "etapa": 2,
+            "nombre": "Svorada Ján",
+            "pais": "República Checa",
+            "distancia": 205.5,
+            "desnivel": 2004,
+            "velocidadMedia": 35.722
+        },
+        {
+            "etapa": 3,
+            "nombre": "Heppner Jens",
+            "pais": "Alemania",
+            "distancia": 169.0,
+            "desnivel": 2144,
+            "velocidadMedia": 47.47
+        },
+        {
+            "etapa": 4,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 252.0,
+            "desnivel": 2538,
+            "velocidadMedia": 43.382
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 227.0,
+            "desnivel": 1678,
+            "velocidadMedia": 42.72
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 3000,
+            "velocidadMedia": 41.239
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 58.0,
+            "desnivel": 1318,
+            "velocidadMedia": 46.144
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jacky Durand",
+            "pais": "Francia",
+            "distancia": 189.0,
+            "desnivel": 2500,
+            "velocidadMedia": 40.368
+        },
+        {
+            "etapa": 9,
+            "nombre": "van Bon Léon",
+            "pais": "Países Bajos",
+            "distancia": 210.0,
+            "desnivel": 2778,
+            "velocidadMedia": 39.232
+        },
+        {
+            "etapa": 10,
+            "nombre": "Massi Rodolfo",
+            "pais": "Italia",
+            "distancia": 196.5,
+            "desnivel": 5500,
+            "velocidadMedia": 33.718
+        },
+        {
+            "etapa": 11,
+            "nombre": "Marco Pantani",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 5000,
+            "velocidadMedia": 32.335
+        },
+        {
+            "etapa": 12,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 206.0,
+            "desnivel": 2500,
+            "velocidadMedia": 48.88
+        },
+        {
+            "etapa": 13,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "distancia": 191.0,
+            "desnivel": 1769,
+            "velocidadMedia": 42.014
+        },
+        {
+            "etapa": 14,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "distancia": 185.0,
+            "desnivel": 3000,
+            "velocidadMedia": 40.977
+        },
+        {
+            "etapa": 15,
+            "nombre": "Marco Pantani",
+            "pais": "Italia",
+            "distancia": 189.0,
+            "desnivel": 6000,
+            "velocidadMedia": 32.989
+        },
+        {
+            "etapa": 16,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 204.0,
+            "desnivel": 5500,
+            "velocidadMedia": 36.023
+        },
+        {
+            "etapa": 17,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": 0
+        },
+        {
+            "etapa": 18,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 218.0,
+            "desnivel": 3000,
+            "velocidadMedia": 44.573
+        },
+        {
+            "etapa": 19,
+            "nombre": "Bäckstedt Magnus",
+            "pais": "Suecia",
+            "distancia": 238.0,
+            "desnivel": 2000,
+            "velocidadMedia": 46.03
+        },
+        {
+            "etapa": 20,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 53.0,
+            "desnivel": 790,
+            "velocidadMedia": 49.791
+        },
+        {
+            "etapa": 21,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.5116
+        }
+    ]
+}

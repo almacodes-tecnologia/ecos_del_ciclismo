@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2006,
+    "distancia": 1139.8,
+    "desnivel": 0,
+    "tiempo": "31h 54' 41\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 98,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Landis Floyd",
+            "pais": "Estados Unidos",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vila Francisco Javier",
+            "pais": "España",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Colom Antonio",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Caucchioli Pietro",
+            "pais": "Italia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 1 min 43 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sánchez Samuel",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorMontana": {
+        "nombre": "Moncoutié David",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit par Téléphone"
+    },
+    "ganadorJovenes": {
+        "nombre": "Sánchez Luis León",
+        "pais": "España",
+        "equipo": "Liberty Seguros - Würth"
+    },
+    "ganadorEquipos": {
+        "nombre": " Lampre-Fondital",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "distancia": 4.8,
+            "desnivel": 0,
+            "velocidadMedia": 47.084
+        },
+        {
+            "etapa": 1,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.119
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.403
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 168.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.487
+        },
+        {
+            "etapa": 4,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.286
+        },
+        {
+            "etapa": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 201.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.741
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kashechkin Andrey",
+            "pais": "Kazajistán",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.597
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.946
+        }
+    ]
+}

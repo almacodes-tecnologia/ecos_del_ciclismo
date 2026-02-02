@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2024,
+    "distancia": 824.6,
+    "desnivel": 9612,
+    "tiempo": "19h 13' 34\"",
+    "ciclistasInscritos": 139,
+    "ciclistasFinalizados": 130,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Williams Stephen",
+            "pais": "Reino Unido",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Narváez Jhonatan",
+            "pais": "Ecuador",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team dsm-firmenich PostNL",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lemmen Bart",
+            "pais": "Países Bajos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Paret-Peintre Valentin",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Howson Damien",
+            "pais": "Australia",
+            "equipo": "Australia",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Welsford Sam",
+        "pais": "Australia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Burns Luke",
+        "pais": "Australia",
+        "equipo": "Australia"
+    },
+    "ganadorJovenes": {
+        "nombre": "del Toro Isaac",
+        "pais": "México",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Decathlon AG2R La Mondiale Team",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 144.0,
+            "desnivel": 1381,
+            "velocidadMedia": 41.955
+        },
+        {
+            "etapa": 2,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "distancia": 141.6,
+            "desnivel": 2269,
+            "velocidadMedia": 40.531
+        },
+        {
+            "etapa": 3,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 145.3,
+            "desnivel": 1606,
+            "velocidadMedia": 43.438
+        },
+        {
+            "etapa": 4,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 136.2,
+            "desnivel": 575,
+            "velocidadMedia": 45.442
+        },
+        {
+            "etapa": 5,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "distancia": 129.3,
+            "desnivel": 1437,
+            "velocidadMedia": 45.004
+        },
+        {
+            "etapa": 6,
+            "nombre": "Williams Stephen",
+            "pais": "Reino Unido",
+            "distancia": 128.2,
+            "desnivel": 2344,
+            "velocidadMedia": 41.481
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2024,
+    "distancia": 3293.3,
+    "desnivel": 59934,
+    "tiempo": "81h 49' 18\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 135,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 4 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 5 min 49 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gaudu David",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 6 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 7 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 8 min 48 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sivakov Pavel",
+            "pais": "Francia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 10 min 4 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 11 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Groves Kaden",
+        "pais": "Australia",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorMontana": {
+        "nombre": "Vine Jay",
+        "pais": "Australia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorJovenes": {
+        "nombre": "Skjelmose Mattias",
+        "pais": "Dinamarca",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "distancia": 12.0,
+            "desnivel": 55,
+            "velocidadMedia": 57.219
+        },
+        {
+            "etapa": 2,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 194.0,
+            "desnivel": 2678,
+            "velocidadMedia": 37.198
+        },
+        {
+            "etapa": 3,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 191.2,
+            "desnivel": 2620,
+            "velocidadMedia": 40.869
+        },
+        {
+            "etapa": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 170.5,
+            "desnivel": 3519,
+            "velocidadMedia": 38.341
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bittner Pavel",
+            "pais": "República Checa",
+            "distancia": 177.0,
+            "desnivel": 1691,
+            "velocidadMedia": 40.005
+        },
+        {
+            "etapa": 6,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "distancia": 185.5,
+            "desnivel": 3711,
+            "velocidadMedia": 41.499
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 180.5,
+            "desnivel": 1943,
+            "velocidadMedia": 42.363
+        },
+        {
+            "etapa": 8,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 159.0,
+            "desnivel": 2641,
+            "velocidadMedia": 43.648
+        },
+        {
+            "etapa": 9,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "distancia": 178.5,
+            "desnivel": 4486,
+            "velocidadMedia": 37.916
+        },
+        {
+            "etapa": 10,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 160.0,
+            "desnivel": 3074,
+            "velocidadMedia": 41.597
+        },
+        {
+            "etapa": 11,
+            "nombre": "Dunbar Eddie",
+            "pais": "Irlanda",
+            "distancia": 164.2,
+            "desnivel": 2890,
+            "velocidadMedia": 43.813
+        },
+        {
+            "etapa": 12,
+            "nombre": "Castrillo Pablo",
+            "pais": "España",
+            "distancia": 137.5,
+            "desnivel": 3088,
+            "velocidadMedia": 38.159
+        },
+        {
+            "etapa": 13,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "distancia": 176.0,
+            "desnivel": 3708,
+            "velocidadMedia": 40.639
+        },
+        {
+            "etapa": 14,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 200.5,
+            "desnivel": 2876,
+            "velocidadMedia": 45.992
+        },
+        {
+            "etapa": 15,
+            "nombre": "Castrillo Pablo",
+            "pais": "España",
+            "distancia": 143.0,
+            "desnivel": 3804,
+            "velocidadMedia": 37.99
+        },
+        {
+            "etapa": 16,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "distancia": 181.5,
+            "desnivel": 4085,
+            "velocidadMedia": 38.242
+        },
+        {
+            "etapa": 17,
+            "nombre": "Groves Kaden",
+            "pais": "Australia",
+            "distancia": 141.5,
+            "desnivel": 2498,
+            "velocidadMedia": 40.003
+        },
+        {
+            "etapa": 18,
+            "nombre": "Berrade Urko",
+            "pais": "España",
+            "distancia": 179.5,
+            "desnivel": 2699,
+            "velocidadMedia": 44.714
+        },
+        {
+            "etapa": 19,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "distancia": 164.8,
+            "desnivel": 2601,
+            "velocidadMedia": 42.092
+        },
+        {
+            "etapa": 20,
+            "nombre": "Dunbar Eddie",
+            "pais": "Irlanda",
+            "distancia": 172.0,
+            "desnivel": 5077,
+            "velocidadMedia": 37.04
+        },
+        {
+            "etapa": 21,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 24.6,
+            "desnivel": 190,
+            "velocidadMedia": 55.768
+        }
+    ]
+}

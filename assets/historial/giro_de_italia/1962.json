@@ -1,0 +1,262 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1962,
+    "distancia": 4221.0,
+    "desnivel": 0,
+    "tiempo": "123h 07' 03\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 47,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Massignan Imerio",
+            "pais": "Italia",
+            "equipo": "Legnano - Pirelli",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Defilippis Nino",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 5 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Taccone Vito",
+            "pais": "Italia",
+            "equipo": "Atala ",
+            "ventaja": "+ 5 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "Philco",
+            "ventaja": "+ 7 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 7 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Baldini Ercole",
+            "pais": "Italia",
+            "equipo": "Ignis - Moschettieri",
+            "ventaja": "+ 7 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Battistini Graziano",
+            "pais": "Italia",
+            "equipo": "Legnano - Pirelli",
+            "ventaja": "+ 8 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "equipo": "Philco",
+            "ventaja": "+ 14 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Desmet Armand",
+            "pais": "Bélgica",
+            "equipo": "Faema",
+            "ventaja": "+ 15 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Soler Angelino",
+        "pais": "España",
+        "equipo": "Ghigi"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Faema",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Liviero Dino",
+            "pais": "Italia",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.682
+        },
+        {
+            "etapa": 2,
+            "nombre": "Battistini Graziano",
+            "pais": "Italia",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.296
+        },
+        {
+            "etapa": 3,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.439
+        },
+        {
+            "etapa": 4,
+            "nombre": "Bailetti Antonio",
+            "pais": "Italia",
+            "distancia": 248.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.863
+        },
+        {
+            "etapa": 5,
+            "nombre": "Carrara Joseph",
+            "pais": "Francia",
+            "distancia": 258.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.711
+        },
+        {
+            "etapa": 6,
+            "nombre": "Schroeders Willy",
+            "pais": "Bélgica",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.731
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.987
+        },
+        {
+            "etapa": 8,
+            "nombre": "Zilverberg Huub",
+            "pais": "Países Bajos",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.988
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.847
+        },
+        {
+            "etapa": 10,
+            "nombre": "Tonucci Giuseppe",
+            "pais": "Italia",
+            "distancia": 218.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.852
+        },
+        {
+            "etapa": 11,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.279
+        },
+        {
+            "etapa": 12,
+            "nombre": "Mealli Bruno",
+            "pais": "Italia",
+            "distancia": 298.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.087
+        },
+        {
+            "etapa": 13,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.478
+        },
+        {
+            "etapa": 14,
+            "nombre": "Meco Vincenzo",
+            "pais": "Italia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.934
+        },
+        {
+            "etapa": 15,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.81
+        },
+        {
+            "etapa": 16,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.64
+        },
+        {
+            "etapa": 17,
+            "nombre": "Pellegrini Armando",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.221
+        },
+        {
+            "etapa": 18,
+            "nombre": "Soler Angelino",
+            "pais": "España",
+            "distancia": 232.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.2
+        },
+        {
+            "etapa": 19,
+            "nombre": "Sartore Giuseppe",
+            "pais": "Italia",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.379
+        },
+        {
+            "etapa": 20,
+            "nombre": "Assirelli Alberto",
+            "pais": "Italia",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 28.517
+        },
+        {
+            "etapa": 21,
+            "nombre": "Carlesi Guido",
+            "pais": "Italia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.973
+        }
+    ]
+}

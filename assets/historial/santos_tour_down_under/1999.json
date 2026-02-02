@@ -1,0 +1,147 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 1999,
+    "distancia": 642.0,
+    "desnivel": 0,
+    "tiempo": "19h 03' 47\"",
+    "ciclistasInscritos": 104,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Skibby Jesper",
+            "pais": "Dinamarca",
+            "equipo": "Team Home - Jack & Jones",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bäckstedt Magnus",
+            "pais": "Suecia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Smith Duncan",
+            "pais": "Australia",
+            "equipo": "Australia",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Andersen Christian",
+            "pais": "Dinamarca",
+            "equipo": "Team Home - Jack & Jones",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Larsen Nicolaj Bo",
+            "pais": "Dinamarca",
+            "equipo": "Team Home - Jack & Jones",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Riviere Jean-Marc",
+            "pais": "Francia",
+            "equipo": "Sun-Smart World Team",
+            "ventaja": "+ 2 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Casino - AG2R",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mori Massimiliano",
+            "pais": "Italia",
+            "equipo": "Saeco - Cannondale",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Aldag Rolf",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 2 min 18 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Aitken Brett",
+        "pais": "Australia",
+        "equipo": "Palmans - Ideal"
+    },
+    "ganadorMontana": {
+        "nombre": "Andersen Christian",
+        "pais": "Dinamarca",
+        "equipo": "Team Home - Jack & Jones"
+    },
+    "ganadorJovenes": {
+        "nombre": "Evans Cadel",
+        "pais": "Australia",
+        "equipo": "Australia"
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Larsen Nicolaj Bo",
+            "pais": "Dinamarca",
+            "distancia": 42.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.731
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 138.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.599
+        },
+        {
+            "etapa": 3,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "distancia": 149.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.369
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 149.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.476
+        },
+        {
+            "etapa": 5,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.52
+        },
+        {
+            "etapa": 6,
+            "nombre": "Miller Graeme",
+            "pais": "Nueva Zelanda",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.4651
+        }
+    ]
+}

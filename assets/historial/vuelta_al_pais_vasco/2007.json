@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2007,
+    "distancia": 848.5,
+    "desnivel": 0,
+    "tiempo": "21h 56' 38\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cobo Juan José",
+            "pais": "España",
+            "equipo": "Saunier Duval",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vicioso Ángel",
+            "pais": "España",
+            "equipo": "Relax - Gam",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 2 min 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 3 min 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Gil Koldo",
+            "pais": "España",
+            "equipo": "Saunier Duval",
+            "ventaja": "+ 3 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cobo Juan José",
+        "pais": "España",
+        "equipo": "Saunier Duval"
+    },
+    "ganadorMontana": {
+        "nombre": "Hernández Aitor",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Saunier Duval",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cobo Juan José",
+            "pais": "España",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.39
+        },
+        {
+            "etapa": 2,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "distancia": 191.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.361
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vicioso Ángel",
+            "pais": "España",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.52
+        },
+        {
+            "etapa": 4,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.79
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cobo Juan José",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.206
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.3048
+        }
+    ]
+}

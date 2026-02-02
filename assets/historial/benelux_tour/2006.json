@@ -1,0 +1,162 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2006,
+    "distancia": 975.4,
+    "desnivel": 0,
+    "tiempo": "27h 20' 55\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 101,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Schumacher Stefan",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Quinziato Manuel",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Flecha Juan Antonio",
+            "pais": "España",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "equipo": "Lampre-Fondital",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wesemann Steffen",
+            "pais": "Suiza",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cadamuro Simone",
+        "pais": "Italia",
+        "equipo": "Team Milram"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Schumacher Stefan",
+        "pais": "Alemania",
+        "equipo": "Gerolsteiner"
+    },
+    "ganadorEquipos": {
+        "nombre": " Liquigas",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Schumacher Stefan",
+            "pais": "Alemania",
+            "distancia": 5.8,
+            "desnivel": 0,
+            "velocidadMedia": 49.714
+        },
+        {
+            "etapa": 1,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 176.9,
+            "desnivel": 0,
+            "velocidadMedia": 41.97
+        },
+        {
+            "etapa": 2,
+            "nombre": "Quinziato Manuel",
+            "pais": "Italia",
+            "distancia": 194.6,
+            "desnivel": 0,
+            "velocidadMedia": 40.72
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.13
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "distancia": 16.1,
+            "desnivel": 0,
+            "velocidadMedia": 48.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 183.1,
+            "desnivel": 0,
+            "velocidadMedia": 47.29
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kopp David",
+            "pais": "Alemania",
+            "distancia": 213.9,
+            "desnivel": 0,
+            "velocidadMedia": 44.15
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.0197
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1961,
+    "distancia": 534.0,
+    "desnivel": 0,
+    "tiempo": "20h 41' 56\"",
+    "ciclistasInscritos": 50,
+    "ciclistasFinalizados": 43,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rostollan Louis",
+            "pais": "Francia",
+            "equipo": "Helyett - Fynsec - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fezzardi Giuseppe",
+            "pais": "Italia",
+            "equipo": "San Pellegrino Sport",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Massignan Imerio",
+            "pais": "Italia",
+            "equipo": "Legnano",
+            "ventaja": "+ 2 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Gazzola - Fiorelli",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Thaler Wilfried",
+            "pais": "Alemania",
+            "equipo": "Mittelholzer",
+            "ventaja": "+ 5 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "equipo": "Cynar - Mittelholzer",
+            "ventaja": "+ 6 min 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "Gazzola - Fiorelli",
+            "ventaja": "+ 6 min 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lach Stéphane",
+            "pais": "Francia",
+            "equipo": "Peugeot - BP - Dunlop",
+            "ventaja": "+ 8 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Battistini Graziano",
+            "pais": "Italia",
+            "equipo": "Legnano",
+            "ventaja": "+ 9 min 26 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Helyett - Fynsec - Hutchinson",
+            "ventaja": "+ 9 min 42 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Binggeli René",
+        "pais": "Suiza",
+        "equipo": "Blanchard Pochat Alpal"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Helyett - Fynsec - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.168
+        },
+        {
+            "etapa": 1,
+            "nombre": "Delberghe Edouard",
+            "pais": "Francia",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.355
+        },
+        {
+            "etapa": 2,
+            "nombre": "Delberghe Edouard",
+            "pais": "Francia",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.095
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rostollan Louis",
+            "pais": "Francia",
+            "distancia": 206.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.176
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lutz Erwin",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

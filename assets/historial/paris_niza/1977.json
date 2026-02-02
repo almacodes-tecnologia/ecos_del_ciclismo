@@ -1,0 +1,183 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1977,
+    "distancia": 1211.5,
+    "desnivel": 0,
+    "tiempo": "31h 38' 31\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 82,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Flandria Velda",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vandenbroucke Jean-Luc",
+            "pais": "Bélgica",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bruyère Joseph",
+            "pais": "Bélgica",
+            "equipo": "Fiat France",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Gitane - Campagnolo",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Miko - Mercier - Hutchinson",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Thurau Dietrich",
+            "pais": "Alemania",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Raas Jan",
+            "pais": "Países Bajos",
+            "equipo": "Frisol - Gazelle - Thirion",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Salm Roland",
+            "pais": "Suiza",
+            "equipo": "Jelmoli - Hugo Koblet rad",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Verbeeck Frans",
+            "pais": "Bélgica",
+            "equipo": "Ijsboerke - Colnago",
+            "ventaja": "+ 3 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 6.5,
+            "desnivel": 0,
+            "velocidadMedia": 49.58
+        },
+        {
+            "etapa": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.54
+        },
+        {
+            "etapa": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 71.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.71
+        },
+        {
+            "etapa": 3,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.42
+        },
+        {
+            "etapa": 4,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.77
+        },
+        {
+            "etapa": 5,
+            "nombre": "Schuiten Roy",
+            "pais": "Países Bajos",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.27
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 87.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.89
+        },
+        {
+            "etapa": 6,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.15
+        },
+        {
+            "etapa": 6,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "distancia": 7.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.66
+        },
+        {
+            "etapa": 7,
+            "nombre": "Sercu Patrick",
+            "pais": "Bélgica",
+            "distancia": 106.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.06
+        },
+        {
+            "etapa": 7,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.5573
+        }
+    ]
+}

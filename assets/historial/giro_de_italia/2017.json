@@ -1,0 +1,270 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2017,
+    "distancia": 3582.8,
+    "desnivel": 53958,
+    "tiempo": "90h 34' 54\"",
+    "ciclistasInscritos": 197,
+    "ciclistasFinalizados": 161,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 3 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 7 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "ORICA-Scott",
+            "ventaja": "+ 8 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Formolo Davide",
+            "pais": "Italia",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 15 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Gaviria Fernando",
+        "pais": "Colombia",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorMontana": {
+        "nombre": "Landa Mikel",
+        "pais": "España",
+        "equipo": "Team Sky"
+    },
+    "ganadorJovenes": {
+        "nombre": "Jungels Bob",
+        "pais": "Luxemburgo",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Pöstlberger Lukas",
+            "pais": "Austria",
+            "distancia": 206.0,
+            "desnivel": 2176,
+            "velocidadMedia": 39.42
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 221.0,
+            "desnivel": 3518,
+            "velocidadMedia": 36.3
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 148.0,
+            "desnivel": 1441,
+            "velocidadMedia": 42.99
+        },
+        {
+            "etapa": 4,
+            "nombre": "Polanc Jan",
+            "pais": "Eslovenia",
+            "distancia": 181.0,
+            "desnivel": 4170,
+            "velocidadMedia": 36.69
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 159.0,
+            "desnivel": 1780,
+            "velocidadMedia": 43.33
+        },
+        {
+            "etapa": 6,
+            "nombre": "Dillier Silvan",
+            "pais": "Suiza",
+            "distancia": 217.0,
+            "desnivel": 2247,
+            "velocidadMedia": 43.69
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 224.0,
+            "desnivel": 1340,
+            "velocidadMedia": 40.08
+        },
+        {
+            "etapa": 8,
+            "nombre": "Izagirre Gorka",
+            "pais": "España",
+            "distancia": 189.0,
+            "desnivel": 2127,
+            "velocidadMedia": 42.8
+        },
+        {
+            "etapa": 9,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 152.0,
+            "desnivel": 2921,
+            "velocidadMedia": 40.56
+        },
+        {
+            "etapa": 10,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 39.8,
+            "desnivel": 505,
+            "velocidadMedia": 47.18
+        },
+        {
+            "etapa": 11,
+            "nombre": "Fraile Omar",
+            "pais": "España",
+            "distancia": 161.0,
+            "desnivel": 3912,
+            "velocidadMedia": 36.7
+        },
+        {
+            "etapa": 12,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 229.0,
+            "desnivel": 2407,
+            "velocidadMedia": 43.08
+        },
+        {
+            "etapa": 13,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 167.0,
+            "desnivel": 399,
+            "velocidadMedia": 44.0
+        },
+        {
+            "etapa": 14,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "distancia": 131.0,
+            "desnivel": 1106,
+            "velocidadMedia": 43.05
+        },
+        {
+            "etapa": 15,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "distancia": 199.0,
+            "desnivel": 2255,
+            "velocidadMedia": 46.49
+        },
+        {
+            "etapa": 16,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "distancia": 222.0,
+            "desnivel": 5845,
+            "velocidadMedia": 34.65
+        },
+        {
+            "etapa": 17,
+            "nombre": "Rolland Pierre",
+            "pais": "Francia",
+            "distancia": 219.0,
+            "desnivel": 4576,
+            "velocidadMedia": 38.32
+        },
+        {
+            "etapa": 18,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "distancia": 137.0,
+            "desnivel": 3961,
+            "velocidadMedia": 35.12
+        },
+        {
+            "etapa": 19,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 191.0,
+            "desnivel": 3551,
+            "velocidadMedia": 39.11
+        },
+        {
+            "etapa": 20,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 190.0,
+            "desnivel": 3721,
+            "velocidadMedia": 38.26
+        },
+        {
+            "etapa": 21,
+            "nombre": "van Emden Jos",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.875
+        }
+    ]
+}

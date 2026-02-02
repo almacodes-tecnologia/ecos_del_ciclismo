@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2024,
+    "distancia": 1150.2,
+    "desnivel": 16272,
+    "tiempo": "27h 50' 23\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 103,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Plapp Luke",
+            "pais": "Australia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 3 min 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bernal Egan",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 4 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 4 min 35 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 5 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Evenepoel Remco",
+        "pais": "Bélgica",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorJovenes": {
+        "nombre": "Jorgenson Matteo",
+        "pais": "Estados Unidos",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 157.7,
+            "desnivel": 1671,
+            "velocidadMedia": 43.711
+        },
+        {
+            "etapa": 2,
+            "nombre": "de Kleijn Arvid",
+            "pais": "Países Bajos",
+            "distancia": 177.6,
+            "desnivel": 1070,
+            "velocidadMedia": 37.917
+        },
+        {
+            "etapa": 3,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 26.9,
+            "desnivel": 412,
+            "velocidadMedia": 51.429
+        },
+        {
+            "etapa": 4,
+            "nombre": "Buitrago Santiago",
+            "pais": "Colombia",
+            "distancia": 183.0,
+            "desnivel": 3341,
+            "velocidadMedia": 41.299
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 193.5,
+            "desnivel": 2274,
+            "velocidadMedia": 44.022
+        },
+        {
+            "etapa": 6,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "distancia": 198.2,
+            "desnivel": 2866,
+            "velocidadMedia": 42.955
+        },
+        {
+            "etapa": 7,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "distancia": 104.0,
+            "desnivel": 2342,
+            "velocidadMedia": 38.037
+        },
+        {
+            "etapa": 8,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 109.3,
+            "desnivel": 2296,
+            "velocidadMedia": 38.565
+        }
+    ]
+}

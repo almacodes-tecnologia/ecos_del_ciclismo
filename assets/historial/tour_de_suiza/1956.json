@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1956,
+    "distancia": 1451.0,
+    "desnivel": 0,
+    "tiempo": "47h 05' 02\"",
+    "ciclistasInscritos": 54,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Schär Fritz",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 4 min 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Planckaert Joseph",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 7 min 46 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hollenstein Hans",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 10 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 12 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rossello Vincenzo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 17 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Strehler René",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 19 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Nascimbene Pietro",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 20 min 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Robinson Brian",
+            "pais": "Reino Unido",
+            "equipo": "",
+            "ventaja": "+ 23 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Massocco Ugo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 24 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Schär Fritz",
+        "pais": "Suiza",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Planckaert Joseph",
+        "pais": "Bélgica",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 264.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 261.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 218.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 242.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 64.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.6212
+        }
+    ]
+}

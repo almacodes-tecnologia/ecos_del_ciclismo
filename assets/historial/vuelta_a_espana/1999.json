@@ -1,0 +1,274 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1999,
+    "distancia": 3373.9,
+    "desnivel": 40849,
+    "tiempo": "89h 52' 03\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 4 min 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Heras Roberto",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 5 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tonkov Pavel",
+            "pais": "Rusia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 7 min 53 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 9 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 10 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 11 min 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "Banesto",
+            "ventaja": "+ 13 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Parra Iván Ramiro",
+            "pais": "Colombia",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 16 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Blanco Santiago",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 18 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vandenbroucke Frank",
+        "pais": "Bélgica",
+        "equipo": "Cofidis"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez José María",
+        "pais": "España",
+        "equipo": "Banesto"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "distancia": 6.0,
+            "desnivel": 63,
+            "velocidadMedia": 51.67
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hunter Robert",
+            "pais": "Sudáfrica",
+            "distancia": 179.0,
+            "desnivel": 908,
+            "velocidadMedia": 38.61
+        },
+        {
+            "etapa": 2,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 206.0,
+            "desnivel": 1735,
+            "velocidadMedia": 43.2
+        },
+        {
+            "etapa": 3,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 222.8,
+            "desnivel": 755,
+            "velocidadMedia": 36.84
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 185.0,
+            "desnivel": 1607,
+            "velocidadMedia": 42.41
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 160.0,
+            "desnivel": 2728,
+            "velocidadMedia": 41.21
+        },
+        {
+            "etapa": 6,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "distancia": 46.4,
+            "desnivel": 193,
+            "velocidadMedia": 52.0
+        },
+        {
+            "etapa": 7,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 217.0,
+            "desnivel": 564,
+            "velocidadMedia": 46.57
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jiménez José María",
+            "pais": "España",
+            "distancia": 175.6,
+            "desnivel": 4200,
+            "velocidadMedia": 36.07
+        },
+        {
+            "etapa": 9,
+            "nombre": "Brochard Laurent",
+            "pais": "Francia",
+            "distancia": 185.8,
+            "desnivel": 2076,
+            "velocidadMedia": 40.83
+        },
+        {
+            "etapa": 10,
+            "nombre": "Ushakov Serhiy",
+            "pais": "Ucrania",
+            "distancia": 183.2,
+            "desnivel": 584,
+            "velocidadMedia": 41.64
+        },
+        {
+            "etapa": 11,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "distancia": 201.0,
+            "desnivel": 3245,
+            "velocidadMedia": 39.98
+        },
+        {
+            "etapa": 12,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "distancia": 147.0,
+            "desnivel": 4730,
+            "velocidadMedia": 34.1
+        },
+        {
+            "etapa": 13,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 149.0,
+            "desnivel": 3001,
+            "velocidadMedia": 38.11
+        },
+        {
+            "etapa": 14,
+            "nombre": "Roscioli Fabio",
+            "pais": "Italia",
+            "distancia": 94.4,
+            "desnivel": 1786,
+            "velocidadMedia": 36.62
+        },
+        {
+            "etapa": 15,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "distancia": 193.4,
+            "desnivel": 931,
+            "velocidadMedia": 42.7
+        },
+        {
+            "etapa": 16,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "distancia": 200.4,
+            "desnivel": 2692,
+            "velocidadMedia": 37.49
+        },
+        {
+            "etapa": 17,
+            "nombre": "Moreni Cristian",
+            "pais": "Italia",
+            "distancia": 225.0,
+            "desnivel": 2309,
+            "velocidadMedia": 40.51
+        },
+        {
+            "etapa": 18,
+            "nombre": "Laiseka Roberto",
+            "pais": "España",
+            "distancia": 166.3,
+            "desnivel": 2976,
+            "velocidadMedia": 38.58
+        },
+        {
+            "etapa": 19,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "distancia": 184.6,
+            "desnivel": 2795,
+            "velocidadMedia": 37.64
+        },
+        {
+            "etapa": 20,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 46.0,
+            "desnivel": 971,
+            "velocidadMedia": 42.49
+        },
+        {
+            "etapa": 21,
+            "nombre": "Blijlevens Jeroen",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.3625
+        }
+    ]
+}

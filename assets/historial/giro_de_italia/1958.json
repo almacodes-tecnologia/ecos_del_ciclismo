@@ -1,0 +1,255 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1958,
+    "distancia": 3164.0,
+    "desnivel": 0,
+    "tiempo": "92h 09' 30\"",
+    "ciclistasInscritos": 120,
+    "ciclistasFinalizados": 77,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Baldini Ercole",
+            "pais": "Italia",
+            "equipo": "Legnano",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Brankart Jean",
+            "pais": "Bélgica",
+            "equipo": "Saint-Raphaël - R. Geminiani - Dunlop ",
+            "ventaja": "+ 4 min 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Faema - Guerra - Clément",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bobet Louison",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 9 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nencini Gastone",
+            "pais": "Italia",
+            "equipo": "Chlorodont - Leo",
+            "ventaja": "+ 10 min 36 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Poblet Miguel",
+            "pais": "España",
+            "equipo": "Ignis - Peña Solera - Doniselli",
+            "ventaja": "+ 11 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Loroño Jesús",
+            "pais": "España",
+            "equipo": "Faema - Guerra - Clément",
+            "ventaja": "+ 12 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Géminiani Raphaël",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - R. Geminiani - Dunlop ",
+            "ventaja": "+ 13 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Ignis - Peña Solera - Doniselli",
+            "ventaja": "+ 14 min 13 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Moser Aldo",
+            "pais": "Italia",
+            "equipo": "Calì Broni - Girardengo - Libertas",
+            "ventaja": "+ 15 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Poblet Miguel",
+        "pais": "España",
+        "equipo": "Ignis - Peña Solera - Doniselli"
+    },
+    "ganadorMontana": {
+        "nombre": "Brankart Jean",
+        "pais": "Bélgica",
+        "equipo": "Saint-Raphaël - R. Geminiani - Dunlop "
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 26.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.914
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.098
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 132.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.942
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.922
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 258.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.62
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 115.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.965
+        },
+        {
+            "etapa": 8,
+            "nombre": null,
+            "pais": null,
+            "distancia": 59.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.934
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.124
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.843
+        },
+        {
+            "etapa": 11,
+            "nombre": null,
+            "pais": null,
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.687
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 211.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.785
+        },
+        {
+            "etapa": 13,
+            "nombre": null,
+            "pais": null,
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.122
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.231
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.982
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.184
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.6
+        },
+        {
+            "etapa": 18,
+            "nombre": null,
+            "pais": null,
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.312
+        },
+        {
+            "etapa": 19,
+            "nombre": null,
+            "pais": null,
+            "distancia": 176.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.06
+        },
+        {
+            "etapa": 20,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.274
+        }
+    ]
+}

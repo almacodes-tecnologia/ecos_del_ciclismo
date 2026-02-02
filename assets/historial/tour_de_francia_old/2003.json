@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2003,
+  "distancia": 3426,
+  "desnivel": 0,
+  "tiempo": "83h 42' 13\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 147,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Sin Ganador",
+      "pais": "",
+      "equipo": "",
+      "ventaja": ""
+    },
+    {
+      "puesto": 2,
+      "nombre": "Jan Ullrich",
+      "pais": "Alemania",
+      "equipo": "Team Bianchi",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Aleksandr Vinokurov",
+      "pais": "Kazajistán",
+      "equipo": "Team Telekom",
+      "ventaja": "+3 min 13 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Tyler Hamilton",
+      "pais": "Estados Unidos",
+      "equipo": "Team CSC",
+      "ventaja": "+5 min 16 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Haimar Zubeldia",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+5 min 50 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Iban Mayo",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+6 min 05 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Ivan Basso",
+      "pais": "Italia",
+      "equipo": "Fassa Bortolo",
+      "ventaja": "+9 min 11 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Christophe Moreau",
+      "pais": "Francia",
+      "equipo": "Crédit Agricole",
+      "ventaja": "+11 min 27 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Carlos Sastre",
+      "pais": "España",
+      "equipo": "Team CSC",
+      "ventaja": "+17 min 48 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Francisco Mancebo",
+      "pais": "España",
+      "equipo": "iBanesto.com",
+      "ventaja": "+18 min 14 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Baden Cooke",
+    "pais": "Australia",
+    "equipo": "FDJeux.com"
+  },
+  "ganadorMontana": {
+    "nombre": "Richard Virenque",
+    "pais": "Francia",
+    "equipo": "Quick Step-Davitamon"
+  },
+  "ganadorJovenes": {
+    "nombre": "Denís Menshov",
+    "pais": "Rusia",
+    "equipo": "iBanesto.com"
+  },
+  "ganadorEquipos": {
+    "nombre": "CSC",
+    "pais": "Dinamarca"
+  },
+  "etapas": [
+    {
+      "etapa": 0,
+      "nombre": "Bradley McGee",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 1,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Baden Cooke",
+      "pais": "Australia"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "US Postal p/b Berry Floor",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Richard Virenque",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Iban Mayo",
+      "pais": "España"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Aleksandr Vinokurov",
+      "pais": "Kazajistán"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Jakob Piil",
+      "pais": "Dinamarca"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Juan Antonio Flecha",
+      "pais": "España"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Jan Ullrich",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Carlos Sastre",
+      "pais": "España"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Gilberto Simoni",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Lance Armstrong",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Tyler Hamilton",
+      "pais": "Estados Unidos"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Servais Knaven",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Pablo Lastras",
+      "pais": "España"
+    },
+    {
+      "etapa": 19,
+      "nombre": "David Millar",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Jean-Patrick Nazon",
+      "pais": "Francia"
+    }
+  ]
+}

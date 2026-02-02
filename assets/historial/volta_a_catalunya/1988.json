@@ -1,0 +1,151 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1988,
+    "distancia": 861.0,
+    "desnivel": 0,
+    "tiempo": "25h 29' 14\"",
+    "ciclistasInscritos": 131,
+    "ciclistasFinalizados": 111,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cubino Laudelino",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Caja Rural - Orbea",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "BH",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Lancker Eric",
+            "pais": "Bélgica",
+            "equipo": "Panasonic - Isostar",
+            "ventaja": "+ 2 min 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Aja Enrique Alberto",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "Fagor - MBK",
+            "ventaja": "+ 3 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rota Luca",
+            "pais": "Italia",
+            "equipo": "Del Tongo",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Corredor Edgar",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 3 min 29 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Hermans Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 156.8,
+            "desnivel": 0,
+            "velocidadMedia": 40.409
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gutiérrez Alfonso",
+            "pais": "España",
+            "distancia": 191.8,
+            "desnivel": 0,
+            "velocidadMedia": 39.008
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 16.8,
+            "desnivel": 0,
+            "velocidadMedia": 17.085
+        },
+        {
+            "etapa": 3,
+            "nombre": "Lang Czesław",
+            "pais": "Polonia",
+            "distancia": 111.6,
+            "desnivel": 0,
+            "velocidadMedia": 44.252
+        },
+        {
+            "etapa": 4,
+            "nombre": "Iglesias Miguel Ángel",
+            "pais": "España",
+            "distancia": 175.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.021
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gonzalez Arsenio",
+            "pais": "España",
+            "distancia": 178.8,
+            "desnivel": 0,
+            "velocidadMedia": 34.409
+        },
+        {
+            "etapa": 6,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 29.7,
+            "desnivel": 0,
+            "velocidadMedia": 43.481
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hanegraaf Jacques",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 54.3942
+        }
+    ]
+}

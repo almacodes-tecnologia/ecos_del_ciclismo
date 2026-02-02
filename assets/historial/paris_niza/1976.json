@@ -1,0 +1,167 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1976,
+    "distancia": 1206.0,
+    "desnivel": 0,
+    "tiempo": "31h 42' 20\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 76,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Laurent Michel",
+            "pais": "Francia",
+            "equipo": "Miko - Superia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kuiper Hennie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Velda - West-Vlaams Vleesbedrijf",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Martínez Enrique",
+            "pais": "España",
+            "equipo": "Kas - Campagnolo",
+            "ventaja": "+ 2 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vallet Bernard",
+            "pais": "Francia",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Wesemael Wilfried",
+            "pais": "Bélgica",
+            "equipo": "Miko - Superia",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "Gan - Mercier - Hutchinson",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Uribezubia José Luis",
+            "pais": "España",
+            "equipo": "Super Ser",
+            "ventaja": "+ 3 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Knetemann Gerrie",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh",
+            "ventaja": "+ 3 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 6.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.703
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 228.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.444
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.19
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.632
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 188.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.784
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 188.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.058
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 96.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.992
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 97.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.68
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 78.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.023
+        },
+        {
+            "etapa": 7,
+            "nombre": null,
+            "pais": null,
+            "distancia": 9.5,
+            "desnivel": 0,
+            "velocidadMedia": 27.338
+        }
+    ]
+}

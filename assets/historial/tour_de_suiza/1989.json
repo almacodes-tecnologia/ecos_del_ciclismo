@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1989,
+    "distancia": 1846.0,
+    "desnivel": 0,
+    "tiempo": "46h 57' 19\"",
+    "ciclistasInscritos": 149,
+    "ciclistasFinalizados": 104,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "equipo": "Domex - Weinmann - Eddy Merckx",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Steiger Daniel",
+            "pais": "Suiza",
+            "equipo": "Frank - Toyo - Magniflex",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "equipo": "PDM ",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bauer Steve",
+            "pais": "Canadá",
+            "equipo": "Helvetia - La Suisse",
+            "ventaja": "+ 4 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "equipo": "Frank - Toyo - Magniflex",
+            "ventaja": "+ 5 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Joho Stephan",
+            "pais": "Suiza",
+            "equipo": "Ariostea",
+            "ventaja": "+ 6 min 52 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Wyder Daniel",
+            "pais": "Suiza",
+            "equipo": "Eurocar - Mosoca - Galli ",
+            "ventaja": "+ 10 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kappes Andreas",
+            "pais": "Alemania",
+            "equipo": "Toshiba",
+            "ventaja": "+ 13 min 48 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "equipo": "S.E.F.B",
+            "ventaja": "+ 13 min 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Reynolds - Banesto",
+            "ventaja": "+ 14 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Joho Stephan",
+        "pais": "Suiza",
+        "equipo": "Ariostea"
+    },
+    "ganadorMontana": {
+        "nombre": "Breu Beat",
+        "pais": "Suiza",
+        "equipo": "Domex - Weinmann - Eddy Merckx"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Frank - Toyo - Magniflex",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Vanderaerden Eric",
+            "pais": "Bélgica",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.687
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "distancia": 197.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.34
+        },
+        {
+            "etapa": 3,
+            "nombre": "Wilson Michael",
+            "pais": "Australia",
+            "distancia": 199.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.587
+        },
+        {
+            "etapa": 4,
+            "nombre": "Küttel Arno",
+            "pais": "Suiza",
+            "distancia": 166.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.34
+        },
+        {
+            "etapa": 5,
+            "nombre": "Stumpf Remig",
+            "pais": "Alemania",
+            "distancia": 78.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.13
+        },
+        {
+            "etapa": 5,
+            "nombre": "Breu Beat",
+            "pais": "Suiza",
+            "distancia": 7.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.396
+        },
+        {
+            "etapa": 6,
+            "nombre": "Steinmann Kurt",
+            "pais": "Suiza",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.52
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kappes Andreas",
+            "pais": "Alemania",
+            "distancia": 208.5,
+            "desnivel": 0,
+            "velocidadMedia": 44.849
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kappes Andreas",
+            "pais": "Alemania",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.564
+        },
+        {
+            "etapa": 9,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "distancia": 277.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.354
+        },
+        {
+            "etapa": 10,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 160.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.964
+        }
+    ]
+}

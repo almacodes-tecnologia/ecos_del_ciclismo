@@ -1,0 +1,271 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1970,
+    "distancia": 3531.0,
+    "desnivel": 0,
+    "tiempo": "89h 57' 12\"",
+    "ciclistasInscritos": 109,
+    "ciclistasFinalizados": 59,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tamames Agustín",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Manzaneque Jesús",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "In 't Ven Willy",
+            "pais": "Bélgica",
+            "equipo": "Mann - Grundig",
+            "ventaja": "+ 2 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Galdós Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 3 min 7 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lasa Miguel María",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Galera Joaquín",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Santamarina Luis Pedro",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 3 min 50 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Santisteban Juan Manuel",
+            "pais": "España",
+            "equipo": "Karpy - Licor",
+            "ventaja": "+ 4 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Reybrouck Guido",
+        "pais": "Bélgica",
+        "equipo": "Germanvox - Wega"
+    },
+    "ganadorMontana": {
+        "nombre": "Tamames Agustín",
+        "pais": "España",
+        "equipo": "Werner"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.78
+        },
+        {
+            "etapa": 1,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.35
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cuevas Julián",
+            "pais": "España",
+            "distancia": 217.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.39
+        },
+        {
+            "etapa": 3,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.71
+        },
+        {
+            "etapa": 4,
+            "nombre": "Ronsmans Jean",
+            "pais": "Bélgica",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.681
+        },
+        {
+            "etapa": 5,
+            "nombre": "Santamarina Luis Pedro",
+            "pais": "España",
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.71
+        },
+        {
+            "etapa": 6,
+            "nombre": "Peelman Eddy",
+            "pais": "Bélgica",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.99
+        },
+        {
+            "etapa": 7,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.24
+        },
+        {
+            "etapa": 8,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 48.0,
+            "desnivel": 0,
+            "velocidadMedia": 53.87
+        },
+        {
+            "etapa": 9,
+            "nombre": null,
+            "pais": null,
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.2
+        },
+        {
+            "etapa": 10,
+            "nombre": "Novak Anatole",
+            "pais": "Francia",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.1
+        },
+        {
+            "etapa": 11,
+            "nombre": "Wagtmans Rini",
+            "pais": "Países Bajos",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.964
+        },
+        {
+            "etapa": 12,
+            "nombre": "Schleck Johny",
+            "pais": "Luxemburgo",
+            "distancia": 204.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.87
+        },
+        {
+            "etapa": 13,
+            "nombre": "Wagtmans Rini",
+            "pais": "Países Bajos",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.63
+        },
+        {
+            "etapa": 14,
+            "nombre": "Serpenti Jan",
+            "pais": "Países Bajos",
+            "distancia": 238.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.43
+        },
+        {
+            "etapa": 15,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 134.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.668
+        },
+        {
+            "etapa": 16,
+            "nombre": "Rosiers Roger",
+            "pais": "Bélgica",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.61
+        },
+        {
+            "etapa": 17,
+            "nombre": null,
+            "pais": null,
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.28
+        },
+        {
+            "etapa": 18,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.135
+        },
+        {
+            "etapa": 19,
+            "nombre": "van der Vleuten Jos",
+            "pais": "Países Bajos",
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.328
+        },
+        {
+            "etapa": 19,
+            "nombre": "Ocaña Luis",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.5935
+        }
+    ]
+}

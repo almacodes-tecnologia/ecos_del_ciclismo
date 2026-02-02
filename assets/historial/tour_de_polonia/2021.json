@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2021,
+    "distancia": 1140.3,
+    "desnivel": 11850,
+    "tiempo": "26h 15' 56\"",
+    "ciclistasInscritos": 151,
+    "ciclistasFinalizados": 140,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Honoré Mikkel Frølich",
+            "pais": "Dinamarca",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hindley Jai",
+            "pais": "Australia",
+            "equipo": "Team DSM",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Tulett Ben",
+            "pais": "Reino Unido",
+            "equipo": "Alpecin - Fenix",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Eenkhoorn Pascal",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 30 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Almeida João",
+        "pais": "Portugal",
+        "equipo": "Deceuninck - Quick Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Owsian Łukasz",
+        "pais": "Polonia",
+        "equipo": "Poland"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Deceuninck - Quick Step",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bauhaus Phil",
+            "pais": "Alemania",
+            "distancia": 216.4,
+            "desnivel": 1522,
+            "velocidadMedia": 43.079
+        },
+        {
+            "etapa": 2,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 200.8,
+            "desnivel": 1591,
+            "velocidadMedia": 42.792
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 226.4,
+            "desnivel": 2625,
+            "velocidadMedia": 42.683
+        },
+        {
+            "etapa": 4,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 159.9,
+            "desnivel": 2567,
+            "velocidadMedia": 41.437
+        },
+        {
+            "etapa": 5,
+            "nombre": "Arndt Nikias",
+            "pais": "Alemania",
+            "distancia": 172.8,
+            "desnivel": 2530,
+            "velocidadMedia": 42.784
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cavagna Rémi",
+            "pais": "Francia",
+            "distancia": 19.1,
+            "desnivel": 126,
+            "velocidadMedia": 51.66
+        },
+        {
+            "etapa": 7,
+            "nombre": "van den Berg Julius",
+            "pais": "Países Bajos",
+            "distancia": 144.9,
+            "desnivel": 889,
+            "velocidadMedia": 48.63
+        }
+    ]
+}

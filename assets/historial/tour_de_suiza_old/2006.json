@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2006,
+    "distancia": 1372.6,
+    "desnivel": 0,
+    "tiempo": "38h 21' 36\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": null,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Gil Koldo",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "Würth Team",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vicioso Ángel",
+            "pais": "España",
+            "equipo": "Würth Team",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 2 min 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gerdemann Linus",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 3 min 31 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Caruso Giampaolo",
+            "pais": "Italia",
+            "equipo": "Würth Team",
+            "ventaja": "+ 4 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Caisse d'Epargne - Illes Balears",
+            "ventaja": "+ 4 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 5 min 1 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bennati Daniele",
+        "pais": "Italia",
+        "equipo": "Lampre-Fondital"
+    },
+    "ganadorMontana": {
+        "nombre": "Albasini Michael",
+        "pais": "Suiza",
+        "equipo": "Liquigas"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 154.8,
+            "desnivel": 0,
+            "velocidadMedia": 39.96
+        },
+        {
+            "etapa": 2,
+            "nombre": "Contrini Daniele",
+            "pais": "Italia",
+            "distancia": 155.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.37
+        },
+        {
+            "etapa": 3,
+            "nombre": "Nuyens Nick",
+            "pais": "Bélgica",
+            "distancia": 189.5,
+            "desnivel": 0,
+            "velocidadMedia": 34.67
+        },
+        {
+            "etapa": 5,
+            "nombre": "Morabito Steve",
+            "pais": "Suiza",
+            "distancia": 229.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.766
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gil Koldo",
+            "pais": "España",
+            "distancia": 212.2,
+            "desnivel": 0,
+            "velocidadMedia": 36.39
+        },
+        {
+            "etapa": 7,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 233.7,
+            "desnivel": 0,
+            "velocidadMedia": 41.39
+        },
+        {
+            "etapa": 8,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 166.3,
+            "desnivel": 0,
+            "velocidadMedia": 38.52
+        },
+        {
+            "etapa": 9,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 30.7,
+            "desnivel": 0,
+            "velocidadMedia": 46.45
+        }
+    ]
+}

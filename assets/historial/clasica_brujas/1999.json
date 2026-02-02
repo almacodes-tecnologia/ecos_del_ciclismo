@@ -1,0 +1,127 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 1999,
+    "distancia": 541.0,
+    "desnivel": 0,
+    "tiempo": "10h 04' 17\"",
+    "ciclistasInscritos": 186,
+    "ciclistasFinalizados": 156,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Petegem Peter",
+            "pais": "Bélgica",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "equipo": "Cofidis",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zanette Denis",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sørensen Rolf",
+            "pais": "Dinamarca",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Knaven Servais",
+            "pais": "Países Bajos",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Magnien Emmanuel",
+            "pais": "Francia",
+            "equipo": "La Française des Jeux",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "den Bakker Maarten",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Grabsch Ralf",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Larsen Nicolaj Bo",
+            "pais": "Dinamarca",
+            "equipo": "Team Home - Jack & Jones",
+            "ventaja": "+ 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Conte Biagio",
+        "pais": "Italia",
+        "equipo": "Liquigas-Pata"
+    },
+    "ganadorMontana": {
+        "nombre": "Gaumont Philippe",
+        "pais": "Francia",
+        "equipo": "Cofidis"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.64
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 240.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.93
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 14.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.95
+        }
+    ]
+}

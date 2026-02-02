@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2002,
+    "distancia": 740.0,
+    "desnivel": 0,
+    "tiempo": "18h 04' 53\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 75,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Osa Aitor",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bayarri Gonzalo",
+            "pais": "España",
+            "equipo": "Jazztel - Costa de Almeria",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Aerts Mario",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 3 min 55 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 4 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 4 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 4 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Etxebarria David",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorMontana": {
+        "nombre": "Casero Rafael",
+        "pais": "España",
+        "equipo": "Jazztel - Costa de Almeria"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mapei - Quickstep",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zberg Beat",
+            "pais": "Suiza",
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.16
+        },
+        {
+            "etapa": 2,
+            "nombre": "García Calvo César",
+            "pais": "España",
+            "distancia": 183.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.82
+        },
+        {
+            "etapa": 3,
+            "nombre": "Osa Aitor",
+            "pais": "España",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.93
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pellizotti Franco",
+            "pais": "Italia",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "distancia": 94.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.07
+        },
+        {
+            "etapa": 5,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.7673
+        }
+    ]
+}

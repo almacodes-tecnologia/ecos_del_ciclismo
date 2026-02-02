@@ -1,0 +1,186 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 1986,
+    "distancia": 1021.3,
+    "desnivel": 0,
+    "tiempo": "30h 07' 03\"",
+    "ciclistasInscritos": 92,
+    "ciclistasFinalizados": 83,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "equipo": "Kas",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pino Álvaro",
+            "pais": "España",
+            "equipo": "Zor - BH",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Fuerte Anselmo",
+            "pais": "España",
+            "equipo": "Zor - BH",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lejarreta Marino",
+            "pais": "España",
+            "equipo": "Seat - Orbea ",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "Malvor - Bottecchia",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "PDM - Concorde",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hernández Carlos",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "+ 3 min 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Recio José",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 3 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "equipo": "Seat - Orbea ",
+            "ventaja": "+ 5 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kelly Sean",
+        "pais": "Irlanda",
+        "equipo": "Kas"
+    },
+    "ganadorMontana": {
+        "nombre": "Fernández Juan",
+        "pais": "España",
+        "equipo": "Zor - BH"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "distancia": 5.3,
+            "desnivel": 0,
+            "velocidadMedia": 48.06
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.701
+        },
+        {
+            "etapa": 2,
+            "nombre": "Arras Wim",
+            "pais": "Bélgica",
+            "distancia": 94.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Marie Thierry",
+            "pais": "Francia",
+            "distancia": 60.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Hoste Frank",
+            "pais": "Bélgica",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.805
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fernández Juan",
+            "pais": "España",
+            "distancia": 171.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.526
+        },
+        {
+            "etapa": 5,
+            "nombre": "Arnaud Dominique",
+            "pais": "Francia",
+            "distancia": 87.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ruíz Cabestany Pello",
+            "pais": "España",
+            "distancia": 99.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Echave Federico",
+            "pais": "España",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.209
+        },
+        {
+            "etapa": 7,
+            "nombre": "Kelly Sean",
+            "pais": "Irlanda",
+            "distancia": 29.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.117
+        },
+        {
+            "etapa": 8,
+            "nombre": "Wellens Léo",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.3006
+        }
+    ]
+}

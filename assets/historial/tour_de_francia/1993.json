@@ -1,0 +1,270 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1993,
+    "distancia": 3516.8,
+    "desnivel": 49436,
+    "tiempo": "95h 57' 09\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 136,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "equipo": "CLAS - Cajastur",
+            "ventaja": "+ 4 min 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "equipo": "GB-MG Maglificio",
+            "ventaja": "+ 5 min 48 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mejia Alvaro",
+            "pais": "Colombia",
+            "equipo": "Motorola",
+            "ventaja": "+ 7 min 29 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "equipo": "Ariostea",
+            "ventaja": "+ 16 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 17 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 18 min 4 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hampsten Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Motorola",
+            "ventaja": "+ 20 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Delgado Pedro",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 23 min 57 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pulnikov Vladimir",
+            "pais": "Ucrania",
+            "equipo": "Carrera Jeans - Tassoni",
+            "ventaja": "+ 25 min 29 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Abduzhaparov Djamolidine",
+        "pais": "Uzbekistán",
+        "equipo": "Lampre-Polti"
+    },
+    "ganadorMontana": {
+        "nombre": "Rominger Tony",
+        "pais": "Suiza",
+        "equipo": "CLAS - Cajastur"
+    },
+    "ganadorJovenes": {
+        "nombre": "Martín Antonio",
+        "pais": "España",
+        "equipo": "Amaya - Seguros"
+    },
+    "ganadorEquipos": {
+        "nombre": " Carrera Jeans - Tassoni",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 6.8,
+            "desnivel": 110,
+            "velocidadMedia": 49.76
+        },
+        {
+            "etapa": 1,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 215.0,
+            "desnivel": 1859,
+            "velocidadMedia": 44.11
+        },
+        {
+            "etapa": 2,
+            "nombre": "Nelissen Wilfried",
+            "pais": "Bélgica",
+            "distancia": 227.5,
+            "desnivel": 1349,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 3,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 189.5,
+            "desnivel": 2317,
+            "velocidadMedia": 40.34
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 81.0,
+            "desnivel": 772,
+            "velocidadMedia": 51.611
+        },
+        {
+            "etapa": 5,
+            "nombre": "Skibby Jesper",
+            "pais": "Dinamarca",
+            "distancia": 225.5,
+            "desnivel": 2350,
+            "velocidadMedia": 43.37
+        },
+        {
+            "etapa": 6,
+            "nombre": "Bruyneel Johan",
+            "pais": "Bélgica",
+            "distancia": 158.0,
+            "desnivel": 1533,
+            "velocidadMedia": 49.42
+        },
+        {
+            "etapa": 7,
+            "nombre": "Riis Bjarne",
+            "pais": "Dinamarca",
+            "distancia": 199.0,
+            "desnivel": 2203,
+            "velocidadMedia": 44.52
+        },
+        {
+            "etapa": 8,
+            "nombre": "Armstrong Lance",
+            "pais": "Estados Unidos",
+            "distancia": 184.5,
+            "desnivel": 1843,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 9,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 59.0,
+            "desnivel": 649,
+            "velocidadMedia": 48.6
+        },
+        {
+            "etapa": 10,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "distancia": 203.0,
+            "desnivel": 5500,
+            "velocidadMedia": 37.04
+        },
+        {
+            "etapa": 11,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "distancia": 179.0,
+            "desnivel": 5339,
+            "velocidadMedia": 31.491
+        },
+        {
+            "etapa": 12,
+            "nombre": "Roscioli Fabio",
+            "pais": "Italia",
+            "distancia": 286.0,
+            "desnivel": 3500,
+            "velocidadMedia": 38.16
+        },
+        {
+            "etapa": 13,
+            "nombre": "Ludwig Olaf",
+            "pais": "Alemania",
+            "distancia": 181.5,
+            "desnivel": 1289,
+            "velocidadMedia": 43.02
+        },
+        {
+            "etapa": 14,
+            "nombre": "Lino Pascal",
+            "pais": "Francia",
+            "distancia": 223.0,
+            "desnivel": 1500,
+            "velocidadMedia": 40.69
+        },
+        {
+            "etapa": 15,
+            "nombre": "Rincón Oliverio",
+            "pais": "Colombia",
+            "distancia": 231.5,
+            "desnivel": 6000,
+            "velocidadMedia": 31.55
+        },
+        {
+            "etapa": 16,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "distancia": 230.0,
+            "desnivel": 5500,
+            "velocidadMedia": 31.29
+        },
+        {
+            "etapa": 17,
+            "nombre": "Chiappucci Claudio",
+            "pais": "Italia",
+            "distancia": 189.5,
+            "desnivel": 4000,
+            "velocidadMedia": 37.31
+        },
+        {
+            "etapa": 18,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 199.5,
+            "desnivel": 1215,
+            "velocidadMedia": 38.73
+        },
+        {
+            "etapa": 19,
+            "nombre": "Rominger Tony",
+            "pais": "Suiza",
+            "distancia": 48.0,
+            "desnivel": 608,
+            "velocidadMedia": 50.5
+        },
+        {
+            "etapa": 20,
+            "nombre": "Abduzhaparov Djamolidine",
+            "pais": "Uzbekistán",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.6989
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1959,
+    "distancia": 603.0,
+    "desnivel": 0,
+    "tiempo": "23h 01' 02\"",
+    "ciclistasInscritos": 44,
+    "ciclistasFinalizados": 35,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "equipo": "Condor",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Graf Rolf",
+            "pais": "Suiza",
+            "equipo": "Tigra ",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ruegg Alfred",
+            "pais": "Suiza",
+            "equipo": "Condor",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Conterno Angelo",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Privat René",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ricco Gianantonio",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 5 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bouvet Albert",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 8 min 7 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Coletto Agostino",
+            "pais": "Italia",
+            "equipo": "Carpano",
+            "ventaja": "+ 9 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Grèt Jean-Claude",
+            "pais": "Suiza",
+            "equipo": "Tigra ",
+            "ventaja": "+ 10 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Dupré André",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 10 min 20 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Ferlenghi Gianni",
+        "pais": "Italia",
+        "equipo": "Carpano"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 12.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.582
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.255
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.733
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.387
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.9081
+        }
+    ]
+}

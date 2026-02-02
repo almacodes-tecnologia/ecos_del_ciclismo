@@ -1,0 +1,147 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2005,
+    "distancia": 1063.4,
+    "desnivel": 0,
+    "tiempo": "32h 37' 19\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 152,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Guidi Fabrizio",
+            "pais": "Italia",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hondo Danilo",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Brochard Laurent",
+            "pais": "Francia",
+            "equipo": "Bouygues Telecom",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vicioso Ángel",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Halgand Patrice",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Klier Andreas",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Freire Óscar",
+        "pais": "España",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Carrasco José Luis",
+        "pais": "España",
+        "equipo": "Illes Balears - Caisse d'Epargne"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Ceramica Panaria - Navigare",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.147
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.025
+        },
+        {
+            "etapa": 3,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 228.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.851
+        },
+        {
+            "etapa": 4,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.714
+        },
+        {
+            "etapa": 5,
+            "nombre": "Knaven Servais",
+            "pais": "Países Bajos",
+            "distancia": 170.4,
+            "desnivel": 0,
+            "velocidadMedia": 38.919
+        },
+        {
+            "etapa": 6,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.111
+        },
+        {
+            "etapa": 7,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.6112
+        }
+    ]
+}

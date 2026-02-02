@@ -1,0 +1,147 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2012,
+    "distancia": 826.1,
+    "desnivel": 2602,
+    "tiempo": "24h 51' 13\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 104,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Boom Lars",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Terpstra Niki",
+            "pais": "Países Bajos",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Team Saxo Bank - Tinkoff Bank",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Castroviejo Jonathan",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Tuft Svein",
+            "pais": "Canadá",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "+ 1 min 5 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Langeveld Sebastian",
+            "pais": "Países Bajos",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bakelants Jan",
+            "pais": "Bélgica",
+            "equipo": "RadioShack - Nissan",
+            "ventaja": "+ 1 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Nizzolo Giacomo",
+        "pais": "Italia",
+        "equipo": "RadioShack - Nissan"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 203.9,
+            "desnivel": 220,
+            "velocidadMedia": 36.145
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 18.9,
+            "desnivel": 150,
+            "velocidadMedia": 53.617
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 188.0,
+            "desnivel": 1342,
+            "velocidadMedia": 44.267
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 213.3,
+            "desnivel": 458,
+            "velocidadMedia": 41.061
+        },
+        {
+            "etapa": 5,
+            "nombre": "Nizzolo Giacomo",
+            "pais": "Italia",
+            "distancia": 184.6,
+            "desnivel": 349,
+            "velocidadMedia": 44.25
+        },
+        {
+            "etapa": 6,
+            "nombre": "Tuft Svein",
+            "pais": "Canadá",
+            "distancia": 17.4,
+            "desnivel": 83,
+            "velocidadMedia": 51.135
+        },
+        {
+            "etapa": 7,
+            "nombre": "Ballan Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.8654
+        }
+    ]
+}

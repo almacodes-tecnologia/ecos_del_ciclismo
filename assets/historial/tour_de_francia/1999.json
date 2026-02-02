@@ -1,0 +1,238 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1999,
+    "distancia": 3527.3,
+    "desnivel": 49995,
+    "tiempo": "91h 32' 16\"",
+    "ciclistasInscritos": 180,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "DESIERTO",
+            "pais": "Armstrong Lance, Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "Banesto",
+            "ventaja": "+ 7 min 37 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 10 min 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "Saeco - Cannondale",
+            "ventaja": "+ 14 min 43 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Casero Ángel Luis",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 15 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Olano Abraham",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 16 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Nardello Daniele",
+            "pais": "Italia",
+            "equipo": "Mapei - Quickstep",
+            "ventaja": "+ 17 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Polti",
+            "ventaja": "+ 17 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 17 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Peron Andrea",
+            "pais": "Italia",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 23 min 10 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zabel Erik",
+        "pais": "Alemania",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Virenque Richard",
+        "pais": "Francia",
+        "equipo": "Polti"
+    },
+    "ganadorJovenes": {
+        "nombre": "Salmon Benoît",
+        "pais": "Francia",
+        "equipo": "Casino - AG2R"
+    },
+    "ganadorEquipos": {
+        "nombre": " Banesto",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 208.0,
+            "desnivel": 1829,
+            "velocidadMedia": 42.12
+        },
+        {
+            "etapa": 2,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 176.0,
+            "desnivel": 936,
+            "velocidadMedia": 46.82
+        },
+        {
+            "etapa": 3,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 194.5,
+            "desnivel": 1506,
+            "velocidadMedia": 43.31
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 194.5,
+            "desnivel": 1158,
+            "velocidadMedia": 50.36
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 233.5,
+            "desnivel": 1924,
+            "velocidadMedia": 41.64
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 171.5,
+            "desnivel": 1542,
+            "velocidadMedia": 40.97
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 227.0,
+            "desnivel": 2347,
+            "velocidadMedia": 41.65
+        },
+        {
+            "etapa": 10,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "distancia": 218.0,
+            "desnivel": 5500,
+            "velocidadMedia": 32.496
+        },
+        {
+            "etapa": 11,
+            "nombre": "Dierckxsens Ludo",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 2500,
+            "velocidadMedia": 43.569
+        },
+        {
+            "etapa": 12,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "distancia": 197.0,
+            "desnivel": 4243,
+            "velocidadMedia": 40.227
+        },
+        {
+            "etapa": 13,
+            "nombre": "Commesso Salvatore",
+            "pais": "Italia",
+            "distancia": 237.0,
+            "desnivel": 4000,
+            "velocidadMedia": 40.312
+        },
+        {
+            "etapa": 14,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 189.0,
+            "desnivel": 2514,
+            "velocidadMedia": 40.794
+        },
+        {
+            "etapa": 15,
+            "nombre": "Fernando Escartín",
+            "pais": "España",
+            "distancia": 174.0,
+            "desnivel": 5500,
+            "velocidadMedia": 32.644
+        },
+        {
+            "etapa": 16,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "distancia": 192.0,
+            "desnivel": 4500,
+            "velocidadMedia": 36.327
+        },
+        {
+            "etapa": 17,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 199.0,
+            "desnivel": 1444,
+            "velocidadMedia": 45.49
+        },
+        {
+            "etapa": 18,
+            "nombre": "Mondini Gianpaolo",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 1691,
+            "velocidadMedia": 42.372
+        },
+        {
+            "etapa": 20,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.279
+        }
+    ]
+}

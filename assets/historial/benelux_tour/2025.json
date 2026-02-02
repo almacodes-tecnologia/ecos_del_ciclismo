@@ -1,0 +1,138 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2025,
+    "distancia": 920.3,
+    "desnivel": 5451,
+    "tiempo": "19h 24' 42\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 110,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "De Lie Arnaud",
+            "pais": "Bélgica",
+            "equipo": "Lotto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "equipo": "Alpecin - Deceuninck",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Wright Fred",
+            "pais": "Reino Unido",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bittner Pavel",
+            "pais": "República Checa",
+            "equipo": "Team Picnic PostNL",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "De Bondt Dries",
+            "pais": "Bélgica",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bettiol Alberto",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 1 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Del Grosso Tibor",
+            "pais": "Países Bajos",
+            "equipo": "Alpecin - Deceuninck",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Skujiņš Toms",
+            "pais": "Letonia",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bittner Pavel",
+        "pais": "República Checa",
+        "equipo": "Team Picnic PostNL"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Del Grosso Tibor",
+        "pais": "Países Bajos",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorEquipos": {
+        "nombre": " Alpecin - Deceuninck",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 182.6,
+            "desnivel": 255,
+            "velocidadMedia": 49.781
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kooij Olav",
+            "pais": "Países Bajos",
+            "distancia": 172.7,
+            "desnivel": 463,
+            "velocidadMedia": 48.169
+        },
+        {
+            "etapa": 3,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 181.8,
+            "desnivel": 1626,
+            "velocidadMedia": 47.245
+        },
+        {
+            "etapa": 4,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 198.5,
+            "desnivel": 1535,
+            "velocidadMedia": 45.902
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Lie Arnaud",
+            "pais": "Bélgica",
+            "distancia": 184.7,
+            "desnivel": 1572,
+            "velocidadMedia": 46.246
+        }
+    ]
+}

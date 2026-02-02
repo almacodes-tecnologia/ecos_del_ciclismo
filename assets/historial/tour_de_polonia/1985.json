@@ -1,0 +1,182 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1985,
+    "distancia": 1243.5,
+    "desnivel": 0,
+    "tiempo": "28h 59' 32\"",
+    "ciclistasInscritos": 53,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Leśniewski Marek",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Wrona Zdzisław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zakrzewski Dariusz",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Michalak Lechosław",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 34 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Trawny Jürgen",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jagieła Jerzy",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 2 min 59 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Müller Holger",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 2 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Podwójniak Sławomir",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 3 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Szpakowski Józef",
+            "pais": "Polonia",
+            "equipo": "",
+            "ventaja": "+ 4 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Leśniewski Marek",
+        "pais": "Polonia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "distancia": 3.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.221
+        },
+        {
+            "etapa": 1,
+            "nombre": "Jaskuła Andrzej",
+            "pais": "Polonia",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.953
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leśniewski Marek",
+            "pais": "Polonia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.989
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "distancia": 34.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.172
+        },
+        {
+            "etapa": 4,
+            "nombre": "Haitzman Mirosław",
+            "pais": "Polonia",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.014
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.963
+        },
+        {
+            "etapa": 6,
+            "nombre": "Stopa Wiesław",
+            "pais": "Polonia",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.251
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cordes Tom",
+            "pais": "Países Bajos",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.222
+        },
+        {
+            "etapa": 8,
+            "nombre": "Leśniewski Marek",
+            "pais": "Polonia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.601
+        },
+        {
+            "etapa": 9,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "distancia": 22.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.276
+        },
+        {
+            "etapa": 10,
+            "nombre": "Korycki Mieczysław",
+            "pais": "Polonia",
+            "distancia": 60.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.261
+        }
+    ]
+}

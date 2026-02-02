@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1963,
+    "distancia": 1237.0,
+    "desnivel": 0,
+    "tiempo": "35h 20' 49\"",
+    "ciclistasInscritos": 41,
+    "ciclistasFinalizados": 38,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fezzardi Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 3 min 34 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Moresi Attilio",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 4 min 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 4 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bono Ernesto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 4 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 8 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 11 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Marzaioli Alberto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 11 min 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bugdahl Klaus",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 11 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Colmenarejo José Martín",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 12 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maurer Rolf",
+        "pais": "Suiza",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Maurer Rolf",
+        "pais": "Suiza",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.41
+        },
+        {
+            "etapa": 2,
+            "nombre": "Guernieri Loris",
+            "pais": "Italia",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.73
+        },
+        {
+            "etapa": 3,
+            "nombre": "Colmenarejo José Martín",
+            "pais": "España",
+            "distancia": 131.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.76
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bono Ernesto",
+            "pais": "Italia",
+            "distancia": 71.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.87
+        },
+        {
+            "etapa": 4,
+            "nombre": "Moresi Attilio",
+            "pais": "Suiza",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.78
+        },
+        {
+            "etapa": 5,
+            "nombre": "Gimmi Kurt",
+            "pais": "Suiza",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.64
+        },
+        {
+            "etapa": 6,
+            "nombre": "Eugen Freddy",
+            "pais": "Dinamarca",
+            "distancia": 187.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.04
+        },
+        {
+            "etapa": 7,
+            "nombre": "Bugdahl Klaus",
+            "pais": "Alemania",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.17
+        }
+    ]
+}

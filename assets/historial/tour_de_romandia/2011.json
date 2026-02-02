@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2011,
+    "distancia": 529.9,
+    "desnivel": 7002,
+    "tiempo": "16h 51' 49\"",
+    "ciclistasInscritos": 155,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "HTC - High Road",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Pro Team Astana",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinotti Marco",
+            "pais": "Italia",
+            "equipo": "HTC - High Road",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "RadioShack",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Brutt Pavel",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "equipo": "Team Garmin - Cervélo",
+            "ventaja": "+ 1 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Sørensen Chris Anker",
+        "pais": "Dinamarca",
+        "equipo": "Saxo Bank - Sungard"
+    },
+    "ganadorJovenes": {
+        "nombre": "Talansky Andrew",
+        "pais": "Estados Unidos",
+        "equipo": "Team Garmin - Cervélo"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Garmin - Cervélo",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Castroviejo Jonathan",
+            "pais": "España",
+            "distancia": 3.5,
+            "desnivel": 14,
+            "velocidadMedia": 57.273
+        },
+        {
+            "etapa": 1,
+            "nombre": "Brutt Pavel",
+            "pais": "Rusia",
+            "distancia": 171.5,
+            "desnivel": 2365,
+            "velocidadMedia": 38.441
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "distancia": 168.3,
+            "desnivel": 2648,
+            "velocidadMedia": 40.25
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 166.5,
+            "desnivel": 1569,
+            "velocidadMedia": 43.832
+        },
+        {
+            "etapa": 4,
+            "nombre": "Zabriskie David",
+            "pais": "Estados Unidos",
+            "distancia": 20.1,
+            "desnivel": 406,
+            "velocidadMedia": 43.15
+        },
+        {
+            "etapa": 5,
+            "nombre": "Swift Ben",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.1793
+        }
+    ]
+}

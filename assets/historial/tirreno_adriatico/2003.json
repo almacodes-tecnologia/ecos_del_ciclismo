@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2003,
+    "distancia": 1080.0,
+    "desnivel": 0,
+    "tiempo": "29h 45' 22\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pozzato Filippo",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "equipo": "Saeco",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Marzoli Ruggero",
+            "pais": "Italia",
+            "equipo": "Alessio",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "equipo": "Quickstep - Davitamon",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "equipo": "Quickstep - Davitamon",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "equipo": "Alessio",
+            "ventaja": "+ 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bettini Paolo",
+        "pais": "Italia",
+        "equipo": "Quickstep - Davitamon"
+    },
+    "ganadorMontana": {
+        "nombre": "Aggiano Elio",
+        "pais": "Italia",
+        "equipo": "Formaggi Pinzolo Fiavè - Ciarrocchi Immobiliare"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Alessio",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.959
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pozzato Filippo",
+            "pais": "Italia",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.07
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cipollini Mario",
+            "pais": "Italia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.03
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Marzoli Ruggero",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.094
+        },
+        {
+            "etapa": 6,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.83
+        },
+        {
+            "etapa": 7,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.7311
+        }
+    ]
+}

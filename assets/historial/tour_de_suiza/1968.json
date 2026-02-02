@@ -1,0 +1,186 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1968,
+    "distancia": 1375.9,
+    "desnivel": 0,
+    "tiempo": "37h 01' 10\"",
+    "ciclistasInscritos": 59,
+    "ciclistasFinalizados": 51,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pfenninger Louis",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 4 min 28 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 11 min 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Houbrechts Antoon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 11 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 12 min 56 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 13 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 14 min 37 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kunde Karl-Heinz",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 14 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Ryckeghem Daniel",
+        "pais": "Bélgica",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Harrison Derek",
+        "pais": "Reino Unido",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Van Springel Herman",
+            "pais": "Bélgica",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.03
+        },
+        {
+            "etapa": 2,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 152.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.61
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 84.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.68
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ottenbros Harm",
+            "pais": "Países Bajos",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.78
+        },
+        {
+            "etapa": 4,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.18
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.95
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "distancia": 127.5,
+            "desnivel": 0,
+            "velocidadMedia": 33.38
+        },
+        {
+            "etapa": 7,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.719
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "distancia": 22.4,
+            "desnivel": 0,
+            "velocidadMedia": 23.113
+        },
+        {
+            "etapa": 9,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 75.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.04
+        },
+        {
+            "etapa": 9,
+            "nombre": "Hagmann Robert",
+            "pais": "Suiza",
+            "distancia": 42.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.9
+        }
+    ]
+}

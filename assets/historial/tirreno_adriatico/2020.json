@@ -1,0 +1,166 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2020,
+    "distancia": 1299.0,
+    "desnivel": 17478,
+    "tiempo": "32h 07' 34\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 152,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Masnada Fausto",
+            "pais": "Italia",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Knox James",
+            "pais": "Reino Unido",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "EF Pro Cycling",
+            "ventaja": "+ 2 min 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brambilla Gianluca",
+            "pais": "Italia",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 3 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 3 min 10 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ackermann Pascal",
+        "pais": "Alemania",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Carretero Héctor",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Vlasov Aleksandr",
+        "pais": "Rusia",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sunweb",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 133.0,
+            "desnivel": 948,
+            "velocidadMedia": 44.85
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ackermann Pascal",
+            "pais": "Alemania",
+            "distancia": 201.0,
+            "desnivel": 1492,
+            "velocidadMedia": 39.95
+        },
+        {
+            "etapa": 3,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "distancia": 217.0,
+            "desnivel": 3108,
+            "velocidadMedia": 40.72
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hamilton Lucas",
+            "pais": "Australia",
+            "distancia": 194.0,
+            "desnivel": 3285,
+            "velocidadMedia": 40.65
+        },
+        {
+            "etapa": 5,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 202.0,
+            "desnivel": 4429,
+            "velocidadMedia": 36.65
+        },
+        {
+            "etapa": 6,
+            "nombre": "Merlier Tim",
+            "pais": "Bélgica",
+            "distancia": 171.0,
+            "desnivel": 1480,
+            "velocidadMedia": 42.84
+        },
+        {
+            "etapa": 7,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 181.0,
+            "desnivel": 2736,
+            "velocidadMedia": 41.87
+        },
+        {
+            "etapa": 8,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.7453
+        }
+    ]
+}

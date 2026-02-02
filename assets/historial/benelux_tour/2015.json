@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2015,
+    "distancia": 926.9,
+    "desnivel": 6476,
+    "tiempo": "26h 31' 59\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Felline Fabio",
+            "pais": "Italia",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Grivko Andrey",
+            "pais": "Ucrania",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Benoot Tiesj",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Juul-Jensen Christopher",
+            "pais": "Dinamarca",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 2 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Greipel André",
+        "pais": "Alemania",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Lotto Soudal",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 183.5,
+            "desnivel": 161,
+            "velocidadMedia": 44.7
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 180.0,
+            "desnivel": 312,
+            "velocidadMedia": 42.71
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 171.9,
+            "desnivel": 334,
+            "velocidadMedia": 44.0
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Emden Jos",
+            "pais": "Países Bajos",
+            "distancia": 13.9,
+            "desnivel": 60,
+            "velocidadMedia": 50.34
+        },
+        {
+            "etapa": 5,
+            "nombre": "Le Bon Johan",
+            "pais": "Francia",
+            "distancia": 179.6,
+            "desnivel": 2089,
+            "velocidadMedia": 42.45
+        },
+        {
+            "etapa": 6,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 198.0,
+            "desnivel": 3520,
+            "velocidadMedia": 36.14
+        },
+        {
+            "etapa": 7,
+            "nombre": "Quinziato Manuel",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.2295
+        }
+    ]
+}

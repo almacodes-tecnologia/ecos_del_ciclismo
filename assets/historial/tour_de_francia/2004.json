@@ -1,0 +1,238 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2004,
+    "distancia": 3228.1,
+    "desnivel": 51864,
+    "tiempo": "83h 36' 02\"",
+    "ciclistasInscritos": 188,
+    "ciclistasFinalizados": 147,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "DESIERTO",
+            "pais": "Armstrong Lance, Estados Unidos",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 6 min 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Team CSC",
+            "ventaja": "+ 6 min 40 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 8 min 50 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 14 min 30 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Illes Balears - Banesto",
+            "ventaja": "+ 18 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Totschnig Georg",
+            "pais": "Austria",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 18 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "Team CSC",
+            "ventaja": "+ 19 min 51 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 20 min 12 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 22 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "McEwen Robbie",
+        "pais": "Australia",
+        "equipo": "Lotto - Domo"
+    },
+    "ganadorMontana": {
+        "nombre": "Virenque Richard",
+        "pais": "Francia",
+        "equipo": "Quickstep - Davitamon"
+    },
+    "ganadorJovenes": {
+        "nombre": "Karpets Vladimir",
+        "pais": "Rusia",
+        "equipo": "Illes Balears - Banesto"
+    },
+    "ganadorEquipos": {
+        "nombre": " T-Mobile Team",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 6.1,
+            "desnivel": 177,
+            "velocidadMedia": 53.561
+        },
+        {
+            "etapa": 1,
+            "nombre": "Jaan Kirsipuu",
+            "pais": "Estonia",
+            "distancia": 202.5,
+            "desnivel": 2864,
+            "velocidadMedia": 43.318
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 197.0,
+            "desnivel": 1852,
+            "velocidadMedia": 45.699
+        },
+        {
+            "etapa": 3,
+            "nombre": "Nazon Jean-Patrick",
+            "pais": "Francia",
+            "distancia": 210.0,
+            "desnivel": 1615,
+            "velocidadMedia": 45.528
+        },
+        {
+            "etapa": 4,
+            "nombre": "US Postal",
+            "pais": "Estados Unidos",
+            "distancia": 64.5,
+            "desnivel": 653,
+            "velocidadMedia": 53.713
+        },
+        {
+            "etapa": 5,
+            "nombre": "Stuart O'Grady",
+            "pais": "Australia",
+            "distancia": 200.5,
+            "desnivel": 2026,
+            "velocidadMedia": 39.318
+        },
+        {
+            "etapa": 6,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 196.0,
+            "desnivel": 1398,
+            "velocidadMedia": 42.969
+        },
+        {
+            "etapa": 7,
+            "nombre": "Pozzato Filippo",
+            "pais": "Italia",
+            "distancia": 204.5,
+            "desnivel": 2306,
+            "velocidadMedia": 45.182
+        },
+        {
+            "etapa": 8,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 168.0,
+            "desnivel": 2306,
+            "velocidadMedia": 43.01
+        },
+        {
+            "etapa": 9,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 160.5,
+            "desnivel": 2000,
+            "velocidadMedia": 45.229
+        },
+        {
+            "etapa": 10,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 237.0,
+            "desnivel": 4500,
+            "velocidadMedia": 39.456
+        },
+        {
+            "etapa": 11,
+            "nombre": "Moncoutié David",
+            "pais": "Francia",
+            "distancia": 164.0,
+            "desnivel": 3248,
+            "velocidadMedia": 41.878
+        },
+        {
+            "etapa": 12,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "distancia": 197.5,
+            "desnivel": 3867,
+            "velocidadMedia": 38.98
+        },
+        {
+            "etapa": 14,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "distancia": 192.5,
+            "desnivel": 1808,
+            "velocidadMedia": 44.68
+        },
+        {
+            "etapa": 18,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "distancia": 166.5,
+            "desnivel": 2500,
+            "velocidadMedia": 40.934
+        },
+        {
+            "etapa": 19,
+            "nombre": "Armstrong Lance",
+            "pais": "Estados Unidos",
+            "distancia": 55.0,
+            "desnivel": 1042,
+            "velocidadMedia": 49.389
+        },
+        {
+            "etapa": 20,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5534
+        }
+    ]
+}

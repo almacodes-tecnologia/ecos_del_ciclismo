@@ -1,0 +1,162 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2001,
+    "distancia": 1000.8,
+    "desnivel": 0,
+    "tiempo": "26h 40' 14\"",
+    "ciclistasInscritos": 131,
+    "ciclistasFinalizados": 60,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Beloki Joseba",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "González de Galdeano Igor",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Escartín Fernando",
+            "pais": "España",
+            "equipo": "Team Coast",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sevilla Óscar",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 3 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Jiménez Eladio",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bruseghin Marzio",
+            "pais": "Italia",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 3 min 57 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Osa Unai",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 5 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Flecha Juan Antonio",
+            "pais": "España",
+            "equipo": "Colchon Relax - Fuenlabrada",
+            "ventaja": "+ 5 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Beloki Joseba",
+        "pais": "España",
+        "equipo": "O.N.C.E. - Eroski"
+    },
+    "ganadorMontana": {
+        "nombre": "Cárdenas Félix Rafael",
+        "pais": "Colombia",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " iBanesto.com",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 24.4,
+            "desnivel": 0,
+            "velocidadMedia": 58.06
+        },
+        {
+            "etapa": 2,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.3
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vainšteins Romāns",
+            "pais": "Letonia",
+            "distancia": 148.6,
+            "desnivel": 0,
+            "velocidadMedia": 40.51
+        },
+        {
+            "etapa": 4,
+            "nombre": "Beloki Joseba",
+            "pais": "España",
+            "distancia": 115.8,
+            "desnivel": 0,
+            "velocidadMedia": 42.05
+        },
+        {
+            "etapa": 5,
+            "nombre": "Laguna Oscar",
+            "pais": "España",
+            "distancia": 178.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.43
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gotti Ivan",
+            "pais": "Italia",
+            "distancia": 184.2,
+            "desnivel": 0,
+            "velocidadMedia": 36.98
+        },
+        {
+            "etapa": 7,
+            "nombre": "De Paoli Daniele",
+            "pais": "Italia",
+            "distancia": 176.1,
+            "desnivel": 0,
+            "velocidadMedia": 35.47
+        },
+        {
+            "etapa": 8,
+            "nombre": "Beloki Joseba",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.0157
+        }
+    ]
+}

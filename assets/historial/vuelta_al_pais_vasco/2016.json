@@ -1,0 +1,146 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2016,
+    "distancia": 835.7,
+    "desnivel": 16004,
+    "tiempo": "22h 44' 43\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 97,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Henao Sergio",
+            "pais": "Colombia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 2 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Craddock Lawson",
+            "pais": "Estados Unidos",
+            "equipo": "Cannondale Pro Cycling Team",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 3 min 14 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Henao Sergio",
+        "pais": "Colombia",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "Rosa Diego",
+        "pais": "Italia",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 144.0,
+            "desnivel": 3271,
+            "velocidadMedia": 36.87
+        },
+        {
+            "etapa": 2,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "distancia": 174.2,
+            "desnivel": 3291,
+            "velocidadMedia": 36.9
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "distancia": 193.5,
+            "desnivel": 2839,
+            "velocidadMedia": 38.45
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "distancia": 165.0,
+            "desnivel": 3017,
+            "velocidadMedia": 39.1
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 159.0,
+            "desnivel": 3586,
+            "velocidadMedia": 36.79
+        },
+        {
+            "etapa": 6,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.4671
+        }
+    ]
+}

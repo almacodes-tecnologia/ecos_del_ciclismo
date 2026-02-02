@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2005,
+    "distancia": 815.5,
+    "desnivel": 0,
+    "tiempo": "22h 32' 13\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Julich Bobby",
+            "pais": "Estados Unidos",
+            "equipo": "CSC ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Zaballa Constantino",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jaksche Jörg",
+            "pais": "Alemania",
+            "equipo": "Liberty Seguros - Würth Team",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pellizotti Franco",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Schleck Fränk",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 1 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Voigt Jens",
+        "pais": "Alemania",
+        "equipo": "CSC ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Moncoutié David",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit par Téléphone"
+    },
+    "ganadorJovenes": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Illes Balears - Caisse d'Epargne"
+    },
+    "ganadorEquipos": {
+        "nombre": " CSC ProTeam",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Voigt Jens",
+            "pais": "Alemania",
+            "distancia": 4.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.714
+        },
+        {
+            "etapa": 1,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 186.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.163
+        },
+        {
+            "etapa": 2,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 46.5,
+            "desnivel": 0,
+            "velocidadMedia": 52.133
+        },
+        {
+            "etapa": 3,
+            "nombre": "Reynés Vicente",
+            "pais": "España",
+            "distancia": 117.5,
+            "desnivel": 0,
+            "velocidadMedia": 44.016
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 104.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.242
+        },
+        {
+            "etapa": 5,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 172.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.827
+        },
+        {
+            "etapa": 6,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "distancia": 184.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.232
+        },
+        {
+            "etapa": 7,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.1752
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2000,
+  "distancia": 3662,
+  "desnivel": 0,
+  "tiempo": "92h 39' 10\"",
+  "ciclistasInscritos": 177,
+  "ciclistasFinalizados": 127,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Sin Ganador",
+      "pais": "",
+      "equipo": "",
+      "ventaja": ""
+    },
+    {
+      "puesto": 2,
+      "nombre": "Jan Ullrich",
+      "pais": "Alemania",
+      "equipo": "Team Telekom",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Joseba Beloki",
+      "pais": "España",
+      "equipo": "Festina",
+      "ventaja": "+4 min 02 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Christophe Moreau",
+      "pais": "Francia",
+      "equipo": "Festina",
+      "ventaja": "+4 min 32 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Roberto Heras",
+      "pais": "España",
+      "equipo": "Kelme-Costa Blanca",
+      "ventaja": "+5 min 48 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Richard Virenque",
+      "pais": "Francia",
+      "equipo": "Polti",
+      "ventaja": "+7 min 24 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Santiago Botero",
+      "pais": "Colombia",
+      "equipo": "Kelme-Costa Blanca",
+      "ventaja": "+8 min 16 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Fernando Escartín",
+      "pais": "España",
+      "equipo": "Kelme-Costa Blanca",
+      "ventaja": "+11 min 19 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Francisco Mancebo",
+      "pais": "España",
+      "equipo": "Banesto",
+      "ventaja": "+12 min 07 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Daniele Nardello",
+      "pais": "Italia",
+      "equipo": "Mapei-Quick Step",
+      "ventaja": "+12 min 23 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Erik Zabel",
+    "pais": "Alemania",
+    "equipo": "Team Telekom"
+  },
+  "ganadorMontana": {
+    "nombre": "Santiago Botero",
+    "pais": "Colombia",
+    "equipo": "Kelme-Costa Blanca"
+  },
+  "ganadorJovenes": {
+    "nombre": "Paco Mancebo",
+    "pais": "España",
+    "equipo": "Banesto"
+  },
+  "ganadorEquipos": {
+    "nombre": "Kelme-Costa Blanca",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 0,
+      "nombre": "David Millar",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 1,
+      "nombre": "Tom Steels",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Tom Steels",
+      "pais": "Bélgica"
+    },
+    {
+      "etapa": 3,
+      "nombre": "ONCE-Deutsche Bank",
+      "pais": "España"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Marcel Wüst",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Léon van Bon",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Christophe Agnolutto",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Erik Dekker",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Paolo Bettini",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Javier Otxoa",
+      "pais": "España"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Erik Dekker",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Marco Pantani",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 12,
+      "nombre": "José Vicente García Acosta",
+      "pais": "España"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Santiago Botero",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Marco Pantani",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Richard Virenque",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Erik Dekker",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Salvatore Commesso",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Sin Ganador",
+      "pais": ""
+    },
+    {
+      "etapa": 19,
+      "nombre": "Erik Zabel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Stefano Zanini",
+      "pais": "Italia"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1963,
+    "distancia": 2355.0,
+    "desnivel": 0,
+    "tiempo": "64h 46' 20\"",
+    "ciclistasInscritos": 88,
+    "ciclistasFinalizados": 65,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Gitane - R. Geminiani",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Colmenarejo José Martín",
+            "pais": "España",
+            "equipo": "Faema - Flandria",
+            "ventaja": "+ 3 min 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pacheco Miguel",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Maliepaard Bas",
+            "pais": "Países Bajos",
+            "equipo": "Saint-Raphaël - Gitane - R. Geminiani",
+            "ventaja": "+ 5 min 6 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 7 min 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Suárez Antonio",
+            "pais": "España",
+            "equipo": "Faema - Flandria",
+            "ventaja": "+ 8 min 13 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 8 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gómez Antonio",
+            "pais": "España",
+            "equipo": "Faema - Flandria",
+            "ventaja": "+ 9 min 10 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Stablinski Jean",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Gitane - R. Geminiani",
+            "ventaja": "+ 9 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Tongerloo Guillaume",
+            "pais": "Bélgica",
+            "equipo": "G.B.C. - Libertas",
+            "ventaja": "+ 10 min 48 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maliepaard Bas",
+        "pais": "Países Bajos",
+        "equipo": "Saint-Raphaël - Gitane - R. Geminiani"
+    },
+    "ganadorMontana": {
+        "nombre": "Jiménez Julio",
+        "pais": "España",
+        "equipo": "Faema - Flandria"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Barrutia Antonio",
+            "pais": "España",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.3
+        },
+        {
+            "etapa": 1,
+            "nombre": "Anquetil Jacques",
+            "pais": "Francia",
+            "distancia": 52.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.72
+        },
+        {
+            "etapa": 2,
+            "nombre": "Segu José",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.35
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 249.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.04
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.86
+        },
+        {
+            "etapa": 5,
+            "nombre": "Maliepaard Bas",
+            "pais": "Países Bajos",
+            "distancia": 191.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.28
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.36
+        },
+        {
+            "etapa": 7,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "distancia": 138.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.6
+        },
+        {
+            "etapa": 8,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.93
+        },
+        {
+            "etapa": 9,
+            "nombre": "Baens Roger",
+            "pais": "Bélgica",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.7
+        },
+        {
+            "etapa": 10,
+            "nombre": null,
+            "pais": null,
+            "distancia": 144.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.56
+        },
+        {
+            "etapa": 11,
+            "nombre": "Lauwers Jan",
+            "pais": "Bélgica",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.21
+        },
+        {
+            "etapa": 12,
+            "nombre": "Aerenhouts Frans",
+            "pais": "Bélgica",
+            "distancia": 80.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.08
+        },
+        {
+            "etapa": 12,
+            "nombre": "Pacheco Miguel",
+            "pais": "España",
+            "distancia": 52.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.93
+        },
+        {
+            "etapa": 13,
+            "nombre": "Elliott Seamus",
+            "pais": "Irlanda",
+            "distancia": 252.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.88
+        },
+        {
+            "etapa": 14,
+            "nombre": "Baens Roger",
+            "pais": "Bélgica",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.63
+        },
+        {
+            "etapa": 15,
+            "nombre": "Ignolin Guy",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.8858
+        }
+    ]
+}

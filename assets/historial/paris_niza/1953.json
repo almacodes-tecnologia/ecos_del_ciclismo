@@ -1,0 +1,127 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 1953,
+    "distancia": 829.0,
+    "desnivel": 0,
+    "tiempo": "32h 28' 33\"",
+    "ciclistasInscritos": 51,
+    "ciclistasFinalizados": 44,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Munch Jean-Pierre",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Walkowiak Roger",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Bertaz Roger",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 3 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Blomme Maurice",
+            "pais": "Bélgica",
+            "equipo": "Bertin - D'Alessandro",
+            "ventaja": "+ 4 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Guitard Marcel",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 6 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Anzile Ugo",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 6 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Bobet Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 6 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 7 min 0 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Decock Roger",
+            "pais": "Bélgica",
+            "equipo": "Bertin - D'Alessandro",
+            "ventaja": "+ 7 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Huber Marcel",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 10 min 7 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bertaz Roger",
+            "pais": "Francia",
+            "distancia": 291.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.001
+        },
+        {
+            "etapa": 2,
+            "nombre": "Platel Albert",
+            "pais": "Francia",
+            "distancia": 218.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.19
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ollivier Valère",
+            "pais": "Bélgica",
+            "distancia": 256.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.757
+        },
+        {
+            "etapa": 3,
+            "nombre": "Munch Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 64.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.561
+        },
+        {
+            "etapa": 4,
+            "nombre": "Munch Jean-Pierre",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.3112
+        }
+    ]
+}

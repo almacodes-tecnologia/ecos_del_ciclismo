@@ -1,0 +1,130 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 1955,
+    "distancia": 815.0,
+    "desnivel": 0,
+    "tiempo": "22h 35' 03\"",
+    "ciclistasInscritos": 44,
+    "ciclistasFinalizados": 39,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Strehler René",
+            "pais": "Suiza",
+            "equipo": "Allegro",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "equipo": "Cilo",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Schellenberg Max",
+            "pais": "Suiza",
+            "equipo": "Condor",
+            "ventaja": "+ 3 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Monti Bruno",
+            "pais": "Italia",
+            "equipo": "Atala - Pirelli",
+            "ventaja": "+ 3 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Clerici Carlo",
+            "pais": "Suiza",
+            "equipo": "Condor",
+            "ventaja": "+ 4 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gaul Charly",
+            "pais": "Luxemburgo",
+            "equipo": "Terrot - Hutchinson",
+            "ventaja": "+ 4 min 45 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fornara Pasquale",
+            "pais": "Italia",
+            "equipo": "Leo - Chlorodont",
+            "ventaja": "+ 4 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Forestier Jean",
+            "pais": "Francia",
+            "equipo": "Follis - Dunlop",
+            "ventaja": "+ 5 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Serena Walter",
+            "pais": "Italia",
+            "equipo": "Leo - Chlorodont",
+            "ventaja": "+ 6 min 11 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fernandez Marcel",
+            "pais": "Francia",
+            "equipo": "Follis - Dunlop",
+            "ventaja": "+ 6 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Terrot - Hutchinson",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Strehler René",
+            "pais": "Suiza",
+            "distancia": 222.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.141
+        },
+        {
+            "etapa": 2,
+            "nombre": "Monti Bruno",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.142
+        },
+        {
+            "etapa": 3,
+            "nombre": "Strehler René",
+            "pais": "Suiza",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.609
+        },
+        {
+            "etapa": 3,
+            "nombre": "Koblet Hugo",
+            "pais": "Suiza",
+            "distancia": 53.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.761
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.573
+        }
+    ]
+}

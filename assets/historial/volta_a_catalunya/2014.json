@@ -1,0 +1,150 @@
+{
+    "idCarrera": "volta-a-catalunya",
+    "anio": 2014,
+    "distancia": 1052.3,
+    "desnivel": 15525,
+    "tiempo": "29h 41' 34\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 101,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 4 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "equipo": "Team Giant - Shimano",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kišerlovski Robert",
+            "pais": "Croacia",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 48 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Clement Stef",
+        "pais": "Países Bajos",
+        "equipo": "Belkin-Pro Cycling Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Garmin Sharp",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Mezgec Luka",
+            "pais": "Eslovenia",
+            "distancia": 165.7,
+            "desnivel": 1917,
+            "velocidadMedia": 39.89
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mezgec Luka",
+            "pais": "Eslovenia",
+            "distancia": 171.2,
+            "desnivel": 1583,
+            "velocidadMedia": 43.19
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 162.9,
+            "desnivel": 3545,
+            "velocidadMedia": 33.6
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "distancia": 166.4,
+            "desnivel": 3748,
+            "velocidadMedia": 34.49
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mezgec Luka",
+            "pais": "Eslovenia",
+            "distancia": 222.2,
+            "desnivel": 2863,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 6,
+            "nombre": "Clement Stef",
+            "pais": "Países Bajos",
+            "distancia": 163.9,
+            "desnivel": 1869,
+            "velocidadMedia": 41.19
+        },
+        {
+            "etapa": 7,
+            "nombre": "Westra Lieuwe",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5046
+        }
+    ]
+}

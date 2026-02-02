@@ -1,0 +1,175 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1998,
+    "distancia": 1490.7,
+    "desnivel": 0,
+    "tiempo": "37h 06' 26\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zberg Beat",
+            "pais": "Suiza",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Belli Wladimir",
+            "pais": "Italia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 1 min 51 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Piepoli Leonardo",
+            "pais": "Italia",
+            "equipo": "Saeco Macchine da Caffe' - Cannondale",
+            "ventaja": "+ 2 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Meier Roland",
+            "pais": "Suiza",
+            "equipo": "Cofidis",
+            "ventaja": "+ 3 min 25 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Shefer Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Asics - CGA",
+            "ventaja": "+ 3 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Polti",
+            "ventaja": "+ 3 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Luttenberger Peter",
+            "pais": "Austria",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 4 min 4 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 4 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Garzelli Stefano",
+        "pais": "Italia",
+        "equipo": "Mercatone Uno"
+    },
+    "ganadorMontana": {
+        "nombre": "De Paoli Daniele",
+        "pais": "Italia",
+        "equipo": "Ros Mary - Amica Chips"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 5.6,
+            "desnivel": 0,
+            "velocidadMedia": 51.04
+        },
+        {
+            "etapa": 1,
+            "nombre": "Davide Rebellin",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.75
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.76
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.64
+        },
+        {
+            "etapa": 4,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.61
+        },
+        {
+            "etapa": 5,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "distancia": 156.1,
+            "desnivel": 0,
+            "velocidadMedia": 35.06
+        },
+        {
+            "etapa": 6,
+            "nombre": "Duma Vladimir",
+            "pais": "Ucrania",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.94
+        },
+        {
+            "etapa": 7,
+            "nombre": "Aebersold Niki",
+            "pais": "Suiza",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.69
+        },
+        {
+            "etapa": 8,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "distancia": 30.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.0
+        },
+        {
+            "etapa": 9,
+            "nombre": "Aebersold Niki",
+            "pais": "Suiza",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.76
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2003,
+    "distancia": 1293.8,
+    "desnivel": 0,
+    "tiempo": "36h 38' 58\"",
+    "ciclistasInscritos": 135,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Guerini Giuseppe",
+            "pais": "Italia",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 1 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Valjavec Tadej",
+            "pais": "Eslovenia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Moos Alexandre",
+            "pais": "Suiza",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Bianchi",
+            "ventaja": "+ 2 min 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Montgomery Sven",
+            "pais": "Suiza",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 2 min 29 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sosenka Ondřej",
+            "pais": "República Checa",
+            "equipo": "CCC - Polsat ",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Brożyna Tomasz",
+            "pais": "Polonia",
+            "equipo": "CCC - Polsat ",
+            "ventaja": "+ 6 min 17 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vinokourov Alexandre",
+        "pais": "Kazajistán",
+        "equipo": "Team Telekom"
+    },
+    "ganadorMontana": {
+        "nombre": "Simeoni Filippo",
+        "pais": "Italia",
+        "equipo": "Domina Vacanze - Elitron"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Fassa Bortolo",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 6.5,
+            "desnivel": 0,
+            "velocidadMedia": 44.49
+        },
+        {
+            "etapa": 1,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.55
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.18
+        },
+        {
+            "etapa": 3,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.597
+        },
+        {
+            "etapa": 4,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.14
+        },
+        {
+            "etapa": 5,
+            "nombre": "Casagrande Francesco",
+            "pais": "Italia",
+            "distancia": 177.8,
+            "desnivel": 0,
+            "velocidadMedia": 34.46
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "distancia": 135.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.87
+        },
+        {
+            "etapa": 7,
+            "nombre": "Yakovlev Serguei",
+            "pais": "Kazajistán",
+            "distancia": 231.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.19
+        },
+        {
+            "etapa": 8,
+            "nombre": "McGee Bradley",
+            "pais": "Australia",
+            "distancia": 32.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.06
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.4432
+        }
+    ]
+}

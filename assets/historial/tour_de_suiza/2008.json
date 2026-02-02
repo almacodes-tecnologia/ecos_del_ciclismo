@@ -1,0 +1,174 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2008,
+    "distancia": 1253.2,
+    "desnivel": 0,
+    "tiempo": "35h 43' 46\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 130,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Liquigas",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Cunego Damiano",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Team High Road",
+            "ventaja": "+ 2 min 37 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Schleck Andy",
+            "pais": "Luxemburgo",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 2 min 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "Team High Road",
+            "ventaja": "+ 2 min 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Fothen Markus",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 4 min 8 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Knees Christian",
+            "pais": "Alemania",
+            "equipo": "Milram",
+            "ventaja": "+ 4 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "ten Dam Laurens",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 4 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cancellara Fabian",
+        "pais": "Suiza",
+        "equipo": "CSC ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Iglinskiy Maxim",
+        "pais": "Kazajistán",
+        "equipo": "Astana"
+    },
+    "ganadorJovenes": {
+        "nombre": "Kreuziger Roman",
+        "pais": "República Checa",
+        "equipo": "Liquigas"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 156.5,
+            "desnivel": 0,
+            "velocidadMedia": 42.19
+        },
+        {
+            "etapa": 2,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "distancia": 197.4,
+            "desnivel": 0,
+            "velocidadMedia": 39.47
+        },
+        {
+            "etapa": 3,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 155.2,
+            "desnivel": 0,
+            "velocidadMedia": 40.47
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 170.7,
+            "desnivel": 0,
+            "velocidadMedia": 41.95
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fothen Markus",
+            "pais": "Alemania",
+            "distancia": 189.7,
+            "desnivel": 0,
+            "velocidadMedia": 39.59
+        },
+        {
+            "etapa": 6,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "distancia": 188.1,
+            "desnivel": 0,
+            "velocidadMedia": 34.26
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 170.6,
+            "desnivel": 0,
+            "velocidadMedia": 45.06
+        },
+        {
+            "etapa": 8,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "distancia": 25.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.848
+        },
+        {
+            "etapa": 9,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.7126
+        }
+    ]
+}

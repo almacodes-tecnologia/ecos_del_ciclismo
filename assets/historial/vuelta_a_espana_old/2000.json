@@ -1,0 +1,202 @@
+{
+  "idCarrera": "vuelta_a_espana",
+  "anio": 2000,
+  "distancia": 2904,
+  "desnivel": 0,
+  "tiempo": "70h 26' 14\"",
+  "ciclistasInscritos": 180,
+  "ciclistasFinalizados": 124,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Roberto Heras",
+      "pais": "España",
+      "equipo": "Kelme - Costa Blanca",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Ángel Casero",
+      "pais": "España",
+      "equipo": "Festina - Lotus",
+      "ventaja": "+2 min 33 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Pavel Tonkov",
+      "pais": "Rusia",
+      "equipo": "Mapei - Quick Step",
+      "ventaja": "+4 min 55 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Santos González",
+      "pais": "España",
+      "equipo": "ONCE - Deutsche Bank",
+      "ventaja": "+5 min 52 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Raimondas Rumšas",
+      "pais": "Lituania",
+      "equipo": "Fassa Bortolo",
+      "ventaja": "+7 min 38 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Roberto Laiseka",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+10 min 16 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Fernando Escartín",
+      "pais": "España",
+      "equipo": "Kelme - Costa Blanca",
+      "ventaja": "+11 min 17 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Carlos Sastre",
+      "pais": "España",
+      "equipo": "ONCE - Deutsche Bank",
+      "ventaja": "+12 min 16 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Massimiliano Gentili",
+      "pais": "Italia",
+      "equipo": "Cantina Tollo",
+      "ventaja": "+13 min 10 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Haimar Zubeldia",
+      "pais": "España",
+      "equipo": "Euskaltel-Euskadi",
+      "ventaja": "+13 min 14 s"
+    }
+  ],
+  "ganadorMontana": {
+    "nombre": "Carlos Sastre",
+    "pais": "España",
+    "equipo": "ONCE - Deutsche Bank"
+  },
+  "ganadorPuntos": {
+    "nombre": "Roberto Heras",
+    "pais": "España",
+    "equipo": "Kelme - Costa Blanca"
+  },
+  "ganadorEquipos": {
+    "nombre": "Kelme-Costa Blanca",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Alex Zülle",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Óscar Freire",
+      "pais": "España"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Jans Koerts",
+      "pais": "Países Bajos"
+    },
+    {
+      "etapa": 4,
+      "nombre": "Óscar Freire",
+      "pais": "España"
+    },
+    {
+      "etapa": 5,
+      "nombre": "Eladio Jiménez",
+      "pais": "España"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Paolo Bossoni",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Roberto Heras",
+      "pais": "España"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Abraham Olano",
+      "pais": "España"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Félix Cárdenas",
+      "pais": "Colombia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Roberto Laiseka",
+      "pais": "España"
+    },
+    {
+      "etapa": 12,
+      "nombre": "Alessandro Petacchi",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 13,
+      "nombre": "Mariano Piccoli",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Andrei Zintchenko",
+      "pais": "Rusia"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Álvaro González de Galdeano",
+      "pais": "España"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Gilberto Simoni",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Davide Bramati",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Alexandre Vinokourov",
+      "pais": "Kazajistán"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Mariano Piccoli",
+      "pais": "Italia"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Roberto Heras",
+      "pais": "España"
+    },
+    {
+      "etapa": 21,
+      "nombre": "Santos González",
+      "pais": "España"
+    }
+  ]
+}

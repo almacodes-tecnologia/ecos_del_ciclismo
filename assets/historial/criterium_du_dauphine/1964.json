@@ -1,0 +1,186 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1964,
+    "distancia": 1661.0,
+    "desnivel": 0,
+    "tiempo": "52h 57' 13\"",
+    "ciclistasInscritos": 100,
+    "ciclistasFinalizados": 61,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Uriona Valentín",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 1 min 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martín Esteban",
+            "pais": "España",
+            "equipo": "Margnat - Paloma - Dunlop",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 4 min 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Foucher André",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 4 min 7 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bahamontes Federico",
+            "pais": "España",
+            "equipo": "Margnat - Paloma - Dunlop",
+            "ventaja": "+ 4 min 38 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Manzaneque Fernando",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 4 min 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vélez Eusebio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 5 min 6 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lebaube Jean-Claude",
+            "pais": "Francia",
+            "equipo": "Saint-Raphaël - Gitane - Dunlop",
+            "ventaja": "+ 5 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Ferrys",
+            "ventaja": "+ 5 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "den Hartog Arie",
+        "pais": "Países Bajos",
+        "equipo": "Saint-Raphaël - Gitane - Dunlop"
+    },
+    "ganadorMontana": {
+        "nombre": "Martín Esteban",
+        "pais": "España",
+        "equipo": "Margnat - Paloma - Dunlop"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kas - Kaskol",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 209.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.091
+        },
+        {
+            "etapa": 2,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.54
+        },
+        {
+            "etapa": 3,
+            "nombre": "Van de Kerckhove Bernard",
+            "pais": "Bélgica",
+            "distancia": 114.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.566
+        },
+        {
+            "etapa": 3,
+            "nombre": "Le Mellec Pierre",
+            "pais": "Francia",
+            "distancia": 104.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.594
+        },
+        {
+            "etapa": 4,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 41.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.758
+        },
+        {
+            "etapa": 4,
+            "nombre": "Van Looy Rik",
+            "pais": "Bélgica",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.964
+        },
+        {
+            "etapa": 5,
+            "nombre": "Novales Joseph",
+            "pais": "Francia",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Monty Willy",
+            "pais": "Bélgica",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.857
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "distancia": 245.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.948
+        },
+        {
+            "etapa": 8,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 221.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.653
+        },
+        {
+            "etapa": 9,
+            "nombre": "Darrigade André",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 2016,
+    "distancia": 1109.9,
+    "desnivel": 19873,
+    "tiempo": "30h 55' 58\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 126,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Barguil Warren",
+            "pais": "Francia",
+            "equipo": "Team Giant - Alpecin",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pantano Jarlinson",
+            "pais": "Colombia",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Cannondale Pro Cycling Team",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 2 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 2 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 2 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Chernetski Sergei",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 5 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Richeze Maximiliano",
+        "pais": "Argentina",
+        "equipo": "Etixx - Quick Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Tolhoek Antwan",
+        "pais": "Países Bajos",
+        "equipo": "Roompot - Oranje Peloton"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 6.4,
+            "desnivel": 46,
+            "velocidadMedia": 50.31
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 187.6,
+            "desnivel": 2779,
+            "velocidadMedia": 40.88
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 192.6,
+            "desnivel": 2129,
+            "velocidadMedia": 42.6
+        },
+        {
+            "etapa": 4,
+            "nombre": "Richeze Maximiliano",
+            "pais": "Argentina",
+            "distancia": 193.0,
+            "desnivel": 2305,
+            "velocidadMedia": 37.55
+        },
+        {
+            "etapa": 5,
+            "nombre": "Atapuma Darwin",
+            "pais": "Colombia",
+            "distancia": 126.4,
+            "desnivel": 3550,
+            "velocidadMedia": 34.18
+        },
+        {
+            "etapa": 6,
+            "nombre": "Weening Pieter",
+            "pais": "Países Bajos",
+            "distancia": 162.8,
+            "desnivel": 3763,
+            "velocidadMedia": 35.68
+        },
+        {
+            "etapa": 7,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "distancia": 224.3,
+            "desnivel": 5041,
+            "velocidadMedia": 34.85
+        },
+        {
+            "etapa": 8,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "distancia": 16.8,
+            "desnivel": 260,
+            "velocidadMedia": 46.85
+        },
+        {
+            "etapa": 9,
+            "nombre": "Pantano Jarlinson",
+            "pais": "Colombia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.7217
+        }
+    ]
+}

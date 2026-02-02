@@ -1,0 +1,138 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2020,
+    "distancia": 703.3,
+    "desnivel": 8795,
+    "tiempo": "21h 29' 50\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 138,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 2 min 28 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ulissi Diego",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Małecki Kamil",
+            "pais": "Polonia",
+            "equipo": "CCC Team",
+            "ventaja": "+ 3 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Mezgec Luka",
+        "pais": "Eslovenia",
+        "equipo": "Mitchelton-Scott"
+    },
+    "ganadorMontana": {
+        "nombre": "Stosz Patryk",
+        "pais": "Polonia",
+        "equipo": "Poland"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mitchelton-Scott",
+        "pais": "Australia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 195.8,
+            "desnivel": 1706,
+            "velocidadMedia": 43.22
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "distancia": 151.5,
+            "desnivel": 752,
+            "velocidadMedia": 44.12
+        },
+        {
+            "etapa": 3,
+            "nombre": "Carapaz Richard",
+            "pais": "Ecuador",
+            "distancia": 203.1,
+            "desnivel": 3311,
+            "velocidadMedia": 39.97
+        },
+        {
+            "etapa": 4,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 152.9,
+            "desnivel": 3026,
+            "velocidadMedia": 38.89
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ballerini Davide",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.4558
+        }
+    ]
+}

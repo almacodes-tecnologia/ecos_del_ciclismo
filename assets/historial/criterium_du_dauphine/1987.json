@@ -1,0 +1,159 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1987,
+    "distancia": 1102.0,
+    "desnivel": 0,
+    "tiempo": "34h 30' 25\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mottet Charly",
+            "pais": "Francia",
+            "equipo": "Système U",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cárdenas Henry",
+            "pais": "Colombia",
+            "equipo": "Café de Colombia",
+            "ventaja": "+ 2 min 44 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pensec Ronan",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 3 min 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Claveyrolat Thierry",
+            "pais": "Francia",
+            "equipo": "RMO - Meral - Mavic",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cornillet Bruno",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 5 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Vallet Bernard",
+            "pais": "Francia",
+            "equipo": "RMO - Meral - Mavic",
+            "ventaja": "+ 5 min 30 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Simon Régis",
+            "pais": "Francia",
+            "equipo": "RMO - Meral - Mavic",
+            "ventaja": "+ 5 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Leblanc Luc",
+            "pais": "Francia",
+            "equipo": "Toshiba - La Vie Claire",
+            "ventaja": "+ 6 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 7 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Simon Pascal",
+            "pais": "Francia",
+            "equipo": "Z - Peugeot",
+            "ventaja": "+ 8 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": null,
+            "pais": null,
+            "distancia": 3.0,
+            "desnivel": 0,
+            "velocidadMedia": 53.465
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.868
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cornillet Bruno",
+            "pais": "Francia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Wojtinek Bruno",
+            "pais": "Francia",
+            "distancia": 106.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 32.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.3
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rüttimann Niki",
+            "pais": "Suiza",
+            "distancia": 202.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cárdenas Henry",
+            "pais": "Colombia",
+            "distancia": 192.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Claveyrolat Thierry",
+            "pais": "Francia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Knickman Roy",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

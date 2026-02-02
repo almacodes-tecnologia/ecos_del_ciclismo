@@ -1,0 +1,151 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1995,
+    "distancia": 987.2,
+    "desnivel": 0,
+    "tiempo": "28h 51' 32\"",
+    "ciclistasInscritos": 88,
+    "ciclistasFinalizados": 77,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "equipo": "GAN",
+            "ventaja": "+ 2 min 21 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Aparicio Vicente",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 3 min 39 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 3 min 54 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Robin Jean-Cyril",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 4 min 6 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Miranda Carmelo",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 6 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Arroyo Miguel",
+            "pais": "México",
+            "equipo": "Chazal - MBK - König",
+            "ventaja": "+ 7 min 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mejia Alvaro",
+            "pais": "Colombia",
+            "equipo": "Motorola",
+            "ventaja": "+ 8 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Peron Andrea",
+            "pais": "Italia",
+            "equipo": "Motorola",
+            "ventaja": "+ 9 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Laurent Thierry",
+            "pais": "Francia",
+            "equipo": "Castorama",
+            "ventaja": "+ 9 min 22 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Boardman Chis",
+            "pais": "Reino Unido",
+            "distancia": 6.7,
+            "desnivel": 0,
+            "velocidadMedia": 48.24
+        },
+        {
+            "etapa": 1,
+            "nombre": "Tchmil Andrei",
+            "pais": "Ucrania",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Veenstra Wiebren",
+            "pais": "Países Bajos",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Induráin Miguel",
+            "pais": "España",
+            "distancia": 36.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Talmant Gilles",
+            "pais": "Francia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 7,
+            "nombre": "Jeker Fabian",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 2012,
+    "distancia": 3188.8,
+    "desnivel": 49670,
+    "tiempo": "84h 59' 49\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 175,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Team Saxo Bank - Tinkoff Bank",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 10 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 11 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 12 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Garmin Sharp",
+            "ventaja": "+ 13 min 28 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "ten Dam Laurens",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 13 min 41 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Antón Igor",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 14 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 16 min 13 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Clarke Simon",
+        "pais": "Australia",
+        "equipo": "Orica GreenEDGE"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 16.2,
+            "desnivel": 143,
+            "velocidadMedia": 51.565
+        },
+        {
+            "etapa": 2,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 180.0,
+            "desnivel": 1915,
+            "velocidadMedia": 38.756
+        },
+        {
+            "etapa": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 153.0,
+            "desnivel": 2470,
+            "velocidadMedia": 39.98
+        },
+        {
+            "etapa": 4,
+            "nombre": "Clarke Simon",
+            "pais": "Australia",
+            "distancia": 155.4,
+            "desnivel": 2870,
+            "velocidadMedia": 34.478
+        },
+        {
+            "etapa": 5,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 172.0,
+            "desnivel": 1079,
+            "velocidadMedia": 41.178
+        },
+        {
+            "etapa": 6,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 174.8,
+            "desnivel": 2291,
+            "velocidadMedia": 38.087
+        },
+        {
+            "etapa": 7,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 160.0,
+            "desnivel": 1300,
+            "velocidadMedia": 42.013
+        },
+        {
+            "etapa": 8,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 3565,
+            "velocidadMedia": 42.57
+        },
+        {
+            "etapa": 9,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 194.0,
+            "desnivel": 2442,
+            "velocidadMedia": 40.775
+        },
+        {
+            "etapa": 10,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 166.4,
+            "desnivel": 2240,
+            "velocidadMedia": 34.739
+        },
+        {
+            "etapa": 11,
+            "nombre": "Kessiakoff Fredrik",
+            "pais": "Suecia",
+            "distancia": 39.4,
+            "desnivel": 738,
+            "velocidadMedia": 44.943
+        },
+        {
+            "etapa": 12,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 184.6,
+            "desnivel": 2589,
+            "velocidadMedia": 41.87
+        },
+        {
+            "etapa": 13,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "distancia": 172.7,
+            "desnivel": 2443,
+            "velocidadMedia": 42.288
+        },
+        {
+            "etapa": 14,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 152.0,
+            "desnivel": 3951,
+            "velocidadMedia": 36.412
+        },
+        {
+            "etapa": 15,
+            "nombre": "Piedra Antonio",
+            "pais": "España",
+            "distancia": 186.7,
+            "desnivel": 3549,
+            "velocidadMedia": 37.169
+        },
+        {
+            "etapa": 16,
+            "nombre": "Cataldo Dario",
+            "pais": "Italia",
+            "distancia": 185.0,
+            "desnivel": 5159,
+            "velocidadMedia": 34.855
+        },
+        {
+            "etapa": 17,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 187.3,
+            "desnivel": 3834,
+            "velocidadMedia": 41.73
+        },
+        {
+            "etapa": 18,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 186.4,
+            "desnivel": 1082,
+            "velocidadMedia": 43.47
+        },
+        {
+            "etapa": 19,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "distancia": 178.4,
+            "desnivel": 1719,
+            "velocidadMedia": 36.111
+        },
+        {
+            "etapa": 20,
+            "nombre": "Menchov Denis",
+            "pais": "Rusia",
+            "distancia": 169.5,
+            "desnivel": 4291,
+            "velocidadMedia": 35.21
+        },
+        {
+            "etapa": 21,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8281
+        }
+    ]
+}

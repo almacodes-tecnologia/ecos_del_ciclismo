@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-suisse",
+    "anio": 1967,
+    "distancia": 1200.0,
+    "desnivel": 0,
+    "tiempo": "31h 26' 41\"",
+    "ciclistasInscritos": 58,
+    "ciclistasFinalizados": 57,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Maurer Rolf",
+            "pais": "Suiza",
+            "equipo": "",
+            "ventaja": "+ 4 min 46 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Santamarina Luis Pedro",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 5 min 31 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 8 min 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Junkermann Hans",
+            "pais": "Alemania",
+            "equipo": "",
+            "ventaja": "+ 10 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Post Peter",
+            "pais": "Países Bajos",
+            "equipo": "",
+            "ventaja": "+ 10 min 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Fezzardi Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 11 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Della Torre Alberto",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 12 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "López Rodríguez José Manuel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 12 min 22 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 13 min 0 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Ryckeghem Daniel",
+        "pais": "Bélgica",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Motta Gianni",
+        "pais": "Italia",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Van Ryckeghem Daniel",
+            "pais": "Bélgica",
+            "distancia": 190.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.73
+        },
+        {
+            "etapa": 2,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.35
+        },
+        {
+            "etapa": 3,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.5
+        },
+        {
+            "etapa": 4,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 237.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.99
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ottenbros Harm",
+            "pais": "Países Bajos",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.28
+        },
+        {
+            "etapa": 6,
+            "nombre": "De Pra Tommaso",
+            "pais": "Italia",
+            "distancia": 205.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.75
+        },
+        {
+            "etapa": 7,
+            "nombre": "Godefroot Walter",
+            "pais": "Bélgica",
+            "distancia": 74.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.41
+        },
+        {
+            "etapa": 7,
+            "nombre": "Errandonea José María",
+            "pais": "España",
+            "distancia": 48.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.81
+        }
+    ]
+}

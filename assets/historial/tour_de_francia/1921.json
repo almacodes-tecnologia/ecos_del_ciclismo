@@ -1,0 +1,207 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1921,
+    "distancia": 5145.0,
+    "desnivel": 0,
+    "tiempo": "221h 50' 26\"",
+    "ciclistasInscritos": 123,
+    "ciclistasFinalizados": 38,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Scieur Léon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Heusghem Hector",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 18 min 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "equipo": "La Sportive",
+            "ventaja": "+ 2 h 1 min 0 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lucotti Luigi Natale",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "+ 2 h 39 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tiberghien Hector",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 4 h 33 min 19 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Lenaers Victor",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 4 h 53 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Despontin Léon",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 5 h 1 min 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Leroy Camille",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "+ 7 h 56 min 27 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lambot Firmin",
+            "pais": "Bélgica",
+            "equipo": "La Sportive",
+            "ventaja": "+ 8 h 26 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Goethals Félix",
+            "pais": "Francia",
+            "equipo": "La Sportive",
+            "ventaja": "+ 8 h 42 min 26 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Mottiat Louis",
+            "pais": "Bélgica",
+            "distancia": 388.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.08
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bellenger Romain",
+            "pais": "Francia",
+            "distancia": 364.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.72
+        },
+        {
+            "etapa": 3,
+            "nombre": "Scieur Léon",
+            "pais": "Bélgica",
+            "distancia": 405.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.74
+        },
+        {
+            "etapa": 4,
+            "nombre": "Mottiat Louis",
+            "pais": "Bélgica",
+            "distancia": 412.0,
+            "desnivel": 0,
+            "velocidadMedia": 26.53
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mottiat Louis",
+            "pais": "Bélgica",
+            "distancia": 482.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.65
+        },
+        {
+            "etapa": 6,
+            "nombre": "Heusghem Hector",
+            "pais": "Bélgica",
+            "distancia": 326.0,
+            "desnivel": 0,
+            "velocidadMedia": 21.5
+        },
+        {
+            "etapa": 7,
+            "nombre": "Mottiat Louis",
+            "pais": "Bélgica",
+            "distancia": 323.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.9
+        },
+        {
+            "etapa": 8,
+            "nombre": "Lucotti Luigi Natale",
+            "pais": "Italia",
+            "distancia": 411.0,
+            "desnivel": 0,
+            "velocidadMedia": 25.51
+        },
+        {
+            "etapa": 9,
+            "nombre": "Lambot Firmin",
+            "pais": "Bélgica",
+            "distancia": 272.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.78
+        },
+        {
+            "etapa": 10,
+            "nombre": "Scieur Léon",
+            "pais": "Bélgica",
+            "distancia": 333.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.72
+        },
+        {
+            "etapa": 11,
+            "nombre": "Goethals Félix",
+            "pais": "Francia",
+            "distancia": 325.0,
+            "desnivel": 0,
+            "velocidadMedia": 23.1
+        },
+        {
+            "etapa": 12,
+            "nombre": "Barthélémy Honoré",
+            "pais": "Francia",
+            "distancia": 371.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.52
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sellier Félix",
+            "pais": "Bélgica",
+            "distancia": 300.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.58
+        },
+        {
+            "etapa": 14,
+            "nombre": "Goethals Félix",
+            "pais": "Francia",
+            "distancia": 433.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.49
+        },
+        {
+            "etapa": 15,
+            "nombre": "Goethals Félix",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 24.7263
+        }
+    ]
+}

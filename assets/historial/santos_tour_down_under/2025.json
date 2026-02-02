@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2025,
+    "distancia": 819.9,
+    "desnivel": 9914,
+    "tiempo": "19h 19' 16\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 134,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Narváez Jhonatan",
+            "pais": "Ecuador",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Romo Javier",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fisher-Black Finn",
+            "pais": "Nueva Zelanda",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team Picnic PostNL",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Tronchon Bastien",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Plapp Luke",
+            "pais": "Australia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sheffield Magnus",
+            "pais": "Estados Unidos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gloag Thomas",
+            "pais": "Reino Unido",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Konrad Patrick",
+            "pais": "Austria",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Woods Michael",
+            "pais": "Canadá",
+            "equipo": "Israel - Premier Tech",
+            "ventaja": "+ 47 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Welsford Sam",
+        "pais": "Australia",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Browning Fergus",
+        "pais": "Australia",
+        "equipo": "Australia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Withen Philipsen Albert",
+        "pais": "Dinamarca",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorEquipos": {
+        "nombre": " Lidl - Trek",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 150.7,
+            "desnivel": 1595,
+            "velocidadMedia": 43.759
+        },
+        {
+            "etapa": 2,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 128.8,
+            "desnivel": 1253,
+            "velocidadMedia": 42.61
+        },
+        {
+            "etapa": 3,
+            "nombre": "Romo Javier",
+            "pais": "España",
+            "distancia": 147.5,
+            "desnivel": 2648,
+            "velocidadMedia": 39.156
+        },
+        {
+            "etapa": 4,
+            "nombre": "Coquard Bryan",
+            "pais": "Francia",
+            "distancia": 157.2,
+            "desnivel": 2027,
+            "velocidadMedia": 40.094
+        },
+        {
+            "etapa": 5,
+            "nombre": "Narváez Jhonatan",
+            "pais": "Ecuador",
+            "distancia": 145.7,
+            "desnivel": 1764,
+            "velocidadMedia": 44.368
+        },
+        {
+            "etapa": 6,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 90.0,
+            "desnivel": 627,
+            "velocidadMedia": 47.689
+        }
+    ]
+}

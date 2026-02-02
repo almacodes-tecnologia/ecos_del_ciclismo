@@ -1,0 +1,151 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1994,
+    "distancia": 1048.7,
+    "desnivel": 0,
+    "tiempo": "32h 21' 53\"",
+    "ciclistasInscritos": 95,
+    "ciclistasFinalizados": 62,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dufaux Laurent",
+            "pais": "Suiza",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pensec Ronan",
+            "pais": "Francia",
+            "equipo": "Novemail - Histor",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kasputis Artūras",
+            "pais": "Lituania",
+            "equipo": "Chazal - MBK - König",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rous Didier",
+            "pais": "Francia",
+            "equipo": "GAN",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hervé Pascal",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "equipo": "Festina - Lotus",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "García Ignacio",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 2 min 31 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Jonker Patrick",
+            "pais": "Australia",
+            "equipo": "Novemail - Histor",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Caritoux Éric",
+            "pais": "Francia",
+            "equipo": "Chazal - MBK - König",
+            "ventaja": "+ 4 min 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Manin Christophe",
+            "pais": "Francia",
+            "equipo": "Chazal - MBK - König",
+            "ventaja": "+ 5 min 8 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 6.7,
+            "desnivel": 0,
+            "velocidadMedia": 45.51
+        },
+        {
+            "etapa": 1,
+            "nombre": "Wüst Marcel",
+            "pais": "Alemania",
+            "distancia": 224.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.88
+        },
+        {
+            "etapa": 2,
+            "nombre": "Magnien Emmanuel",
+            "pais": "Francia",
+            "distancia": 208.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.75
+        },
+        {
+            "etapa": 3,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 38.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.05
+        },
+        {
+            "etapa": 4,
+            "nombre": "Magnien Emmanuel",
+            "pais": "Francia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.13
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hervé Pascal",
+            "pais": "Francia",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.52
+        },
+        {
+            "etapa": 6,
+            "nombre": "Pensec Ronan",
+            "pais": "Francia",
+            "distancia": 203.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.53
+        },
+        {
+            "etapa": 7,
+            "nombre": "Boardman Chris",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

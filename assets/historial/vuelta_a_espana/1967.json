@@ -1,0 +1,263 @@
+{
+    "idCarrera": "vuelta-a-espana",
+    "anio": 1967,
+    "distancia": 2770.1,
+    "desnivel": 0,
+    "tiempo": "76h 38' 04\"",
+    "ciclistasInscritos": 110,
+    "ciclistasFinalizados": 73,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ducasse Jean-Pierre",
+            "pais": "Francia",
+            "equipo": "Pelforth - Sauvage - Lejeune",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "González Aurelio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Otaño Luis",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Haast Cees",
+            "pais": "Países Bajos",
+            "equipo": "Televizier - Batavus",
+            "ventaja": "+ 3 min 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "López Rodríguez José Manuel",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 3 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "San Miguel Gregorio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 4 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "equipo": "Mercier - BP - Hutchinson",
+            "ventaja": "+ 4 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Díaz Mariano",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 5 min 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pérez Francés José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 6 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Janssen Jan",
+        "pais": "Países Bajos",
+        "equipo": "Pelforth - Sauvage - Lejeune"
+    },
+    "ganadorMontana": {
+        "nombre": "Díaz Mariano",
+        "pais": "España",
+        "equipo": "Fagor"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.93
+        },
+        {
+            "etapa": 1,
+            "nombre": "Janssen Jan",
+            "pais": "Países Bajos",
+            "distancia": 4.1,
+            "desnivel": 0,
+            "velocidadMedia": 49.04
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.85
+        },
+        {
+            "etapa": 3,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 230.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.67
+        },
+        {
+            "etapa": 4,
+            "nombre": "Saéz Ramón",
+            "pais": "España",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.16
+        },
+        {
+            "etapa": 5,
+            "nombre": "Simpson Tom",
+            "pais": "Reino Unido",
+            "distancia": 201.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.62
+        },
+        {
+            "etapa": 6,
+            "nombre": "Dolman Evert",
+            "pais": "Países Bajos",
+            "distancia": 212.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.46
+        },
+        {
+            "etapa": 7,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.19
+        },
+        {
+            "etapa": 8,
+            "nombre": "Bellone Gilbert",
+            "pais": "Francia",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.92
+        },
+        {
+            "etapa": 9,
+            "nombre": "Lauwers Jan",
+            "pais": "Bélgica",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.23
+        },
+        {
+            "etapa": 10,
+            "nombre": "Harings Jan",
+            "pais": "Países Bajos",
+            "distancia": 39.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.96
+        },
+        {
+            "etapa": 10,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 45.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.77
+        },
+        {
+            "etapa": 11,
+            "nombre": "Díaz Mariano",
+            "pais": "España",
+            "distancia": 241.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.15
+        },
+        {
+            "etapa": 12,
+            "nombre": "Nijdam Henk",
+            "pais": "Países Bajos",
+            "distancia": 158.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.74
+        },
+        {
+            "etapa": 13,
+            "nombre": "Ibáñez Ángel",
+            "pais": "España",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 27.27
+        },
+        {
+            "etapa": 14,
+            "nombre": null,
+            "pais": null,
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.65
+        },
+        {
+            "etapa": 15,
+            "nombre": "Wolfshohl Rolf",
+            "pais": "Alemania",
+            "distancia": 92.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.32
+        },
+        {
+            "etapa": 15,
+            "nombre": "Poulidor Raymond",
+            "pais": "Francia",
+            "distancia": 44.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.53
+        },
+        {
+            "etapa": 16,
+            "nombre": null,
+            "pais": null,
+            "distancia": 139.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.96
+        },
+        {
+            "etapa": 17,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 28.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.35
+        },
+        {
+            "etapa": 18,
+            "nombre": "Karstens Gerben",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.4459
+        }
+    ]
+}

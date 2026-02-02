@@ -1,0 +1,146 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2012,
+    "distancia": 678.5,
+    "desnivel": 10647,
+    "tiempo": "18h 05' 40\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Talansky Andrew",
+            "pais": "Estados Unidos",
+            "equipo": "Team Garmin - Barracuda",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rogers Michael",
+            "pais": "Australia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Szmyd Sylwester",
+            "pais": "Polonia",
+            "equipo": "Liquigas - Cannondale",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Brajkovič Janez",
+            "pais": "Eslovenia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 1 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Ignatenko Petr",
+        "pais": "Rusia",
+        "equipo": "Team Katusha "
+    },
+    "ganadorJovenes": {
+        "nombre": "Talansky Andrew",
+        "pais": "Estados Unidos",
+        "equipo": "Team Garmin - Barracuda"
+    },
+    "ganadorEquipos": {
+        "nombre": " Sky Procycling",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 3.34,
+            "desnivel": 11,
+            "velocidadMedia": 57.531
+        },
+        {
+            "etapa": 1,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "distancia": 184.5,
+            "desnivel": 2950,
+            "velocidadMedia": 38.122
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hivert Jonathan",
+            "pais": "Francia",
+            "distancia": 149.1,
+            "desnivel": 2459,
+            "velocidadMedia": 39.205
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 157.6,
+            "desnivel": 2352,
+            "velocidadMedia": 39.651
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 184.0,
+            "desnivel": 2875,
+            "velocidadMedia": 37.27
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wiggins Bradley",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.4059
+        }
+    ]
+}

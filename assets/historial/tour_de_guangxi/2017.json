@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-of-guangxi",
+    "anio": 2017,
+    "distancia": 752.7,
+    "desnivel": 4657,
+    "tiempo": "20h 59' 49\"",
+    "ciclistasInscritos": 122,
+    "ciclistasFinalizados": 115,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Roche Nicolas",
+            "pais": "Irlanda",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Alaphilippe Julian",
+            "pais": "Francia",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Hermans Ben",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Dillier Silvan",
+            "pais": "Suiza",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Debesay Mekseb",
+            "pais": "Eritrea",
+            "equipo": "Team Dimension Data",
+            "ventaja": "+ 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Gaviria Fernando",
+        "pais": "Colombia",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorMontana": {
+        "nombre": "Oss Daniel",
+        "pais": "Italia",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Alaphilippe Julian",
+        "pais": "Francia",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorEquipos": {
+        "nombre": " BMC Racing Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 107.4,
+            "desnivel": 339,
+            "velocidadMedia": 46.02
+        },
+        {
+            "etapa": 2,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 156.7,
+            "desnivel": 833,
+            "velocidadMedia": 41.99
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 125.4,
+            "desnivel": 798,
+            "velocidadMedia": 46.46
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 151.0,
+            "desnivel": 1178,
+            "velocidadMedia": 44.56
+        },
+        {
+            "etapa": 5,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 212.2,
+            "desnivel": 1509,
+            "velocidadMedia": 41.83
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.847
+        }
+    ]
+}

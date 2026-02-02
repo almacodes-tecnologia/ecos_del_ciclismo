@@ -1,0 +1,262 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2003,
+    "distancia": 3274.5,
+    "desnivel": 50085,
+    "tiempo": "83h 41' 12\"",
+    "ciclistasInscritos": 198,
+    "ciclistasFinalizados": 147,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "DESIERTO",
+            "pais": "Armstrong Lance, Estados Unidos",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "equipo": "Team Bianchi",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 4 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Hamilton Tyler",
+            "pais": "Estados Unidos",
+            "equipo": "Team CSC",
+            "ventaja": "+ 6 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 6 min 51 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mayo Iban",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 7 min 6 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 10 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moreau Christophe",
+            "pais": "Francia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 12 min 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "Team CSC",
+            "ventaja": "+ 18 min 49 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 19 min 15 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cooke Baden",
+        "pais": "Australia",
+        "equipo": "Fdjeux.com"
+    },
+    "ganadorMontana": {
+        "nombre": "Virenque Richard",
+        "pais": "Francia",
+        "equipo": "Quickstep - Davitamon"
+    },
+    "ganadorJovenes": {
+        "nombre": "Menchov Denis",
+        "pais": "Rusia",
+        "equipo": "iBanesto.com"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team CSC",
+        "pais": "Dinamarca"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "McGee Bradley",
+            "pais": "Australia",
+            "distancia": 6.5,
+            "desnivel": 184,
+            "velocidadMedia": 52.47
+        },
+        {
+            "etapa": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 168.0,
+            "desnivel": 1476,
+            "velocidadMedia": 44.89
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cooke Baden",
+            "pais": "Australia",
+            "distancia": 204.5,
+            "desnivel": 2461,
+            "velocidadMedia": 40.026
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 167.5,
+            "desnivel": 1605,
+            "velocidadMedia": 48.399
+        },
+        {
+            "etapa": 4,
+            "nombre": "US Postal",
+            "pais": "Estados Unidos",
+            "distancia": 69.0,
+            "desnivel": 592,
+            "velocidadMedia": 52.772
+        },
+        {
+            "etapa": 5,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 196.5,
+            "desnivel": 2316,
+            "velocidadMedia": 47.201
+        },
+        {
+            "etapa": 6,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 230.0,
+            "desnivel": 2000,
+            "velocidadMedia": 44.72
+        },
+        {
+            "etapa": 7,
+            "nombre": "Virenque Richard",
+            "pais": "Francia",
+            "distancia": 230.5,
+            "desnivel": 4500,
+            "velocidadMedia": 37.782
+        },
+        {
+            "etapa": 8,
+            "nombre": "Iban Mayo",
+            "pais": "España",
+            "distancia": 219.0,
+            "desnivel": 5500,
+            "velocidadMedia": 36.755
+        },
+        {
+            "etapa": 9,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 184.5,
+            "desnivel": 4500,
+            "velocidadMedia": 36.656
+        },
+        {
+            "etapa": 10,
+            "nombre": "Piil Jakob Storm",
+            "pais": "Dinamarca",
+            "distancia": 219.5,
+            "desnivel": 2000,
+            "velocidadMedia": 42.546
+        },
+        {
+            "etapa": 11,
+            "nombre": "Juan Antonio Flecha",
+            "pais": "España",
+            "distancia": 153.5,
+            "desnivel": 1858,
+            "velocidadMedia": 43.951
+        },
+        {
+            "etapa": 12,
+            "nombre": "Ullrich Jan",
+            "pais": "Alemania",
+            "distancia": 47.0,
+            "desnivel": 712,
+            "velocidadMedia": 48.178
+        },
+        {
+            "etapa": 13,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "distancia": 197.5,
+            "desnivel": 4000,
+            "velocidadMedia": 37.48
+        },
+        {
+            "etapa": 14,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "distancia": 191.5,
+            "desnivel": 5000,
+            "velocidadMedia": 34.622
+        },
+        {
+            "etapa": 16,
+            "nombre": "Hamilton Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 197.5,
+            "desnivel": 4000,
+            "velocidadMedia": 39.542
+        },
+        {
+            "etapa": 17,
+            "nombre": "Knaven Servais",
+            "pais": "Países Bajos",
+            "distancia": 181.0,
+            "desnivel": 808,
+            "velocidadMedia": 46.334
+        },
+        {
+            "etapa": 18,
+            "nombre": "Lastras Pablo",
+            "pais": "España",
+            "distancia": 202.5,
+            "desnivel": 1678,
+            "velocidadMedia": 49.94
+        },
+        {
+            "etapa": 19,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "distancia": 49.0,
+            "desnivel": 395,
+            "velocidadMedia": 54.361
+        },
+        {
+            "etapa": 20,
+            "nombre": "Nazon Jean-Patrick",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9403
+        }
+    ]
+}

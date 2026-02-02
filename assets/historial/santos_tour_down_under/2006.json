@@ -1,0 +1,139 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2006,
+    "distancia": 595.0,
+    "desnivel": 0,
+    "tiempo": "16h 36' 54\"",
+    "ciclistasInscritos": 95,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Liberty Seguros - Würth",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Walker William",
+            "pais": "Australia",
+            "equipo": "United Water",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bates Gene",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dumoulin Samuel",
+            "pais": "Francia",
+            "equipo": "AG2R Prévoyance",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Hout Russell",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 3 min 0 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Clarke Simon",
+            "pais": "Australia",
+            "equipo": "SouthAustralia.com-AIS",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Jongewaard Chris",
+            "pais": "Australia",
+            "equipo": "Team UniSA-Australia",
+            "ventaja": "+ 3 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "D'Hollander Glenn",
+            "pais": "Bélgica",
+            "equipo": "Chocolade Jacques / Topsport Vlaanderen",
+            "ventaja": "+ 3 min 31 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Davis Allan",
+        "pais": "Australia",
+        "equipo": "Liberty Seguros - Würth"
+    },
+    "ganadorMontana": {
+        "nombre": "Evans Cadel",
+        "pais": "Australia",
+        "equipo": "Davitamon - Lotto"
+    },
+    "ganadorJovenes": {
+        "nombre": "Walker William",
+        "pais": "Australia",
+        "equipo": "United Water"
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "distancia": 148.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.631
+        },
+        {
+            "etapa": 2,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "distancia": 146.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.247
+        },
+        {
+            "etapa": 3,
+            "nombre": "Barredo Carlos",
+            "pais": "España",
+            "distancia": 154.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.991
+        },
+        {
+            "etapa": 4,
+            "nombre": "Van Hout Russell",
+            "pais": "Australia",
+            "distancia": 147.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.428
+        },
+        {
+            "etapa": 5,
+            "nombre": "Davis Allan",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.68
+        }
+    ]
+}

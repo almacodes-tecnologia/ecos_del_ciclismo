@@ -1,0 +1,155 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2009,
+    "distancia": 926.0,
+    "desnivel": 12130,
+    "tiempo": "27h 37' 22\"",
+    "ciclistasInscritos": 200,
+    "ciclistasFinalizados": 161,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Garzelli Stefano",
+            "pais": "Italia",
+            "equipo": "Acqua & Sapone",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli",
+            "ventaja": "+ 2 min 6 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gerdemann Linus",
+            "pais": "Alemania",
+            "equipo": "Milram",
+            "ventaja": "+ 2 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Hesjedal Ryder",
+            "pais": "Canadá",
+            "equipo": "Team Garmin - Slipstream",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Siutsou Kanstantsin",
+            "pais": "Bielorrusia",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 2 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "El Fares Julien",
+        "pais": "Francia",
+        "equipo": "Cofidis, le Crédit en Ligne"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Egoi",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {
+        "nombre": "Löfkvist Thomas",
+        "pais": "Suecia",
+        "equipo": "Team Columbia"
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "El Fares Julien",
+            "pais": "Francia",
+            "distancia": 147.0,
+            "desnivel": 1104,
+            "velocidadMedia": 41.205
+        },
+        {
+            "etapa": 2,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 177.0,
+            "desnivel": 1619,
+            "velocidadMedia": 38.944
+        },
+        {
+            "etapa": 3,
+            "nombre": "Farrar Tyler",
+            "pais": "Estados Unidos",
+            "distancia": 166.0,
+            "desnivel": 1297,
+            "velocidadMedia": 42.601
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "distancia": 171.0,
+            "desnivel": 2307,
+            "velocidadMedia": 41.274
+        },
+        {
+            "etapa": 5,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "distancia": 30.0,
+            "desnivel": 541,
+            "velocidadMedia": 43.339
+        },
+        {
+            "etapa": 6,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "distancia": 235.0,
+            "desnivel": 5262,
+            "velocidadMedia": 35.59
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6376
+        }
+    ]
+}

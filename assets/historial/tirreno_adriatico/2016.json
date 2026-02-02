@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2016,
+    "distancia": 1015.7,
+    "desnivel": 12001,
+    "tiempo": "20h 42' 22\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 172,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Reichenbach Sébastien",
+            "pais": "Suiza",
+            "equipo": "FDJ",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Nibali Vincenzo",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 48 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Tinkoff"
+    },
+    "ganadorMontana": {
+        "nombre": "Benedetti Cesare",
+        "pais": "Italia",
+        "equipo": "Bora - Argon 18"
+    },
+    "ganadorJovenes": {
+        "nombre": "Jungels Bob",
+        "pais": "Luxemburgo",
+        "equipo": "Etixx - Quick Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " Etixx - Quick Step",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 22.7,
+            "desnivel": 6,
+            "velocidadMedia": 56.948
+        },
+        {
+            "etapa": 2,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "distancia": 207.0,
+            "desnivel": 1953,
+            "velocidadMedia": 40.06
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 176.0,
+            "desnivel": 1946,
+            "velocidadMedia": 41.02
+        },
+        {
+            "etapa": 4,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "distancia": 222.0,
+            "desnivel": 2716,
+            "velocidadMedia": 35.52
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 178.0,
+            "desnivel": 4103,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "distancia": 210.0,
+            "desnivel": 1277,
+            "velocidadMedia": 45.95
+        },
+        {
+            "etapa": 7,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 49.5305
+        }
+    ]
+}

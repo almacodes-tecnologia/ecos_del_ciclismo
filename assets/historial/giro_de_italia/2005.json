@@ -1,0 +1,266 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 2005,
+    "distancia": 3342.2,
+    "desnivel": 46225,
+    "tiempo": "91h 25' 51\"",
+    "ciclistasInscritos": 197,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "Lampre-Caffita",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rujano José Humberto",
+            "pais": "Venezuela",
+            "equipo": "Colombia - Selle Italia",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "equipo": "Liquigas",
+            "ventaja": "+ 2 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Honchar Serhiy",
+            "pais": "Ucrania",
+            "equipo": "Domina Vacanze",
+            "ventaja": "+ 4 min 22 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Karpets Vladimir",
+            "pais": "Rusia",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 11 min 15 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Caucchioli Pietro",
+            "pais": "Italia",
+            "equipo": "Crédit Agricole",
+            "ventaja": "+ 11 min 38 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bruseghin Marzio",
+            "pais": "Italia",
+            "equipo": "Fassa Bortolo",
+            "ventaja": "+ 11 min 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sella Emanuele",
+            "pais": "Italia",
+            "equipo": "Ceramica Panaria - Navigare",
+            "ventaja": "+ 12 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Bettini Paolo",
+        "pais": "Italia",
+        "equipo": "Quickstep - Innergetic"
+    },
+    "ganadorMontana": {
+        "nombre": "Rujano José Humberto",
+        "pais": "Venezuela",
+        "equipo": "Colombia - Selle Italia"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Liquigas",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Lancaster Brett",
+            "pais": "Australia",
+            "distancia": 1.15,
+            "desnivel": 10,
+            "velocidadMedia": 51.75
+        },
+        {
+            "etapa": 1,
+            "nombre": "Bettini Paolo",
+            "pais": "Italia",
+            "distancia": 208.0,
+            "desnivel": 1785,
+            "velocidadMedia": 40.319
+        },
+        {
+            "etapa": 2,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 182.0,
+            "desnivel": 1699,
+            "velocidadMedia": 39.74
+        },
+        {
+            "etapa": 3,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 210.0,
+            "desnivel": 2462,
+            "velocidadMedia": 38.855
+        },
+        {
+            "etapa": 4,
+            "nombre": "Mazzanti Luca",
+            "pais": "Italia",
+            "distancia": 220.0,
+            "desnivel": 1583,
+            "velocidadMedia": 42.56
+        },
+        {
+            "etapa": 5,
+            "nombre": "Di Luca Danilo",
+            "pais": "Italia",
+            "distancia": 223.0,
+            "desnivel": 3353,
+            "velocidadMedia": 37.033
+        },
+        {
+            "etapa": 6,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 153.0,
+            "desnivel": 1549,
+            "velocidadMedia": 42.249
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gil Koldo",
+            "pais": "España",
+            "distancia": 211.0,
+            "desnivel": 2323,
+            "velocidadMedia": 41.066
+        },
+        {
+            "etapa": 8,
+            "nombre": "Zabriskie David",
+            "pais": "Estados Unidos",
+            "distancia": 45.0,
+            "desnivel": 579,
+            "velocidadMedia": 46.141
+        },
+        {
+            "etapa": 9,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 139.0,
+            "desnivel": 1354,
+            "velocidadMedia": 42.653
+        },
+        {
+            "etapa": 10,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 212.0,
+            "desnivel": 230,
+            "velocidadMedia": 38.622
+        },
+        {
+            "etapa": 11,
+            "nombre": "Savoldelli Paolo",
+            "pais": "Italia",
+            "distancia": 150.0,
+            "desnivel": 3798,
+            "velocidadMedia": 35.473
+        },
+        {
+            "etapa": 12,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 178.0,
+            "desnivel": 2120,
+            "velocidadMedia": 36.828
+        },
+        {
+            "etapa": 13,
+            "nombre": "Parra Iván Ramiro",
+            "pais": "Colombia",
+            "distancia": 218.0,
+            "desnivel": 5994,
+            "velocidadMedia": 33.404
+        },
+        {
+            "etapa": 14,
+            "nombre": "Parra Iván Ramiro",
+            "pais": "Colombia",
+            "distancia": 210.0,
+            "desnivel": 5889,
+            "velocidadMedia": 30.992
+        },
+        {
+            "etapa": 15,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 154.0,
+            "desnivel": 950,
+            "velocidadMedia": 43.445
+        },
+        {
+            "etapa": 16,
+            "nombre": "Le Mével Christophe",
+            "pais": "Francia",
+            "distancia": 210.0,
+            "desnivel": 1267,
+            "velocidadMedia": 43.321
+        },
+        {
+            "etapa": 17,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 4088,
+            "velocidadMedia": 36.863
+        },
+        {
+            "etapa": 18,
+            "nombre": "Basso Ivan",
+            "pais": "Italia",
+            "distancia": 34.0,
+            "desnivel": 518,
+            "velocidadMedia": 45.25
+        },
+        {
+            "etapa": 19,
+            "nombre": "Rujano José Humberto",
+            "pais": "Venezuela",
+            "distancia": 190.0,
+            "desnivel": 4674,
+            "velocidadMedia": 32.618
+        },
+        {
+            "etapa": 20,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.8531
+        }
+    ]
+}

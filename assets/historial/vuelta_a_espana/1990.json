@@ -1,0 +1,282 @@
+{
+  "idCarrera": "vuelta-a-espana",
+  "anio": 1990,
+  "distancia": 3711,
+  "desnivel": 0,
+  "tiempo": "94h 36' 40\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 133,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Giovannetti Marco",
+      "pais": "Italia",
+      "equipo": "SEU",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Delgado Pedro",
+      "pais": "España",
+      "equipo": "BAN",
+      "ventaja": "+ 1 min 28 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Fuerte Anselmo",
+      "pais": "España",
+      "equipo": "ONC",
+      "ventaja": "+ 1 min 48 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Ruiz Cabestany Pello",
+      "pais": "España",
+      "equipo": "ONC",
+      "ventaja": "+ 2 min 16 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Parra Fabio",
+      "pais": "Colombia",
+      "equipo": "KEL",
+      "ventaja": "+ 3 min 07 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Echave Federico",
+      "pais": "España",
+      "equipo": "CLA",
+      "ventaja": "+ 3 min 52 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Induráin Miguel",
+      "pais": "España",
+      "equipo": "BAN",
+      "ventaja": "+ 6 min 22 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Ivanov Ivan",
+      "pais": "Unión Soviética",
+      "equipo": "ALF",
+      "ventaja": "+ 6 min 48 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Ampler Uwe",
+      "pais": "Alemania",
+      "equipo": "PDM",
+      "ventaja": "+ 7 min 15 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Roux Denis",
+      "pais": "Francia",
+      "equipo": "TOS",
+      "ventaja": "+ 7 min 56 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Raab Uwe",
+    "pais": "Alemania",
+    "equipo": "PDM"
+  },
+  "ganadorMontana": {
+    "nombre": "Farfán Martín",
+    "pais": "Colombia",
+    "equipo": "Kelme"
+  },
+  "ganadorJovenes": {},
+  "ganadorEquipos": {
+    "nombre": " ONCE",
+    "pais": "España"
+  },
+  "etapas": [
+    {
+      "etapa": 0,
+      "nombre": "Ruiz Cabestany Pello",
+      "pais": "España",
+      "distancia": 11.5,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 1,
+      "nombre": "Cuadrado Emilio",
+      "pais": "España",
+      "distancia": 108.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 2,
+      "nombre": "Lotus",
+      "pais": "España",
+      "distancia": 36.3,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 3,
+      "nombre": "Martinello Silvio",
+      "pais": "Italia",
+      "distancia": 204.3,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 4,
+      "nombre": "Nijboer Erwin",
+      "pais": "Países Bajos",
+      "distancia": 233.2,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 5,
+      "nombre": "Esnault Patrice",
+      "pais": "Francia",
+      "distancia": 198.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 6,
+      "nombre": "Worre Jesper",
+      "pais": "Dinamarca",
+      "distancia": 195.2,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 7,
+      "nombre": "Van Brabant Benny",
+      "pais": "Bélgica",
+      "distancia": 187.3,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 8,
+      "nombre": "Pedersen Atle",
+      "pais": "Noruega",
+      "distancia": 199.6,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 9,
+      "nombre": "Mora Néstor",
+      "pais": "Colombia",
+      "distancia": 192.7,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 10,
+      "nombre": "Raab Uwe",
+      "pais": "Alemania",
+      "distancia": 230.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 11,
+      "nombre": "Hernández Carlos",
+      "pais": "España",
+      "distancia": 203.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 12,
+      "nombre": "Camargo Alberto",
+      "pais": "Colombia",
+      "distancia": 156.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 13,
+      "nombre": "Emonds Nico",
+      "pais": "Bélgica",
+      "distancia": 193.3,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 14,
+      "nombre": "Gröne Bernd",
+      "pais": "Alemania",
+      "distancia": 207.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 15,
+      "nombre": "Jean-François Bernard",
+      "pais": "Francia",
+      "distancia": 24.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 16,
+      "nombre": "Raab Uwe",
+      "pais": "Alemania",
+      "distancia": 165.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 17,
+      "nombre": "Echave Federico",
+      "pais": "España",
+      "distancia": 151.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 18,
+      "nombre": "Farfán Martín",
+      "pais": "Colombia",
+      "distancia": 178.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 19,
+      "nombre": "Saitov Asiate",
+      "pais": "Unión Soviética",
+      "distancia": 223.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 20,
+      "nombre": "Ruiz Cabestany Pello",
+      "pais": "España",
+      "distancia": 39.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 21,
+      "nombre": "Roux Denis",
+      "pais": "Francia",
+      "distancia": 188.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 22,
+      "nombre": "Raab Uwe",
+      "pais": "Alemania",
+      "distancia": 176.0,
+      "desnivel": null,
+      "velocidadMedia": null
+    }
+  ]
+}

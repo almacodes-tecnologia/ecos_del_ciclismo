@@ -1,0 +1,162 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 1997,
+    "distancia": 1435.5,
+    "desnivel": 0,
+    "tiempo": "33h 27' 53\"",
+    "ciclistasInscritos": 142,
+    "ciclistasFinalizados": 96,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Järmann Rolf",
+            "pais": "Suiza",
+            "equipo": "Casino - C'est votre équipe",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jaskuła Zenon",
+            "pais": "Polonia",
+            "equipo": "Mapei-GB   ",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sviben Sasa",
+            "pais": "Eslovenia",
+            "equipo": "Radenska",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "equipo": "Casino - C'est votre équipe",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sivakov Alexei",
+            "pais": "Rusia",
+            "equipo": "Roslotto-ZG Mobili",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ozols Dainis",
+            "pais": "Letonia",
+            "equipo": "Mróz",
+            "ventaja": "+ 1 min 58 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ugrumov Piotr",
+            "pais": "Letonia",
+            "equipo": "Roslotto-ZG Mobili",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "equipo": "Mercatone Uno",
+            "ventaja": "+ 2 min 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chmielewski Piotr",
+            "pais": "Polonia",
+            "equipo": "Pekaes - Irena - Zepter",
+            "ventaja": "+ 3 min 58 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Mondini Gianpaolo",
+            "pais": "Italia",
+            "equipo": "Amore & Vita - Forzacore",
+            "ventaja": "+ 4 min 1 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Zberg Markus",
+        "pais": "Suiza",
+        "equipo": "Mercatone Uno"
+    },
+    "ganadorMontana": {
+        "nombre": "Pelliccioli Oscar",
+        "pais": "Italia",
+        "equipo": "Mercatone Uno"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Mróz",
+        "pais": "Polonia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Aus Lauri",
+            "pais": "Estonia",
+            "distancia": 168.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.543
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lupi Emanuele",
+            "pais": "Italia",
+            "distancia": 250.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.117
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.283
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kirsipuu Jaan",
+            "pais": "Estonia",
+            "distancia": 234.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.113
+        },
+        {
+            "etapa": 5,
+            "nombre": "Bertoletti Simone",
+            "pais": "Italia",
+            "distancia": 163.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.334
+        },
+        {
+            "etapa": 6,
+            "nombre": "Konyshev Dmitry",
+            "pais": "Rusia",
+            "distancia": 186.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.602
+        },
+        {
+            "etapa": 7,
+            "nombre": "Zberg Markus",
+            "pais": "Suiza",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.073
+        },
+        {
+            "etapa": 8,
+            "nombre": "Andriotto Dario",
+            "pais": "Italia",
+            "distancia": 39.5,
+            "desnivel": 0,
+            "velocidadMedia": 47.211
+        }
+    ]
+}

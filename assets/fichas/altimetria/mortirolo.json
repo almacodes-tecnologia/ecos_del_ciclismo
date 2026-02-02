@@ -1,0 +1,28 @@
+{
+  "id": "mortirolo",
+  "nombre": "Passo del Mortirolo",
+  "pais": "Italia",
+  "longitud_km": 12.2,
+  "desnivel_m": 1307,
+  "altura_maxima_m": 1852,
+  "pendiente_media_porcentaje": 10.7,
+  "pendiente_maxima_porcentaje": 20,
+  "descripcion": "",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 545},
+    {"kilometro": 1, "altitud": 630},
+    {"kilometro": 2, "altitud": 735},
+    {"kilometro": 3, "altitud": 850},
+    {"kilometro": 4, "altitud": 975},
+    {"kilometro": 5, "altitud": 1100},
+    {"kilometro": 6, "altitud": 1225},
+    {"kilometro": 7, "altitud": 1350},
+    {"kilometro": 8, "altitud": 1470},
+    {"kilometro": 9, "altitud": 1580},
+    {"kilometro": 10, "altitud": 1685},
+    {"kilometro": 11, "altitud": 1770},
+    {"kilometro": 12.2, "altitud": 1852}
+  ],
+  "puntos_clave": [
+  ]
+}

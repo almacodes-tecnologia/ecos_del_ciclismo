@@ -1,0 +1,127 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 1947,
+    "distancia": 737.0,
+    "desnivel": 0,
+    "tiempo": "27h 59' 52\"",
+    "ciclistasInscritos": 44,
+    "ciclistasFinalizados": 35,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Klabiński Edward",
+            "pais": "Polonia",
+            "equipo": "Mercier - Hutchinson",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sciardis Gino",
+            "pais": "Italia",
+            "equipo": "Mercier - Hutchinson",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Camellini Fermo",
+            "pais": "Italia",
+            "equipo": "Ray - Dunlop",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Brambilla Pierre",
+            "pais": "Italia",
+            "equipo": "Métropole",
+            "ventaja": "+ 1 min 2 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "equipo": "Métropole",
+            "ventaja": "+ 3 min 24 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Molinéris Pierre",
+            "pais": "Francia",
+            "equipo": "Ray - Dunlop",
+            "ventaja": "+ 5 min 35 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cogan Pierre",
+            "pais": "Francia",
+            "equipo": "Métropole",
+            "ventaja": "+ 6 min 38 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Martin Georges",
+            "pais": "Francia",
+            "equipo": "Follis - Dunlop",
+            "ventaja": "+ 6 min 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fautrier Pierre",
+            "pais": "Francia",
+            "equipo": "Ray - Dunlop",
+            "ventaja": "+ 7 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bourlon Albert",
+            "pais": "Francia",
+            "equipo": "Métropole",
+            "ventaja": "+ 8 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Camellini Fermo",
+            "pais": "Italia",
+            "distancia": 265.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.26
+        },
+        {
+            "etapa": 2,
+            "nombre": "Robic Jean",
+            "pais": "Francia",
+            "distancia": 236.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.94
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sciardis Gino",
+            "pais": "Italia",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.07
+        },
+        {
+            "etapa": 3,
+            "nombre": "Baffert Émile",
+            "pais": "Francia",
+            "distancia": 93.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.98
+        },
+        {
+            "etapa": 4,
+            "nombre": "Martin Georges",
+            "pais": "Francia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.259
+        }
+    ]
+}

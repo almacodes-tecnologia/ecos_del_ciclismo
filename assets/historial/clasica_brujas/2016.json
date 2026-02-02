@@ -1,0 +1,134 @@
+{
+    "idCarrera": "classic-brugge-de-panne",
+    "anio": 2016,
+    "distancia": 520.8,
+    "desnivel": 0,
+    "tiempo": "12h 08' 19\"",
+    "ciclistasInscritos": 166,
+    "ciclistasFinalizados": 107,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Westra Lieuwe",
+            "pais": "Países Bajos",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 35 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Direct Energie",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Durbridge Luke",
+            "pais": "Australia",
+            "equipo": "Orica GreenEDGE",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "equipo": "Stölting Service Group",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Politt Nils",
+            "pais": "Alemania",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Le Bon Johan",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 1 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kristoff Alexander",
+        "pais": "Noruega",
+        "equipo": "Team Katusha "
+    },
+    "ganadorMontana": {
+        "nombre": "Vliegen Loïc",
+        "pais": "Bélgica",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pedersen Mads",
+        "pais": "Dinamarca",
+        "equipo": "Stölting Service Group"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 198.2,
+            "desnivel": 0,
+            "velocidadMedia": 45.29
+        },
+        {
+            "etapa": 2,
+            "nombre": "Viviani Elia",
+            "pais": "Italia",
+            "distancia": 211.1,
+            "desnivel": 0,
+            "velocidadMedia": 42.07
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 111.5,
+            "desnivel": 0,
+            "velocidadMedia": 45.49
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bodnar Maciej",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.0702
+        }
+    ]
+}

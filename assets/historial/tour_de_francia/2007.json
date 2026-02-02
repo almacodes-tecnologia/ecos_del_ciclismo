@@ -1,0 +1,263 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 2007,
+    "distancia": 3423.9,
+    "desnivel": 46595,
+    "tiempo": "91h 00' 26\"",
+    "ciclistasInscritos": 189,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Predictor - Lotto",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sastre Carlos",
+            "pais": "España",
+            "equipo": "CSC ProTeam",
+            "ventaja": "+ 7 min 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 8 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 11 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kirchen Kim",
+            "pais": "Luxemburgo",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 12 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Popovych Yaroslav",
+            "pais": "Ucrania",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 12 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Astarloza Mikel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 14 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pereiro Óscar",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 14 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Boonen Tom",
+        "pais": "Bélgica",
+        "equipo": "Quickstep - Innergetic"
+    },
+    "ganadorMontana": {
+        "nombre": "Soler Juan Mauricio",
+        "pais": "Colombia",
+        "equipo": "Barloworld"
+    },
+    "ganadorJovenes": {
+        "nombre": "Contador Alberto",
+        "pais": "España",
+        "equipo": "Discovery Channel Pro Cycling Team "
+    },
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 7.9,
+            "desnivel": 33,
+            "velocidadMedia": 53.66
+        },
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 203.0,
+            "desnivel": 1709,
+            "velocidadMedia": 43.65
+        },
+        {
+            "etapa": 2,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 168.5,
+            "desnivel": 337,
+            "velocidadMedia": 44.27
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 236.5,
+            "desnivel": 1397,
+            "velocidadMedia": 35.81
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hushovd Thor",
+            "pais": "Noruega",
+            "distancia": 193.0,
+            "desnivel": 1652,
+            "velocidadMedia": 41.69
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pozzato Filippo",
+            "pais": "Italia",
+            "distancia": 182.5,
+            "desnivel": 2703,
+            "velocidadMedia": 39.24
+        },
+        {
+            "etapa": 6,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 199.5,
+            "desnivel": 1484,
+            "velocidadMedia": 37.29
+        },
+        {
+            "etapa": 7,
+            "nombre": "Gerdemann Linus",
+            "pais": "Alemania",
+            "distancia": 197.5,
+            "desnivel": 3250,
+            "velocidadMedia": 40.41
+        },
+        {
+            "etapa": 8,
+            "nombre": "Michael Rasmussen",
+            "pais": "Dinamarca",
+            "distancia": 165.0,
+            "desnivel": 4933,
+            "velocidadMedia": 34.18
+        },
+        {
+            "etapa": 9,
+            "nombre": "Soler Juan Mauricio",
+            "pais": "Colombia",
+            "distancia": 159.5,
+            "desnivel": 3458,
+            "velocidadMedia": 37.62
+        },
+        {
+            "etapa": 10,
+            "nombre": "Vasseur Cédric",
+            "pais": "Francia",
+            "distancia": 229.5,
+            "desnivel": 1917,
+            "velocidadMedia": 42.98
+        },
+        {
+            "etapa": 11,
+            "nombre": "Robert Hunter",
+            "pais": "Sudafrica",
+            "distancia": 182.5,
+            "desnivel": 854,
+            "velocidadMedia": 48.06
+        },
+        {
+            "etapa": 12,
+            "nombre": "Tom Boonen",
+            "pais": "Bélgica",
+            "distancia": 178.5,
+            "desnivel": 2337,
+            "velocidadMedia": 40.33
+        },
+        {
+            "etapa": 13,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 54.0,
+            "desnivel": 533,
+            "velocidadMedia": 47.79
+        },
+        {
+            "etapa": 14,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 197.0,
+            "desnivel": 4370,
+            "velocidadMedia": 36.28
+        },
+        {
+            "etapa": 15,
+            "nombre": "Vinokourov Alexandre",
+            "pais": "Kazajistán",
+            "distancia": 196.0,
+            "desnivel": 5445,
+            "velocidadMedia": 35.07
+        },
+        {
+            "etapa": 16,
+            "nombre": "Rasmussen Michael",
+            "pais": "Dinamarca",
+            "distancia": 218.5,
+            "desnivel": 6031,
+            "velocidadMedia": 34.2
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 188.5,
+            "desnivel": 1734,
+            "velocidadMedia": 44.52
+        },
+        {
+            "etapa": 18,
+            "nombre": "Casar Sandy",
+            "pais": "Francia",
+            "distancia": 211.0,
+            "desnivel": 1938,
+            "velocidadMedia": 40.38
+        },
+        {
+            "etapa": 19,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "distancia": 55.5,
+            "desnivel": 480,
+            "velocidadMedia": 53.56
+        },
+        {
+            "etapa": 20,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2232
+        }
+    ]
+}

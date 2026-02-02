@@ -1,0 +1,138 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2023,
+    "distancia": 734.4,
+    "desnivel": 4018,
+    "tiempo": "15h 51' 52\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 128,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Vermeersch Florian",
+            "pais": "Bélgica",
+            "equipo": "Lotto Dstny",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lampaert Yves",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Teunissen Mike",
+            "pais": "Países Bajos",
+            "equipo": "Intermarché - Circus - Wanty",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Hirschi Marc",
+            "pais": "Suiza",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zingle Axel",
+            "pais": "Francia",
+            "equipo": "Cofidis",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "equipo": "Alpecin - Deceuninck",
+            "ventaja": "+ 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "De Lie Arnaud",
+        "pais": "Bélgica",
+        "equipo": "Lotto Dstny"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "De Lie Arnaud",
+        "pais": "Bélgica",
+        "equipo": "Lotto Dstny"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 182.9,
+            "desnivel": 365,
+            "velocidadMedia": 47.326
+        },
+        {
+            "etapa": 2,
+            "nombre": "Tarling Joshua",
+            "pais": "Reino Unido",
+            "distancia": 13.6,
+            "desnivel": 12,
+            "velocidadMedia": 54.099
+        },
+        {
+            "etapa": 3,
+            "nombre": "Teunissen Mike",
+            "pais": "Países Bajos",
+            "distancia": 171.2,
+            "desnivel": 1417,
+            "velocidadMedia": 46.631
+        },
+        {
+            "etapa": 4,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 179.4,
+            "desnivel": 383,
+            "velocidadMedia": 45.303
+        },
+        {
+            "etapa": 5,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "distancia": 187.3,
+            "desnivel": 1841,
+            "velocidadMedia": 45.498
+        }
+    ]
+}

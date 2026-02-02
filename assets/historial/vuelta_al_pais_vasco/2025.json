@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2025,
+    "distancia": 855.0,
+    "desnivel": 14501,
+    "tiempo": "20h 04' 49\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 112,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 2 min 7 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 2 min 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Wilder Ilan",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Aranburu Alex",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 2 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Velasco Simone",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 3 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "Team Picnic PostNL",
+            "ventaja": "+ 3 min 50 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Champoussin Clément",
+            "pais": "Francia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 3 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Almeida João",
+        "pais": "Portugal",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorMontana": {
+        "nombre": "Armirail Bruno",
+        "pais": "Francia",
+        "equipo": "Decathlon AG2R La Mondiale Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "del Toro Isaac",
+        "pais": "México",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " Soudal Quick-Step",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "distancia": 16.5,
+            "desnivel": 78,
+            "velocidadMedia": 53.178
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ewan Caleb",
+            "pais": "Australia",
+            "distancia": 186.6,
+            "desnivel": 2063,
+            "velocidadMedia": 44.108
+        },
+        {
+            "etapa": 3,
+            "nombre": "Aranburu Alex",
+            "pais": "España",
+            "distancia": 156.6,
+            "desnivel": 3126,
+            "velocidadMedia": 41.695
+        },
+        {
+            "etapa": 4,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 169.6,
+            "desnivel": 2862,
+            "velocidadMedia": 43.74
+        },
+        {
+            "etapa": 5,
+            "nombre": "Healy Ben",
+            "pais": "Irlanda",
+            "distancia": 172.3,
+            "desnivel": 2656,
+            "velocidadMedia": 43.814
+        },
+        {
+            "etapa": 6,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "distancia": 153.4,
+            "desnivel": 3716,
+            "velocidadMedia": 38.852
+        }
+    ]
+}

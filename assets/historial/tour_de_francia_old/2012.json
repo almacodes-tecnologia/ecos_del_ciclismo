@@ -1,0 +1,207 @@
+{
+  "idCarrera": "tour_de_francia",
+  "anio": 2012,
+  "distancia": 3494.4,
+  "desnivel": 0,
+  "tiempo": "87h 34' 47\"",
+  "ciclistasInscritos": 198,
+  "ciclistasFinalizados": 153,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Bradley Wiggins",
+      "pais": "Reino Unido",
+      "equipo": "Sky ProCycling",
+      "ventaja": "0"
+    },
+    {
+      "puesto": 2,
+      "nombre": "Chris Froome",
+      "pais": "Reino Unido",
+      "equipo": "Sky ProCycling",
+      "ventaja": "+3 min 21 s"
+    },
+    {
+      "puesto": 3,
+      "nombre": "Vincenzo Nibali",
+      "pais": "Italia",
+      "equipo": "Liquigas-Cannondale",
+      "ventaja": "+6 min 19 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Jurgen Van den Broeck",
+      "pais": "Bélgica",
+      "equipo": "Lotto - Belisol Team",
+      "ventaja": "+10 min 15 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Tejay van Garderen",
+      "pais": "Estados Unidos",
+      "equipo": "BMC Racing Team",
+      "ventaja": "+11 min 04 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Haimar Zubeldia",
+      "pais": "España",
+      "equipo": "RadioShack-Nissan",
+      "ventaja": "+15 min 41 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Cadel Evans",
+      "pais": "Australia",
+      "equipo": "BMC Racing Team",
+      "ventaja": "+15 min 49 s"
+    },
+    {
+      "puesto": 8,
+      "nombre": "Pierre Rolland",
+      "pais": "Francia",
+      "equipo": "Team Europcar",
+      "ventaja": "+16 min 26 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Janez Brajkovic",
+      "pais": "Eslovenia",
+      "equipo": "Astana Pro Team",
+      "ventaja": "+16 min 33 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Thibaut Pinot",
+      "pais": "Francia",
+      "equipo": "FDJ - BigMat",
+      "ventaja": "+17 min 17 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Peter Sagan",
+    "pais": "Eslovaquia",
+    "equipo": "Liquigas-Cannondale"
+  },
+  "ganadorMontana": {
+    "nombre": "Thomas Voeckler",
+    "pais": "Francia",
+    "equipo": "Team Europcar"
+  },
+  "ganadorJovenes": {
+    "nombre": "Tejay van Garderen",
+    "pais": "Estados Unidos",
+    "equipo": "BMC Racing Team"
+  },
+  "ganadorEquipos": {
+    "nombre": "RadioShack-Nissan",
+    "pais": "Luxemburgo"
+  },
+  "etapas": [
+    {
+      "etapa": "Prólogo",
+      "nombre": "Fabian Cancellara",
+      "pais": "Suiza"
+    },
+    {
+      "etapa": 1,
+      "nombre": "Peter Sagan",
+      "pais": "Eslovaquia"
+    },
+    {
+      "etapa": 2,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 3,
+      "nombre": "Peter Sagan",
+      "pais": "Eslovaquia"
+    },
+    {
+      "etapa": 4,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 5,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 6,
+      "nombre": "Peter Sagan",
+      "pais": "Eslovaquia"
+    },
+    {
+      "etapa": 7,
+      "nombre": "Chris Froome",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 8,
+      "nombre": "Thibaut Pinot",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 9,
+      "nombre": "Bradley Wiggins",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 10,
+      "nombre": "Thomas Voeckler",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 11,
+      "nombre": "Pierre Rolland",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 12,
+      "nombre": "David Millar",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 13,
+      "nombre": "André Greipel",
+      "pais": "Alemania"
+    },
+    {
+      "etapa": 14,
+      "nombre": "Luis León Sánchez",
+      "pais": "España"
+    },
+    {
+      "etapa": 15,
+      "nombre": "Pierrick Fédrigo",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 16,
+      "nombre": "Thomas Voeckler",
+      "pais": "Francia"
+    },
+    {
+      "etapa": 17,
+      "nombre": "Alejandro Valverde",
+      "pais": "España"
+    },
+    {
+      "etapa": 18,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 19,
+      "nombre": "Bradley Wiggins",
+      "pais": "Reino Unido"
+    },
+    {
+      "etapa": 20,
+      "nombre": "Mark Cavendish",
+      "pais": "Reino Unido"
+    }
+  ]
+}

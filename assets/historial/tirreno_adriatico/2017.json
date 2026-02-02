@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2017,
+    "distancia": 1003.7,
+    "desnivel": 13592,
+    "tiempo": "25h 56' 27\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 155,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Castroviejo Jonathan",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 min 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 1 min 59 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Ballerini Davide",
+        "pais": "Italia",
+        "equipo": "Androni - Sidermec - Bottecchia"
+    },
+    "ganadorJovenes": {
+        "nombre": "Jungels Bob",
+        "pais": "Luxemburgo",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 22.7,
+            "desnivel": 5,
+            "velocidadMedia": 58.33
+        },
+        {
+            "etapa": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 229.0,
+            "desnivel": 2370,
+            "velocidadMedia": 39.06
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 204.0,
+            "desnivel": 2291,
+            "velocidadMedia": 41.92
+        },
+        {
+            "etapa": 4,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 171.0,
+            "desnivel": 3453,
+            "velocidadMedia": 31.34
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 209.0,
+            "desnivel": 3410,
+            "velocidadMedia": 41.79
+        },
+        {
+            "etapa": 6,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 168.0,
+            "desnivel": 2063,
+            "velocidadMedia": 40.4
+        },
+        {
+            "etapa": 7,
+            "nombre": "Dennis Rohan",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.0751
+        }
+    ]
+}

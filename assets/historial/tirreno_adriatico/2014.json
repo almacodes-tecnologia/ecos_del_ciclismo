@@ -1,0 +1,155 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2014,
+    "distancia": 1019.5,
+    "desnivel": 11641,
+    "tiempo": "25h 28' 45\"",
+    "ciclistasInscritos": 176,
+    "ciclistasFinalizados": 156,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Peraud Jean-Christophe",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 2 min 39 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Arredondo Julián David",
+            "pais": "Colombia",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 2 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pozzovivo Domenico",
+            "pais": "Italia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 3 min 4 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kišerlovski Robert",
+            "pais": "Croacia",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 3 min 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 3 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sagan Peter",
+        "pais": "Eslovaquia",
+        "equipo": "Cannondale "
+    },
+    "ganadorMontana": {
+        "nombre": "Canola Marco",
+        "pais": "Italia",
+        "equipo": "Bardiani - CSF Pro Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Quintana Nairo",
+        "pais": "Colombia",
+        "equipo": "Movistar Team"
+    },
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 18.5,
+            "desnivel": 85,
+            "velocidadMedia": 54.91
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pelucchi Matteo",
+            "pais": "Italia",
+            "distancia": 166.0,
+            "desnivel": 1353,
+            "velocidadMedia": 42.17
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sagan Peter",
+            "pais": "Eslovaquia",
+            "distancia": 210.0,
+            "desnivel": 1950,
+            "velocidadMedia": 40.61
+        },
+        {
+            "etapa": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 244.0,
+            "desnivel": 3796,
+            "velocidadMedia": 36.61
+        },
+        {
+            "etapa": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 192.0,
+            "desnivel": 3111,
+            "velocidadMedia": 39.09
+        },
+        {
+            "etapa": 6,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 189.0,
+            "desnivel": 1346,
+            "velocidadMedia": 44.25
+        },
+        {
+            "etapa": 7,
+            "nombre": "Malori Adriano",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.3614
+        }
+    ]
+}

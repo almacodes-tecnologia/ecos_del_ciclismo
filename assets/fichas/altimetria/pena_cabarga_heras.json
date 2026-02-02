@@ -1,0 +1,23 @@
+{
+  "id": "pena_cabarga_heras",
+  "nombre": "Peña Cabarga",
+  "pais": "España",
+  "longitud_km": 5.9,
+  "desnivel_m": 555,
+  "altura_maxima_m": 567,
+  "pendiente_media_porcentaje": 9.4,
+  "pendiente_maxima_porcentaje": 18.0,
+  "descripcion": "La subida más famosa de Peña Cabarga, utilizada en la Vuelta a España, se caracteriza por su corta distancia y sus rampas extremadamente duras, incluyendo un tramo de falso llano antes del final.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 12},
+    {"kilometro": 1.0, "altitud": 110},
+    {"kilometro": 2.0, "altitud": 215},
+    {"kilometro": 3.0, "altitud": 310},
+    {"kilometro": 4.0, "altitud": 330},
+    {"kilometro": 5.0, "altitud": 465},
+    {"kilometro": 5.9, "altitud": 567}
+  ],
+  "puntos_clave": [
+
+  ]
+}

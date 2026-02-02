@@ -1,0 +1,294 @@
+{
+    "idCarrera": "tour-de-france",
+    "anio": 1981,
+    "distancia": 3480.9,
+    "desnivel": 45764,
+    "tiempo": "96h 19' 38\"",
+    "ciclistasInscritos": 150,
+    "ciclistasFinalizados": 121,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "equipo": "Renault - Elf - Gitane",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "equipo": "Boston - Mavic",
+            "ventaja": "+ 14 min 34 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Alban Robert",
+            "pais": "Francia",
+            "equipo": "La Redoute - Motobecane",
+            "ventaja": "+ 17 min 4 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zoetemelk Joop",
+            "pais": "Países Bajos",
+            "equipo": "TI - Raleigh - Creda",
+            "ventaja": "+ 18 min 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "equipo": "Capri Sonne - Koga Miyata",
+            "ventaja": "+ 20 min 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bernaudeau Jean-René",
+            "pais": "Francia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 23 min 2 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "De Muynck Johan",
+            "pais": "Bélgica",
+            "equipo": "Splendor - Wickes Bouwmarkt - Europ Decor",
+            "ventaja": "+ 24 min 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Nilsson Sven-Åke",
+            "pais": "Suecia",
+            "equipo": "Splendor - Wickes Bouwmarkt - Europ Decor",
+            "ventaja": "+ 24 min 37 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Criquielion Claude",
+            "pais": "Bélgica",
+            "equipo": "Splendor - Wickes Bouwmarkt - Europ Decor",
+            "ventaja": "+ 26 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Anderson Phil",
+            "pais": "Australia",
+            "equipo": "Peugeot - Esso - Michelin",
+            "ventaja": "+ 26 min 52 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Maertens Freddy",
+        "pais": "Bélgica",
+        "equipo": "Boule d'Or - Sunair - Colnago"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Impe Lucien",
+        "pais": "Bélgica",
+        "equipo": "Boston - Mavic"
+    },
+    "ganadorJovenes": {
+        "nombre": "Winnen Peter",
+        "pais": "Países Bajos",
+        "equipo": "Capri Sonne - Koga Miyata"
+    },
+    "ganadorEquipos": {
+        "nombre": " Peugeot - Esso - Michelin",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 5.85,
+            "desnivel": 63,
+            "velocidadMedia": 51.618
+        },
+        {
+            "etapa": 1,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 97.0,
+            "desnivel": 2000,
+            "velocidadMedia": 40.61
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 40.0,
+            "desnivel": 268,
+            "velocidadMedia": 51.799
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 254.0,
+            "desnivel": 3500,
+            "velocidadMedia": 38.83
+        },
+        {
+            "etapa": 3,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 232.0,
+            "desnivel": 1568,
+            "velocidadMedia": 35.34
+        },
+        {
+            "etapa": 5,
+            "nombre": "Van Impe Lucien",
+            "pais": "Bélgica",
+            "distancia": 117.5,
+            "desnivel": 3500,
+            "velocidadMedia": 33.03
+        },
+        {
+            "etapa": 6,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 26.7,
+            "desnivel": 475,
+            "velocidadMedia": 43.49
+        },
+        {
+            "etapa": 7,
+            "nombre": "Freuler Urs",
+            "pais": "Suiza",
+            "distancia": 227.0,
+            "desnivel": 1731,
+            "velocidadMedia": 40.368
+        },
+        {
+            "etapa": 8,
+            "nombre": "Wijnands Ad",
+            "pais": "Países Bajos",
+            "distancia": 182.0,
+            "desnivel": 1267,
+            "velocidadMedia": 39.62
+        },
+        {
+            "etapa": 9,
+            "nombre": "Martens René",
+            "pais": "Bélgica",
+            "distancia": 196.5,
+            "desnivel": 1781,
+            "velocidadMedia": 44.69
+        },
+        {
+            "etapa": 10,
+            "nombre": "Wijnands Ad",
+            "pais": "Países Bajos",
+            "distancia": 258.5,
+            "desnivel": 2060,
+            "velocidadMedia": 40.54
+        },
+        {
+            "etapa": 11,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "distancia": 246.0,
+            "desnivel": 1790,
+            "velocidadMedia": 38.83
+        },
+        {
+            "etapa": 12,
+            "nombre": null,
+            "pais": null,
+            "distancia": 105.5,
+            "desnivel": 1052,
+            "velocidadMedia": 44.03
+        },
+        {
+            "etapa": 12,
+            "nombre": "Planckaert Eddy",
+            "pais": "Bélgica",
+            "distancia": 133.8,
+            "desnivel": 969,
+            "velocidadMedia": 39.4
+        },
+        {
+            "etapa": 13,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 157.0,
+            "desnivel": 854,
+            "velocidadMedia": 39.03
+        },
+        {
+            "etapa": 14,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 38.5,
+            "desnivel": 334,
+            "velocidadMedia": 45.15
+        },
+        {
+            "etapa": 15,
+            "nombre": null,
+            "pais": null,
+            "distancia": 231.0,
+            "desnivel": 4000,
+            "velocidadMedia": 39.93
+        },
+        {
+            "etapa": 16,
+            "nombre": "Alban Robert",
+            "pais": "Francia",
+            "distancia": 199.5,
+            "desnivel": 5000,
+            "velocidadMedia": 31.88
+        },
+        {
+            "etapa": 17,
+            "nombre": "Winnen Peter",
+            "pais": "Países Bajos",
+            "distancia": 230.5,
+            "desnivel": 5245,
+            "velocidadMedia": 30.24
+        },
+        {
+            "etapa": 18,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 131.0,
+            "desnivel": 4000,
+            "velocidadMedia": 30.62
+        },
+        {
+            "etapa": 19,
+            "nombre": "Willems Daniel",
+            "pais": "Bélgica",
+            "distancia": 117.5,
+            "desnivel": 1996,
+            "velocidadMedia": 37.53
+        },
+        {
+            "etapa": 20,
+            "nombre": "Hinault Bernard",
+            "pais": "Francia",
+            "distancia": 46.5,
+            "desnivel": 508,
+            "velocidadMedia": 45.05
+        },
+        {
+            "etapa": 21,
+            "nombre": "van der Velde Johan",
+            "pais": "Países Bajos",
+            "distancia": 207.0,
+            "desnivel": 1803,
+            "velocidadMedia": 37.34
+        },
+        {
+            "etapa": 22,
+            "nombre": "Maertens Freddy",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5298
+        }
+    ]
+}

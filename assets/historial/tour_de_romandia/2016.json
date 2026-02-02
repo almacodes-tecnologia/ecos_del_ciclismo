@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2016,
+    "distancia": 466.2,
+    "desnivel": 9101,
+    "tiempo": "16h 20' 20\"",
+    "ciclistasInscritos": 160,
+    "ciclistasFinalizados": 124,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Dumoulin Tom",
+            "pais": "Países Bajos",
+            "equipo": "Team Giant - Alpecin",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Frank Mathias",
+            "pais": "Suiza",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 min 24 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 1 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Albasini Michael",
+        "pais": "Suiza",
+        "equipo": "Orica GreenEDGE"
+    },
+    "ganadorMontana": {
+        "nombre": "Armée Sander",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorJovenes": {
+        "nombre": "Latour Pierre",
+        "pais": "Francia",
+        "equipo": "AG2R La Mondiale"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "distancia": 3.95,
+            "desnivel": 69,
+            "velocidadMedia": 42.7
+        },
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 100.5,
+            "desnivel": 2212,
+            "velocidadMedia": 40.81
+        },
+        {
+            "etapa": 2,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "distancia": 173.9,
+            "desnivel": 3196,
+            "velocidadMedia": 38.84
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 15.11,
+            "desnivel": 278,
+            "velocidadMedia": 44.55
+        },
+        {
+            "etapa": 4,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 172.7,
+            "desnivel": 3346,
+            "velocidadMedia": 36.43
+        },
+        {
+            "etapa": 5,
+            "nombre": "Albasini Michael",
+            "pais": "Suiza",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.3815
+        }
+    ]
+}

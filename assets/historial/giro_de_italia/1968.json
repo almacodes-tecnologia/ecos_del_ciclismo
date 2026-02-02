@@ -1,0 +1,282 @@
+{
+    "idCarrera": "giro-d-italia",
+    "anio": 1968,
+    "distancia": 3684.7,
+    "desnivel": 0,
+    "tiempo": "108h 42' 27\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 90,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "equipo": "Faema",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Adorni Vittorio",
+            "pais": "Italia",
+            "equipo": "Faema",
+            "ventaja": "+ 5 min 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "equipo": "Salvarani",
+            "ventaja": "+ 9 min 5 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 9 min 17 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van Neste Willy",
+            "pais": "Bélgica",
+            "equipo": "Bic",
+            "ventaja": "+ 10 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Dancelli Michele",
+            "pais": "Italia",
+            "equipo": "Pepsi Cola",
+            "ventaja": "+ 12 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Balmamion Franco",
+            "pais": "Italia",
+            "equipo": "Molteni",
+            "ventaja": "+ 15 min 43 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gabica Francisco",
+            "pais": "España",
+            "equipo": "Fagor",
+            "ventaja": "+ 16 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "equipo": "Filotex",
+            "ventaja": "+ 19 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "equipo": "Bic",
+            "ventaja": "+ 19 min 51 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Merckx Eddy",
+        "pais": "Bélgica",
+        "equipo": "Faema"
+    },
+    "ganadorMontana": {
+        "nombre": "Merckx Eddy",
+        "pais": "Bélgica",
+        "equipo": "Faema"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Faema",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 0,
+            "nombre": "Grosskost Charly",
+            "pais": "Francia",
+            "distancia": 5.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 129.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.256
+        },
+        {
+            "etapa": 2,
+            "nombre": "Motta Gianni",
+            "pais": "Italia",
+            "distancia": 189.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.525
+        },
+        {
+            "etapa": 3,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 168.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.48
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sels Ward",
+            "pais": "Bélgica",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.086
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zilioli Italo",
+            "pais": "Italia",
+            "distancia": 137.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.706
+        },
+        {
+            "etapa": 6,
+            "nombre": "Momeñe José Antonio",
+            "pais": "España",
+            "distancia": 223.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.891
+        },
+        {
+            "etapa": 7,
+            "nombre": "Tosello Guerrino",
+            "pais": "Italia",
+            "distancia": 170.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.339
+        },
+        {
+            "etapa": 8,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 225.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.739
+        },
+        {
+            "etapa": 9,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 210.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.463
+        },
+        {
+            "etapa": 10,
+            "nombre": "Casalini Emilio",
+            "pais": "Italia",
+            "distancia": 136.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.379
+        },
+        {
+            "etapa": 11,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 197.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.439
+        },
+        {
+            "etapa": 12,
+            "nombre": "Merckx Eddy",
+            "pais": "Bélgica",
+            "distancia": 213.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.593
+        },
+        {
+            "etapa": 13,
+            "nombre": "Farisato Lino",
+            "pais": "Italia",
+            "distancia": 163.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.622
+        },
+        {
+            "etapa": 14,
+            "nombre": "Sgarbozza Luigi",
+            "pais": "Italia",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.656
+        },
+        {
+            "etapa": 15,
+            "nombre": "Basso Marino",
+            "pais": "Italia",
+            "distancia": 141.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.701
+        },
+        {
+            "etapa": 16,
+            "nombre": "Gimondi Felice",
+            "pais": "Italia",
+            "distancia": 51.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.918
+        },
+        {
+            "etapa": 17,
+            "nombre": "Bitossi Franco",
+            "pais": "Italia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.638
+        },
+        {
+            "etapa": 18,
+            "nombre": "Jiménez Julio",
+            "pais": "España",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.884
+        },
+        {
+            "etapa": 19,
+            "nombre": "Dalla Bona Luciano",
+            "pais": "Italia",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.966
+        },
+        {
+            "etapa": 20,
+            "nombre": "Santamarina Luis Pedro",
+            "pais": "España",
+            "distancia": 215.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.673
+        },
+        {
+            "etapa": 21,
+            "nombre": "Bodrero Franco",
+            "pais": "Italia",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 31.758
+        },
+        {
+            "etapa": 22,
+            "nombre": "Reybrouck Guido",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.031
+        }
+    ]
+}
