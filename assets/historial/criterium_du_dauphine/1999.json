@@ -1,144 +1,144 @@
 {
-    "idCarrera": "dauphine",
-    "anio": 1999,
-    "distancia": 992.8,
-    "desnivel": 0,
-    "tiempo": "30h 25' 19\"",
-    "ciclistasInscritos": 0,
-    "ciclistasFinalizados": 64,
-    "clasificacionGeneral": [
-        {
-            "puesto": 1,
-            "nombre": "Vinokourov Alexander",
-            "pais": "Kazajistan",
-            "equipo": "Casino–Ag2r Prévoyance",
-            "ventaja": "0"
-        },
-        {
-            "puesto": 2,
-            "nombre": "Vaughters Jonathan",
-            "pais": "Estados Unidos",
-            "equipo": "US Postal Service",
-            "ventaja": "+ 1 min 14 s"
-        },
-        {
-            "puesto": 3,
-            "nombre": "Belli Wladimir",
-            "pais": "Italia",
-            "equipo": "Festina - Lotus",
-            "ventaja": "+ 3 min 48 s"
-        },
-        {
-            "puesto": 4,
-            "nombre": "Beloki Joseba",
-            "pais": "España",
-            "equipo": "Euskaltel - Euskadi",
-            "ventaja": "+ 3 min 57 s"
-        },
-        {
-            "puesto": 5,
-            "nombre": "Heulot Stéphane",
-            "pais": "Francia",
-            "equipo": "La Française des Jeux",
-            "ventaja": "+ 4 min 45 s"
-        },
-        {
-            "puesto": 6,
-            "nombre": "Livingston Kevin",
-            "pais": "Estados Unidos",
-            "equipo": "US Postal Service",
-            "ventaja": "+ 4 min 47 s"
-        },
-        {
-            "puesto": 7,
-            "nombre": "Osa Unai",
-            "pais": "España",
-            "equipo": "Banesto",
-            "ventaja": "+ 4 min 48 s"
-        },
-        {
-            "puesto": 9,
-            "nombre": "Simon François",
-            "pais": "Francia",
-            "equipo": "Crédit Agricole",
-            "ventaja": "+ 6 min 37 s"
-        },
-        {
-            "puesto": 10,
-            "nombre": "Bouvard Gilles",
-            "pais": "Francia",
-            "equipo": "Home Market - Ville de Charleroi",
-            "ventaja": "+ 6 min 41 s"
-        }
-    ],
-    "ganadorPuntos": {
-        "nombre": "Vinokourov Alexandre",
-        "pais": "Kazajistán",
-        "equipo": "Casino - AG2R"
+  "idCarrera": "dauphine",
+  "anio": 1999,
+  "distancia": 992.8,
+  "desnivel": 0,
+  "tiempo": "30h 25' 19\"",
+  "ciclistasInscritos": 0,
+  "ciclistasFinalizados": 64,
+  "clasificacionGeneral": [
+    {
+      "puesto": 1,
+      "nombre": "Vinokourov Alexandre",
+      "pais": "Kazajistán",
+      "equipo": "Casino–Ag2r Prévoyance",
+      "ventaja": "0"
     },
-    "ganadorMontana": {
-        "nombre": "Belli Wladimir",
-        "pais": "Italia",
-        "equipo": "Festina - Lotus"
+    {
+      "puesto": 2,
+      "nombre": "Vaughters Jonathan",
+      "pais": "Estados Unidos",
+      "equipo": "US Postal Service",
+      "ventaja": "+ 1 min 14 s"
     },
-    "ganadorJovenes": {},
-    "ganadorEquipos": {},
-    "etapas": [
-        {
-            "etapa": 1,
-            "nombre": "Oriol Christophe",
-            "pais": "Francia",
-            "distancia": 208.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        },
-        {
-            "etapa": 2,
-            "nombre": "Vinokourov Alexandre",
-            "pais": "Kazajistán",
-            "distancia": 164.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        },
-        {
-            "etapa": 3,
-            "nombre": "Vaughters Jonathan",
-            "pais": "Estados Unidos",
-            "distancia": 21.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        },
-        {
-            "etapa": 4,
-            "nombre": "Desbiens Laurent",
-            "pais": "Francia",
-            "distancia": 203.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        },
-        {
-            "etapa": 5,
-            "nombre": "Madouas Laurent",
-            "pais": "Francia",
-            "distancia": 213.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        },
-        {
-            "etapa": 6,
-            "nombre": "Moncoutié David",
-            "pais": "Francia",
-            "distancia": 177.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        },
-        {
-            "etapa": 7,
-            "nombre": "Bassons Christophe",
-            "pais": "Francia",
-            "distancia": 0.0,
-            "desnivel": 0,
-            "velocidadMedia": null
-        }
-    ]
+    {
+      "puesto": 3,
+      "nombre": "Belli Wladimir",
+      "pais": "Italia",
+      "equipo": "Festina - Lotus",
+      "ventaja": "+ 3 min 48 s"
+    },
+    {
+      "puesto": 4,
+      "nombre": "Beloki Joseba",
+      "pais": "España",
+      "equipo": "Euskaltel - Euskadi",
+      "ventaja": "+ 3 min 57 s"
+    },
+    {
+      "puesto": 5,
+      "nombre": "Heulot Stéphane",
+      "pais": "Francia",
+      "equipo": "La Française des Jeux",
+      "ventaja": "+ 4 min 45 s"
+    },
+    {
+      "puesto": 6,
+      "nombre": "Livingston Kevin",
+      "pais": "Estados Unidos",
+      "equipo": "US Postal Service",
+      "ventaja": "+ 4 min 47 s"
+    },
+    {
+      "puesto": 7,
+      "nombre": "Osa Unai",
+      "pais": "España",
+      "equipo": "Banesto",
+      "ventaja": "+ 4 min 48 s"
+    },
+    {
+      "puesto": 9,
+      "nombre": "Simon François",
+      "pais": "Francia",
+      "equipo": "Crédit Agricole",
+      "ventaja": "+ 6 min 37 s"
+    },
+    {
+      "puesto": 10,
+      "nombre": "Bouvard Gilles",
+      "pais": "Francia",
+      "equipo": "Home Market - Ville de Charleroi",
+      "ventaja": "+ 6 min 41 s"
+    }
+  ],
+  "ganadorPuntos": {
+    "nombre": "Vinokourov Alexandre",
+    "pais": "Kazajistán",
+    "equipo": "Casino - AG2R"
+  },
+  "ganadorMontana": {
+    "nombre": "Belli Wladimir",
+    "pais": "Italia",
+    "equipo": "Festina - Lotus"
+  },
+  "ganadorJovenes": {},
+  "ganadorEquipos": {},
+  "etapas": [
+    {
+      "etapa": 1,
+      "nombre": "Oriol Christophe",
+      "pais": "Francia",
+      "distancia": 208.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 2,
+      "nombre": "Vinokourov Alexandre",
+      "pais": "Kazajistán",
+      "distancia": 164.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 3,
+      "nombre": "Vaughters Jonathan",
+      "pais": "Estados Unidos",
+      "distancia": 21.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 4,
+      "nombre": "Desbiens Laurent",
+      "pais": "Francia",
+      "distancia": 203.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 5,
+      "nombre": "Madouas Laurent",
+      "pais": "Francia",
+      "distancia": 213.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 6,
+      "nombre": "Moncoutié David",
+      "pais": "Francia",
+      "distancia": 177.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    },
+    {
+      "etapa": 7,
+      "nombre": "Bassons Christophe",
+      "pais": "Francia",
+      "distancia": 0.0,
+      "desnivel": 0,
+      "velocidadMedia": null
+    }
+  ]
 }
