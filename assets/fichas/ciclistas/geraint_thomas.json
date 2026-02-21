@@ -318,9 +318,649 @@
       "puesto": "3"
     }
   ],
-  "resultadosMonumentos": [],
-  "resultadosMundiales": [],
-  "resultadosVueltasMenores": [],
+  "resultadosMonumentos": [
+      {
+      "anio": 2013,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "4"
+    },
+	{
+      "anio": 2024,
+      "carrera": "Strade Bianche",
+      "puesto": "4"
+    },
+	{
+      "anio": 2010,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2011,
+      "carrera": "Milán-San Remo",
+      "puesto": "60"
+    },
+	{
+      "anio": 2013,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2014,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2015,
+      "carrera": "Milán-San Remo",
+      "puesto": "31"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Milán-San Remo",
+      "puesto": "169"
+    },
+	{
+      "anio": 2012,
+      "carrera": "París-Tours",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2012,
+      "carrera": "Gran Premio de Montreal",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2013,
+      "carrera": "Gran Premio de Montreal",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2014,
+      "carrera": "Gran Premio de Montreal",
+      "puesto": "90"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Gran Premio de Montreal",
+      "puesto": "66"
+    },
+	{
+      "anio": 2019,
+      "carrera": "Gran Premio de Montreal",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2022,
+      "carrera": "Gran Premio de Montreal",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2012,
+      "carrera": "Gran Premio de Quebec",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2013,
+      "carrera": "Gran Premio de Quebec",
+      "puesto": "98"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Gran Premio de Quebec",
+      "puesto": "116"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Gran Premio de Quebec",
+      "puesto": "73"
+    },
+	{
+      "anio": 2019,
+      "carrera": "Gran Premio de Quebec",
+      "puesto": "97"
+    },
+	{
+      "anio": 2022,
+      "carrera": "Gran Premio de Quebec",
+      "puesto": "101"
+    },
+	{
+      "anio": 2010,
+      "carrera": "Bretagne Classic",
+      "puesto": "75"
+    },
+	{
+      "anio": 2012,
+      "carrera": "Bretagne Classic",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2011,
+      "carrera": "EuroEyes Classics",
+      "puesto": "31"
+    },
+	{
+      "anio": 2012,
+      "carrera": "EuroEyes Classics",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2018,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "56"
+    },
+	{
+      "anio": 2022,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "43"
+    },
+	{
+      "anio": 2022,
+      "carrera": "Flecha Valona",
+      "puesto": "98"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2010,
+      "carrera": "París-Roubaix",
+      "puesto": "64"
+    },
+	{
+      "anio": 2011,
+      "carrera": "París-Roubaix",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2013,
+      "carrera": "París-Roubaix",
+      "puesto": "79"
+    },
+	{
+      "anio": 2014,
+      "carrera": "París-Roubaix",
+      "puesto": "7"
+    },
+	{
+      "anio": 2015,
+      "carrera": "París-Roubaix",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2018,
+      "carrera": "París-Roubaix",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2008,
+      "carrera": "Scheldeprijs",
+      "puesto": "24"
+    },
+	{
+      "anio": 2013,
+      "carrera": "Scheldeprijs",
+      "puesto": "129"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Scheldeprijs",
+      "puesto": "142"
+    },
+	{
+      "anio": 2015,
+      "carrera": "Scheldeprijs",
+      "puesto": "152"
+    },
+	{
+      "anio": 2010,
+      "carrera": "Tour de Flandes",
+      "puesto": "33"
+    },
+	{
+      "anio": 2011,
+      "carrera": "Tour de Flandes",
+      "puesto": "10"
+    },
+	{
+      "anio": 2013,
+      "carrera": "Tour de Flandes",
+      "puesto": "41"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Tour de Flandes",
+      "puesto": "8"
+    },
+	{
+      "anio": 2015,
+      "carrera": "Tour de Flandes",
+      "puesto": "14"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Tour de Flandes",
+      "puesto": "12"
+    },
+	{
+      "anio": 2010,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2011,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "124"
+    },
+	{
+      "anio": 2013,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2014,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "112"
+    },
+	{
+      "anio": 2015,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "3"
+    },
+	{
+      "anio": 2010,
+      "carrera": "E3 Saxo Bank Classic",
+      "puesto": "50"
+    },
+	{
+      "anio": 2013,
+      "carrera": "E3 Saxo Bank Classic",
+      "puesto": "4"
+    },
+	{
+      "anio": 2014,
+      "carrera": "E3 Saxo Bank Classic",
+      "puesto": "3"
+    },
+	{
+      "anio": 2015,
+      "carrera": "E3 Saxo Bank Classic",
+      "puesto": "1"
+    },
+	{
+      "anio": 2010,
+      "carrera": "A Través de Flandes",
+      "puesto": "32"
+    },
+	{
+      "anio": 2011,
+      "carrera": "A Través de Flandes",
+      "puesto": "2"
+    },
+	{
+      "anio": 2013,
+      "carrera": "A Través de Flandes",
+      "puesto": "19"
+    }
+	],
+  "resultadosMundiales": [
+	{
+      "anio": 2016,
+      "carrera": "JJ. OO. (Ruta)",
+      "puesto": "11"
+    },
+	{
+      "anio": 2021,
+      "carrera": "JJ. OO. (Ruta)",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2016,
+      "carrera": "JJ. OO. (CRI)",
+      "puesto": "9"
+    },
+	{
+      "anio": 2021,
+      "carrera": "JJ. OO. (CRI)",
+      "puesto": "12"
+    },
+	{
+      "anio": 2009,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2011,
+      "carrera": "Mundial en Ruta",
+      "puesto": "81"
+    },
+	{
+      "anio": 2013,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2014,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2016,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2019,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2020,
+      "carrera": "Mundial CRI",
+      "puesto": "4"
+    },
+	{
+      "anio": 2023,
+      "carrera": "Mundial CRI",
+      "puesto": "10"
+    },
+  ],
+  "resultadosVueltasMenores": [
+	{
+      "anio": 2007,
+      "carrera": "Tour Down Under",
+      "puesto": "11¡¡47"
+    },
+	{
+      "anio": 2011,
+      "carrera": "Tour Down Under",
+      "puesto": "68"
+    },
+	{
+      "anio": 2012,
+      "carrera": "Tour Down Under",
+      "puesto": "46"
+    },
+	{
+      "anio": 2013,
+      "carrera": "Tour Down Under",
+      "puesto": "3"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Tour Down Under",
+      "puesto": "8"
+    },
+	{
+      "anio": 2015,
+      "carrera": "Tour Down Under",
+      "puesto": "32"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Tour Down Under",
+      "puesto": "39"
+    },
+	{
+      "anio": 2017,
+      "carrera": "Tour Down Under",
+      "puesto": "49"
+    },
+	{
+      "anio": 2023,
+      "carrera": "Tour Down Under",
+      "puesto": "80"
+    },
+	{
+      "anio": 2025,
+      "carrera": "Tour Down Under",
+      "puesto": "129"
+    },
+	{
+      "anio": 2010,
+      "carrera": "París-Niza",
+      "puesto": "86"
+    },
+	{
+      "anio": 2011,
+      "carrera": "París-Niza",
+      "puesto": "83"
+    },
+	{
+      "anio": 2012,
+      "carrera": "París-Niza",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2014,
+      "carrera": "París-Niza",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2015,
+      "carrera": "París-Niza",
+      "puesto": "5"
+    },
+	{
+      "anio": 2016,
+      "carrera": "París-Niza",
+      "puesto": "1"
+    },
+	{
+      "anio": 2009,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2017,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "5"
+    },
+	{
+      "anio": 2018,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "3"
+    },
+	{
+      "anio": 2019,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2020,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "2"
+    },
+	{
+      "anio": 2021,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "24"
+    },
+	{
+      "anio": 2010,
+      "carrera": "Renewi Tour",
+      "puesto": "66"
+    },
+	{
+      "anio": 2011,
+      "carrera": "Renewi Tour",
+      "puesto": "57"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Renewi Tour",
+      "puesto": "6"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Renewi Tour",
+      "puesto": "32"
+    },
+	{
+      "anio": 2021,
+      "carrera": "Renewi Tour",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2024,
+      "carrera": "Renewi Tour",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2023,
+      "carrera": "Tour de Polonia",
+      "puesto": "47"
+    },
+	{
+      "anio": 2015,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "2"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "17"
+    },
+	{
+      "anio": 2019,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2022,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "1"
+    },
+	{
+      "anio": 2025,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2010,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "21"
+    },
+	{
+      "anio": 2011,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2013,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "15"
+    },
+	{
+      "anio": 2014,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "46"
+    },
+	{
+      "anio": 2018,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "1"
+    },
+	{
+      "anio": 2020,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "37"
+    },
+	{
+      "anio": 2021,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "3"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Volta a Cataluña",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2017,
+      "carrera": "Volta a Cataluña",
+      "puesto": "34"
+    },
+	{
+      "anio": 2021,
+      "carrera": "Volta a Cataluña",
+      "puesto": "3"
+    },
+	{
+      "anio": 2023,
+      "carrera": "Volta a Cataluña",
+      "puesto": "45"
+    },
+	{
+      "anio": 2024,
+      "carrera": "Volta a Cataluña",
+      "puesto": "27"
+    },
+	{
+      "anio": 2025,
+      "carrera": "Volta a Cataluña",
+      "puesto": "45"
+    },
+	,
+	{
+      "anio": 2019,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "40"
+    },
+	,
+	{
+      "anio": 2022,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "39"
+    },
+	{
+      "anio": 2011,
+      "carrera": "Tour de Romandía",
+      "puesto": "88"
+    },
+	{
+      "anio": 2012,
+      "carrera": "Tour de Romandía",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2015,
+      "carrera": "Tour de Romandía",
+      "puesto": "87"
+    },
+	{
+      "anio": 2016,
+      "carrera": "Tour de Romandía",
+      "puesto": "51"
+    },
+	{
+      "anio": 2018,
+      "carrera": "Tour de Romandía",
+      "puesto": "33"
+    },
+	{
+      "anio": 2019,
+      "carrera": "Tour de Romandía",
+      "puesto": "3"
+    },
+	{
+      "anio": 2021,
+      "carrera": "Tour de Romandía",
+      "puesto": "1"
+    },
+	{
+      "anio": 2022,
+      "carrera": "Tour de Romandía",
+      "puesto": "19"
+    },
+	{
+      "anio": 2025,
+      "carrera": "Tour de Romandía",
+      "puesto": "28"
+    }
+	],
   "habilidades": {
     "llano": 4,
     "montana": 4,
