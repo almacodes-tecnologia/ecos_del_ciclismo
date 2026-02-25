@@ -2,475 +2,281 @@
   "id": "rafal_majka",
   "nombre": "Rafal Majka",
   "nacionalidad": "Polonia",
-  "anioNacimiento": 1982,
-  "activo": "2003-2017",
+  "anioNacimiento": 1989,
+  "activo": "2009-2025",
   "especialidad": [
-    "carretera"
+    "carretera",
+	"montaña"
   ],
-  "equipos": [
-    {
-      "anio": 2003,
-      "equipo": "ONCE-Eroski"
-    },
-    {
-      "anio": 2004,
-      "equipo": "Liberty Seguros"
-    },
-    {
-      "anio": 2005,
-      "equipo": "Liberty Seguros"
-    },
-    {
-      "anio": 2006,
-      "equipo": "Liberty Seguros"
-    },
-    {
-      "anio": 2007,
-      "equipo": "Discovery Channel"
-    },
-    {
-      "anio": 2008,
-      "equipo": "Astana"
-    },
-    {
-      "anio": 2009,
-      "equipo": "Astana"
-    },
-    {
-      "anio": 2010,
-      "equipo": "Astana"
-    },
-    {
-      "anio": 2011,
-      "equipo": "Saxo Bank-Sungard"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Saxo Bank"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Saxo-Tinkoff"
-    },
-    {
-      "anio": 2014,
-      "equipo": "Tinkoff-Saxo"
-    },
-    {
-      "anio": 2015,
-      "equipo": "Tinkoff-Saxo"
-    },
-    {
-      "anio": 2016,
-      "equipo": "Tinkoff"
-    },
-    {
-      "anio": 2017,
-      "equipo": "Trek-Segafredo"
-    }
-  ],
+"equipos": [
+  {
+    "anio": 2009,
+    "equipo": "Miche-Silver Cross-Selle Italia"
+  },
+  {
+    "anio": 2010,
+    "equipo": "Miche-Silver Cross-Selle Italia"
+  },
+  {
+    "anio": 2011,
+    "equipo": "Saxo Bank Sungard"
+  },
+  {
+    "anio": 2012,
+    "equipo": "Saxo Bank-Tinkoff Bank"
+  },
+  {
+    "anio": 2013,
+    "equipo": "Team Saxo-Tinkoff"
+  },
+  {
+    "anio": 2014,
+    "equipo": "Tinkoff-Saxo"
+  },
+  {
+    "anio": 2015,
+    "equipo": "Tinkoff-Saxo"
+  },
+  {
+    "anio": 2016,
+    "equipo": "Tinkoff"
+  },
+  {
+    "anio": 2017,
+    "equipo": "Bora-Hansgrohe"
+  },
+  {
+    "anio": 2018,
+    "equipo": "Bora-Hansgrohe"
+  },
+  {
+    "anio": 2019,
+    "equipo": "Bora-Hansgrohe"
+  },
+  {
+    "anio": 2020,
+    "equipo": "Bora-Hansgrohe"
+  },
+  {
+    "anio": 2021,
+    "equipo": "UAE Team Emirates"
+  },
+  {
+    "anio": 2022,
+    "equipo": "UAE Team Emirates"
+  },
+  {
+    "anio": 2023,
+    "equipo": "UAE Team Emirates"
+  },
+  {
+    "anio": 2024,
+    "equipo": "UAE Team Emirates"
+  },
+  {
+    "anio": 2025,
+    "equipo": "UAE Team Emirates XRG"
+  }
+],
   "palmares": {
-    "2003": [
-    "1 etapa del Tour de Polonia"
-  ],
-    "2005": [
-      "1 etapa del Tour Down Under",
-      "Semana Catalana",
-      "1 etapa en la Semana Catalana",
-      "1 etapa de la Vuelta al País Vasco",
-      "1 etapa del Tour de Romandía"
-    ],
+   "2014":[
+   "2 etapas del Tour de Francia",
+   "Clasificación de la montaña del Tour de Francia", 
+   "Tour de Polonia",
+   "2 etapas del Tour de Polonia"
+   ],
+	"2015":[
+	"1 etapa del Tour de Francia",
+	"3º en la Vuelta a España"
+	],
 
-    "2006": [
-      "1 etapa del Tour de Romandía",
-      "1 etapa de la Vuelta a Suiza"
-    ],
+	"2016":[
+	"Campeonato de Polonia en Ruta",  
+	"Clasificación de la montaña del Tour de Francia ",
+	"3º en los Juegos Olímpicos en Ruta"
+	],
+	"2017":[
+	"1 etapa del Tour de California",
+	"Tour de Eslovenia",
+	"1 etapa del Tour de Eslovenia",
+	"1 etapa de la Vuelta a España"
+	],
+	"2021":[
+	"1 etapa de la Vuelta a España"
+	],
+	"2022":[
+	"2 etapas del Tour de Eslovenia"
+	],
+	"2023":[
+	"1 etapa del Tour de Polonia"
+	],
+	"2025":[
+	"Campeonato de Polonia en Ruta"
+	]
 
-    "2007": [
-      "1 etapa de la Vuelta a la Comunidad Valenciana",
-      "París-Niza",
-      "2 etapas en la París-Niza",
-      "Vuelta a Castilla y León",
-      "1 etapa en la, Vuelta a Castilla y León",
-      "Tour de Francia , más 1 etapa y clasificación de los jóvenes",
-      "1 etapa en el Tour de Francia",
-      "Clasificación de los jóvenes del Tour de Francia",
-      "3.º en el UCI ProTour"
-    ],
-    "2008": [
-      "Vuelta a Castilla y León",
-      "2 etapas de la Vuelta a Castilla y Leon",
-      "Vuelta al País Vasco",
-      "2 etapas en la Vuelta a País Vasco",
-      "Giro de Italia",
-      "Vuelta a España",
-      "2 etapas de la Vuelta a España",
-      "Clasificación de la combinada en la Vuelta a España"
-    ],
-    "2009": [
-      "Vuelta al Algarve",
-      "1 etapa en la Vuelta al Algarve",
-      "2 etapas de la París-Niza",
-      "Vuelta al País Vasco",
-      "2 etapas en la Vuelta al Pais Vaco",
-      "Campeonato de España Contrarreloj",
-      "Tour de Francia",
-      "2 etapas del Tour de Francia",
-      "UCI World Ranking"
-    ],
-
-"2010":[
-  "Vuelta al Algarve",
-  "1 etapa de la Vuelta al Algarve",
-  "París-Niza",
-  "1 etapa en la, París-Niza",
-  "Vuelta a Castilla y León",
-  "1 etapa en la Vuelta a Castilla y León",
-  "2 etapas del Critérium del Dauphiné"
-],
-
-"2012":[
-  "Vuelta a España",
-  "1 etapa en la Vuelta a España",
-  "Premio de la combativilidad de la Vuelta a España",
-  "Milán-Turín  "
-],
-
-"2013":[
-  "1 etapa del Tour de San Luis"
-],
-
-"2014":[
-  "1 etapa de la Vuelta al Algarve",
-  "Tirreno-Adriático",
-  "2 etapas de la Tirreno-Adriático",
-  "Vuelta al País Vasco",
-  "1 etapa de la, Vuelta al País Vasco",
-  "Vuelta a España",
-  "2 etapas de la Vuelta a España",
-  "Clasificación de la combinada de la Vuelta a España",
-  "2.º en el UCI World Tour"
-],
-
-"2015":[
-  "1 etapa de la Vuelta a Andalucía",
-  "Giro de Italia",
-  "Route du Sud",
-  "1 etapa en la Route du Sud"
-],
-
-
-"2016":[
-  "1 etapa de la Vuelta al Algarve",
-  "Vuelta al País Vasco",
-  "1 etapa de la Vuelta al País Vasco",
-  "1 etapa del Critérium del Dauphiné",
-  "Vuelta a Burgos",
-  "Premio de la combatividad de la Vuelta a España  "
-],
-
-"2017":[
-"1 etapa de la Vuelta a España",
-"Premio de la combatividad en la Vuelta a España"
-]
 },
 
   "resumenPalmares": [
-    "2 Tour de Francia",
-    "2 Giro de italia",
-    "3 Vuelta a España",
-    "3 etapas en el Tour de Francia",
-    "6 etapas en la Vuelta a España",
-    "2 Paris-Niza",
-    "4 Vuelta a Pais Vasco",
-    "1 Tirreno Adriatico"
+  "3 etapas del Tour de Francia",
+  "2 clasificaciones de la montaña del Tour de Francia",
+  "3º en La Vuelta a España",
+  "2 etapas en La Vuelta a España",
+  "Bronce en los Juegos Olímpicos en Ruta"
   ],
   "resultadosGrandesVueltas": [
-    {
-      "anio": 2005,
-      "carrera": "Tour de Francia",
-      "puesto": "31"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Tour de Francia",
-      "puesto": "1"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Tour de Francia",
-      "puesto": "1"
-    },
-    {
+      {
       "anio": 2013,
-      "carrera": "Tour de Francia",
-      "puesto": "4"
+      "carrera": "Giro de Italia",
+      "puesto": "7"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Giro de Italia",
+      "puesto": "6"
+    },
+	    {
+      "anio": 2016,
+      "carrera": "Giro de Italia",
+      "puesto": "5"
+    },
+	    {
+      "anio": 2019,
+      "carrera": "Giro de Italia",
+      "puesto": "6"
+    },
+	    {
+      "anio": 2020,
+      "carrera": "Giro de Italia",
+      "puesto": "12"
+    },
+	    {
+      "anio": 2024,
+      "carrera": "Giro de Italia",
+      "puesto": "15"
+    },
+	    {
+      "anio": 2025,
+      "carrera": "Giro de Italia",
+      "puesto": "3"
     },
     {
       "anio": 2014,
       "carrera": "Tour de Francia",
-      "puesto": "NC."
+      "puesto": "44"
     },
     {
       "anio": 2015,
       "carrera": "Tour de Francia",
-      "puesto": "5"
+      "puesto": "28"
     },
     {
       "anio": 2016,
       "carrera": "Tour de Francia",
-      "puesto": "NC."
+      "puesto": "27"
     },
     {
       "anio": 2017,
       "carrera": "Tour de Francia",
-      "puesto": "9"
+      "puesto": "NC."
     },
     {
-      "anio": 2008,
-      "carrera": "Giro de Italia",
-      "puesto": "1"
+      "anio": 2018,
+      "carrera": "Tour de Francia",
+      "puesto": "19"
     },
     {
-      "anio": 2015,
-      "carrera": "Giro de Italia",
-      "puesto": "1"
+      "anio": 2021,
+      "carrera": "Tour de Francia",
+      "puesto": "39"
     },
     {
-      "anio": 2008,
+      "anio": 2022,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2023,
+      "carrera": "Tour de Francia",
+      "puesto": "14"
+    },
+    {
+      "anio": 2011,
       "carrera": "Vuelta a España",
-      "puesto": "1"
+      "puesto": "NC."
     },
     {
       "anio": 2012,
       "carrera": "Vuelta a España",
-      "puesto": "1"
+      "puesto": "32"
     },
     {
-      "anio": 2014,
+      "anio": 2013,
       "carrera": "Vuelta a España",
-      "puesto": "1"
+      "puesto": "19"
     },
     {
-      "anio": 2016,
+      "anio": 2015,
       "carrera": "Vuelta a España",
-      "puesto": "4"
+      "puesto": "3"
     },
     {
       "anio": 2017,
       "carrera": "Vuelta a España",
-      "puesto": "5"
+      "puesto": "39"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Vuelta a España",
+      "puesto": "13"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Vuelta a España",
+      "puesto": "6"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Vuelta a España",
+      "puesto": "21"
     }
   ],
   "resultadosMonumentos": [],
   "resultadosMundiales": [
     {
-      "anio": 2008,
-      "carrera": "Mundial en Ruta",
-      "puesto": "NC."
-    },
-    {
-      "anio": 2012,
-      "carrera": "Mundial en Ruta",
-      "puesto": "28"
-    },
-    {
       "anio": 2013,
       "carrera": "Mundial en Ruta",
-      "puesto": "NC."
+      "puesto": "58"
     },
     {
-      "anio": 2012,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "9"
+      "anio": 2015,
+      "carrera": "Mundial en Ruta",
+      "puesto": "74"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Mundial en Ruta",
+      "puesto": "35"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Mundial en Ruta",
+      "puesto": "NC."
     }
   ],
   "resultadosVueltasMenores": [
-    {
-      "anio": 2004,
-      "carrera": "París-Niza",
-      "puesto": "26"
-    },
-    {
-      "anio": 2005,
-      "carrera": "París-Niza",
-      "puesto": "15"
-    },
-    {
-      "anio": 2006,
-      "carrera": "París-Niza",
-      "puesto": "24"
-    },
-    {
-      "anio": 2007,
-      "carrera": "París-Niza",
-      "puesto": "1"
-    },
-    {
-      "anio": 2009,
-      "carrera": "París-Niza",
-      "puesto": "4"
-    },
-    {
-      "anio": 2010,
-      "carrera": "París-Niza",
-      "puesto": "1"
-    },
-    {
-      "anio": 2016,
-      "carrera": "París-Niza",
-      "puesto": "2"
-    },
-    {
-      "anio": 2017,
-      "carrera": "París-Niza",
-      "puesto": "2"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Vuelta a Suiza",
-      "puesto": "22"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "3"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "1"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "5"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Tour de Romandía",
-      "puesto": "4"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Tour de Romandía",
-      "puesto": "2"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "NC."
-    },
-    {
-      "anio": 2007,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "6"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "3"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "2"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "5"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "1"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "1"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "2"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "3"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "5"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "14"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "1"
-    },    {
-      "anio": 2009,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "1"
-    },    {
-      "anio": 2013,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "5"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "1"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "1"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "2"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Volta a Cataluña",
-      "puesto": "2"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Volta a Cataluña",
-      "puesto": "4"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Volta a Cataluña",
-      "puesto": "2"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Volta a Cataluña",
-      "puesto": "2"
-    }
+    
   ],
   "habilidades": {
     "llano": 3,
-    "montana": 5,
-    "media_montana": 4,
-    "muros": 3,
+    "montana": 7,
+    "media_montana": 7,
+    "muros": 6,
     "pave": 1,
-    "sprint": 1,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 5,
-    "resistencia_clasicas": 3,
-    "combatividad": 5,
+    "sprint": 2,
+    "aceleracion": 7,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 4,
+    "combatividad": 9,
     "contrarreloj": 4,
     "pista": 1,
     "tierra": 1
