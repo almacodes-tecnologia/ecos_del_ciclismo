@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-down-under",
+    "anio": 2026,
+    "distancia": 713.7,
+    "desnivel": 10228,
+    "tiempo": "16h 44' 54\"",
+    "ciclistasInscritos": 140,
+    "ciclistasFinalizados": 114,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Schmid Mauro",
+            "pais": "Suiza",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sweeny Harry",
+            "pais": "Australia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Brenner Marco",
+            "pais": "Alemania",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kron Andreas",
+            "pais": "Dinamarca",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Raccagni Noviero Andrea",
+            "pais": "Italia",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Charmig Anthon",
+            "pais": "Dinamarca",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zana Filippo",
+            "pais": "Italia",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sobrero Matteo",
+            "pais": "Italia",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 1 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Andresen Tobias Lund",
+        "pais": "Dinamarca",
+        "equipo": "Decathlon CMA CGM Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Urianstad Bugge Martin",
+        "pais": "Noruega",
+        "equipo": "Uno-X Mobility"
+    },
+    "ganadorJovenes": {
+        "nombre": "Raccagni Noviero Andrea",
+        "pais": "Italia",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Jayco AlUla",
+        "pais": "Australia"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Watson Samuel",
+            "pais": "Reino Unido",
+            "distancia": 3.6,
+            "desnivel": 14,
+            "velocidadMedia": 50.625
+        },
+        {
+            "etapa": 1,
+            "nombre": "Andresen Tobias Lund",
+            "pais": "Dinamarca",
+            "distancia": 120.6,
+            "desnivel": 1107,
+            "velocidadMedia": 44.479
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vine Jay",
+            "pais": "Australia",
+            "distancia": 148.1,
+            "desnivel": 2787,
+            "velocidadMedia": 41.006
+        },
+        {
+            "etapa": 3,
+            "nombre": "Welsford Sam",
+            "pais": "Australia",
+            "distancia": 140.8,
+            "desnivel": 1870,
+            "velocidadMedia": 40.868
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vernon Ethan",
+            "pais": "Reino Unido",
+            "distancia": 130.8,
+            "desnivel": 1458,
+            "velocidadMedia": 44.465
+        },
+        {
+            "etapa": 5,
+            "nombre": "Brennan Matthew",
+            "pais": "Reino Unido",
+            "distancia": 169.8,
+            "desnivel": 2992,
+            "velocidadMedia": 42.783
+        }
+    ]
+}

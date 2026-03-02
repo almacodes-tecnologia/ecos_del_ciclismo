@@ -1,0 +1,154 @@
+{
+    "idCarrera": "uae-tour",
+    "anio": 2026,
+    "distancia": 980.2,
+    "desnivel": 9196,
+    "tiempo": "21h 10' 30\"",
+    "ciclistasInscritos": 146,
+    "ciclistasFinalizados": 141,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Plapp Luke",
+            "pais": "Australia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tejada Harold",
+            "pais": "Colombia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gall Felix",
+            "pais": "Austria",
+            "equipo": "Decathlon CMA CGM Team",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Eetvelt Lennert",
+            "pais": "Bélgica",
+            "equipo": "Lotto Intermarché",
+            "ventaja": "+ 1 min 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Gee-West Derek",
+            "pais": "Canadá",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Nordhagen Jørgen",
+            "pais": "Noruega",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 2 min 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Milan Jonathan",
+        "pais": "Italia",
+        "equipo": "Lidl - Trek"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "del Toro Isaac",
+        "pais": "México",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates - XRG",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "distancia": 118.0,
+            "desnivel": 1018,
+            "velocidadMedia": 46.908
+        },
+        {
+            "etapa": 2,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 12.2,
+            "desnivel": 101,
+            "velocidadMedia": 56.092
+        },
+        {
+            "etapa": 3,
+            "nombre": "Tiberi Antonio",
+            "pais": "Italia",
+            "distancia": 183.0,
+            "desnivel": 2617,
+            "velocidadMedia": 41.476
+        },
+        {
+            "etapa": 4,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 2360,
+            "velocidadMedia": 44.92
+        },
+        {
+            "etapa": 5,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 168.0,
+            "desnivel": 867,
+            "velocidadMedia": 47.257
+        },
+        {
+            "etapa": 6,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "distancia": 168.0,
+            "desnivel": 1646,
+            "velocidadMedia": 48.485
+        },
+        {
+            "etapa": 7,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 149.0,
+            "desnivel": 587,
+            "velocidadMedia": 50.566
+        }
+    ]
+}
