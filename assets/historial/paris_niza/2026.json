@@ -1,0 +1,166 @@
+{
+    "idCarrera": "paris-nice",
+    "anio": 2026,
+    "distancia": 1138.2,
+    "desnivel": 13548,
+    "tiempo": "25h 25' 11\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 89,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Steinhauser Georg",
+            "pais": "Alemania",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 6 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 6 min 24 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 7 min 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 9 min 9 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 9 min 19 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rondel Mathys",
+            "pais": "Francia",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 10 min 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Baudin Alex",
+            "pais": "Francia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 10 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Tejada Harold",
+            "pais": "Colombia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 11 min 40 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Vingegaard Jonas",
+        "pais": "Dinamarca",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorMontana": {
+        "nombre": "Vingegaard Jonas",
+        "pais": "Dinamarca",
+        "equipo": "Team Visma | Lease a Bike"
+    },
+    "ganadorJovenes": {
+        "nombre": "Steinhauser Georg",
+        "pais": "Alemania",
+        "equipo": "EF Education - EasyPost"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Lamperti Luke",
+            "pais": "Estados Unidos",
+            "distancia": 170.9,
+            "desnivel": 1779,
+            "velocidadMedia": 45.516
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kanter Max",
+            "pais": "Alemania",
+            "distancia": 187.0,
+            "desnivel": 1192,
+            "velocidadMedia": 42.321
+        },
+        {
+            "etapa": 3,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "distancia": 23.5,
+            "desnivel": 212,
+            "velocidadMedia": 52.875
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 195.0,
+            "desnivel": 2145,
+            "velocidadMedia": 45.667
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 206.3,
+            "desnivel": 2724,
+            "velocidadMedia": 46.012
+        },
+        {
+            "etapa": 6,
+            "nombre": "Tejada Harold",
+            "pais": "Colombia",
+            "distancia": 179.3,
+            "desnivel": 2077,
+            "velocidadMedia": 45.85
+        },
+        {
+            "etapa": 7,
+            "nombre": "Godon Dorian",
+            "pais": "Francia",
+            "distancia": 47.0,
+            "desnivel": 940,
+            "velocidadMedia": 45.631
+        },
+        {
+            "etapa": 8,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "distancia": 129.2,
+            "desnivel": 2479,
+            "velocidadMedia": 41.517
+        }
+    ]
+}

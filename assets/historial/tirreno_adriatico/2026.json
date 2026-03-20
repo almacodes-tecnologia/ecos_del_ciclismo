@@ -1,0 +1,158 @@
+{
+    "idCarrera": "tirreno-adriatico",
+    "anio": 2026,
+    "distancia": 1165.5,
+    "desnivel": 16420,
+    "tiempo": "28h 02' 14\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pellizzari Giulio",
+            "pais": "Italia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ciccone Giulio",
+            "pais": "Italia",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Buitrago Santiago",
+            "pais": "Colombia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Healy Ben",
+            "pais": "Irlanda",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sheffield Magnus",
+            "pais": "Estados Unidos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinarello Alessandro",
+            "pais": "Italia",
+            "equipo": "NSN Cycling Team",
+            "ventaja": "+ 2 min 6 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "del Toro Isaac",
+        "pais": "México",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorMontana": {
+        "nombre": "Sevilla Diego Pablo",
+        "pais": "España",
+        "equipo": "Team Polti VisitMalta"
+    },
+    "ganadorJovenes": {
+        "nombre": "del Toro Isaac",
+        "pais": "México",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " Red Bull - BORA - hansgrohe",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 11.5,
+            "desnivel": 8,
+            "velocidadMedia": 56.858
+        },
+        {
+            "etapa": 2,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 206.0,
+            "desnivel": 2208,
+            "velocidadMedia": 42.129
+        },
+        {
+            "etapa": 3,
+            "nombre": "Andresen Tobias Lund",
+            "pais": "Dinamarca",
+            "distancia": 221.0,
+            "desnivel": 2436,
+            "velocidadMedia": 40.259
+        },
+        {
+            "etapa": 4,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 213.0,
+            "desnivel": 2781,
+            "velocidadMedia": 43.817
+        },
+        {
+            "etapa": 5,
+            "nombre": "Valgren Michael",
+            "pais": "Dinamarca",
+            "distancia": 184.0,
+            "desnivel": 3845,
+            "velocidadMedia": 38.935
+        },
+        {
+            "etapa": 6,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "distancia": 188.0,
+            "desnivel": 4007,
+            "velocidadMedia": 39.326
+        },
+        {
+            "etapa": 7,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 142.0,
+            "desnivel": 1135,
+            "velocidadMedia": 46.079
+        }
+    ]
+}
