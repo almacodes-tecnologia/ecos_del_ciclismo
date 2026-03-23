@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2025,
+    "distancia": 748.1,
+    "desnivel": 8234,
+    "tiempo": "13h 19' 30\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 146,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "De Plus Laurens",
+            "pais": "Bélgica",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Grégoire Romain",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Powless Neilson",
+            "pais": "Estados Unidos",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Van Wilder Ilan",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Christen Jan",
+            "pais": "Suiza",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Meeus Jordi",
+        "pais": "Bélgica",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Tivani German Nicolás",
+        "pais": "Argentina",
+        "equipo": "Aviludo - Louletano - Loulé"
+    },
+    "ganadorJovenes": {
+        "nombre": "Grégoire Romain",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ"
+    },
+    "ganadorEquipos": {
+        "nombre": " UAE Team Emirates - XRG",
+        "pais": null
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Nych Artem",
+            "pais": "Rusia",
+            "distancia": 192.2,
+            "desnivel": 1523,
+            "velocidadMedia": 42.95
+        },
+        {
+            "etapa": 2,
+            "nombre": "Christen Jan",
+            "pais": "Suiza",
+            "distancia": 177.6,
+            "desnivel": 2757,
+            "velocidadMedia": 39.653
+        },
+        {
+            "etapa": 3,
+            "nombre": "Meeus Jordi",
+            "pais": "Bélgica",
+            "distancia": 183.5,
+            "desnivel": 1534,
+            "velocidadMedia": 42.581
+        },
+        {
+            "etapa": 4,
+            "nombre": "Fretin Milan",
+            "pais": "Bélgica",
+            "distancia": 175.2,
+            "desnivel": 2053,
+            "velocidadMedia": 43.167
+        },
+        {
+            "etapa": 5,
+            "nombre": "Vingegaard Jonas",
+            "pais": "Dinamarca",
+            "distancia": 19.6,
+            "desnivel": 367,
+            "velocidadMedia": 41.384
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 1978,
+    "distancia": 394.0,
+    "desnivel": 0,
+    "tiempo": "0h 00' 00\"",
+    "ciclistasInscritos": 8,
+    "ciclistasFinalizados": 3,
+    "clasificacionGeneral": [
+        {
+            "puesto": 2,
+            "nombre": "Mendes Fernando dos Reis Dias",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Teixeira Adelino",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "0"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Andrade Joaquim",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": "Amaro José Manuel Cadete",
+            "pais": "Portugal",
+            "distancia": 100.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Mendes Fernando dos Reis Dias",
+            "pais": "Portugal",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bernardino Firmino",
+            "pais": "Portugal",
+            "distancia": 149.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "dos Santos Carlos Manuel Francisco",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Amaro José Manuel Cadete",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

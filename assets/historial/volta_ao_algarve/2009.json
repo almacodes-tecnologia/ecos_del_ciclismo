@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2009,
+    "distancia": 565.8,
+    "desnivel": 0,
+    "tiempo": "19h 04' 22\"",
+    "ciclistasInscritos": 174,
+    "ciclistasFinalizados": 153,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 1 min 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Plaza Rubén",
+            "pais": "España",
+            "equipo": "Liberty Seguros",
+            "ventaja": "+ 1 min 7 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "Madeinox-Boavista",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "+ 1 min 9 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Colom Antonio",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "Team Columbia",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Gerrans Simon",
+            "pais": "Australia",
+            "equipo": "Cervelo Test Team",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Marque Alejandro Manuel",
+            "pais": "España",
+            "equipo": "Palmeiras Resort - Prio",
+            "ventaja": "+ 2 min 8 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Millar David",
+            "pais": "Reino Unido",
+            "equipo": "Team Garmin - Slipstream",
+            "ventaja": "+ 2 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Haussler Heinrich",
+        "pais": "Alemania",
+        "equipo": "Cervelo Test Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Santambrogio Mauro",
+        "pais": "Italia",
+        "equipo": "Lampre - NGC"
+    },
+    "ganadorJovenes": {
+        "nombre": "Machado Tiago",
+        "pais": "Portugal",
+        "equipo": "Madeinox-Boavista"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Haussler Heinrich",
+            "pais": "Alemania",
+            "distancia": 173.6,
+            "desnivel": 0,
+            "velocidadMedia": 38.334
+        },
+        {
+            "etapa": 2,
+            "nombre": "Fernández Koldo",
+            "pais": "España",
+            "distancia": 183.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.102
+        },
+        {
+            "etapa": 3,
+            "nombre": "Colom Antonio",
+            "pais": "España",
+            "distancia": 175.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.085
+        },
+        {
+            "etapa": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 33.7,
+            "desnivel": 0,
+            "velocidadMedia": 45.868
+        },
+        {
+            "etapa": 5,
+            "nombre": "Haussler Heinrich",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5173
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2015,
+    "distancia": 598.6,
+    "desnivel": 0,
+    "tiempo": "19h 46' 13\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 163,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Etixx - Quick Step",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 14 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Chernetski Sergei",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Losada Alberto",
+            "pais": "España",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 55 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 4 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Thomas Geraint",
+        "pais": "Reino Unido",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "Porte Richie",
+        "pais": "Australia",
+        "equipo": "Team Sky"
+    },
+    "ganadorJovenes": {
+        "nombre": "Formolo Davide",
+        "pais": "Italia",
+        "equipo": "Team Cannondale - Garmin "
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Meersman Gianni",
+            "pais": "Bélgica",
+            "distancia": 166.7,
+            "desnivel": 0,
+            "velocidadMedia": 39.4
+        },
+        {
+            "etapa": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 197.2,
+            "desnivel": 0,
+            "velocidadMedia": 39.54
+        },
+        {
+            "etapa": 3,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 19.0,
+            "desnivel": 0,
+            "velocidadMedia": 52.17
+        },
+        {
+            "etapa": 4,
+            "nombre": "Porte Richie",
+            "pais": "Australia",
+            "distancia": 215.7,
+            "desnivel": 0,
+            "velocidadMedia": 36.4
+        },
+        {
+            "etapa": 5,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.5943
+        }
+    ]
+}

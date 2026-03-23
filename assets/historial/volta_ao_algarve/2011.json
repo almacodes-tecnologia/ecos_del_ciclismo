@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2011,
+    "distancia": 707.7,
+    "desnivel": 0,
+    "tiempo": "18h 48' 45\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 150,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "equipo": "HTC - High Road",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "HTC - High Road",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Westra Lieuwe",
+            "pais": "Países Bajos",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": null,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Saxo Bank - Sungard",
+            "ventaja": "+ 41 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "RadioShack",
+            "ventaja": "+ 46 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "RadioShack",
+            "ventaja": "+ 47 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Taaramäe Rein",
+            "pais": "Estonia",
+            "equipo": "Cofidis, le Crédit en Ligne",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Rabobank Cycling Team",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "De Gendt Thomas",
+            "pais": "Bélgica",
+            "equipo": "Vacansoleil - DCM",
+            "ventaja": "+ 1 min 5 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Farrar Tyler",
+        "pais": "Estados Unidos",
+        "equipo": "Team Garmin - Cervélo"
+    },
+    "ganadorMontana": {
+        "nombre": "Mestre Ricardo",
+        "pais": "Portugal",
+        "equipo": "Clube de Ciclismo de Tavira"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": "",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 157.5,
+            "desnivel": 0,
+            "velocidadMedia": 34.16
+        },
+        {
+            "etapa": 2,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "distancia": 186.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.559
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cummings Steve",
+            "pais": "Reino Unido",
+            "distancia": 179.2,
+            "desnivel": 0,
+            "velocidadMedia": 36.286
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 167.3,
+            "desnivel": 0,
+            "velocidadMedia": 42.369
+        },
+        {
+            "etapa": 5,
+            "nombre": "Martin Tony",
+            "pais": "Alemania",
+            "distancia": 17.2,
+            "desnivel": 0,
+            "velocidadMedia": 49.417
+        }
+    ]
+}

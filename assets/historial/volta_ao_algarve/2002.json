@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2002,
+    "distancia": 858.3,
+    "desnivel": 0,
+    "tiempo": "20h 37' 08\"",
+    "ciclistasInscritos": 137,
+    "ciclistasFinalizados": 104,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "equipo": "LA Alumí­nios - Pecol",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "equipo": "Team Coast",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hincapie George",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 13 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sousa Rui",
+            "pais": "Portugal",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Jeker Fabian",
+            "pais": "Suiza",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Jan Xavier",
+            "pais": "Francia",
+            "equipo": "BigMat - Auber 93",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Navas David",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 53 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Navarrete Leandro",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "García Quesada Adolfo",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 1 min 55 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Barbosa Cândido",
+        "pais": "Portugal",
+        "equipo": ""
+    },
+    "ganadorMontana": {
+        "nombre": "Cardoso Pedro",
+        "pais": "Portugal",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Milaneza - Mss",
+        "pais": "Portugal"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Wilhelms Thorsten",
+            "pais": "Alemania",
+            "distancia": 173.7,
+            "desnivel": 0,
+            "velocidadMedia": 40.38
+        },
+        {
+            "etapa": 2,
+            "nombre": "Zülle Alex",
+            "pais": "Suiza",
+            "distancia": 173.1,
+            "desnivel": 0,
+            "velocidadMedia": 38.16
+        },
+        {
+            "etapa": 3,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "distancia": 171.2,
+            "desnivel": 0,
+            "velocidadMedia": 46.44
+        },
+        {
+            "etapa": 4,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.66
+        },
+        {
+            "etapa": 5,
+            "nombre": "Hruška Jan",
+            "pais": "República Checa",
+            "distancia": 166.8,
+            "desnivel": 0,
+            "velocidadMedia": 40.55
+        }
+    ]
+}

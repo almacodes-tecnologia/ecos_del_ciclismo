@@ -1,0 +1,146 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 1998,
+    "distancia": 640.0,
+    "desnivel": 0,
+    "tiempo": "22h 11' 30\"",
+    "ciclistasInscritos": 24,
+    "ciclistasFinalizados": 10,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Konečný Tomáš",
+            "pais": "República Checa",
+            "equipo": "ZVVZ - DLD",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Niermann Grischa",
+            "pais": "Alemania",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rebollo José Luis",
+            "pais": "España",
+            "equipo": "Recer - Boavista",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Freitas Cássio",
+            "pais": "Brasil",
+            "equipo": "LA - Pecol",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Ferreira Paulo Jorge de Moura",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sourkov Youri",
+            "pais": "Rusia",
+            "equipo": "LA - Pecol",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Cardoso Pedro",
+            "pais": "Portugal",
+            "equipo": "",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rodrigues Quintino",
+            "pais": "Portugal",
+            "equipo": "Recer - Boavista",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Andrade Joaquim Adrego Pereira",
+            "pais": "Portugal",
+            "equipo": "Maia - Cin",
+            "ventaja": "+ 20 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Konečný Tomáš",
+        "pais": "República Checa",
+        "equipo": "ZVVZ - DLD"
+    },
+    "ganadorMontana": {
+        "nombre": "Cardoso Pedro",
+        "pais": "Portugal",
+        "equipo": ""
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Maia - Cin",
+        "pais": "Portugal"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Liberato Manuel",
+            "pais": "Portugal",
+            "distancia": 179.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.013
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sarkauskas Saulius",
+            "pais": "Lituania",
+            "distancia": 103.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Konečný Tomáš",
+            "pais": "República Checa",
+            "distancia": 79.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Niermann Grischa",
+            "pais": "Alemania",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Auger Guillaume",
+            "pais": "Francia",
+            "distancia": 113.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Konečný Tomáš",
+            "pais": "República Checa",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

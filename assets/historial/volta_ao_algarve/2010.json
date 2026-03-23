@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2010,
+    "distancia": 724.9,
+    "desnivel": 0,
+    "tiempo": "19h 57' 48\"",
+    "ciclistasInscritos": 183,
+    "ciclistasFinalizados": 138,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "RadioShack",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Raboň František",
+            "pais": "República Checa",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "RadioShack",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Velits Peter",
+            "pais": "Eslovaquia",
+            "equipo": "Team HTC - Columbia ",
+            "ventaja": "+ 1 min 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Greipel André",
+        "pais": "Alemania",
+        "equipo": "Team HTC - Columbia "
+    },
+    "ganadorMontana": {
+        "nombre": "Baugnies Jérôme",
+        "pais": "Bélgica",
+        "equipo": "Topsport Vlaanderen - Mercator"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " RadioShack",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Vaugrenard Benoît",
+            "pais": "Francia",
+            "distancia": 157.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.694
+        },
+        {
+            "etapa": 2,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 207.5,
+            "desnivel": 0,
+            "velocidadMedia": 33.956
+        },
+        {
+            "etapa": 3,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 173.7,
+            "desnivel": 0,
+            "velocidadMedia": 34.406
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rosseler Sébastien",
+            "pais": "Bélgica",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.116
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 17.2,
+            "desnivel": 0,
+            "velocidadMedia": 47.926
+        }
+    ]
+}

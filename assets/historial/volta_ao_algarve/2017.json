@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2017,
+    "distancia": 593.6,
+    "desnivel": 10494,
+    "tiempo": "19h 04' 03\"",
+    "ciclistasInscritos": 197,
+    "ciclistasFinalizados": 157,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": null,
+            "nombre": "Antunes Amaro",
+            "pais": "Portugal",
+            "equipo": "W52/FC Porto ",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Castroviejo Jonathan",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Benoot Tiesj",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Nocentini Rinaldo",
+            "pais": "Italia",
+            "equipo": "Sporting Clube de Portugal/Tavira",
+            "ventaja": "+ 1 min 56 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinto Edgar",
+            "pais": "Portugal",
+            "equipo": "LA Aluminios-Metalusa",
+            "ventaja": "+ 2 min 19 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Greipel André",
+        "pais": "Alemania",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorMontana": {
+        "nombre": "Osorio Juan Felipe",
+        "pais": "Colombia",
+        "equipo": "Manzana Postobon"
+    },
+    "ganadorJovenes": {
+        "nombre": "Benoot Tiesj",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana Pro Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Gaviria Fernando",
+            "pais": "Colombia",
+            "distancia": 182.9,
+            "desnivel": 2683,
+            "velocidadMedia": 40.87
+        },
+        {
+            "etapa": 2,
+            "nombre": "Martin Dan",
+            "pais": "Irlanda",
+            "distancia": 189.3,
+            "desnivel": 4738,
+            "velocidadMedia": 39.63
+        },
+        {
+            "etapa": 3,
+            "nombre": "Castroviejo Jonathan",
+            "pais": "España",
+            "distancia": 18.0,
+            "desnivel": 246,
+            "velocidadMedia": 50.47
+        },
+        {
+            "etapa": 4,
+            "nombre": "Greipel André",
+            "pais": "Alemania",
+            "distancia": 203.4,
+            "desnivel": 2827,
+            "velocidadMedia": 40.97
+        },
+        {
+            "etapa": 5,
+            "nombre": "Antunes Amaro",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.5262
+        }
+    ]
+}

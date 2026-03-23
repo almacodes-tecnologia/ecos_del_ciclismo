@@ -1,0 +1,131 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2006,
+    "distancia": 708.3,
+    "desnivel": 0,
+    "tiempo": "22h 42' 00\"",
+    "ciclistasInscritos": 165,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cabreira João",
+            "pais": "Portugal",
+            "equipo": "Maia Milaneza",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "equipo": "Davitamon - Lotto",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Gesink Robert",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Continental Team",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Moreira André Vital",
+            "pais": "Portugal",
+            "equipo": "Madeinox-Bric-A.R. Canelas ",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Ziegler Thomas",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Guerra Héctor",
+            "pais": "España",
+            "equipo": "L.A. Aluminios - Liberty Seguros",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "de Pinho Celestino Duarte Dias",
+            "pais": "Portugal",
+            "equipo": "Barbot - Halcon",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cardoso André",
+            "pais": "Portugal",
+            "equipo": "Paredes Rota dos Moveis",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Steegmans Gert",
+        "pais": "Bélgica",
+        "equipo": "Davitamon - Lotto"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zanotti Marco",
+            "pais": "Italia",
+            "distancia": 162.3,
+            "desnivel": 0,
+            "velocidadMedia": 43.57
+        },
+        {
+            "etapa": 2,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.928
+        },
+        {
+            "etapa": 3,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 198.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.194
+        },
+        {
+            "etapa": 4,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 174.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.469
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cabreira João",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2483
+        }
+    ]
+}

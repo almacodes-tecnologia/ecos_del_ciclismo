@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2004,
+    "distancia": 531.0,
+    "desnivel": 0,
+    "tiempo": "18h 03' 04\"",
+    "ciclistasInscritos": 125,
+    "ciclistasFinalizados": 81,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Landis Floyd",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Peña Victor Hugo",
+            "pais": "Colombia",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "equipo": "L.A. - Pecol ",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Dekker Thomas",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Continental Team",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": null,
+            "nombre": "Armstrong Lance",
+            "pais": "Estados Unidos",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Goncalves Pedro",
+            "pais": "Portugal",
+            "equipo": "L.A. - Pecol ",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank Continental Team",
+            "ventaja": "+ 1 min 34 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Engoulvent Jimmy",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bernabéu David",
+            "pais": "España",
+            "equipo": "Milaneza Maia",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Garrido Martin Gerardo",
+            "pais": "Argentina",
+            "equipo": "Barbot - Gaia",
+            "ventaja": "+ 1 min 43 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Barbosa Cândido",
+        "pais": "Portugal",
+        "equipo": "L.A. - Pecol "
+    },
+    "ganadorMontana": {
+        "nombre": "Amorim Gonçalo",
+        "pais": "Portugal",
+        "equipo": "Milaneza Maia"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " US Postal Service p/b Berry Floor",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Benito Alberto",
+            "pais": "España",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.86
+        },
+        {
+            "etapa": 2,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.153
+        },
+        {
+            "etapa": 3,
+            "nombre": "Garrido Martin Gerardo",
+            "pais": "Argentina",
+            "distancia": 180.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.992
+        },
+        {
+            "etapa": 4,
+            "nombre": "Armstrong Lance",
+            "pais": "Estados Unidos",
+            "distancia": 24.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.16
+        },
+        {
+            "etapa": 5,
+            "nombre": "Landis Floyd",
+            "pais": "Estados Unidos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2326
+        }
+    ]
+}

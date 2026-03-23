@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2026,
+    "distancia": 673.7,
+    "desnivel": 9122,
+    "tiempo": "15h 51' 12\"",
+    "ciclistasInscritos": 167,
+    "ciclistasFinalizados": 156,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "Lidl - Trek",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Seixas Paul",
+            "pais": "Francia",
+            "equipo": "Decathlon CMA CGM Team",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Onley Oscar",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Riccitello Matthew",
+            "pais": "Estados Unidos",
+            "equipo": "Decathlon CMA CGM Team",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 1 min 53 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 2 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Voisard Yannis",
+            "pais": "Suiza",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "+ 2 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Magnier Paul",
+        "pais": "Francia",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Contte Tomas",
+        "pais": "Argentina",
+        "equipo": "Aviludo - Louletano - Loulé"
+    },
+    "ganadorJovenes": {
+        "nombre": "Seixas Paul",
+        "pais": "Francia",
+        "equipo": "Decathlon CMA CGM Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 183.5,
+            "desnivel": 1972,
+            "velocidadMedia": 42.173
+        },
+        {
+            "etapa": 2,
+            "nombre": "Seixas Paul",
+            "pais": "Francia",
+            "distancia": 147.2,
+            "desnivel": 2832,
+            "velocidadMedia": 38.428
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "distancia": 19.5,
+            "desnivel": 188,
+            "velocidadMedia": 53.465
+        },
+        {
+            "etapa": 4,
+            "nombre": "Magnier Paul",
+            "pais": "Francia",
+            "distancia": 175.1,
+            "desnivel": 1878,
+            "velocidadMedia": 44.026
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "distancia": 148.4,
+            "desnivel": 2252,
+            "velocidadMedia": 44.513
+        }
+    ]
+}

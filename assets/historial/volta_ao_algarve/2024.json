@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2024,
+    "distancia": 752.7,
+    "desnivel": 11227,
+    "tiempo": "18h 45' 53\"",
+    "ciclistasInscritos": 175,
+    "ciclistasFinalizados": 147,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Tratnik Jan",
+            "pais": "Eslovenia",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Healy Ben",
+            "pais": "Irlanda",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Arensman Thymen",
+            "pais": "Países Bajos",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Pidcock Thomas",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 57 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Kuss Sepp",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 2 min 6 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Morgado António",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 2 min 9 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Thijssen Gerben",
+        "pais": "Bélgica",
+        "equipo": "Intermarché - Wanty"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Daniel Felipe",
+        "pais": "Colombia",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorJovenes": {
+        "nombre": "Morgado António",
+        "pais": "Portugal",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Thijssen Gerben",
+            "pais": "Bélgica",
+            "distancia": 200.8,
+            "desnivel": 2184,
+            "velocidadMedia": 41.251
+        },
+        {
+            "etapa": 2,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "distancia": 171.9,
+            "desnivel": 3162,
+            "velocidadMedia": 36.792
+        },
+        {
+            "etapa": 3,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 192.2,
+            "desnivel": 2572,
+            "velocidadMedia": 39.636
+        },
+        {
+            "etapa": 4,
+            "nombre": "Evenepoel Remco",
+            "pais": "Bélgica",
+            "distancia": 22.0,
+            "desnivel": 322,
+            "velocidadMedia": 48.619
+        },
+        {
+            "etapa": 5,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "distancia": 165.8,
+            "desnivel": 2987,
+            "velocidadMedia": 42.227
+        }
+    ]
+}

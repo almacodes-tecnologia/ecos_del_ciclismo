@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2007,
+    "distancia": 949.4,
+    "desnivel": 0,
+    "tiempo": "23h 33' 02\"",
+    "ciclistasInscritos": 192,
+    "ciclistasFinalizados": 146,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "equipo": "Team Milram",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Haselbacher René",
+            "pais": "Austria",
+            "equipo": "Astana",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vaitkus Tomas",
+            "pais": "Lituania",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gilbert Philippe",
+            "pais": "Bélgica",
+            "equipo": "Française des Jeux",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Machado Tiago",
+            "pais": "Portugal",
+            "equipo": "Riberalves - Boavista",
+            "ventaja": "+ 31 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Lequatre Geoffroy",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Ziegler Thomas",
+            "pais": "Alemania",
+            "equipo": "T-Mobile Team",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Efimkin Alexander",
+            "pais": "Rusia",
+            "equipo": "Barloworld",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Wynants Maarten",
+            "pais": "Bélgica",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "+ 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Team Milram"
+    },
+    "ganadorMontana": {
+        "nombre": "Van Huffel Wim",
+        "pais": "Bélgica",
+        "equipo": "Predictor - Lotto"
+    },
+    "ganadorJovenes": {
+        "nombre": "Machado Tiago",
+        "pais": "Portugal",
+        "equipo": "Riberalves - Boavista"
+    },
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Suiza"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 191.3,
+            "desnivel": 0,
+            "velocidadMedia": 40.378
+        },
+        {
+            "etapa": 2,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 177.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.373
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 208.3,
+            "desnivel": 0,
+            "velocidadMedia": 40.874
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 187.2,
+            "desnivel": 0,
+            "velocidadMedia": 39.778
+        },
+        {
+            "etapa": 5,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 185.6,
+            "desnivel": 0,
+            "velocidadMedia": 40.046
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2008,
+    "distancia": 595.6,
+    "desnivel": 0,
+    "tiempo": "0h 00' 00\"",
+    "ciclistasInscritos": 184,
+    "ciclistasFinalizados": 134,
+    "clasificacionGeneral": [
+        {
+            "puesto": 2,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Vaitkus Tomas",
+            "pais": "Lituania",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Guerra Héctor",
+            "pais": "España",
+            "equipo": "Liberty Seguros",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garrido Martin Gerardo",
+            "pais": "Argentina",
+            "equipo": "Palmeiras Resort - Tavira",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Roelandts Jürgen",
+            "pais": "Bélgica",
+            "equipo": "Silence - Lotto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Romero Pedro",
+            "pais": "España",
+            "equipo": "LA - MSS",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Klöden Andreas",
+            "pais": "Alemania",
+            "equipo": "Astana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Plaza Rubén",
+            "pais": "España",
+            "equipo": "Benfica",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Fothen Markus",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "0"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Förster Robert",
+        "pais": "Alemania",
+        "equipo": "Gerolsteiner"
+    },
+    "ganadorMontana": {
+        "nombre": "Vasilev Krassimir",
+        "pais": null,
+        "equipo": "Palmeiras Resort - Tavira"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana",
+        "pais": "Luxemburgo"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Förster Robert",
+            "pais": "Alemania",
+            "distancia": 164.4,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Vaitkus Tomas",
+            "pais": "Lituania",
+            "distancia": 189.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Förster Robert",
+            "pais": "Alemania",
+            "distancia": 207.7,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Devolder Stijn",
+            "pais": "Bélgica",
+            "distancia": 34.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2014,
+    "distancia": 534.1,
+    "desnivel": 0,
+    "tiempo": "16h 29' 57\"",
+    "ciclistasInscritos": 159,
+    "ciclistasFinalizados": 155,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Omega Pharma - Quick-Step",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Geniez Alexandre",
+            "pais": "Francia",
+            "equipo": "FDJ.fr ",
+            "ventaja": "+ 1 min 13 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Belkin-Pro Cycling Team",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Caja Rural - Seguros RGA",
+            "ventaja": "+ 1 min 33 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Prades Eduard",
+            "pais": "España",
+            "equipo": "OFM - Quinta da Lixa",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Horner Chris",
+            "pais": "Estados Unidos",
+            "equipo": "Lampre - Merida",
+            "ventaja": "+ 1 min 35 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinto Edgar",
+            "pais": "Portugal",
+            "equipo": "LA Aluminios - Antarte",
+            "ventaja": "+ 1 min 42 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Costa Rui",
+        "pais": "Portugal",
+        "equipo": "Lampre - Merida"
+    },
+    "ganadorMontana": {
+        "nombre": "Pereira Valter",
+        "pais": "Portugal",
+        "equipo": "Banco BIC - Carmim"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Lampre - Merida",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Modolo Sacha",
+            "pais": "Italia",
+            "distancia": 160.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.42
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 196.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.47
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 13.6,
+            "desnivel": 0,
+            "velocidadMedia": 58.08
+        },
+        {
+            "etapa": 4,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 164.5,
+            "desnivel": 0,
+            "velocidadMedia": 40.76
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cavendish Mark",
+            "pais": "Reino Unido",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.8023
+        }
+    ]
+}

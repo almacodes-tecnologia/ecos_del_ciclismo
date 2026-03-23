@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2023,
+    "distancia": 791.9,
+    "desnivel": 11592,
+    "tiempo": "20h 00' 26\"",
+    "ciclistasInscritos": 173,
+    "ciclistasFinalizados": 135,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Martínez Daniel Felipe",
+            "pais": "Colombia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Ganna Filippo",
+            "pais": "Italia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Van Wilder Ilan",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Foss Tobias",
+            "pais": "Noruega",
+            "equipo": "Jumbo-Visma",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Almeida João",
+            "pais": "Portugal",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pidcock Thomas",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Costa Rui",
+            "pais": "Portugal",
+            "equipo": "Intermarché - Circus - Wanty",
+            "ventaja": "+ 1 min 6 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Cort Magnus",
+        "pais": "Dinamarca",
+        "equipo": "EF Education - EasyPost"
+    },
+    "ganadorMontana": {
+        "nombre": "Asgreen Kasper",
+        "pais": "Dinamarca",
+        "equipo": "Soudal Quick-Step"
+    },
+    "ganadorJovenes": {
+        "nombre": "Onley Oscar",
+        "pais": "Reino Unido",
+        "equipo": "Team DSM"
+    },
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 200.2,
+            "desnivel": 2301,
+            "velocidadMedia": 41.504
+        },
+        {
+            "etapa": 2,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 186.3,
+            "desnivel": 3411,
+            "velocidadMedia": 36.401
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 203.1,
+            "desnivel": 2369,
+            "velocidadMedia": 39.924
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pidcock Thomas",
+            "pais": "Reino Unido",
+            "distancia": 177.9,
+            "desnivel": 3203,
+            "velocidadMedia": 39.732
+        },
+        {
+            "etapa": 5,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 24.4,
+            "desnivel": 308,
+            "velocidadMedia": 49.515
+        }
+    ]
+}

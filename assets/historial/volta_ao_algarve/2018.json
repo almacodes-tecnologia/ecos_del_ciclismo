@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2018,
+    "distancia": 600.0,
+    "desnivel": 7441,
+    "tiempo": "18h 54' 11\"",
+    "ciclistasInscritos": 173,
+    "ciclistasFinalizados": 146,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 31 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 2 min 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 2 min 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": null,
+            "nombre": "Rosón Jaime",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 49 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pauwels Serge",
+            "pais": "Bélgica",
+            "equipo": "Team Dimension Data",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Großschartner Felix",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Oliveira Nelson",
+            "pais": "Portugal",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 54 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kwiatkowski Michał",
+        "pais": "Polonia",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "King Ben",
+        "pais": "Estados Unidos",
+        "equipo": "Team Dimension Data"
+    },
+    "ganadorJovenes": {
+        "nombre": "Oomen Sam",
+        "pais": "Países Bajos",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 192.6,
+            "desnivel": 2006,
+            "velocidadMedia": 40.13
+        },
+        {
+            "etapa": 2,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 187.9,
+            "desnivel": 3319,
+            "velocidadMedia": 38.9
+        },
+        {
+            "etapa": 3,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "distancia": 20.3,
+            "desnivel": 241,
+            "velocidadMedia": 50.43
+        },
+        {
+            "etapa": 4,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 199.2,
+            "desnivel": 1875,
+            "velocidadMedia": 43.65
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kwiatkowski Michał",
+            "pais": "Polonia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9193
+        }
+    ]
+}

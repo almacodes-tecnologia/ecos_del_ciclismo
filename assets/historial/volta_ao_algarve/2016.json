@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2016,
+    "distancia": 574.2,
+    "desnivel": 0,
+    "tiempo": "18h 34' 15\"",
+    "ciclistasInscritos": 190,
+    "ciclistasFinalizados": 149,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Thomas Geraint",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Roglič Primož",
+            "pais": "Eslovenia",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 49 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Gallopin Tony",
+            "pais": "Francia",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 50 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zakarin Ilnur",
+            "pais": "Rusia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Pantano Jarlinson",
+            "pais": "Colombia",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 1 min 4 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Aru Fabio",
+            "pais": "Italia",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Antunes Amaro",
+            "pais": "Portugal",
+            "equipo": "LA Aluminios - Antarte",
+            "ventaja": "+ 1 min 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Kittel Marcel",
+        "pais": "Alemania",
+        "equipo": "Etixx - Quick Step"
+    },
+    "ganadorMontana": {
+        "nombre": "Kolobnev Alexandr",
+        "pais": "Rusia",
+        "equipo": "Gazprom-RusVelo"
+    },
+    "ganadorJovenes": {
+        "nombre": "Benoot Tiesj",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Katusha ",
+        "pais": "Rusia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 163.6,
+            "desnivel": 0,
+            "velocidadMedia": 42.2
+        },
+        {
+            "etapa": 2,
+            "nombre": "Sánchez Luis León",
+            "pais": "España",
+            "distancia": 198.6,
+            "desnivel": 0,
+            "velocidadMedia": 38.64
+        },
+        {
+            "etapa": 3,
+            "nombre": "Cancellara Fabian",
+            "pais": "Suiza",
+            "distancia": 18.0,
+            "desnivel": 0,
+            "velocidadMedia": 51.55
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kittel Marcel",
+            "pais": "Alemania",
+            "distancia": 194.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.62
+        },
+        {
+            "etapa": 5,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.0162
+        }
+    ]
+}

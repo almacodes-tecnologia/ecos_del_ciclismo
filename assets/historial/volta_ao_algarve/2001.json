@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2001,
+    "distancia": 680.4,
+    "desnivel": 0,
+    "tiempo": "20h 52' 21\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 133,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Ferrigato Andrea",
+            "pais": "Italia",
+            "equipo": "Alessio",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mauri Melchor",
+            "pais": "España",
+            "equipo": "Milaneza - MSS",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Sousa Rui",
+            "pais": "Portugal",
+            "equipo": "Porta da Ravessa",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Morini Federico",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Boogerd Michael",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zintchenko Andrei",
+            "pais": "Rusia",
+            "equipo": "LA - Pecol",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "González Aitor",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 25 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Leoni Endrio",
+        "pais": "Italia",
+        "equipo": "Alessio"
+    },
+    "ganadorMontana": {
+        "nombre": "Azevedo José Bento",
+        "pais": "Portugal",
+        "equipo": "O.N.C.E. - Eroski"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Eroski",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Leoni Endrio",
+            "pais": "Italia",
+            "distancia": 171.7,
+            "desnivel": 0,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 2,
+            "nombre": "Leoni Endrio",
+            "pais": "Italia",
+            "distancia": 168.3,
+            "desnivel": 0,
+            "velocidadMedia": 38.95
+        },
+        {
+            "etapa": 3,
+            "nombre": "Azevedo José Bento",
+            "pais": "Portugal",
+            "distancia": 170.5,
+            "desnivel": 0,
+            "velocidadMedia": 41.39
+        },
+        {
+            "etapa": 4,
+            "nombre": "Leoni Endrio",
+            "pais": "Italia",
+            "distancia": 169.9,
+            "desnivel": 0,
+            "velocidadMedia": 45.49
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sarkauskas Saulius",
+            "pais": "Lituania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.9628
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2005,
+    "distancia": 702.0,
+    "desnivel": 0,
+    "tiempo": "21h 44' 57\"",
+    "ciclistasInscritos": 152,
+    "ciclistasFinalizados": 46,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sabido Hugo",
+            "pais": "Portugal",
+            "equipo": "Paredes Rota dos Moveis - Beira Tamega",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "O'Grady Stuart",
+            "pais": "Australia",
+            "equipo": "Cofidis, le Crédit par Téléphone",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rubiera José Luis",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Goncalves Pedro",
+            "pais": "Portugal",
+            "equipo": "L.A. Aluminios - Liberty Seguros",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Van De Walle Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Landbouwkrediet - Colnago",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Olmo Juan",
+            "pais": "España",
+            "equipo": "Duja - Tavira",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Guerra Héctor",
+            "pais": "España",
+            "equipo": "L.A. Aluminios - Liberty Seguros",
+            "ventaja": "+ 29 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Wegmann Fabian",
+            "pais": "Alemania",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bileka Volodymyr",
+            "pais": "Ucrania",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pinho Carlos Manuel",
+            "pais": "Portugal",
+            "equipo": "Barbot - Pascoal",
+            "ventaja": "+ 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Eisel Bernhard",
+        "pais": "Austria",
+        "equipo": "Française des Jeux"
+    },
+    "ganadorMontana": {
+        "nombre": "Sabido Hugo",
+        "pais": "Portugal",
+        "equipo": "Paredes Rota dos Moveis - Beira Tamega"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.796
+        },
+        {
+            "etapa": 2,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 207.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.602
+        },
+        {
+            "etapa": 3,
+            "nombre": "Markov Alexei",
+            "pais": "Rusia",
+            "distancia": 200.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.056
+        },
+        {
+            "etapa": 4,
+            "nombre": "Eisel Bernhard",
+            "pais": "Austria",
+            "distancia": 155.0,
+            "desnivel": 0,
+            "velocidadMedia": 42.009
+        },
+        {
+            "etapa": 5,
+            "nombre": "Sabido Hugo",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.858
+        }
+    ]
+}

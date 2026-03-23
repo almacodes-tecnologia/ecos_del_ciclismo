@@ -1,0 +1,138 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2003,
+    "distancia": 514.3,
+    "desnivel": 0,
+    "tiempo": "17h 19' 06\"",
+    "ciclistasInscritos": 112,
+    "ciclistasFinalizados": 84,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Møller Claus Michael",
+            "pais": "Dinamarca",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Peña Victor Hugo",
+            "pais": "Colombia",
+            "equipo": "US Postal Service p/b Berry Floor",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Cardoso Pedro",
+            "pais": "Portugal",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bernabéu David",
+            "pais": "España",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 38 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "equipo": "L.A. Aluminios - Pecol",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Castanheira Bruno Miguel",
+            "pais": "Portugal",
+            "equipo": "L.A. Aluminios - Pecol",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pérez Francisco",
+            "pais": "España",
+            "equipo": "Milaneza - Mss",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bertoletti Simone",
+            "pais": "Italia",
+            "equipo": "Lampre",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Yus Unai Emillio",
+            "pais": "España",
+            "equipo": "Cantanhede - Marques de Marialva ",
+            "ventaja": "+ 1 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Olmo Juan",
+            "pais": "España",
+            "equipo": "Barbot - Torrié Cafés",
+            "ventaja": "+ 1 min 28 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Edo Ángel",
+        "pais": "España",
+        "equipo": "Milaneza - Mss"
+    },
+    "ganadorMontana": {
+        "nombre": "Vitorino Nélson Nuno",
+        "pais": "Portugal",
+        "equipo": "Porta da Ravessa - Tavira"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Milaneza - Mss",
+        "pais": "Portugal"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Edo Ángel",
+            "pais": "España",
+            "distancia": 178.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.955
+        },
+        {
+            "etapa": 2,
+            "nombre": "Loddo Alberto",
+            "pais": "Italia",
+            "distancia": 172.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.091
+        },
+        {
+            "etapa": 3,
+            "nombre": "Barbosa Cândido",
+            "pais": "Portugal",
+            "distancia": 153.8,
+            "desnivel": 0,
+            "velocidadMedia": 38.514
+        },
+        {
+            "etapa": 4,
+            "nombre": "Møller Claus Michael",
+            "pais": "Dinamarca",
+            "distancia": 10.5,
+            "desnivel": 0,
+            "velocidadMedia": 46.84
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cardoso Pedro",
+            "pais": "Portugal",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.0243
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "idCarrera": "volta-ao-algarve",
+    "anio": 2019,
+    "distancia": 605.1,
+    "desnivel": 7959,
+    "tiempo": "19h 26' 34\"",
+    "ciclistasInscritos": 168,
+    "ciclistasFinalizados": 126,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Oomen Sam",
+            "pais": "Países Bajos",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 1 min 40 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Štybar Zdeněk",
+            "pais": "República Checa",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Powless Neilson",
+            "pais": "Estados Unidos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 2 min 50 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Antunes Amaro",
+            "pais": "Portugal",
+            "equipo": "CCC Team",
+            "ventaja": "+ 2 min 52 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rodrigues João",
+            "pais": "Portugal",
+            "equipo": "W52 / FC Porto ",
+            "ventaja": "+ 3 min 27 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha Alpecin",
+            "ventaja": "+ 3 min 47 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ackermann Pascal",
+        "pais": "Alemania",
+        "equipo": "BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Declercq Tim",
+        "pais": "Bélgica",
+        "equipo": "Deceuninck - Quick Step"
+    },
+    "ganadorJovenes": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 199.1,
+            "desnivel": 2119,
+            "velocidadMedia": 40.774
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 187.4,
+            "desnivel": 3154,
+            "velocidadMedia": 37.679
+        },
+        {
+            "etapa": 3,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 20.3,
+            "desnivel": 236,
+            "velocidadMedia": 49.613
+        },
+        {
+            "etapa": 4,
+            "nombre": "Groenewegen Dylan",
+            "pais": "Países Bajos",
+            "distancia": 198.3,
+            "desnivel": 2450,
+            "velocidadMedia": 40.18
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.0457
+        }
+    ]
+}
