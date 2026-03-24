@@ -1,366 +1,920 @@
 {
-  "id": "geraint_thomas",
-  "nombre": "Geraint Thomas",
-  "nacionalidad": "Reino Unido",
-  "anioNacimiento": 1986,
-  "activo": "2005-2025",
+  "id": "alexander_kristoff",
+  "nombre": "Alexander Kristoff",
+  "nacionalidad": "Noruega",
+  "anioNacimiento": 1987,
+  "activo": "2006-2025",
   "especialidad": [
     "carretera",
-    "pista"
+    "sprint"
   ],
   "equipos": [
     {
-      "anio": 2005,
-      "equipo": "Team Wiesenhof"
-    },
-    {
       "anio": 2006,
-      "equipo": "Saunier Duval-Prodir"
+      "equipo": "Glud & Marstrand Horsens"
     },
     {
       "anio": 2007,
-      "equipo": "Barloworld"
+      "equipo": "Team Maxbo-Bianchi"
     },
     {
       "anio": 2008,
-      "equipo": "Barloworld"
+      "equipo": "Joker-Bianchi"
     },
     {
       "anio": 2009,
-      "equipo": "Barloworld-Bianchi"
+      "equipo": "Joker-Bianchi"
     },
     {
       "anio": 2010,
-      "equipo": "Sky Professional Cycling Team"
+      "equipo": "BMC Racing Team"
     },
     {
       "anio": 2011,
-      "equipo": "Sky Procycling"
+      "equipo": "BMC Racing Team"
     },
     {
       "anio": 2012,
-      "equipo": "Sky Procycling"
+      "equipo": "Katusha Team"
     },
     {
       "anio": 2013,
-      "equipo": "Sky Procycling"
+      "equipo": "Katusha Team"
     },
     {
       "anio": 2014,
-      "equipo": "Team Sky"
+      "equipo": "Team Katusha"
     },
     {
       "anio": 2015,
-      "equipo": "Team Sky"
+      "equipo": "Team Katusha"
     },
     {
       "anio": 2016,
-      "equipo": "Team Sky"
+      "equipo": "Team Katusha"
     },
     {
       "anio": 2017,
-      "equipo": "Team Sky"
+      "equipo": "Team Katusha-Alpecin"
     },
     {
       "anio": 2018,
-      "equipo": "Team Sky"
+      "equipo": "UAE Team Emirates"
     },
     {
       "anio": 2019,
-      "equipo": "Team Sky"
-    },
-    {
-      "anio": 2019,
-      "equipo": "Team INEOS"
+      "equipo": "UAE Team Emirates"
     },
     {
       "anio": 2020,
-      "equipo": "Team INEOS"
-    },
-    {
-      "anio": 2020,
-      "equipo": "INEOS Grenadiers"
+      "equipo": "UAE Team Emirates"
     },
     {
       "anio": 2021,
-      "equipo": "INEOS Grenadiers"
+      "equipo": "UAE Team Emirates"
     },
     {
       "anio": 2022,
-      "equipo": "INEOS Grenadiers"
+      "equipo": "Intermarché-Wanty-Gobert Matériaux"
     },
     {
       "anio": 2023,
-      "equipo": "INEOS Grenadiers"
+      "equipo": "Uno-X Pro Cycling Team"
     },
     {
       "anio": 2024,
-      "equipo": "INEOS Grenadiers"
+      "equipo": "Uno-X Mobility"
     },
     {
       "anio": 2025,
-      "equipo": "INEOS Grenadiers"
+      "equipo": "Uno-X Mobility"
     }
   ],
   "palmares": {
-    "2004": [
-      "Serie de Ruta Masculina Junior Británica"
-    ],
-    "2006": [
-      "3.º en el Campeonato del Reino Unido en Ruta",
-      "Flèche du Sud",
-      "1 etapa de Flèche du Sud"
-    ],
-    "2010": [
-      "Campeonato del Reino Unido en Ruta",
-      "3.º en el Campeonato del Reino Unido Contrarreloj"
-    ],
-    "2011": [
-      "Vuelta a Baviera"
-    ],
-    "2012": [
-      "1 etapa del Tour de Romandía"
-    ],
-    "2013": [
-      "1 etapa del Tour Down Under"
-    ],
-    "2014": [
-      "Vuelta a Baviera",
-      "1 etapa de la Vuelta a Baviera",
-      "2.º en el Campeonato del Reino Unido Contrarreloj"
-    ],
-    "2015": [
-      "Vuelta al Algarve",
-      "1 etapa de la Vuelta al Algarve",
-      "E3 Harelbeke"
-    ],
-    "2016": [
-      "Vuelta al Algarve",
-      "París-Niza"
-    ],
-    "2017": [
-      "1 etapa de la Tirreno-Adriático",
-      "Tour de los Alpes",
-      "1 etapa del Tour de los Alpes",
-      "1 etapa del Tour de Francia"
-    ],
-    "2018": [
-      "1 etapa de la Vuelta al Algarve",
-      "Critérium del Dauphiné",
-      "Campeonato del Reino Unido Contrarreloj",
-      "Tour de Francia",
-      "2 etapas del Tour de Francia"
-    ],
-    "2019": [
-      "2.º en el Tour de Francia"
-    ],
-    "2021": [
-      "Tour de Romandía",
-      "1 etapa del Critérium del Dauphiné"
-    ],
-    "2022": [
-      "Vuelta a Suiza",
-      "3.º en el Tour de Francia"
-    ],
-    "2023": [
-      "2.º en el Giro de Italia"
-    ],
-    "2024": [
-      "3.º en el Giro de Italia"
-    ]
-  },
-  "palmaresPista": {
-    "2005": [
-      "Campeonato del Reino Unido Scratch 20 kilómetros"
-    ],
-    "2006": [
-      "3.º en el Campeonato de los Juegos de la Mancomunidad Puntuación",
-      "2.º en el Campeonato Mundial Persecución por Equipos",
-      "2.º en el Campeonato del Reino Unido Persecución por equipos"
-    ],
     "2007": [
-      "Campeonato Mundial Persecuciión por Equipos"
+      "Campeonato de Noruega en Ruta"
     ],
     "2008": [
-      "Campeonato Mundial Persecución por Equipos",
-      "Campeonato Olímpico Persecución por Equipos"
+      "1 etapa del G. P. Ringerike"
+    ],
+    "2009": [
+      "1 etapa del G. P. Ringerike",
+      "2.º en el Campeonato de Noruega en Ruta"
     ],
     "2011": [
-      "Melbourne Persecución por Equipos",
-      "Campeonato Europeo Persecución por Equipos"
+      "Campeonato de Noruega en Ruta"
     ],
     "2012": [
-      "Campeonato Mundial Persecución por Equipos",
-      "Campeonato Olímpico Persecución por Equipos"
+      "1 etapa de los Tres Días de La Panne",
+      "3.º en el Campeonato de Noruega en Ruta",
+      "3.º en los Juegos Olímpicos en Ruta",
+      "1 etapa de la Vuelta a Dinamarca"
+    ],
+    "2013": [
+      "1 etapa de los Tres Días de La Panne",
+      "3 etapas del Tour de Noruega",
+      "1 etapa de la Vuelta a Suiza",
+      "2.º en el Campeonato de Noruega en Ruta",
+      "1 etapa del Tour de los Fiordos"
+    ],
+    "2014": [
+      "1 etapa del Tour de Omán",
+      "Milán-San Remo",
+      "Gran Premio de Fráncfort",
+      "2 etapas del Tour de Noruega",
+      "Tour de los Fiordos",
+      "3 etapas del Tour de los Fiordos",
+      "2 etapas del Tour de Francia",
+      "2 etapas de la Arctic Race de Noruega",
+      "Vattenfall Cyclassics"
+    ],
+    "2015": [
+      "3 etapas del Tour de Catar",
+      "1 etapa del Tour de Omán",
+      "1 etapa del París-Niza",
+      "Tres Días de La Panne",
+      "3 etapas de los Tres Días de La Panne",
+      "Tour de Flandes",
+      "Scheldeprijs",
+      "2 etapas del Tour de Noruega",
+      "3 etapas del Tour de los Fiordos",
+      "G. P. Kanton Aargau",
+      "1 etapa de la Vuelta a Suiza",
+      "1 etapa de la Arctic Race de Noruega",
+      "Gran Premio de Plouay"
+    ],
+    "2016": [
+      "3 etapas del Tour de Catar",
+      "2 etapas del Tour de Omán",
+      "1 etapa de los Tres Días de La Panne",
+      "Gran Premio de Fráncfort",
+      "1 etapa del Tour de California",
+      "2.º en el Campeonato de Noruega en Ruta",
+      "1 etapa de la Arctic Race de Noruega",
+      "Tour de los Fiordos",
+      "3 etapas del Tour de los Fiordos"
+    ],
+    "2017": [
+      "1 etapa de la Estrella de Bessèges",
+      "3 etapas del Tour de Omán",
+      "1 etapa de los Tres Días de La Panne",
+      "Gran Premio de Fráncfort",
+      "RideLondon-Surrey Classic",
+      "Campeonato Europeo en Ruta",
+      "1 etapa de la Arctic Race de Noruega",
+      "2.º en el Campeonato Mundial en Ruta"
+    ],
+    "2018": [
+      "1 etapa del Tour de Omán",
+      "1 etapa del Tour de Abu Dhabi",
+      "Gran Premio de Fráncfort",
+      "G. P. Kanton Aargau",
+      "1 etapa del Tour de Francia"
+    ],
+    "2019": [
+      "1 etapa del Tour de Omán",
+      "Gante-Wevelgem",
+      "Tour de Noruega",
+      "1 etapa del Tour de Noruega",
+      "G. P. Kanton Aargau",
+      "1 etapa de la Vuelta a Alemania",
+      "1 etapa del Tour de Eslovaquia"
+    ],
+    "2020": [
+      "1 etapa del Tour de Francia"
+    ],
+    "2021": [
+      "2 etapas de la Vuelta a Alemania"
+    ],
+    "2022": [
+      "Clásica de Almería",
+      "Scheldeprijs",
+      "1 etapa del Tour de Noruega",
+      "2.º en el Campeonato de Noruega en Ruta",
+      "Circuito Franco-Belga",
+      "1 etapa de la Vuelta a Alemania"
+    ],
+    "2023": [
+      "1 etapa de la Vuelta al Algarve",
+      "1 etapa del Tour de Noruega",
+      "2.º en el Campeonato de Noruega en Ruta"
+    ],
+    "2024": [
+      "Elfstedenronde",
+      "Antwerp Port Epic",
+      "1 etapa del Tour de Noruega",
+      "Flecha de Heist",
+      "2 etapas de la Arctic Race de Noruega",
+      "2 etapas de la CRO Race"
+    ],
+    "2025": [
+      "1 etapa de la Vuelta a Andalucía",
+      "1 etapa de la Arctic Race de Noruega"
     ]
   },
   "resumenPalmares": [
-    "1 Tour de Francia",
-    "3 etapas en el Tour de Francia",
-    "1 Critérium del Dauphiné",
-    "1 París-Niza",
-    "1 E3 Harelbeke",
-    "2 Vuelta al Algarve",
-    "1 Tour de Romandía",
-    "1 Vuelta a Suiza",
-    "3 Campeonatos Mundiales Persecución por Equipos (Pista)",
-    "2 Campeonatos Olímpicos Persecución por Equipos (Pista)",
-    "1 Campeonato del Reino Unido en Ruta"
+    "5 etapas del Tour de Francia",
+    "1 Milán San Remo",
+    "1 Tour de Flandes",
+    "2 Gante-Wevelgem",
+    "Plata en el Mundial de Ciclismo en Ruta",
+    "Bronce en los Juegos Olímpicos en Ruta"
   ],
   "resultadosGrandesVueltas": [
-  { "anio": 2011, "carrera": "Giro de Italia", "puesto": "157" },
-  { "anio": 2012, "carrera": "Giro de Italia", "puesto": "149" },
-  { "anio": 2013, "carrera": "Tour de Francia", "puesto": "147" },
-  { "anio": 2014, "carrera": "Tour de Francia", "puesto": "125" },
-  { "anio": 2015, "carrera": "Tour de Francia", "puesto": "130" },
-  { "anio": 2016, "carrera": "Tour de Francia", "puesto": "149" },
-  { "anio": 2017, "carrera": "Tour de Francia", "puesto": "130" },
-  { "anio": 2018, "carrera": "Tour de Francia", "puesto": "114" },
-  { "anio": 2019, "carrera": "Tour de Francia", "puesto": "139" },
-  { "anio": 2020, "carrera": "Tour de Francia", "puesto": "132" },
-  { "anio": 2022, "carrera": "Tour de Francia", "puesto": "101" },
-  { "anio": 2023, "carrera": "Tour de Francia", "puesto": "134" },
-  { "anio": 2024, "carrera": "Tour de Francia", "puesto": "131" }
-],
-"resultadosMonumentos": [
-  { "anio": 2010, "carrera": "Scheldeprijs", "puesto": "10" },
-  { "anio": 2010, "carrera": "Cyclassics Hamburg", "puesto": "4" },
-  { "anio": 2011, "carrera": "Scheldeprijs", "puesto": "7" },
-  { "anio": 2011, "carrera": "Cyclassics Hamburg", "puesto": "14" },
-  { "anio": 2011, "carrera": "A Través de Flandes", "puesto": "112" },
-  { "anio": 2012, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "9" },
-  { "anio": 2012, "carrera": "Tour de Flandes", "puesto": "15" },
-  { "anio": 2012, "carrera": "Scheldeprijs", "puesto": "17" },
-  { "anio": 2012, "carrera": "París-Roubaix", "puesto": "57" },
-  { "anio": 2012, "carrera": "Cyclassics Hamburg", "puesto": "11" },
-  { "anio": 2012, "carrera": "París-Tours", "puesto": "17" },
-  { "anio": 2013, "carrera": "Milán-San Remo", "puesto": "8" },
-  { "anio": 2013, "carrera": "Gante-Wevelgem", "puesto": "14" },
-  { "anio": 2013, "carrera": "A Través de Flandes", "puesto": "20" },
-  { "anio": 2013, "carrera": "Tour de Flandes", "puesto": "4" },
-  { "anio": 2013, "carrera": "Scheldeprijs", "puesto": "5" },
-  { "anio": 2013, "carrera": "París-Roubaix", "puesto": "9" },
-  { "anio": 2013, "carrera": "Cyclassics Hamburg", "puesto": "3" },
-  { "anio": 2014, "carrera": "Milán-San Remo", "puesto": "1" },
-  { "anio": 2014, "carrera": "Gante-Wevelgem", "puesto": "11" },
-  { "anio": 2014, "carrera": "A Través de Flandes", "puesto": "13" },
-  { "anio": 2014, "carrera": "Tour de Flandes", "puesto": "5" },
-  { "anio": 2014, "carrera": "Scheldeprijs", "puesto": "15" },
-  { "anio": 2014, "carrera": "Cyclassics Hamburg", "puesto": "1" },
-  { "anio": 2014, "carrera": "Bretagne Classic", "puesto": "8" },
-  { "anio": 2015, "carrera": "Omloop Het Nieuwsblad", "puesto": "11" },
-  { "anio": 2015, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "2" },
-  { "anio": 2015, "carrera": "Milán-San Remo", "puesto": "2" },
-  { "anio": 2015, "carrera": "E3 Harelbeke", "puesto": "4" },
-  { "anio": 2015, "carrera": "Gante-Wevelgem", "puesto": "9" },
-  { "anio": 2015, "carrera": "Tour de Flandes", "puesto": "1" },
-  { "anio": 2015, "carrera": "Scheldeprijs", "puesto": "1" },
-  { "anio": 2015, "carrera": "París-Roubaix", "puesto": "10" },
-  { "anio": 2015, "carrera": "Cyclassics Hamburg", "puesto": "2" },
-  { "anio": 2015, "carrera": "Bretagne Classic", "puesto": "1" },
-  { "anio": 2016, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "2" },
-  { "anio": 2016, "carrera": "Milán-San Remo", "puesto": "6" },
-  { "anio": 2016, "carrera": "Tour de Flandes", "puesto": "4" },
-  { "anio": 2016, "carrera": "Scheldeprijs", "puesto": "15" },
-  { "anio": 2016, "carrera": "Cyclassics Hamburg", "puesto": "5" },
-  { "anio": 2016, "carrera": "Bretagne Classic", "puesto": "3" },
-  { "anio": 2017, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "21" },
-  { "anio": 2017, "carrera": "Milán-San Remo", "puesto": "4" },
-  { "anio": 2017, "carrera": "Tour de Flandes", "puesto": "5" },
-  { "anio": 2017, "carrera": "Cyclassics Hamburg", "puesto": "4" },
-  { "anio": 2017, "carrera": "Bretagne Classic", "puesto": "2" },
-  { "anio": 2018, "carrera": "Milán-San Remo", "puesto": "4" },
-  { "anio": 2018, "carrera": "Gante-Wevelgem", "puesto": "25" },
-  { "anio": 2018, "carrera": "Tour de Flandes", "puesto": "16" },
-  { "anio": 2018, "carrera": "Cyclassics Hamburg", "puesto": "3" },
-  { "anio": 2018, "carrera": "Bretagne Classic", "puesto": "11" },
-  { "anio": 2019, "carrera": "Milán-San Remo", "puesto": "14" },
-  { "anio": 2019, "carrera": "Gante-Wevelgem", "puesto": "1" },
-  { "anio": 2019, "carrera": "A Través de Flandes", "puesto": "12" },
-  { "anio": 2019, "carrera": "Tour de Flandes", "puesto": "3" },
-  { "anio": 2019, "carrera": "Cyclassics Hamburg", "puesto": "4" },
-  { "anio": 2020, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "3" },
-  { "anio": 2020, "carrera": "Gante-Wevelgem", "puesto": "19" },
-  { "anio": 2020, "carrera": "Tour de Flandes", "puesto": "3" },
-  { "anio": 2020, "carrera": "Scheldeprijs", "puesto": "13" },
-  { "anio": 2021, "carrera": "Omloop Het Nieuwsblad", "puesto": "58" },
-  { "anio": 2021, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "40" },
-  { "anio": 2021, "carrera": "Gante-Wevelgem", "puesto": "28" },
-  { "anio": 2021, "carrera": "A Través de Flandes", "puesto": "6" },
-  { "anio": 2021, "carrera": "Tour de Flandes", "puesto": "18" },
-  { "anio": 2021, "carrera": "Scheldeprijs", "puesto": "33" },
-  { "anio": 2021, "carrera": "París-Roubaix", "puesto": "14" },
-  { "anio": 2022, "carrera": "Omloop Het Nieuwsblad", "puesto": "60" },
-  { "anio": 2022, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "11" },
-  { "anio": 2022, "carrera": "Milán-San Remo", "puesto": "26" },
-  { "anio": 2022, "carrera": "Gante-Wevelgem", "puesto": "11" },
-  { "anio": 2022, "carrera": "A Través de Flandes", "puesto": "31" },
-  { "anio": 2022, "carrera": "Tour de Flandes", "puesto": "10" },
-  { "anio": 2022, "carrera": "Scheldeprijs", "puesto": "1" },
-  { "anio": 2022, "carrera": "París-Roubaix", "puesto": "12" },
-  { "anio": 2022, "carrera": "Cyclassics Hamburg", "puesto": "10" },
-  { "anio": 2023, "carrera": "Omloop Het Nieuwsblad", "puesto": "4" },
-  { "anio": 2023, "carrera": "Kuurne-Bruselas-Kuurne", "puesto": "43" },
-  { "anio": 2023, "carrera": "A Través de Flandes", "puesto": "27" },
-  { "anio": 2023, "carrera": "Tour de Flandes", "puesto": "18" },
-  { "anio": 2023, "carrera": "París-Roubaix", "puesto": "15" },
-  { "anio": 2023, "carrera": "Giro de Lombardía", "puesto": "13" },
-  { "anio": 2024, "carrera": "Omloop Het Nieuwsblad", "puesto": "14" },
-  { "anio": 2024, "carrera": "A Través de Flandes", "puesto": "77" },
-  { "anio": 2024, "carrera": "Tour de Flandes", "puesto": "74" },
-  { "anio": 2024, "carrera": "París-Roubaix", "puesto": "21" },
-  { "anio": 2024, "carrera": "Cyclassics Hamburg", "puesto": "5" },
-  { "anio": 2025, "carrera": "Gante-Wevelgem", "puesto": "4" },
-  { "anio": 2025, "carrera": "Tour de Flandes", "puesto": "55" },
-  { "anio": 2025, "carrera": "Scheldeprijs", "puesto": "8" },
-  { "anio": 2025, "carrera": "Cyclassics Hamburg", "puesto": "49" }
-],
-"resultadosMundiales": [
-  { "anio": 2006, "carrera": "Noruega en Ruta", "puesto": "21" },
-  { "anio": 2007, "carrera": "Noruega en Ruta", "puesto": "1" },
-  { "anio": 2008, "carrera": "Noruega en Ruta", "puesto": "5" },
-  { "anio": 2009, "carrera": "JJ. OO. (Ruta)", "puesto": "3" },
-  { "anio": 2009, "carrera": "Noruega en Ruta", "puesto": "2" },
-  { "anio": 2009, "carrera": "Noruega Contrarreloj", "puesto": "8" },
-  { "anio": 2010, "carrera": "Mundial en Ruta", "puesto": "69" },
-  { "anio": 2011, "carrera": "Noruega en Ruta", "puesto": "1" },
-  { "anio": 2012, "carrera": "Noruega en Ruta", "puesto": "3" },
-  { "anio": 2013, "carrera": "Noruega en Ruta", "puesto": "2" },
-  { "anio": 2014, "carrera": "Mundial en Ruta", "puesto": "8" },
-  { "anio": 2014, "carrera": "Noruega en Ruta", "puesto": "16" },
-  { "anio": 2015, "carrera": "Mundial en Ruta", "puesto": "4" },
-  { "anio": 2015, "carrera": "Noruega en Ruta", "puesto": "10" },
-  { "anio": 2016, "carrera": "Mundial en Ruta", "puesto": "7" },
-  { "anio": 2016, "carrera": "Noruega en Ruta", "puesto": "2" },
-  { "anio": 2017, "carrera": "Mundial en Ruta", "puesto": "2" },
-  { "anio": 2017, "carrera": "Europeo en Ruta", "puesto": "1" },
-  { "anio": 2017, "carrera": "Noruega en Ruta", "puesto": "50" },
-  { "anio": 2018, "carrera": "Europeo en Ruta", "puesto": "11" },
-  { "anio": 2018, "carrera": "Noruega en Ruta", "puesto": "27" },
-  { "anio": 2019, "carrera": "Mundial en Ruta", "puesto": "7" },
-  { "anio": 2019, "carrera": "Europeo en Ruta", "puesto": "4" },
-  { "anio": 2019, "carrera": "Noruega en Ruta", "puesto": "7" },
-  { "anio": 2021, "carrera": "Mundial en Ruta", "puesto": "21" },
-  { "anio": 2022, "carrera": "Mundial en Ruta", "puesto": "6" },
-  { "anio": 2022, "carrera": "Europeo en Ruta", "puesto": "8" },
-  { "anio": 2022, "carrera": "Noruega en Ruta", "puesto": "2" },
-  { "anio": 2023, "carrera": "Noruega en Ruta", "puesto": "2" },
-  { "anio": 2024, "carrera": "Europeo en Ruta", "puesto": "5" },
-  { "anio": 2025, "carrera": "Noruega en Ruta", "puesto": "27" }
-],
+    {
+      "anio": 2011,
+      "carrera": "Giro de Italia",
+      "puesto": "157"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Giro de Italia",
+      "puesto": "149"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de Francia",
+      "puesto": "147"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Francia",
+      "puesto": "125"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de Francia",
+      "puesto": "130"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour de Francia",
+      "puesto": "149"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Tour de Francia",
+      "puesto": "130"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Tour de Francia",
+      "puesto": "114"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Tour de Francia",
+      "puesto": "139"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Tour de Francia",
+      "puesto": "132"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Tour de Francia",
+      "puesto": "101"
+    },
+    {
+      "anio": 2023,
+      "carrera": "Tour de Francia",
+      "puesto": "134"
+    },
+    {
+      "anio": 2024,
+      "carrera": "Tour de Francia",
+      "puesto": "131"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2010,
+      "carrera": "Scheldeprijs",
+      "puesto": "10"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "4"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Scheldeprijs",
+      "puesto": "7"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "14"
+    },
+    {
+      "anio": 2011,
+      "carrera": "A Través de Flandes",
+      "puesto": "112"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "9"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Flandes",
+      "puesto": "15"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Scheldeprijs",
+      "puesto": "17"
+    },
+    {
+      "anio": 2012,
+      "carrera": "París-Roubaix",
+      "puesto": "57"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "11"
+    },
+    {
+      "anio": 2012,
+      "carrera": "París-Tours",
+      "puesto": "17"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Milán-San Remo",
+      "puesto": "8"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "14"
+    },
+    {
+      "anio": 2013,
+      "carrera": "A Través de Flandes",
+      "puesto": "20"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de Flandes",
+      "puesto": "4"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Scheldeprijs",
+      "puesto": "5"
+    },
+    {
+      "anio": 2013,
+      "carrera": "París-Roubaix",
+      "puesto": "9"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "3"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Milán-San Remo",
+      "puesto": "1"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "11"
+    },
+    {
+      "anio": 2014,
+      "carrera": "A Través de Flandes",
+      "puesto": "13"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Flandes",
+      "puesto": "5"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Scheldeprijs",
+      "puesto": "15"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "1"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Bretagne Classic",
+      "puesto": "8"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "11"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "2"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Milán-San Remo",
+      "puesto": "2"
+    },
+    {
+      "anio": 2015,
+      "carrera": "E3 Harelbeke",
+      "puesto": "4"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "9"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de Flandes",
+      "puesto": "1"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Scheldeprijs",
+      "puesto": "1"
+    },
+    {
+      "anio": 2015,
+      "carrera": "París-Roubaix",
+      "puesto": "10"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "2"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Bretagne Classic",
+      "puesto": "1"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "2"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Milán-San Remo",
+      "puesto": "6"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour de Flandes",
+      "puesto": "4"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Scheldeprijs",
+      "puesto": "15"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "5"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Bretagne Classic",
+      "puesto": "3"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "21"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Milán-San Remo",
+      "puesto": "4"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Tour de Flandes",
+      "puesto": "5"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "4"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Bretagne Classic",
+      "puesto": "2"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Milán-San Remo",
+      "puesto": "4"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "25"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Tour de Flandes",
+      "puesto": "16"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "3"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Bretagne Classic",
+      "puesto": "11"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Milán-San Remo",
+      "puesto": "14"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "1"
+    },
+    {
+      "anio": 2019,
+      "carrera": "A Través de Flandes",
+      "puesto": "12"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Tour de Flandes",
+      "puesto": "3"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "4"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "3"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "19"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Tour de Flandes",
+      "puesto": "3"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Scheldeprijs",
+      "puesto": "13"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "58"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "40"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "28"
+    },
+    {
+      "anio": 2021,
+      "carrera": "A Través de Flandes",
+      "puesto": "6"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Tour de Flandes",
+      "puesto": "18"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Scheldeprijs",
+      "puesto": "33"
+    },
+    {
+      "anio": 2021,
+      "carrera": "París-Roubaix",
+      "puesto": "14"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "60"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "11"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Milán-San Remo",
+      "puesto": "26"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "11"
+    },
+    {
+      "anio": 2022,
+      "carrera": "A Través de Flandes",
+      "puesto": "31"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Tour de Flandes",
+      "puesto": "10"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Scheldeprijs",
+      "puesto": "1"
+    },
+    {
+      "anio": 2022,
+      "carrera": "París-Roubaix",
+      "puesto": "12"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "10"
+    },
+    {
+      "anio": 2023,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "4"
+    },
+    {
+      "anio": 2023,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "43"
+    },
+    {
+      "anio": 2023,
+      "carrera": "A Través de Flandes",
+      "puesto": "27"
+    },
+    {
+      "anio": 2023,
+      "carrera": "Tour de Flandes",
+      "puesto": "18"
+    },
+    {
+      "anio": 2023,
+      "carrera": "París-Roubaix",
+      "puesto": "15"
+    },
+    {
+      "anio": 2023,
+      "carrera": "Giro de Lombardía",
+      "puesto": "13"
+    },
+    {
+      "anio": 2024,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "14"
+    },
+    {
+      "anio": 2024,
+      "carrera": "A Través de Flandes",
+      "puesto": "77"
+    },
+    {
+      "anio": 2024,
+      "carrera": "Tour de Flandes",
+      "puesto": "74"
+    },
+    {
+      "anio": 2024,
+      "carrera": "París-Roubaix",
+      "puesto": "21"
+    },
+    {
+      "anio": 2024,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "5"
+    },
+    {
+      "anio": 2025,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "4"
+    },
+    {
+      "anio": 2025,
+      "carrera": "Tour de Flandes",
+      "puesto": "55"
+    },
+    {
+      "anio": 2025,
+      "carrera": "Scheldeprijs",
+      "puesto": "8"
+    },
+    {
+      "anio": 2025,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "49"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2006,
+      "carrera": "Noruega en Ruta",
+      "puesto": "21"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Noruega en Ruta",
+      "puesto": "1"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Noruega en Ruta",
+      "puesto": "5"
+    },
+    {
+      "anio": 2012,
+      "carrera": "JJ. OO. (Ruta)",
+      "puesto": "3"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Noruega en Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Noruega Contrarreloj",
+      "puesto": "8"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Mundial en Ruta",
+      "puesto": "69"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Noruega en Ruta",
+      "puesto": "1"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Noruega en Ruta",
+      "puesto": "3"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Noruega en Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Mundial en Ruta",
+      "puesto": "8"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Noruega en Ruta",
+      "puesto": "16"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Mundial en Ruta",
+      "puesto": "4"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Noruega en Ruta",
+      "puesto": "10"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Mundial en Ruta",
+      "puesto": "7"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Noruega en Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Mundial en Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Europeo en Ruta",
+      "puesto": "1"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Noruega en Ruta",
+      "puesto": "50"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Europeo en Ruta",
+      "puesto": "11"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Noruega en Ruta",
+      "puesto": "27"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Mundial en Ruta",
+      "puesto": "7"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Europeo en Ruta",
+      "puesto": "4"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Noruega en Ruta",
+      "puesto": "7"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Mundial en Ruta",
+      "puesto": "21"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Mundial en Ruta",
+      "puesto": "6"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Europeo en Ruta",
+      "puesto": "8"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Noruega en Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 2023,
+      "carrera": "Noruega en Ruta",
+      "puesto": "2"
+    },
+    {
+      "anio": 2024,
+      "carrera": "Europeo en Ruta",
+      "puesto": "5"
+    },
+    {
+      "anio": 2025,
+      "carrera": "Noruega en Ruta",
+      "puesto": "27"
+    }
+  ],
   "habilidades": {
     "llano": 8,
-    "montana": 7,
-    "media_montana": 7,
+    "montana": 3,
+    "media_montana": 4,
     "muros": 4,
-    "pave": 6,
-    "sprint": 3,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 9,
-    "resistencia_clasicas": 6,
+    "pave": 8,
+    "sprint": 9,
+    "aceleracion": 7,
+    "resistencia_gran_vuelta": 7,
+    "resistencia_clasicas": 7,
     "combatividad": 6,
-    "contrarreloj": 9,
-    "pista": 10,
-    "tierra": 4
+    "contrarreloj": 4,
+    "pista": 2,
+    "tierra": 2
   }
+}
 }
