@@ -1,0 +1,36 @@
+{
+  "id": "monduver_por_gandia",
+  "nombre": "Mondúver",
+  "pais": "España",
+  "longitud_km": 14.2,
+  "desnivel_m": 788,
+  "altura_maxima_m": 830,
+  "pendiente_media_porcentaje": 5.6,
+  "pendiente_maxima_porcentaje": 23,
+  "descripcion": "Ascensión que combina una primera parte de carretera convencional (Puerto de la Drova) con un final agónico sobre hormigón desde la urbanización La Drova hasta las antenas de la cima.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 42},
+    {"kilometro": 1.0, "altitud": 57},
+    {"kilometro": 2.0, "altitud": 70},
+    {"kilometro": 3.0, "altitud": 88},
+    {"kilometro": 4.0, "altitud": 120},
+    {"kilometro": 5.0, "altitud": 152},
+    {"kilometro": 6.0, "altitud": 190},
+    {"kilometro": 7.0, "altitud": 246},
+    {"kilometro": 8.0, "altitud": 323},
+    {"kilometro": 9.0, "altitud": 380},
+    {"kilometro": 10.0, "altitud": 367},
+    {"kilometro": 11.0, "altitud": 475},
+    {"kilometro": 12.0, "altitud": 575},
+    {"kilometro": 13.0, "altitud": 670},
+    {"kilometro": 14.0, "altitud": 815},
+    {"kilometro": 14.2, "altitud": 830}
+  ],
+  "puntos_clave": [
+    {"kilometro": 0.0, "pendiente_porcentaje": 4, "nombre": "Inicio Gandía (Puente AP-7)"},
+    {"kilometro": 8.1, "pendiente_porcentaje": 11, "nombre": "Alto de la Drova (Coronamiento)"},
+    {"kilometro": 10.2, "pendiente_porcentaje": 14, "nombre": "Inicio Pista de Hormigón"},
+    {"kilometro": 10.8, "pendiente_porcentaje": 23, "nombre": "Rampa máxima (Tramo Recto)"},
+    {"kilometro": 14.2, "pendiente_porcentaje": 16, "nombre": "Cima Mondúver (Antenas)"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "el_fito_por_arriondas",
+  "nombre": "Mirador del Fito",
+  "pais": "España",
+  "longitud_km": 9.6,
+  "desnivel_m": 542,
+  "altura_maxima_m": 578,
+  "pendiente_media_porcentaje": 7.6,
+  "pendiente_maxima_porcentaje": 12,
+  "descripcion": "Una ascensión corta pero muy constante que serpentea por la Sierra del Sueve. Desde su cima se obtiene una de las mejores vistas de Asturias: los Picos de Europa a un lado y el Mar Cantábrico al otro.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 36},
+    {"kilometro": 1.0, "altitud": 72},
+    {"kilometro": 2.0, "altitud": 95},
+    {"kilometro": 3.0, "altitud": 162},
+    {"kilometro": 4.0, "altitud": 235},
+    {"kilometro": 5.0, "altitud": 295},
+    {"kilometro": 6.0, "altitud": 360},
+    {"kilometro": 6.3, "altitud": 345},
+    {"kilometro": 7.0, "altitud": 390},
+    {"kilometro": 8.0, "altitud": 458},
+    {"kilometro": 9.0, "altitud": 540},
+    {"kilometro": 9.6, "altitud": 578}
+  ],
+  "puntos_clave": [
+  ]
+}

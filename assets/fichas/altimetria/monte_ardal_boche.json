@@ -1,0 +1,32 @@
+{
+  "id": "monte_ardal_por_boche",
+  "nombre": "Monte Ardal",
+  "pais": "España",
+  "longitud_km": 15.8,
+  "desnivel_m": 803,
+  "altura_maxima_m": 1423,
+  "pendiente_media_porcentaje": 5.1,
+  "pendiente_maxima_porcentaje": 14,
+  "descripcion": "Ascensión clásica de la Sierra de Segura. La vertiente de Boche ofrece un inicio suave por el valle para terminar con los km más exigentes compartidos con la vertiente de Yeste hasta el radiofaro.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 620},
+    {"kilometro": 1.0, "altitud": 680},
+    {"kilometro": 2.0, "altitud": 735},
+    {"kilometro": 3.0, "altitud": 800},
+    {"kilometro": 4.0, "altitud": 868},
+    {"kilometro": 5.0, "altitud": 935},
+    {"kilometro": 6.0, "altitud": 990},
+    {"kilometro": 7.0, "altitud": 1002},
+    {"kilometro": 8.0, "altitud": 995},
+    {"kilometro": 9.0, "altitud": 967},
+    {"kilometro": 10.0, "altitud": 1000},
+    {"kilometro": 11.0, "altitud": 1040},
+    {"kilometro": 12.0, "altitud": 1115},
+    {"kilometro": 13.0, "altitud": 1192},
+    {"kilometro": 14.0, "altitud": 1262},
+    {"kilometro": 15.0, "altitud": 1334},
+    {"kilometro": 15.8, "altitud": 1423}
+  ],
+  "puntos_clave": [
+  ]
+}
