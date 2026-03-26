@@ -1,0 +1,24 @@
+{
+  "id": "monte_naranco_oviedo",
+  "nombre": "Monte Naranco",
+  "pais": "España",
+  "longitud_km": 6.5,
+  "desnivel_m": 390,
+  "altura_maxima_m": 630,
+  "pendiente_media_porcentaje": 6.0,
+  "pendiente_maxima_porcentaje": 12,
+  "descripcion": "La cima ciclista por excelencia de Oviedo. Una ascensión corta pero constante, con herraduras amplias y el marco incomparable del prerrománico asturiano, coronada por la estatua del Sagrado Corazón.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 240},
+    {"kilometro": 1.0, "altitud": 280},
+    {"kilometro": 2.0, "altitud": 340},
+    {"kilometro": 3.0, "altitud": 410},
+    {"kilometro": 4.0, "altitud": 490},
+    {"kilometro": 5.0, "altitud": 580},
+    {"kilometro": 5.5, "altitud": 565},
+    {"kilometro": 6.0, "altitud": 585},
+    {"kilometro": 6.5, "altitud": 630}
+  ],
+  "puntos_clave": [
+  ]
+}

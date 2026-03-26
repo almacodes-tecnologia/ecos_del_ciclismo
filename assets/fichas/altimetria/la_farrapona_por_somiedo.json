@@ -1,0 +1,35 @@
+{
+  "id": "la_farrapona_por_somiedo",
+  "nombre": "La Farrapona",
+  "pais": "España",
+  "longitud_km": 18.7,
+  "desnivel_m": 1089,
+  "altura_maxima_m": 1708,
+  "pendiente_media_porcentaje": 5.8,
+  "pendiente_maxima_porcentaje": 13,
+  "descripcion": "Una ascensión larga que remonta el valle del río Saliencia. Los primeros 12 km son falsos llanos y rampas suaves, pero los últimos 6 km son un muro constante con un paisaje de alta montaña sobrecogedor hasta llegar a los Lagos de Saliencia.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 619},
+    {"kilometro": 0.0, "altitud": 655},
+    {"kilometro": 2.0, "altitud": 695},
+    {"kilometro": 0.0, "altitud": 760},
+    {"kilometro": 4.0, "altitud": 790},
+    {"kilometro": 0.0, "altitud": 825},
+    {"kilometro": 6.0, "altitud": 890},
+    {"kilometro": 0.0, "altitud": 935},
+    {"kilometro": 8.0, "altitud": 1024},
+    {"kilometro": 0.0, "altitud": 1018},
+    {"kilometro": 10.0, "altitud": 1080},
+    {"kilometro": 0.0, "altitud": 1100},
+    {"kilometro": 12.0, "altitud": 1130},
+    {"kilometro": 13.0, "altitud": 1200},
+    {"kilometro": 14.0, "altitud": 1290},
+    {"kilometro": 15.0, "altitud": 1382},
+    {"kilometro": 16.0, "altitud": 1479},
+    {"kilometro": 17.0, "altitud": 1565},
+    {"kilometro": 18.0, "altitud": 1655},
+    {"kilometro": 18.7, "altitud": 1708}
+  ],
+  "puntos_clave": [
+  ]
+}
