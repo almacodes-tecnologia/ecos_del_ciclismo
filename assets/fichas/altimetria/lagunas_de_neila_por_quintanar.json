@@ -1,0 +1,34 @@
+{
+  "id": "lagunas_de_neila_por_quintanar",
+  "nombre": "Lagunas de Neila",
+  "pais": "España",
+  "longitud_km": 12.5,
+  "desnivel_m": 737,
+  "altura_maxima_m": 1861,
+  "pendiente_media_porcentaje": 5.9,
+  "pendiente_maxima_porcentaje": 20.7,
+  "descripcion": "El puerto más emblemático de la provincia de Burgos. Tras un inicio exigente entre pinares, el cruce de Rozavientos da paso a unos 3 kilómetros finales sobrecogedores donde la pendiente rara vez baja del 10%.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 1124},
+    {"kilometro": 1, "altitud": 1147},
+    {"kilometro": 2, "altitud": 1194},
+    {"kilometro": 3, "altitud": 1204},
+    {"kilometro": 4, "altitud": 1242},
+    {"kilometro": 5, "altitud": 1274},
+    {"kilometro": 6, "altitud": 1291},
+    {"kilometro": 7, "altitud": 1346},
+    {"kilometro": 8, "altitud": 1418},
+    {"kilometro": 9, "altitud": 1500},
+    {"kilometro": 10, "altitud": 1660},
+    {"kilometro": 11, "altitud": 1752},
+    {"kilometro": 12, "altitud": 1859},
+    {"kilometro": 12, "altitud": 1861}
+  ],
+"puntos_clave": [
+    {"kilometro": 0, "pendiente_porcentaje": 4.5, "nombre": "Inicio Quintanar (Pinares)"},
+    {"kilometro": 8, "pendiente_porcentaje": 9.0, "nombre": "Cruce de Rozavientos"},
+    {"kilometro": 10, "pendiente_porcentaje": 16.0, "nombre": "Muro del Collado"},
+    {"kilometro": 12, "pendiente_porcentaje": 20.7, "nombre": "Rampa de los Tejos (Máxima)"},
+    {"kilometro": 12.5, "pendiente_porcentaje": 5.0, "nombre": "Cima Laguna Larga"}
+  ]
+}

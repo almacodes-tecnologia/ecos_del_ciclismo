@@ -1,0 +1,27 @@
+{
+  "id": "picon_blanco_por_espinosa",
+  "nombre": "Picón Blanco",
+  "pais": "España",
+  "longitud_km": 8.3,
+  "desnivel_m": 759,
+  "altura_maxima_m": 1519,
+  "pendiente_media_porcentaje": 9,
+  "pendiente_maxima_porcentaje": 18,
+  "descripcion": "Un coloso burgalés de una dureza extrema y constante. Antiguo acceso a una base militar abandonada, sus rampas no dan tregua desde el primer kilómetro, ofreciendo vistas espectaculares de las Merindades.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 760},
+    {"kilometro": 1, "altitud": 820},
+    {"kilometro": 2, "altitud": 901},
+    {"kilometro": 3, "altitud": 1000},
+    {"kilometro": 4, "altitud": 1084},
+    {"kilometro": 5, "altitud": 1200},
+    {"kilometro": 6, "altitud": 1300},
+    {"kilometro": 7, "altitud": 1395},
+    {"kilometro": 8, "altitud": 1487},
+    {"kilometro": 8.3, "altitud": 1519}
+  ],
+  "puntos_clave": [
+    {"kilometro": 4, "pendiente_porcentaje": 18.0, "nombre": "Muro del Tejo"},
+    {"kilometro": 7, "pendiente_porcentaje": 14.0, "nombre": "Zona de Herraduras Finales"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "urkiola_por_manaria",
+  "nombre": "Urkiola",
+  "pais": "España",
+  "longitud_km": 6.0,
+  "desnivel_m": 542,
+  "altura_maxima_m": 750,
+  "pendiente_media_porcentaje": 9.0,
+  "pendiente_maxima_porcentaje": 15,
+  "descripcion": "El puerto por excelencia de Vizcaya. Una ascensión corta pero brutalmente constante que atraviesa el desfiladero entre las canteras de Mañaria y los riscos del Amboto, terminando en el Santuario de los Santos Antonio.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 191},
+    {"kilometro": 1, "altitud": 282},
+    {"kilometro": 2, "altitud": 382},
+    {"kilometro": 3, "altitud": 463},
+    {"kilometro": 4, "altitud": 562},
+    {"kilometro": 5, "altitud": 660},
+    {"kilometro": 6, "altitud": 750}
+  ],
+  "puntos_clave": [
+  ]
+}

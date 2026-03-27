@@ -1,0 +1,38 @@
+{
+  "id": "picon_del_fraile_por_san_roque",
+  "nombre": "Picón del Fraile",
+  "pais": "España",
+  "longitud_km": 20.7,
+  "desnivel_m": 1224,
+  "altura_maxima_m": 1611,
+  "pendiente_media_porcentaje": 6.4,
+  "pendiente_maxima_porcentaje": 15,
+  "descripcion": "La vertiente cántabra, salvaje y kárstica. Remonta todo el valle del Miera hasta el Portillo de Lunada para culminar en la base militar. Un paisaje de piedra y praderas único en el norte.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 411},
+    {"kilometro": 1, "altitud": 435},
+    {"kilometro": 2, "altitud": 493},
+    {"kilometro": 3, "altitud": 550},
+    {"kilometro": 4, "altitud": 605},
+    {"kilometro": 5, "altitud": 670},
+    {"kilometro": 6, "altitud": 720},
+    {"kilometro": 7, "altitud": 790},
+    {"kilometro": 8, "altitud": 860},
+    {"kilometro": 9, "altitud": 911},
+    {"kilometro": 10, "altitud": 970},
+    {"kilometro": 11, "altitud": 1025},
+    {"kilometro": 12, "altitud": 1087},
+    {"kilometro": 13, "altitud": 1150},
+    {"kilometro": 14, "altitud": 1219},
+    {"kilometro": 15, "altitud": 1282},
+    {"kilometro": 16, "altitud": 1294},
+    {"kilometro": 17, "altitud": 1344},
+    {"kilometro": 18, "altitud": 1419},
+    {"kilometro": 19, "altitud": 1468},
+    {"kilometro": 20, "altitud": 1546},
+    {"kilometro": 20.7, "altitud": 1611}
+  ],
+  "puntos_clave": [
+    {"kilometro": 19, "pendiente_porcentaje": 16.20, "nombre": "Cambio de provincia Cantabria - Burgos"}
+  ]
+}
