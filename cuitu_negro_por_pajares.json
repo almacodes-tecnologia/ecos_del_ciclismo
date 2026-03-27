@@ -1,0 +1,32 @@
+{
+  "id": "cuitu_negro_por_pajares",
+  "nombre": "Cuitu Negro",
+  "pais": "España",
+  "longitud_km": 18.9,
+  "desnivel_m": 1284,
+  "altura_maxima_m": 1846,
+  "pendiente_media_porcentaje": 6.8,
+  "pendiente_maxima_porcentaje": 24,
+  "descripcion": "La ascensión definitiva de la Cordillera Cantábrica. Tras subir el histórico Puerto de Pajares, la ruta se desvía hacia la estación de esquí para afrontar un muro final sobrecogedor con rampas que desafían la gravedad.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 562},
+    {"kilometro": 2.0, "altitud": 630},
+    {"kilometro": 5.0, "altitud": 845},
+    {"kilometro": 8.0, "altitud": 1050},
+    {"kilometro": 10.0, "altitud": 1180},
+    {"kilometro": 13.0, "altitud": 1378},
+    {"kilometro": 15.0, "altitud": 1475},
+    {"kilometro": 16.4, "altitud": 1450},
+    {"kilometro": 17.0, "altitud": 1560},
+    {"kilometro": 18.0, "altitud": 1740},
+    {"kilometro": 18.9, "altitud": 1846}
+  ],
+  "puntos_clave": [
+    {"kilometro": 0.0, "pendiente_porcentaje": 6.0, "nombre": "Puente de los Fierros (Inicio Pajares)"},
+    {"kilometro": 13.5, "pendiente_porcentaje": 7.0, "nombre": "Puerto de Pajares (Límite Provincial)"},
+    {"kilometro": 15.0, "pendiente_porcentaje": 0.0, "nombre": "Urbanización Brañillín (Descanso)"},
+    {"kilometro": 16.5, "pendiente_porcentaje": 18.0, "nombre": "Inicio del Muro (Pista de esquí)"},
+    {"kilometro": 18.2, "pendiente_porcentaje": 24.0, "nombre": "Rampa de 'El Muro'"},
+    {"kilometro": 18.9, "pendiente_porcentaje": 15.0, "nombre": "Cima Cuitu Negro (Confín del Aramo)"}
+  ]
+}

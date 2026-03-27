@@ -1,0 +1,31 @@
+{
+  "id": "coll_de_pradell_por_fumanya",
+  "nombre": "Coll de Pradell",
+  "pais": "España",
+  "longitud_km": 15.0,
+  "desnivel_m": 1032,
+  "altura_maxima_m": 1732,
+  "pendiente_media_porcentaje": 6.9,
+  "pendiente_maxima_porcentaje": 23,
+  "descripcion": "El coloso del Berguedà. Una ascensión dividida en dos: primero la subida a Fumanya y, tras un breve descanso, el terrible muro final de Pradell con su famosa rampa del ferrocarril.",
+  "altimetria_puntos": [
+    {"kilometro": 0, "altitud": 700},
+    {"kilometro": 1, "altitud": 740},
+    {"kilometro": 2, "altitud": 795},
+    {"kilometro": 3, "altitud": 850},
+    {"kilometro": 4, "altitud": 912},
+    {"kilometro": 5, "altitud": 960},
+    {"kilometro": 6, "altitud": 1025},
+    {"kilometro": 7, "altitud": 1085},
+    {"kilometro": 8, "altitud": 1080},
+    {"kilometro": 9, "altitud": 1100},
+    {"kilometro": 10, "altitud": 1186},
+    {"kilometro": 11, "altitud": 1315},
+    {"kilometro": 12, "altitud": 1390},
+    {"kilometro": 13, "altitud": 1505},
+    {"kilometro": 14, "altitud": 1660},
+    {"kilometro": 15, "altitud": 1732}
+  ],
+  "puntos_clave": [
+  ]
+}

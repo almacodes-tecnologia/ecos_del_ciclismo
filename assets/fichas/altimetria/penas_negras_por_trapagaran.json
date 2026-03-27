@@ -1,0 +1,29 @@
+{
+  "id": "penas_negras_por_trapagaran",
+  "nombre": "Peñas Negras",
+  "pais": "España",
+  "longitud_km": 10.5,
+  "desnivel_m": 452,
+  "altura_maxima_m": 492,
+  "pendiente_media_porcentaje": 4.4,
+  "pendiente_maxima_porcentaje": 14,
+  "descripcion": "Ascensión mítica del ciclismo vizcaíno. Atraviesa el histórico pueblo minero de La Arboleda para culminar en el Centro de Interpretación de Peñas Negras, en el corazón de los antiguos criaderos de hierro.",
+  "altimetria_puntos": [
+    {"kilometro": 0.0, "altitud": 40},
+    {"kilometro": 1.0, "altitud": 98},
+    {"kilometro": 2.0, "altitud": 150},
+    {"kilometro": 3.0, "altitud": 201},
+    {"kilometro": 4.0, "altitud": 258},
+    {"kilometro": 5.0, "altitud": 310},
+    {"kilometro": 6.0, "altitud": 372},
+    {"kilometro": 6.5, "altitud": 400},
+    {"kilometro": 7.0, "altitud": 382},
+    {"kilometro": 7.5, "altitud": 375},
+    {"kilometro": 8.0, "altitud": 393},
+    {"kilometro": 9.0, "altitud": 448},
+    {"kilometro": 10.0, "altitud": 465},
+    {"kilometro": 105, "altitud": 492}
+  ],
+  "puntos_clave": [
+  ]
+}
