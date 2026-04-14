@@ -1,0 +1,150 @@
+{
+    "idCarrera": "itzulia-basque-country",
+    "anio": 2026,
+    "distancia": 809.3,
+    "desnivel": 16404,
+    "tiempo": "20h 07' 35\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 75,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Seixas Paul",
+            "pais": "Francia",
+            "equipo": "Decathlon CMA CGM Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 2 min 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 2 min 33 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 3 min 50 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Champoussin Clément",
+            "pais": "Francia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 4 min 43 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 5 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Romo Javier",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 5 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Arrieta Igor",
+            "pais": "España",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 5 min 25 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Baudin Alex",
+            "pais": "Francia",
+            "equipo": "EF Education - EasyPost",
+            "ventaja": "+ 5 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vauquelin Kévin",
+            "pais": "Francia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 7 min 33 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Seixas Paul",
+        "pais": "Francia",
+        "equipo": "Decathlon CMA CGM Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Seixas Paul",
+        "pais": "Francia",
+        "equipo": "Decathlon CMA CGM Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Seixas Paul",
+        "pais": "Francia",
+        "equipo": "Decathlon CMA CGM Team"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Seixas Paul",
+            "pais": "Francia",
+            "distancia": 13.8,
+            "desnivel": 225,
+            "velocidadMedia": 48.28
+        },
+        {
+            "etapa": 2,
+            "nombre": "Seixas Paul",
+            "pais": "Francia",
+            "distancia": 164.1,
+            "desnivel": 3191,
+            "velocidadMedia": 39.102
+        },
+        {
+            "etapa": 3,
+            "nombre": "Laurance Axel",
+            "pais": "Francia",
+            "distancia": 152.8,
+            "desnivel": 2709,
+            "velocidadMedia": 41.949
+        },
+        {
+            "etapa": 4,
+            "nombre": "Aranburu Alex",
+            "pais": "España",
+            "distancia": 167.2,
+            "desnivel": 3119,
+            "velocidadMedia": 42.644
+        },
+        {
+            "etapa": 5,
+            "nombre": "Seixas Paul",
+            "pais": "Francia",
+            "distancia": 176.2,
+            "desnivel": 4079,
+            "velocidadMedia": 39.151
+        },
+        {
+            "etapa": 6,
+            "nombre": "August Andrew",
+            "pais": "Estados Unidos",
+            "distancia": 135.2,
+            "desnivel": 3081,
+            "velocidadMedia": 38.705
+        }
+    ]
+}
