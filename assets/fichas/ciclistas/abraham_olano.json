@@ -1,21 +1,20 @@
 {
   "id": "abraham_olano_manzano",
   "nombre": "Abraham Olano",
-  "nacionalidad": "Spain",
+  "nacionalidad": "España",
+  "lugarNacimiento": "Anoeta",
+  "peso": "70 kg",
+  "altura": "1.81 m",
   "anioNacimiento": 1970,
   "activo": "1992-2002",
   "especialidad": [
-    "onedayraces",
-    "gc"
+    "clasicómano",
+    "vueltómano"
   ],
   "equipos": [
     {
       "anio": 1992,
-      "equipo": "Lotus - Festinatrainee as from 01/09"
-    },
-    {
-      "anio": 1992,
-      "equipo": "CHCS - Ciemar - Paterninauntil 06/04"
+      "equipo": "CHCS - Ciemar - Paternina"
     },
     {
       "anio": 1993,
@@ -200,6 +199,11 @@
   ],
   "resultadosMonumentos": [
     {
+      "anio": 1992,
+      "carrera": "San Sebastian",
+      "puesto": "50"
+    },
+    {
       "anio": 1993,
       "carrera": "Lieja-Bastoña-Lieja",
       "puesto": "81"
@@ -215,14 +219,29 @@
       "puesto": "106"
     },
     {
+      "anio": 1994,
+      "carrera": "San Sebastian",
+      "puesto": "26"
+    },
+    {
       "anio": 1995,
       "carrera": "Giro de Lombardía",
       "puesto": "16"
     },
     {
       "anio": 1995,
+      "carrera": "San Sebastian",
+      "puesto": "28"
+    },
+    {
+      "anio": 1995,
       "carrera": "Milán-San Remo",
       "puesto": "38"
+    },
+    {
+      "anio": 1996,
+      "carrera": "San Sebastian",
+      "puesto": "11"
     },
     {
       "anio": 1996,
@@ -236,8 +255,28 @@
     },
     {
       "anio": 1997,
+      "carrera": "San Sebastian",
+      "puesto": "36"
+    },
+    {
+      "anio": 1997,
+      "carrera": "Amstel Gold Race",
+      "puesto": "17"
+    },
+    {
+      "anio": 1997,
       "carrera": "Milán-San Remo",
       "puesto": "120"
+    },
+    {
+      "anio": 1998,
+      "carrera": "San Sebastian",
+      "puesto": "16"
+    },
+    {
+      "anio": 1998,
+      "carrera": "Amstel Gold Race",
+      "puesto": "28"
     },
     {
       "anio": 1998,
@@ -246,12 +285,32 @@
     },
     {
       "anio": 1999,
+      "carrera": "San Sebastian",
+      "puesto": "25"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1999,
       "carrera": "Lieja-Bastoña-Lieja",
       "puesto": "42"
     },
     {
       "anio": 1999,
+      "carrera": "La Fleche Wallonne",
+      "puesto": "25"
+    },
+    {
+      "anio": 1999,
       "carrera": "Milán-San Remo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "San Sebastian",
       "puesto": "NC"
     },
     {
@@ -268,6 +327,11 @@
       "anio": 2001,
       "carrera": "Milán-San Remo",
       "puesto": "87"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Cyclassics Hamburg",
+      "puesto": "58"
     },
     {
       "anio": 2002,
@@ -385,6 +449,11 @@
     },
     {
       "anio": 1997,
+      "carrera": "Critérium du Dauphiné",
+      "puesto": "2"
+    },
+    {
+      "anio": 1997,
       "carrera": "Vuelta al País Vasco",
       "puesto": "8"
     },
@@ -407,6 +476,11 @@
       "anio": 1999,
       "carrera": "Tirreno-Adriático",
       "puesto": "68"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Critérium du Dauphiné",
+      "puesto": "18"
     },
     {
       "anio": 2000,
@@ -436,16 +510,16 @@
   ],
   "habilidades": {
     "llano": 5,
-    "montana": 8,
+    "montana": 9,
     "media_montana": 5,
     "muros": 5,
     "pave": 5,
     "sprint": 5,
     "aceleracion": 5,
-    "resistencia_gran_vuelta": 9,
-    "resistencia_clasicas": 5,
+    "resistencia_gran_vuelta": 10,
+    "resistencia_clasicas": 8,
     "combatividad": 5,
-    "contrarreloj": 5,
+    "contrarreloj": 10,
     "pista": 5,
     "tierra": 5
   }
