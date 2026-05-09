@@ -1,0 +1,150 @@
+{
+    "idCarrera": "tour-de-romandie",
+    "anio": 2026,
+    "distancia": 851.9,
+    "desnivel": 14333,
+    "tiempo": "20h 05' 42\"",
+    "ciclistasInscritos": 103,
+    "ciclistasFinalizados": 86,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Lipowitz Florian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martinez Lenny",
+            "pais": "Francia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 2 min 44 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Nordhagen Jørgen",
+            "pais": "Noruega",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 2 min 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Plapp Luke",
+            "pais": "Australia",
+            "equipo": "Team Jayco AlUla",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Tuckwell Luke",
+            "pais": "Australia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cepeda Jefferson Alveiro",
+            "pais": "Ecuador",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Withen Philipsen Albert",
+            "pais": "Dinamarca",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 3 min 20 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fortunato Lorenzo",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 3 min 24 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Lecerf Junior",
+            "pais": "Bélgica",
+            "equipo": "Soudal Quick-Step",
+            "ventaja": "+ 3 min 32 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorMontana": {
+        "nombre": "Thalmann Roland",
+        "pais": "Suiza",
+        "equipo": "Tudor Pro Cycling Team"
+    },
+    "ganadorJovenes": {
+        "nombre": "Martinez Lenny",
+        "pais": "Francia",
+        "equipo": "Bahrain - Victorious"
+    },
+    "ganadorEquipos": {
+        "nombre": " Red Bull - BORA - hansgrohe",
+        "pais": "Alemania"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Godon Dorian",
+            "pais": "Francia",
+            "distancia": 3.2,
+            "desnivel": 58,
+            "velocidadMedia": 53.581
+        },
+        {
+            "etapa": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 171.2,
+            "desnivel": 2186,
+            "velocidadMedia": 43.357
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 173.1,
+            "desnivel": 2749,
+            "velocidadMedia": 41.848
+        },
+        {
+            "etapa": 3,
+            "nombre": "Godon Dorian",
+            "pais": "Francia",
+            "distancia": 176.6,
+            "desnivel": 2270,
+            "velocidadMedia": 44.465
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 149.6,
+            "desnivel": 3583,
+            "velocidadMedia": 40.726
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 178.2,
+            "desnivel": 3487,
+            "velocidadMedia": 41.303
+        }
+    ]
+}
