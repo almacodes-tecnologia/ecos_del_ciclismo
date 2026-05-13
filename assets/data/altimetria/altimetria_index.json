@@ -119,14 +119,21 @@
     "longitud_km": 6.0,
     "desnivel_m": 542
   },
-  {
-    "id": "angliru",
-    "nombre": "Alto de l'Angliru",
-    "vertiente": "",
-    "pais": "España",
-    "longitud_km": 12.5,
-    "desnivel_m": 1255
-  },
+{
+  "id": "angliru",
+  "nombre": "Alto de l'Angliru",
+  "vertiente": "",
+  "pais": "España",
+  "comunidad": "Asturias",
+  "zona": "Sierra del Aramo",
+  "longitud_km": 12.5,
+  "desnivel_m": 1255,
+  "pendiente_media_porcentaje": 10.1,
+  "pendiente_maxima_porcentaje": 23.6,
+  "altura_maxima_m": 1570,
+  "superficie": "asfalto",
+  "tags": ["mítico"]
+},
   {
     "id": "alpe_dhuez_le_bourg_d_oisans",
     "nombre": "Alpe d'Huez",
