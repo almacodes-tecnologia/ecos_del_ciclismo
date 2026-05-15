@@ -1,17 +1,20 @@
 {
   "id": "roberto_heras",
   "nombre": "Roberto Heras",
-  "nacionalidad": "Spain",
+  "nacionalidad": "España",
+  "lugarNacimiento": "Béjar",
+  "peso": "59 kg",
+  "altura": "1.72 m",
   "anioNacimiento": 1974,
   "activo": "1995-2005",
   "especialidad": [
-    "onedayraces",
-    "gc"
+    "clasicómano",
+    "vueltómano"
   ],
   "equipos": [
     {
       "anio": 1995,
-      "equipo": "Kelmeas from 01/09"
+      "equipo": "Kelme"
     },
     {
       "anio": 1996,
@@ -190,9 +193,44 @@
       "puesto": "NC"
     },
     {
+      "anio": 1996,
+      "carrera": "Bretagne Classic",
+      "puesto": "52"
+    },
+    {
+      "anio": 1996,
+      "carrera": "San Sebastian",
+      "puesto": "146"
+    },
+    {
+      "anio": 1997,
+      "carrera": "San Sebastian",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1997,
+      "carrera": "La Fleche Wallonne",
+      "puesto": "NC"
+    },
+    {
       "anio": 1997,
       "carrera": "Milán-San Remo",
       "puesto": "82"
+    },
+    {
+      "anio": 1998,
+      "carrera": "San Sebastian",
+      "puesto": "89"
+    },
+    {
+      "anio": 1998,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1999,
+      "carrera": "San Sebastian",
+      "puesto": "28"
     },
     {
       "anio": 1999,
@@ -203,6 +241,11 @@
       "anio": 2003,
       "carrera": "Lieja-Bastoña-Lieja",
       "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Amstel Gold Race",
+      "puesto": "105"
     },
     {
       "anio": 2004,
@@ -301,17 +344,17 @@
   ],
   "habilidades": {
     "llano": 5,
-    "montana": 8,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
+    "montana": 10,
+    "media_montana": 6,
+    "muros": 6,
+    "pave": 1,
+    "sprint": 1,
     "aceleracion": 5,
-    "resistencia_gran_vuelta": 9,
-    "resistencia_clasicas": 5,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
+    "resistencia_gran_vuelta": 10,
+    "resistencia_clasicas": 6,
+    "combatividad": 8,
+    "contrarreloj": 3,
+    "pista": 1,
+    "tierra": 1
   }
 }

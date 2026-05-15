@@ -1,5 +1,45 @@
 [
       {
+    "id": "roberto_heras",
+    "nombre": "Roberto Heras",
+    "nacionalidad": "España",
+    "activo": "1995-2005",
+    "especialidad": ["escalador"],
+    "genero": "masculino"
+  },
+        {
+    "id": "joseba_beloki",
+    "nombre": "Joseba Beloki",
+    "nacionalidad": "España",
+    "activo": "1999-2006",
+    "especialidad": ["escalador", "vueltómano", "carretera"],
+    "genero": "masculino"
+  },
+      {
+    "id": "rui_costa",
+    "nombre": "Rui Costa",
+    "nacionalidad": "Portugal",
+    "activo": "2007-2025",
+    "especialidad": ["muros", "clasicómano"],
+    "genero": "masculino"
+  },
+      {
+    "id": "abraham_olano",
+    "nombre": "Abraham Olan",
+    "nacionalidad": "España",
+    "activo": "1992-2002",
+    "especialidad": ["carretera", "contrarreloj"],
+    "genero": "masculino"
+  },
+      {
+    "id": "michael_woods",
+    "nombre": "Michael Woods",
+    "nacionalidad": "Canadá",
+    "activo": "2013-2025",
+    "especialidad": ["carretera", "mtb"],
+    "genero": "masculino"
+  },
+      {
     "id": "ryder_hesjedal",
     "nombre": "Ryder Hesjedal",
     "nacionalidad": "Canadá",
