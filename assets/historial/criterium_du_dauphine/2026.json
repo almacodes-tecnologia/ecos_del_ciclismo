@@ -1,0 +1,166 @@
+{
+    "idCarrera": "dauphine",
+    "anio": 2026,
+    "distancia": 1208.1,
+    "desnivel": 22327,
+    "tiempo": "29h 35' 05\"",
+    "ciclistasInscritos": 154,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tuckwell Luke",
+            "pais": "Australia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ayuso Juan",
+            "pais": "España",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 1 min 17 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 1 min 36 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Johannessen Tobias Halland",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Skjelmose Mattias",
+            "pais": "Dinamarca",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Uijtdebroeks Cian",
+            "pais": "Bélgica",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 11 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rodríguez Cristián",
+            "pais": "España",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 3 min 15 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Martin Guillaume",
+            "pais": "Francia",
+            "equipo": "Caja Rural - Seguros RGA",
+            "ventaja": "+ 6 min 25 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Parra José Félix",
+            "pais": "España",
+            "equipo": "Groupama - FDJ United",
+            "ventaja": "+ 7 min 21 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Raisberg Nadav",
+        "pais": "Israel",
+        "equipo": "NSN Cycling Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Braz Afonso Clément",
+        "pais": "Francia",
+        "equipo": "Groupama - FDJ United"
+    },
+    "ganadorJovenes": {
+        "nombre": "del Toro Isaac",
+        "pais": "México",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Baudin Alex",
+            "pais": "Francia",
+            "distancia": 146.2,
+            "desnivel": 3202,
+            "velocidadMedia": 39.167
+        },
+        {
+            "etapa": 2,
+            "nombre": "Charmig Anthon",
+            "pais": "Dinamarca",
+            "distancia": 234.3,
+            "desnivel": 3687,
+            "velocidadMedia": 41.288
+        },
+        {
+            "etapa": 3,
+            "nombre": "Jorgenson Matteo",
+            "pais": "Estados Unidos",
+            "distancia": 28.4,
+            "desnivel": 402,
+            "velocidadMedia": 51.846
+        },
+        {
+            "etapa": 4,
+            "nombre": "Simmons Quinn",
+            "pais": "Estados Unidos",
+            "distancia": 167.4,
+            "desnivel": 2111,
+            "velocidadMedia": 46.905
+        },
+        {
+            "etapa": 5,
+            "nombre": "van Aert Wout",
+            "pais": "Bélgica",
+            "distancia": 195.8,
+            "desnivel": 2200,
+            "velocidadMedia": 43.194
+        },
+        {
+            "etapa": 6,
+            "nombre": null,
+            "pais": null,
+            "distancia": 182.3,
+            "desnivel": 2946,
+            "velocidadMedia": 44.361
+        },
+        {
+            "etapa": 7,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "distancia": 133.6,
+            "desnivel": 3728,
+            "velocidadMedia": 36.16
+        },
+        {
+            "etapa": 8,
+            "nombre": "del Toro Isaac",
+            "pais": "México",
+            "distancia": 120.1,
+            "desnivel": 4051,
+            "velocidadMedia": 33.498
+        }
+    ]
+}

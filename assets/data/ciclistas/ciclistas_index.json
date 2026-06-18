@@ -1,5 +1,32 @@
 [
       {
+  "id": "andrei_kivilev",
+  "nombre": "Andrei Kivilev",
+  "nacionalidad": "Kazajistán",
+  "activo": "1998-2003",
+      "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+    "genero": "masculino"
+  },
+      {
+    "id": "fernando_escartin",
+  "nombre": "Fernando Escartín",
+  "nacionalidad": "España",
+  "activo": "1990-2002",
+    "especialidad": ["escalador"],
+    "genero": "masculino"
+  },
+      {
+    "id": "christophe_moreau",
+    "nombre": "Christophe Moreau",
+    "nacionalidad": "Francia",
+    "activo": "1994-2010",
+    "especialidad": ["escalador", "clasicómano", "vueltómano"],
+    "genero": "masculino"
+  },
+      {
     "id": "roberto_heras",
     "nombre": "Roberto Heras",
     "nacionalidad": "España",
