@@ -1,7 +1,7 @@
 {
   "id": "penas_doradas_manteigas",
   "nombre": "Peñas Doradas",
-  "punto_inicio": ":Vale de Amoirera",
+  "punto_inicio": "Vale de Amoirera",
   "categoria": "",
   "vertiente": "por Manteigas",
   "pais": "Portugal",
@@ -19,11 +19,11 @@
   "desnivel_m": 848,
   "altura_maxima_m": 1522,
   "pendiente_media_porcentaje": 4.0,
-  "pendiente_maxima_porcentaje": 8.3,
+  "pendiente_maxima_porcentaje": 12.5,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "17/07/2026",
-  "descripcion": "",
+  "descripcion": "Larga ascensión portuguesa a Penhas Douradas por Manteigas. Puerto muy constante, sin grandes descansos y con una pendiente moderada que se mantiene durante más de 21 km hasta superar los 1.500 metros de altitud.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -884,7 +884,7 @@
   ],
   "fuente": {
     "tipo": "gpx",
-    "referencia": "penas_doradas_manteiga.gpx"
+    "referencia": "penas_doradas_manteigas.gpx"
 },
   "version_json": "1"
 }
