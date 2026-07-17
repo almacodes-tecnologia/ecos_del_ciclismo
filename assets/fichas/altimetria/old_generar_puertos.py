@@ -35,12 +35,8 @@ def procesar_gpx(archivo):
     tree = ET.parse(archivo)
     root = tree.getroot()
 
-    # Extraer metadata básica del GPX
-    nombre_tag = root.find("gpx:metadata/gpx:name", ns)
-    desc_tag = root.find("gpx:metadata/gpx:desc", ns)
-    
-    nombre_puerto = nombre_tag.text if nombre_tag is not None else os.path.basename(archivo).replace(".gpx", "")
-    descripcion = desc_tag.text if desc_tag is not None else ""
+    nombre = root.find("gpx:metadata/gpx:name", ns)
+    nombre_puerto = nombre.text if nombre is not None else os.path.basename(archivo)
     
     trkpts = root.findall(".//gpx:trkpt", ns)
     puntos = []
@@ -53,12 +49,14 @@ def procesar_gpx(archivo):
             distancia += haversine(puntos[-1]["lat"], puntos[-1]["lon"], lat, lon)
         puntos.append({"dist": distancia, "lat": lat, "lon": lon, "ele": ele})
 
+    # 1. Perfil base (sin suavizar) para cálculos técnicos
     datos_crudos = []
     d_actual = 0
     while d_actual <= distancia:
         datos_crudos.append({"km": d_actual/1000, "ele": interpolar_altitud(puntos, d_actual)})
         d_actual += INTERVALO_ALTITUD
 
+    # 2. Cálculos estadísticos (sobre datos crudos)
     pendiente_media = ((datos_crudos[-1]["ele"] - datos_crudos[0]["ele"]) / distancia) * 100
     
     # Umbral dinámico
@@ -72,19 +70,26 @@ def procesar_gpx(archivo):
     candidatos_clave = []
     
     for i in range(5, len(datos_crudos)):
+        # Pendiente máxima (200m)
         p_max = ((datos_crudos[i]["ele"] - datos_crudos[i-2]["ele"]) / 200) * 100
         pendiente_maxima = max(pendiente_maxima, p_max)
         
+        # Puntos clave (500m)
         p_clave = ((datos_crudos[i]["ele"] - datos_crudos[i-5]["ele"]) / 500) * 100
         if p_clave >= umbral:
+            # Cálculo del punto medio de forma segura (usando índices enteros)
+            # El punto medio entre i y i-5 es i - 2.5, 
+            # pero para acceder al km usamos el promedio de los valores de km
             km_centro = (datos_crudos[i]["km"] + datos_crudos[i-5]["km"]) / 2
+            
             candidatos_clave.append({
                 "kilometro": round(km_centro, 2),
                 "pendiente_porcentaje": round(p_clave, 1),
-                "altitud": round((datos_crudos[i]["ele"] + datos_crudos[i-5]["ele"]) / 2)
+                "altitud": round((datos_crudos[i]["ele"] + datos_crudos[i-5]["ele"]) / 2),
+                "nombre": f"Rampa {round(p_clave, 1)}%"
             })
 
-    # Agrupar y limitar puntos clave
+    # 3. Filtrado y agrupación de puntos clave
     grupos = {}
     for c in candidatos_clave:
         km_idx = math.floor(c["kilometro"] + 0.5)
@@ -93,9 +98,11 @@ def procesar_gpx(archivo):
             
     puntos_clave = sorted(grupos.values(), key=lambda x: x["pendiente_porcentaje"], reverse=True)[:6]
     puntos_clave.sort(key=lambda x: x["kilometro"])
+    # Asignar nombre final
     for p in puntos_clave:
         p["nombre"] = f"Rampa {p['pendiente_porcentaje']}%"
 
+    # 4. Suavizado (Solo para visualización en gráfico)
     altimetria_visual = []
     for i in range(len(datos_crudos)):
         inicio = max(0, i - 2)
@@ -105,26 +112,12 @@ def procesar_gpx(archivo):
             "altitud": round(sum(d["ele"] for d in datos_crudos[inicio:fin]) / (fin - inicio))
         })
 
-    # Construcción final del objeto con toda la estructura solicitada
     resultado = {
         "id": limpiar_id(nombre_puerto),
         "nombre": nombre_puerto,
-        "punto_inicio": "",
-        "categoria": "",
-        "vertiente": "",
-        "pais": "España", # Valor por defecto
-        "region": "",
-        "zona": "",
-        "coordenadas_inicio": f'{puntos[0]["lat"]},{puntos[0]["lon"]}',
         "longitud_km": round(distancia / 1000, 2),
-        "desnivel_m": round(datos_crudos[-1]["ele"] - datos_crudos[0]["ele"]),
-        "altura_maxima_m": round(max(d["ele"] for d in datos_crudos)),
         "pendiente_media_porcentaje": round(pendiente_media, 1),
         "pendiente_maxima_porcentaje": round(pendiente_maxima, 1),
-        "superficie": "asfalto",
-        "tags": [],
-        "ultima_revision": "2026",
-        "descripcion": descripcion,
         "altimetria_puntos": altimetria_visual,
         "puntos_clave": puntos_clave
     }
