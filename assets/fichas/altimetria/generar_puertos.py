@@ -135,7 +135,8 @@ def procesar_gpx(archivo):
         "descripcion": descripcion,
         "altimetria_puntos": altimetria_visual,
         "puntos_clave": puntos_clave,
-        "fuente": {"tipo": "", "referencia": ""},
+        "fuente": {"tipo": "gpx", "referencia": os.path.basename(archivo)},
+        "interpolado": False,
         "version_json": ""
     }
     
