@@ -1,0 +1,581 @@
+{
+  "id": "puerto_del_viento_el_burgo",
+  "nombre": "Puerto del Viento",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por El Burgo",
+  "pais": "España",
+  "region": "Málaga",
+  "zona": "Sierra de Las Nieves",
+  "coordenadas_inicio": {
+    "lat": 36.791455,
+    "lon": -4.953459
+  },
+  "coordenadas_final": {
+    "lat": 36.788822,
+    "lon": -5.04831
+  },
+  "longitud_km": 12.93,
+  "desnivel_m": 496,
+  "altura_maxima_m": 1062,
+  "pendiente_media_porcentaje": 3.8,
+  "pendiente_maxima_porcentaje": 10.3,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+  "descripcion": "El Puerto del Viento, situado a unos 1.070 metros de altitud en la provincia de Málaga (carretera A-366), conecta las localidades de Ronda y El Burgo a través de la Sierra de las Nieves. Se trata de una ascensión de perfil moderado —con casi 13 kilómetros si se parte desde El Burgo o unos 7 kilómetros desde Ronda— caracterizada por pendientes suaves que rara vez superan el 10% y unas amplias vistas panorámicas sobre el entorno natural malagueño.  ",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 570
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 573
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 577
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 583
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 590
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 598
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 605
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 612
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 618
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 624
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 630
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 636
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 643
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 651
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 659
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 668
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 676
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 684
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 691
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 698
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 705
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 711
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 719
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 726
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 734
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 742
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 750
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 757
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 764
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 771
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 777
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 784
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 792
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 800
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 808
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 816
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 825
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 834
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 843
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 852
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 860
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 867
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 871
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 875
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 877
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 880
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 883
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 888
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 894
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 899
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 902
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 903
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 902
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 901
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 901
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 903
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 906
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 911
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 917
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 924
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 931
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 939
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 945
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 951
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 958
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 963
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 966
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 968
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 969
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 967
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 965
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 961
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 957
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 953
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 949
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 944
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 941
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 938
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 935
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 933
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 932
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 931
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 929
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 926
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 923
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 918
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 912
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 906
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 900
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 893
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 886
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 881
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 878
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 878
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 881
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 887
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 893
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 899
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 905
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 911
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 917
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 924
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 930
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 937
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 943
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 949
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 954
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 958
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 961
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 964
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 967
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 971
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 974
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 976
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 979
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 980
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 983
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 985
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 989
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 994
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1000
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1007
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1014
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1029
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1036
+    },
+    {
+      "kilometro": 12.6,
+      "altitud": 1043
+    },
+    {
+      "kilometro": 12.7,
+      "altitud": 1049
+    },
+    {
+      "kilometro": 12.8,
+      "altitud": 1053
+    },
+    {
+      "kilometro": 12.9,
+      "altitud": 1056
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.45,
+      "pendiente_porcentaje": 8.4,
+      "altitud": 664,
+      "nombre": "Rampa 8.4%"
+    },
+    {
+      "kilometro": 2.45,
+      "pendiente_porcentaje": 8.2,
+      "altitud": 738,
+      "nombre": "Rampa 8.2%"
+    },
+    {
+      "kilometro": 3.45,
+      "pendiente_porcentaje": 8.4,
+      "altitud": 813,
+      "nombre": "Rampa 8.4%"
+    },
+    {
+      "kilometro": 3.65,
+      "pendiente_porcentaje": 10.3,
+      "altitud": 831,
+      "nombre": "Rampa 10.3%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-del-viento-1-190m-el-burgo-malaga.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
+}
