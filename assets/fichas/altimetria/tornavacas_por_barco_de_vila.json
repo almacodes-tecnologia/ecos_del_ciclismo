@@ -1,0 +1,660 @@
+{
+  "id": "tornavacas_por_barco_de_avila",
+  "nombre": "Tornavacas",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por Barco de Avila",
+  "pais": "España",
+  "region": "Ávila",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 40.36065,
+    "lon": -5.52662
+  },
+  "coordenadas_final": {
+    "lat": 40.27285,
+    "lon": -5.66227
+  },
+  "longitud_km": 15.55,
+  "desnivel_m": 278,
+  "altura_maxima_m": 1273,
+  "pendiente_media_porcentaje": 1.8,
+  "pendiente_maxima_porcentaje": 7.4,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+  "descripcion": "El puerto de Tornavacas, cuando se asciende desde El Barco de Ávila, se define como una subida larga y tendida, caracterizada por una notable regularidad que la aleja de las rampas extremas. Con una longitud aproximada de 15,5 km y una pendiente media muy suave (alrededor del 2%), este ascenso se presenta como un esfuerzo constante y progresivo ideal para rodar a ritmo, atravesando un entorno serrano de gran belleza natural con paisajes abiertos y zonas de pasto. Al ser una vertiente mucho menos exigente que la del valle del Jerte, es una opción perfecta para ciclistas que buscan acumular kilómetros y resistencia en un terreno de media montaña que conecta la meseta castellana con tierras extremeñas.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 1004
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1007
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1009
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1015
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1017
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1019
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1023
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1025
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1028
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1030
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1032
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1033
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1033
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1033
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1034
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1035
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1036
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1038
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1039
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1041
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1042
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1044
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1046
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1048
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1050
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1053
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1054
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1056
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1059
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1064
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1066
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1068
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1071
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1073
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1074
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1076
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1078
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1078
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1076
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1074
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1073
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1072
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1072
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1072
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1073
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1074
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1076
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1079
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1081
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1084
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1086
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1088
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1090
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1092
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1093
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1094
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1096
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1097
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1098
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1100
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1101
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1102
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1104
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1105
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1106
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1108
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1109
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1110
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1112
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1113
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1114
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1116
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1117
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1118
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1120
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1121
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1121
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1122
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1123
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1124
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1126
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1129
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1132
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1136
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1140
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1145
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1149
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1154
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1158
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1161
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1165
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1165
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1165
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 12.6,
+      "altitud": 1166
+    },
+    {
+      "kilometro": 12.7,
+      "altitud": 1168
+    },
+    {
+      "kilometro": 12.8,
+      "altitud": 1171
+    },
+    {
+      "kilometro": 12.9,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 13.0,
+      "altitud": 1176
+    },
+    {
+      "kilometro": 13.1,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 13.2,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 13.3,
+      "altitud": 1179
+    },
+    {
+      "kilometro": 13.4,
+      "altitud": 1179
+    },
+    {
+      "kilometro": 13.5,
+      "altitud": 1180
+    },
+    {
+      "kilometro": 13.6,
+      "altitud": 1182
+    },
+    {
+      "kilometro": 13.7,
+      "altitud": 1183
+    },
+    {
+      "kilometro": 13.8,
+      "altitud": 1185
+    },
+    {
+      "kilometro": 13.9,
+      "altitud": 1188
+    },
+    {
+      "kilometro": 14.0,
+      "altitud": 1191
+    },
+    {
+      "kilometro": 14.1,
+      "altitud": 1195
+    },
+    {
+      "kilometro": 14.2,
+      "altitud": 1199
+    },
+    {
+      "kilometro": 14.3,
+      "altitud": 1203
+    },
+    {
+      "kilometro": 14.4,
+      "altitud": 1207
+    },
+    {
+      "kilometro": 14.5,
+      "altitud": 1212
+    },
+    {
+      "kilometro": 14.6,
+      "altitud": 1217
+    },
+    {
+      "kilometro": 14.7,
+      "altitud": 1222
+    },
+    {
+      "kilometro": 14.8,
+      "altitud": 1228
+    },
+    {
+      "kilometro": 14.9,
+      "altitud": 1234
+    },
+    {
+      "kilometro": 15.0,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 15.1,
+      "altitud": 1248
+    },
+    {
+      "kilometro": 15.2,
+      "altitud": 1255
+    },
+    {
+      "kilometro": 15.3,
+      "altitud": 1262
+    },
+    {
+      "kilometro": 15.4,
+      "altitud": 1265
+    },
+    {
+      "kilometro": 15.5,
+      "altitud": 1268
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-de-tornavacas-por-barco-de-avila.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
+}
