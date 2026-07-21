@@ -1,0 +1,515 @@
+{
+  "id": "matamachos_por_garde",
+  "nombre": "Matamachos",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por Garde",
+  "pais": "España",
+  "region": "Navarra",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 42.792723,
+    "lon": -0.961397
+  },
+  "coordenadas_final": {
+    "lat": 42.767275,
+    "lon": -0.863523
+  },
+  "longitud_km": 11.45,
+  "desnivel_m": 448,
+  "altura_maxima_m": 1140,
+  "pendiente_media_porcentaje": 3.9,
+  "pendiente_maxima_porcentaje": 10.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 693
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 694
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 694
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 696
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 697
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 699
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 701
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 703
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 705
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 707
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 709
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 712
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 714
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 716
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 718
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 720
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 721
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 723
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 724
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 725
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 727
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 728
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 729
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 731
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 733
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 735
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 737
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 739
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 740
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 741
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 742
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 743
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 744
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 745
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 746
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 748
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 749
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 752
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 755
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 757
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 760
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 763
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 764
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 766
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 767
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 769
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 771
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 773
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 775
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 777
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 779
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 781
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 783
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 785
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 787
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 789
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 792
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 794
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 797
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 800
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 803
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 806
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 809
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 812
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 814
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 817
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 820
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 822
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 824
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 826
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 829
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 831
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 833
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 837
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 841
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 847
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 854
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 862
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 870
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 877
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 885
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 892
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 900
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 908
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 916
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 924
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 931
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 938
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 944
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 951
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 957
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 964
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 971
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 979
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 986
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 994
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1002
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1010
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1019
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1027
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1034
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1039
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1045
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1050
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1056
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1064
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1073
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1082
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1092
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1101
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1110
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1119
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1127
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1131
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1134
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 8.45,
+      "pendiente_porcentaje": 8.0,
+      "altitud": 919,
+      "nombre": "Rampa 8.0%"
+    },
+    {
+      "kilometro": 9.75,
+      "pendiente_porcentaje": 8.8,
+      "altitud": 1015,
+      "nombre": "Rampa 8.8%"
+    },
+    {
+      "kilometro": 10.75,
+      "pendiente_porcentaje": 9.5,
+      "altitud": 1087,
+      "nombre": "Rampa 9.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-de-matamachos-por-garde-navarra-1-147m.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
+}
