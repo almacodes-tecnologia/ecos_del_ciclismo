@@ -1,0 +1,536 @@
+{
+  "id": "las_palomas_desde_zahara",
+  "nombre": "Las Palomas",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "desde Zahara",
+  "pais": "España",
+  "region": "Cádiz",
+  "zona": "Parque Natural de la Sierra de Grazalem",
+  "coordenadas_inicio": {
+    "lat": 36.846781,
+    "lon": -5.39705
+  },
+  "coordenadas_final": {
+    "lat": 36.787489,
+    "lon": -5.376573
+  },
+  "longitud_km": 12.47,
+  "desnivel_m": 806,
+  "altura_maxima_m": 1174,
+  "pendiente_media_porcentaje": 6.5,
+  "pendiente_maxima_porcentaje": 10.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+  "descripcion": "Partiendo desde las faldas del embalse de Zahara de la Sierra, el ascenso al Puerto de Las Palomas es uno de los colosos andaluces más bellos y espectaculares de la Sierra de Grazalema. La carretera transcurre por un trazado impecable y sinuoso que se abre paso de forma vertiginosa por las laderas de la montaña, ofreciendo una subida exigente de pendiente constante que serpentea entre paredes de roca caliza, impresionantes abismos y tramos colgados con vistas panorámicas inigualables sobre el pantano y el corazón del parque natural.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 375
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 378
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 381
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 388
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 394
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 401
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 409
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 417
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 425
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 432
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 437
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 441
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 446
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 451
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 456
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 463
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 471
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 479
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 486
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 494
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 502
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 511
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 519
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 526
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 533
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 539
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 545
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 549
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 554
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 559
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 563
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 567
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 572
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 576
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 581
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 586
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 592
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 599
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 605
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 612
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 618
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 624
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 630
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 636
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 642
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 648
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 654
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 659
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 664
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 670
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 676
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 682
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 689
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 694
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 698
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 700
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 703
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 707
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 710
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 714
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 718
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 722
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 727
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 734
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 742
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 751
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 760
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 769
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 777
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 785
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 793
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 801
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 808
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 816
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 823
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 831
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 839
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 847
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 855
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 863
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 872
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 881
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 889
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 896
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 904
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 912
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 921
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 930
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 940
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 950
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 958
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 965
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 969
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 974
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 979
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 984
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 992
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1000
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1009
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1018
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1026
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1034
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1041
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1047
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1057
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1063
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1070
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1083
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1090
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1096
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1100
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1105
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1112
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1118
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1124
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1133
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1141
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1148
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1155
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1162
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1166
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1169
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1171
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-de-las-palomas-desde-zahara-solopuertos-oficial.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
+}
