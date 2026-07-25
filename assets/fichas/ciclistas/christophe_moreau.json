@@ -81,44 +81,58 @@
       "equipo": "Caisse d'Epargne"
     }
   ],
-  "palmares": {
-    "2007": [
-      "National Championships France ME - Road Race",
-      "Critérium du Dauphiné Libéré",
-      "Critérium du Dauphiné Libéré | Etapa 4",
-      "Critérium du Dauphiné Libéré | Etapa 2"
-    ],
-    "2004": [
-      "Tour du Languedoc-Rousillon",
-      "Tour du Languedoc-Rousillon | Etapa 4",
-      "Trophée des Grimpeurs"
-    ],
-    "2003": [
-      "4 Jours de Dunkerque / Tour du Nord-pas-de-Calais",
-      "4 Jours de Dunkerque / Tour du Nord-pas-de-Calais | Etapa 5 (ITT)",
-      "4 Jours de Dunkerque / Tour du Nord-pas-de-Calais | Etapa 4"
-    ],
-    "2002": [
-      "4 Jours de Dunkerque / Tour du Nord-pas-de-Calais | Etapa 4 (ITT)"
-    ],
-    "2001": [
-      "Tour de France | Prologue",
-      "Criterium du Dauphiné Libére"
-    ],
-    "2000": [
-      "GP du Midi-Libre | Etapa 4 (ITT)"
-    ],
-    "1999": [
-      "Tour du Poitou Charentes et de la Vienne",
-      "Tour du Poitou Charentes et de la Vienne | Etapa 4 (ITT)",
-      "Route du Sud | Etapa 1b"
-    ],
-    "1998": [
-      "Route du Sud | Etapa 1b (ITT)",
-      "Route du Sud | Etapa 1a",
-      "Critérium International | Etapa 3 (ITT)"
-    ]
-  },
+"palmares": {
+  "1994": [
+    "Paris-Mantes-en-Yvelines"
+  ],
+  "1996": [
+    "3.º en el Campeonato de Francia Contrarreloj",
+    "1 etapa del Tour del Porvenir",
+    "Vuelta Ciclista de Chile"
+  ],
+  "1997": [
+    "3.º en el Campeonato de Francia Contrarreloj"
+  ],
+  "1998": [
+    "1 etapa del Critérium Internacional",
+    "2 etapas de la Ruta del Sur"
+  ],
+  "1999": [
+    "1 etapa de la Ruta del Sur",
+    "2.º en el Campeonato de Francia Contrarreloj",
+    "Tour de Poitou-Charentes",
+    "1 etapa del Tour de Poitou-Charentes"
+  ],
+  "2000": [
+    "1 etapa de la Midi Libre",
+    "3.º en el Campeonato de Francia Contrarreloj"
+  ],
+  "2001": [
+    "Dauphiné Libéré",
+    "1 etapa del Tour de Francia",
+    "2.º en el Campeonato de Francia Contrarreloj",
+    "Joseph Vögeli Memorial",
+    "EnBW G. P."
+  ],
+  "2002": [
+    "1 etapa de los Cuatro Días de Dunkerque"
+  ],
+  "2003": [
+    "Cuatro Días de Dunkerque",
+    "2 etapas de los Cuatro Días de Dunkerque"
+  ],
+  "2004": [
+    "Trofeo de los Escaladores",
+    "Tour du Languedoc-Roussillon",
+    "1 etapa del Tour du Languedoc-Roussillon",
+    "2.º en el Campeonato de Francia Contrarreloj"
+  ],
+  "2007": [
+    "Critérium du Dauphiné Libéré",
+    "2 etapas del Critérium du Dauphiné Libéré",
+    "Campeonato de Francia en Ruta"
+  ]
+},
   "resumenPalmares": [
     "📊 20 victorias profesionales"
   ],
@@ -134,6 +148,11 @@
       "puesto": "19"
     },
     {
+      "anio": 1998,
+      "carrera": "Tour de Francia",
+      "puesto": "Ex."
+    },
+    {
       "anio": 1999,
       "carrera": "Tour de Francia",
       "puesto": "27"
@@ -142,6 +161,16 @@
       "anio": 2000,
       "carrera": "Tour de Francia",
       "puesto": "4"
+    },
+	{
+      "anio": 2001,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+	{
+      "anio": 2002,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
     },
     {
       "anio": 2003,
@@ -167,6 +196,11 @@
       "anio": 2007,
       "carrera": "Tour de Francia",
       "puesto": "37"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
     },
     {
       "anio": 2009,

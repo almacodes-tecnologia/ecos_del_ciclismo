@@ -8,7 +8,7 @@
   "anioNacimiento": 1974,
   "activo": "1995-2005",
   "especialidad": [
-    "clasicómano",
+    "escalador",
     "vueltómano"
   ],
   "equipos": [
@@ -57,52 +57,56 @@
       "equipo": "Liberty Seguros - Würth Team"
     }
   ],
-  "palmares": {
-    "2005": [
-      "Vuelta a España",
-      "Vuelta a España | Etapa 15",
-      "Vuelta a España | Etapa 6"
-    ],
-    "2004": [
-      "Vuelta a España",
-      "Vuelta a España | Etapa 12",
-      "Euskal Bizikleta"
-    ],
-    "2003": [
-      "Vuelta a España",
-      "Vuelta a España | Etapa 20 (ITT)"
-    ],
-    "2002": [
-      "Vuelta a España | Etapa 15",
-      "Vuelta a España | Etapa 6",
-      "Volta a Catalunya"
-    ],
-    "2000": [
-      "Vuelta a España",
-      "Vuelta a España | Etapa 20",
-      "Vuelta a España | Etapa 7",
-      "Euskal Bizikleta | Etapa 5"
-    ],
-    "1999": [
-      "Volta Ciclista a Catalunya | Etapa 6",
-      "Giro d'Italia | Etapa 21",
-      "Gran Premio de Primavera de Amorebieta"
-    ],
-    "1998": [
-      "Vuelta a España | Etapa 19",
-      "Gran Premio de Primavera de Amorebieta"
-    ],
-    "1997": [
-      "Subida al Naranco",
-      "Vuelta a España | Etapa 12"
-    ]
-  },
+"palmares": {
+  "1997": [
+    "1 etapa de la Vuelta a España",
+    "Subida al Naranco"
+  ],
+  "1998": [
+    "G. P. Primavera",
+    "1 etapa de la Vuelta a España"
+  ],
+  "1999": [
+    "G. P. Primavera",
+    "1 etapa del Giro de Italia",
+    "1 etapa de la Volta a Cataluña",
+    "2.º en el Campeonato de España en Ruta",
+    "3.º en la Vuelta a España"
+  ],
+  "2000": [
+    "1 etapa de la Euskal Bizikleta",
+    "Vuelta a España",
+    "2 etapas de la Vuelta a España",
+    "Clasificación por puntos de la Vuelta a España"
+  ],
+  "2002": [
+    "Volta a Cataluña",
+    "2.º en la Vuelta a España",
+    "2 etapas de la Vuelta a España",
+    "Clasificación de la combinada de la Vuelta a España"
+  ],
+  "2003": [
+    "Vuelta a España",
+    "1 etapa de la Vuelta a España"
+  ],
+  "2004": [
+    "Euskal Bizikleta",
+    "Vuelta a España",
+    "1 etapa de la Vuelta a España",
+    "Clasificación de la combinada de la Vuelta a España"
+  ],
+  "2005": [
+    "Vuelta a España",
+    "2 etapas de la Vuelta a España",
+    "Clasificación de la combinada de la Vuelta a España"
+  ]
+},
   "resumenPalmares": [
-    "📊 22 victorias profesionales",
-    "🏆 Vuelta a España (2005)",
-    "🏆 Vuelta a España (2004)",
-    "🏆 Vuelta a España (2003)",
-    "🏆 Vuelta a España (2000)"
+    "4 Vuelta a España",
+	"1 Clasificación por Puntos de La Vuelta a España",
+	"3 Clasificaciones Combinadas de La Vuelta a España",
+	"10 etapas en La Vuelta a España",
+	"1 etapa en el Giro de italia"
   ],
   "resultadosGrandesVueltas": [
     {
@@ -170,6 +174,10 @@
       "carrera": "Vuelta a España",
       "puesto": "1"
     },
+    {
+      "anio": 2004,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
     {
       "anio": 2005,
       "carrera": "Vuelta a España",

@@ -2,13 +2,13 @@
   "id": "joseba_beloki",
   "nombre": "Joseba Beloki",
   "nacionalidad": "España",
-  "lugarNacimiento": "Desconocido",
+  "lugarNacimiento": "	Lazcano",
   "peso": "68 kg",
   "altura": "1.78 m",
   "anioNacimiento": 1973,
   "activo": "1998-2006",
   "especialidad": [
-    "clasicómano",
+    "escalador",
     "vueltómano"
   ],
   "equipos": [
@@ -49,40 +49,52 @@
       "equipo": "Astana"
     }
   ],
-  "palmares": {
-    "2003": [
-      "Euskal Bizikleta | Etapa 5",
-      "Clásica Internacional Alcobendas",
-      "Clásica Internacional Alcobendas | Etapa 3 (ITT)"
-    ],
-    "2002": [
-      "Escalada a Montjuïc",
-      "Escalada a Montjuïc | Etapa 1a",
-      "Euskal Bizikleta | Etapa 5"
-    ],
-    "2001": [
-      "Volta a Catalunya",
-      "Volta a Catalunya | Etapa 8 (ITT)",
-      "Volta a Catalunya | Etapa 4"
-    ],
-    "2000": [
-      "Vuelta Asturias",
-      "Vuelta Asturias | Etapa 5",
-      "Tour de Romandie | Etapa 3b (ITT)"
-    ],
-    "1997": [
-      "Vuelta a Alava",
-      "Vuelta a Alava | Etapa 1"
-    ]
-  },
+"palmares": {
+  "1997": [
+    "2.º en el Campeonato de España Contrarreloj"
+  ],
+  "1999": [
+    "3.º en el Campeonato de España en Ruta"
+  ],
+  "2000": [
+    "1 etapa del Tour de Romandía",
+    "Vuelta a Asturias",
+    "1 etapa de la Vuelta a Asturias",
+    "3.º en el Tour de Francia"
+  ],
+  "2001": [
+    "Volta a Cataluña",
+    "2 etapas de la Volta a Cataluña",
+    "3.º en el Tour de Francia"
+  ],
+  "2002": [
+    "1 etapa de la Euskal Bizikleta",
+    "2.º en el Tour de Francia",
+    "3.º en la Vuelta a España",
+    "Escalada a Montjuic",
+    "1 etapa de la Escalada a Montjuic"
+  ],
+  "2003": [
+    "Clásica de Alcobendas",
+    "1 etapa de la Clásica de Alcobendas",
+    "1 etapa de la Euskal Bizikleta"
+  ]
+},
   "resumenPalmares": [
-    "📊 14 victorias profesionales"
+  "2º en el Tour de Francia",
+    "3º en el Tour de Francia 2 veces",
+	"3º en La Vuelta a España"
   ],
   "resultadosGrandesVueltas": [
     {
       "anio": 2000,
       "carrera": "Tour de Francia",
       "puesto": "3"
+    },
+    {
+      "anio": 2001,
+      "carrera": "Vuelta a España",
+      "puesto": "NC."
     },
     {
       "anio": 2001,
@@ -100,6 +112,16 @@
       "puesto": "2"
     },
     {
+      "anio": 2003,
+      "carrera": "Tour de Francia",
+      "puesto": "NC."
+    },
+    {
+      "anio": 2004,
+      "carrera": "Vuelta a España",
+      "puesto": "NC."
+    },
+    {
       "anio": 2005,
       "carrera": "Vuelta a España",
       "puesto": "40"
@@ -108,6 +130,11 @@
       "anio": 2005,
       "carrera": "Tour de Francia",
       "puesto": "75"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Giro de Italia",
+      "puesto": "NC."
     }
   ],
   "resultadosMonumentos": [
