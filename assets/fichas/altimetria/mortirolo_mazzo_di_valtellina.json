@@ -1,7 +1,7 @@
 {
   "id": "mortirolo_mazzo_di_valtellina",
   "nombre": "Passo del Mortirolo",
-  "punto_inicio": "",
+  "punto_inicio": "Mazzo di Valtellina",
   "categoria": "S",
   "vertiente": "por Mazzo di Valtellina",
   "pais": "Italia",
@@ -15,10 +15,10 @@
     "lat": 46.248049,
     "lon": 10.298698
   },
-  "longitud_km": 13.07,
+  "longitud_km": 12.2,
   "desnivel_m": 1305,
   "altura_maxima_m": 1851,
-  "pendiente_media_porcentaje": 10.0,
+  "pendiente_media_porcentaje": 10.7,
   "pendiente_maxima_porcentaje": 19.5,
   "superficie": "asfalto",
   "tags": [],
@@ -521,27 +521,33 @@
   "puntos_clave": [
     {
       "kilometro": 4.45,
-      "pendiente_porcentaje": 15.2,
+      "pendiente_porcentaje": 16.2,
       "altitud": 1005,
-      "nombre": "Rampa 15.2%"
+      "nombre": "Rampa 16.2%"
     },
     {
       "kilometro": 4.85,
-      "pendiente_porcentaje": 15.0,
+      "pendiente_porcentaje": 17.0,
       "altitud": 1066,
-      "nombre": "Rampa 15.0%"
+      "nombre": "Rampa 17.0%"
+    },
+  {
+      "kilometro": 5.8,
+      "pendiente_porcentaje": 19.5,
+      "altitud": 1066,
+      "nombre": "Rampa 19.5%"
     },
     {
       "kilometro": 10.45,
-      "pendiente_porcentaje": 17.0,
+      "pendiente_porcentaje": 13.0,
       "altitud": 1704,
-      "nombre": "Rampa 17.0%"
+      "nombre": "Rampa 13.0%"
     },
     {
       "kilometro": 10.85,
-      "pendiente_porcentaje": 18.1,
+      "pendiente_porcentaje": 17.1,
       "altitud": 1776,
-      "nombre": "Rampa 18.1%"
+      "nombre": "Rampa 17.1%"
     }
   ],
   "fuente": {
