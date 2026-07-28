@@ -1,12 +1,28 @@
 {
-  "id": "grossglockner_edelweisspitze_fusch",
-  "nombre": "Grossglockner (Edelweißspitze por Fusch)",
+    "id": "grossglockner_por_fusch",
+  "nombre": "Grossglockner",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por Fusch",
   "pais": "Austria",
-  "longitud_km": 25.8,
-  "desnivel_m": 1670,
-  "altura_maxima_m": 2571,
-  "pendiente_media_porcentaje": 8.8,
-  "pendiente_maxima_porcentaje": 12.4,
+  "region": "",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 47.22489,
+    "lon": 12.82783
+  },
+  "coordenadas_final": {
+    "lat": 47.08288,
+    "lon": 12.84255
+  },
+  "longitud_km": 26.2,
+  "desnivel_m": 1707,
+  "altura_maxima_m": 2526,
+  "pendiente_media_porcentaje": 6.5,
+  "pendiente_maxima_porcentaje": 14.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
   "descripcion": "El ascenso más exigente del Grossglockner Hochalpenstraße. Tras un inicio suave, la pendiente se vuelve constante y muy dura (9-10%) durante más de 10 kilómetros. Culmina con el desvío a Edelweißspitze, una rampa final de adoquín con rampas muy duras que conduce al mirador más alto de la carretera.",
 "altimetria_puntos": [
     {
