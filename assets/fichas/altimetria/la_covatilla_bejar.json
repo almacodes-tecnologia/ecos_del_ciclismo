@@ -1,12 +1,28 @@
 {
-  "id": "la_covatilla_bejar",
+    "id": "la_covatilla_bejar",
   "nombre": "La Covatilla",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por Béjar",
   "pais": "España",
-  "longitud_km": 17.2,
-  "desnivel_m": 1032,
-  "altura_maxima_m": 1959,
-  "pendiente_media_porcentaje": 6.0,
-  "pendiente_maxima_porcentaje": 11.3,
+  "region": "",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 40.390967,
+    "lon": -5.741882
+  },
+  "coordenadas_final": {
+    "lat": 40.356654,
+    "lon": -5.690324
+  },
+  "longitud_km": 15.5,
+  "desnivel_m": 953,
+  "altura_maxima_m": 1958,
+  "pendiente_media_porcentaje": 6.1,
+  "pendiente_maxima_porcentaje": 11.5,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
   "descripcion": "Una subida de gran longitud caracterizada por una pendiente media moderada (alrededor del 6%), pero con una segunda mitad muy expuesta al viento y con rampas más duras, especialmente en los kilómetros finales.",
  "altimetria_puntos": [
     {
@@ -634,5 +650,48 @@
       "altitud": 1951
     }
   ],
-  "puntos_clave": []
+  "puntos_clave": [
+    {
+      "kilometro": 8.25,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 1353,
+      "nombre": "Rampa 11.2%"
+    },
+    {
+      "kilometro": 8.95,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 1428,
+      "nombre": "Rampa 11.2%"
+    },
+    {
+      "kilometro": 9.65,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 1498,
+      "nombre": "Rampa 11.2%"
+    },
+    {
+      "kilometro": 11.15,
+      "pendiente_porcentaje": 11.5,
+      "altitud": 1642,
+      "nombre": "Rampa 11.5%"
+    },
+    {
+      "kilometro": 11.75,
+      "pendiente_porcentaje": 10.2,
+      "altitud": 1699,
+      "nombre": "Rampa 10.2%"
+    },
+    {
+      "kilometro": 14.25,
+      "pendiente_porcentaje": 10.9,
+      "altitud": 1876,
+      "nombre": "Rampa 10.9%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-covatilla-desde-bejar.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
 }
