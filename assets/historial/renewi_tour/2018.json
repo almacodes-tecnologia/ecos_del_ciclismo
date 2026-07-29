@@ -1,0 +1,150 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2018,
+    "distancia": 917.0,
+    "desnivel": 3148,
+    "tiempo": "25h 13' 01\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 90,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "van Baarle Dylan",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Avermaet Greg",
+            "pais": "Bélgica",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 39 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mühlberger Gregor",
+            "pais": "Austria",
+            "equipo": "BORA - hansgrohe",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Terpstra Niki",
+            "pais": "Países Bajos",
+            "equipo": "Quick-Step Floors",
+            "ventaja": "+ 43 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Štybar Zdeněk",
+        "pais": "República Checa",
+        "equipo": "Quick-Step Floors"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Quick-Step Floors",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Jakobsen Fabio",
+            "pais": "Países Bajos",
+            "distancia": 177.3,
+            "desnivel": 161,
+            "velocidadMedia": 44.14
+        },
+        {
+            "etapa": 2,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 12.7,
+            "desnivel": 39,
+            "velocidadMedia": 53.73
+        },
+        {
+            "etapa": 3,
+            "nombre": "van der Hoorn Taco",
+            "pais": "Países Bajos",
+            "distancia": 174.9,
+            "desnivel": 227,
+            "velocidadMedia": 46.09
+        },
+        {
+            "etapa": 4,
+            "nombre": "Stuyven Jasper",
+            "pais": "Bélgica",
+            "distancia": 165.5,
+            "desnivel": 233,
+            "velocidadMedia": 44.18
+        },
+        {
+            "etapa": 5,
+            "nombre": "Cort Magnus",
+            "pais": "Dinamarca",
+            "distancia": 204.4,
+            "desnivel": 1015,
+            "velocidadMedia": 43.83
+        },
+        {
+            "etapa": 6,
+            "nombre": "Mühlberger Gregor",
+            "pais": "Austria",
+            "distancia": 182.2,
+            "desnivel": 1473,
+            "velocidadMedia": 44.59
+        },
+        {
+            "etapa": 7,
+            "nombre": "Matthews Michael",
+            "pais": "Australia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.9083
+        }
+    ]
+}

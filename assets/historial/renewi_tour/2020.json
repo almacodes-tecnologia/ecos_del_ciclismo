@@ -1,0 +1,134 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2020,
+    "distancia": 308.1,
+    "desnivel": 740,
+    "tiempo": "10h 43' 08\"",
+    "ciclistasInscritos": 163,
+    "ciclistasFinalizados": 94,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "equipo": "Alpecin - Fenix",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "equipo": "Team Sunweb",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "equipo": "Groupama - FDJ",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Lampaert Yves",
+            "pais": "Bélgica",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 16 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Colbrelli Sonny",
+            "pais": "Italia",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Sénéchal Florian",
+            "pais": "Francia",
+            "equipo": "Deceuninck - Quick Step",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Teunissen Mike",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 1 min 49 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Vermeersch Florian",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 1 min 59 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Degenkolb John",
+            "pais": "Alemania",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 2 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pedersen Mads",
+        "pais": "Dinamarca",
+        "equipo": "Trek - Segafredo"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Alpecin - Fenix",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 132.1,
+            "desnivel": 286,
+            "velocidadMedia": 44.17
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 10.9,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pedersen Mads",
+            "pais": "Dinamarca",
+            "distancia": 157.0,
+            "desnivel": 276,
+            "velocidadMedia": 45.68
+        },
+        {
+            "etapa": 4,
+            "nombre": "Kragh Andersen Søren",
+            "pais": "Dinamarca",
+            "distancia": 8.14,
+            "desnivel": 178,
+            "velocidadMedia": 48.92
+        },
+        {
+            "etapa": 5,
+            "nombre": "van der Poel Mathieu",
+            "pais": "Países Bajos",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.8499
+        }
+    ]
+}

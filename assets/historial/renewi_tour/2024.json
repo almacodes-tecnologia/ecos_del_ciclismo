@@ -1,0 +1,138 @@
+{
+    "idCarrera": "renewi-tour",
+    "anio": 2024,
+    "distancia": 745.7,
+    "desnivel": 4504,
+    "tiempo": "16h 03' 28\"",
+    "ciclistasInscritos": 161,
+    "ciclistasFinalizados": 91,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Segaert Alec",
+            "pais": "Bélgica",
+            "equipo": "Lotto Dstny",
+            "ventaja": "+ 40 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Hagenes Per Strand",
+            "pais": "Noruega",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 42 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Laporte Christophe",
+            "pais": "Francia",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Dewulf Stan",
+            "pais": "Bélgica",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "equipo": "Alpecin - Deceuninck",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Turner Ben",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mohorič Matej",
+            "pais": "Eslovenia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 1 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Schachmann Maximilian",
+            "pais": "Alemania",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bettiol Alberto",
+            "pais": "Italia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 1 min 4 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Philipsen Jasper",
+        "pais": "Bélgica",
+        "equipo": "Alpecin - Deceuninck"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {
+        "nombre": "Segaert Alec",
+        "pais": "Bélgica",
+        "equipo": "Lotto Dstny"
+    },
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 163.6,
+            "desnivel": 1624,
+            "velocidadMedia": 44.413
+        },
+        {
+            "etapa": 2,
+            "nombre": "Segaert Alec",
+            "pais": "Bélgica",
+            "distancia": 15.4,
+            "desnivel": 106,
+            "velocidadMedia": 54.406
+        },
+        {
+            "etapa": 3,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 185.5,
+            "desnivel": 377,
+            "velocidadMedia": 46.906
+        },
+        {
+            "etapa": 4,
+            "nombre": "Philipsen Jasper",
+            "pais": "Bélgica",
+            "distancia": 178.5,
+            "desnivel": 337,
+            "velocidadMedia": 49.325
+        },
+        {
+            "etapa": 5,
+            "nombre": "De Lie Arnaud",
+            "pais": "Bélgica",
+            "distancia": 202.7,
+            "desnivel": 2060,
+            "velocidadMedia": 44.889
+        }
+    ]
+}
