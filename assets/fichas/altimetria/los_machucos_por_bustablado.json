@@ -19,7 +19,7 @@
   "desnivel_m": 643,
   "altura_maxima_m": 898,
   "pendiente_media_porcentaje": 8.5,
-  "pendiente_maxima_porcentaje": 16.6,
+  "pendiente_maxima_porcentaje": 24.6,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "19/07/2026",
@@ -333,27 +333,33 @@
   "puntos_clave": [
     {
       "kilometro": 1.15,
-      "pendiente_porcentaje": 16.6,
+      "pendiente_porcentaje": 22.6,
       "altitud": 327,
-      "nombre": "Rampa 16.6%"
+      "nombre": "Rampa 22.6%"
+    },
+	    {
+      "kilometro": 1.75,
+      "pendiente_porcentaje": 24.6,
+      "altitud": 327,
+      "nombre": "Rampa 24.6%"
     },
     {
       "kilometro": 2.15,
-      "pendiente_porcentaje": 13.8,
+      "pendiente_porcentaje": 19.1,
       "altitud": 457,
-      "nombre": "Rampa 13.8%"
+      "nombre": "Rampa 19.1%"
     },
     {
       "kilometro": 3.65,
-      "pendiente_porcentaje": 13.3,
+      "pendiente_porcentaje": 18.3,
       "altitud": 548,
-      "nombre": "Rampa 13.3%"
+      "nombre": "Rampa 18.3%"
     },
     {
       "kilometro": 4.95,
-      "pendiente_porcentaje": 14.6,
+      "pendiente_porcentaje": 20.0,
       "altitud": 708,
-      "nombre": "Rampa 14.6%"
+      "nombre": "Rampa 20.0%"
     },
     {
       "kilometro": 5.65,
