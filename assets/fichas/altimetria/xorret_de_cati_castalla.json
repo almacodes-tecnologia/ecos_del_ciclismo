@@ -7,20 +7,194 @@
   "pais": "España",
   "region": "Alicante",
   "zona": "Paisaje Protegido de la Sierra del Cid y Maigmó",
-  "coordenadas_inicio": "",
-  "longitud_km": 3.9,
-  "desnivel_m": 436,
-  "altura_maxima_m": 1098,
-  "pendiente_media_porcentaje": 11.2,
-  "pendiente_maxima_porcentaje": 22.0,
+   "coordenadas_inicio": {
+    "lat": 38.55844,
+    "lon": -0.66173
+  },
+  "coordenadas_final": {
+    "lat": 38.53188,
+    "lon": -0.66889
+  },
+  "longitud_km": 3.83,
+  "desnivel_m": 445,
+  "altura_maxima_m": 1101,
+  "pendiente_media_porcentaje": 11.6,
+  "pendiente_maxima_porcentaje": 18.6,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
   "descripcion": "Una subida corta y explosiva en la provincia de Alicante, conocida por ser un 'muro' en la Vuelta a España. La pendiente media no refleja la dureza real.",
-  "altimetria_puntos": [
-    {"kilometro": 0.0, "altitud": 662},
-    {"kilometro": 1.0, "altitud": 745},
-    {"kilometro": 2.0, "altitud": 857},
-    {"kilometro": 3.0, "altitud": 995},
-    {"kilometro": 3.9, "altitud": 1098}
+"altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 660
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 662
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 666
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 672
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 681
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 690
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 699
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 709
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 719
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 728
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 736
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 744
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 753
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 761
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 771
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 783
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 795
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 808
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 821
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 836
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 852
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 871
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 888
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 905
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 920
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 935
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 948
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 962
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 977
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 992
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1006
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1035
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1049
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1062
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1073
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1083
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1092
+    }
   ],
   "puntos_clave": [
-  ]
+    {
+      "kilometro": 2.05,
+      "pendiente_porcentaje": 18.6,
+      "altitud": 864,
+      "nombre": "Rampa 18.6%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "ascenso-a-xorret-de-cati-por-castalla.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
 }
+  
