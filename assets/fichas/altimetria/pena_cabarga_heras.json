@@ -7,23 +7,273 @@
   "pais": "España",
   "region": "Cantabria",
   "zona": "Macizo de Peña Cabarga",
-  "coordenadas_inicio": "",
+    "coordenadas_inicio": {
+    "lat": 43.397444,
+    "lon": -3.783658
+  },
+  "coordenadas_final": {
+    "lat": 43.378415,
+    "lon": -3.779101
+  },
   "longitud_km": 5.9,
-  "desnivel_m": 555,
-  "altura_maxima_m": 567,
-  "pendiente_media_porcentaje": 9.4,
-  "pendiente_maxima_porcentaje": 18.0,
+  "desnivel_m": 549,
+  "altura_maxima_m": 561,
+  "pendiente_media_porcentaje": 9.3,
+  "pendiente_maxima_porcentaje": 16,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
   "descripcion": "La subida más famosa de Peña Cabarga, utilizada en la Vuelta a España, se caracteriza por su corta distancia y sus rampas extremadamente duras, incluyendo un tramo de falso llano antes del final.",
   "altimetria_puntos": [
-    {"kilometro": 0.0, "altitud": 12},
-    {"kilometro": 1.0, "altitud": 110},
-    {"kilometro": 2.0, "altitud": 215},
-    {"kilometro": 3.0, "altitud": 310},
-    {"kilometro": 4.0, "altitud": 330},
-    {"kilometro": 5.0, "altitud": 465},
-    {"kilometro": 5.9, "altitud": 567}
+    {
+      "kilometro": 0.0,
+      "altitud": 15
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 17
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 20
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 26
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 34
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 44
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 55
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 65
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 76
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 87
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 98
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 108
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 118
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 127
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 136
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 145
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 154
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 164
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 175
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 186
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 196
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 206
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 217
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 227
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 238
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 247
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 257
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 268
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 279
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 289
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 301
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 312
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 323
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 334
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 344
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 350
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 353
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 354
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 352
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 351
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 352
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 355
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 359
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 364
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 372
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 383
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 396
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 409
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 423
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 439
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 454
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 469
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 485
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 500
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 514
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 526
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 538
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 543
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 549
+    }
   ],
   "puntos_clave": [
-
-  ]
+    {
+      "kilometro": 5.15,
+      "pendiente_porcentaje": 16.0,
+      "altitud": 475,
+      "nombre": "Rampa 16.0%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "pena-cabarga.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
 }
