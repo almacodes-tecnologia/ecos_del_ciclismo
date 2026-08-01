@@ -1,29 +1,374 @@
 {
-  "id": "santuario_de_la_virgen_de_herrera",
+    "id": "santuario_de_la_virgen_de_herrera",
   "nombre": "Santuario de la Virgen de Herrera",
 "punto_inicio": "Herrera de los Navarros",
   "categoria": "",
   "vertiente": "por Herrera de los Navarros",
   "region": "Zaragoza",
   "zona": "Sierra de Herrera",
-  "coordenadas_inicio": "41.21142, -1.084099",
-  "longitud_km": 8.0,
-  "desnivel_m": 458,
-  "altura_maxima_m": 1338,
-  "pendiente_media_porcentaje": 5.7,
-  "pendiente_maxima_porcentaje": 18.0,
-  "descripcion": "Ascensión corta pero intensa en la Sierra de Herrera, caracterizada por las fuertes rampas iniciales y su carácter irregular, ideal para escaladores. La cima, junto al santuario, ofrece un mirador excelente de la zona.",
+  "coordenadas_inicio": {
+    "lat": 41.2105,
+    "lon": -1.082646
+  },
+  "coordenadas_final": {
+    "lat": 41.168483,
+    "lon": -1.10581
+  },
+  "longitud_km": 7.60,
+  "desnivel_m": 519,
+  "altura_maxima_m": 1331,
+  "pendiente_media_porcentaje": 6.8,
+  "pendiente_maxima_porcentaje": 12.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+    "descripcion": "Ascensión corta pero intensa en la Sierra de Herrera, caracterizada por las fuertes rampas iniciales y su carácter irregular, ideal para escaladores. La cima, junto al santuario, ofrece un mirador excelente de la zona.",
   "altimetria_puntos": [
-    {"kilometro": 0, "altitud": 880},
-    {"kilometro": 1, "altitud": 925},
-    {"kilometro": 2, "altitud": 970},
-    {"kilometro": 3, "altitud": 1021},
-    {"kilometro": 4, "altitud": 1075},
-    {"kilometro": 5, "altitud": 1145},
-    {"kilometro": 6, "altitud": 1212},
-    {"kilometro": 7, "altitud": 1270},
-    {"kilometro": 8.0, "altitud": 1338}
+    {
+      "kilometro": 0.0,
+      "altitud": 813
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 815
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 817
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 822
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 828
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 835
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 842
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 849
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 855
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 861
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 866
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 870
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 873
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 875
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 876
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 877
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 879
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 881
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 884
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 885
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 885
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 887
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 888
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 891
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 898
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 905
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 913
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 922
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 930
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 938
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 945
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 950
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 955
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 962
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 971
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 981
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 993
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1005
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1015
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1024
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1033
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1042
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1070
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1081
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1091
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1101
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1111
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1122
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1133
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1144
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1155
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1165
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1177
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1177
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1183
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1192
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1202
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1211
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1222
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1232
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1243
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1254
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1265
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1276
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1286
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1296
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1306
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1316
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1322
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1326
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1329
+    }
   ],
   "puntos_clave": [
-  ]
+    {
+      "kilometro": 3.45,
+      "pendiente_porcentaje": 10.5,
+      "altitud": 980,
+      "nombre": "Rampa 10.5%"
+    },
+    {
+      "kilometro": 3.65,
+      "pendiente_porcentaje": 12.1,
+      "altitud": 996,
+      "nombre": "Rampa 12.1%"
+    },
+    {
+      "kilometro": 5.15,
+      "pendiente_porcentaje": 11.1,
+      "altitud": 1147,
+      "nombre": "Rampa 11.1%"
+    },
+    {
+      "kilometro": 6.35,
+      "pendiente_porcentaje": 11.0,
+      "altitud": 1217,
+      "nombre": "Rampa 11.0%"
+    },
+    {
+      "kilometro": 6.75,
+      "pendiente_porcentaje": 11.3,
+      "altitud": 1257,
+      "nombre": "Rampa 11.3%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "pr-z-25-ascension-al-santuario-de-la-virgen-de-herrera-solo-.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
 }
