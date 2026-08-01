@@ -1,5 +1,21 @@
 [
     {
+  "id": "las_palomas_desde_zahara",
+  "nombre": "Santuario de la Virgen de Sancho Abarca",
+  "vertiente": "desde Zahara",
+    "pais": "España",
+  "longitud_km": 12.5,
+  "desnivel_m": 816
+  },
+      {
+  "id": "santuario_de_la_virgen_de_sancho_abarca",
+  "nombre": "Santuario de la Virgen de Sancho Abarca",
+  "vertiente": "",
+    "pais": "España",
+  "longitud_km": 6.1,
+  "desnivel_m": 293
+  },
+    {
   "id": "balcon_de_alicante_desde_tibi",
   "nombre": "Balcón de Alicante",
   "vertiente": "por Tibi",
@@ -211,8 +227,8 @@
     "nombre": "El Purche",
     "vertiente": "dese Monachil",
     "pais": "España",
-    "longitud_km": 8.1,
-    "desnivel_m": 684
+    "longitud_km": 8.5,
+    "desnivel_m": 7'4
   },
   {
     "id": "pico_veleta_cenes_de_la_vega",
