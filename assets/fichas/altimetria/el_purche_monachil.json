@@ -1,6 +1,6 @@
 {
   "id": "el_purche_monachil",
-  "nombre": "El Purche",
+  "nombre": "El Purche / Collado del Muerto",
   "punto_inicio":"",
   "categoria":"",
   "vertiente": "por Monachil",
@@ -15,10 +15,10 @@
     "lat": 37.138384,
     "lon": -3.49287
   },
-  "longitud_km": 8.1,
-  "desnivel_m": 684,
+  "longitud_km": 7.1,
+  "desnivel_m": 600,
   "altura_maxima_m": 1424,
-  "pendiente_media_porcentaje": 8.4,
+  "pendiente_media_porcentaje": 8.3,
   "pendiente_maxima_porcentaje": 13.3,
   "superficie": "asfalto",
   "tags": [],
@@ -309,49 +309,65 @@
       "kilometro": 7.0,
       "altitud": 1403
     },
-{
+    {
       "kilometro": 7.1,
       "altitud": 1411
     },
-    {
+	{
       "kilometro": 7.2,
       "altitud": 1419
     },
     {
       "kilometro": 7.3,
-      "altitud": 1427
+      "altitud": 1425
     },
     {
       "kilometro": 7.4,
-      "altitud": 1435
+      "altitud": 1421
     },
     {
       "kilometro": 7.5,
-      "altitud": 1443
+      "altitud": 1414
     },
     {
       "kilometro": 7.6,
-      "altitud": 1451
+      "altitud": 1406
     },
     {
       "kilometro": 7.7,
-      "altitud": 1460
+      "altitud": 1400
     },
     {
       "kilometro": 7.8,
-      "altitud": 1469
+      "altitud": 1403
     },
     {
       "kilometro": 7.9,
-      "altitud": 1478
+      "altitud": 1415
     },
     {
       "kilometro": 8.0,
-      "altitud": 1487
+      "altitud": 1428
     },
     {
       "kilometro": 8.1,
-      "altitud": 1495
+      "altitud": 1442
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1456
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1470
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1482
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1490
     }
   ],
   "puntos_clave": [
