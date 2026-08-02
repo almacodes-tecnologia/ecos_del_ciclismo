@@ -1,12 +1,12 @@
 {
-  "id": "alpe_d_huez",
+    "id": "alpe_dhuez_le_bourg_d_oisans",
   "nombre": "Alpe d'Huez ",
   "punto_inicio": "",
   "categoria": "",
-  "vertiente": "",
-  "pais": "España",
+    "vertiente" : "Le Bourg d'Osisans",
+  "pais": "Francia",
   "region": "",
-  "zona": "",
+  "zona": "Alpes",
   "coordenadas_inicio": {
     "lat": 45.06473,
     "lon": 6.039659
@@ -15,15 +15,15 @@
     "lat": 45.09486,
     "lon": 6.07073
   },
-  "longitud_km": 13.97,
+  "longitud_km": 14.0,
   "desnivel_m": 1116,
   "altura_maxima_m": 1842,
   "pendiente_media_porcentaje": 8.0,
-  "pendiente_maxima_porcentaje": 25.9,
+  "pendiente_maxima_porcentaje": 15.1,
   "superficie": "asfalto",
   "tags": [],
-  "ultima_revision": "17/07/2026",
-  "descripcion": "",
+  "ultima_revision": "19/07/2026",
+    "descripcion": "Alpe d'Huez es más que un simple puerto de montaña; es una leyenda del ciclismo. Su dificultad, combinada con la historia de las grandes batallas libradas en sus curvas, lo convierten en una de las ascensiones más ansiadas y respetadas por ciclistas de todo el mundo. La característica más distintiva del Alpe d'Huez son sus 21 curvas de herradura numeradas, cada curva lleva el nombre de un ganador de etapa en el Tour de Francia que ha coronado el puerto, un detalle que añade un toque de historia y leyenda.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -601,8 +601,9 @@
     }
   ],
   "fuente": {
-    "tipo": "",
-    "referencia": ""
+    "tipo": "gpx",
+    "referencia": "Alpe d'Huez .gpx"
   },
+  "interpolado": false,
   "version_json": ""
 }
