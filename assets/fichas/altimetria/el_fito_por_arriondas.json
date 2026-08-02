@@ -15,9 +15,9 @@
     "lat": 43.4392,
     "lon": -5.193399
   },
-  "longitud_km": 6.91,
-  "desnivel_m": 581,
-  "altura_maxima_m": 598,
+  "longitud_km": 6.9,
+  "desnivel_m": 566,
+  "altura_maxima_m": 592,
   "pendiente_media_porcentaje": 8.4,
   "pendiente_maxima_porcentaje": 12.3,
   "superficie": "asfalto",
@@ -27,11 +27,11 @@
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
-      "altitud": 26
+      "altitud": 24
     },
     {
       "kilometro": 0.1,
-      "altitud": 30
+      "altitud": 29
     },
     {
       "kilometro": 0.2,
@@ -39,7 +39,7 @@
     },
     {
       "kilometro": 0.3,
-      "altitud": 40
+      "altitud": 39
     },
     {
       "kilometro": 0.4,
@@ -299,11 +299,11 @@
     },
     {
       "kilometro": 6.8,
-      "altitud": 587
+      "altitud": 586
     },
     {
       "kilometro": 6.9,
-      "altitud": 591
+      "altitud": 592
     }
   ],
   "puntos_clave": [],
