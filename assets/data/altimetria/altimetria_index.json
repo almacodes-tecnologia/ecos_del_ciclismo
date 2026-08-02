@@ -156,23 +156,23 @@
     "nombre": "Urkiola",
     "vertiente": "por Manaria",
     "pais": "España",
-    "longitud_km": 6.0,
-    "desnivel_m": 542
+	"longitud_km": 5.8,
+	"desnivel_m": 515
   },
 {
   "id": "angliru",
   "nombre": "Alto de l'Angliru",
-  "vertiente": "",
+  "vertiente": "Riosa",
   "pais": "España",
   "comunidad": "Asturias",
   "zona": "Sierra del Aramo",
   "longitud_km": 12.5,
-  "desnivel_m": 1255,
-  "pendiente_media_porcentaje": 10.1,
+  "desnivel_m": 1249,
+  "pendiente_media_porcentaje": 9.9,
   "pendiente_maxima_porcentaje": 23.6,
-  "altura_maxima_m": 1570,
-  "superficie": "asfalto",
-  "tags": ["mítico"]
+  "altura_maxima_m": 1567,
+  "categoria": "S",
+  "superficie": "asfalto"
 },
   {
     "id": "alpe_dhuez_le_bourg_d_oisans",
