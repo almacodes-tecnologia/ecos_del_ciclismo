@@ -15,11 +15,11 @@
     "lat": 43.22209,
     "lon": -5.94174
   },
-  "longitud_km": 13.13,
+  "longitud_km": 12.6,
   "desnivel_m": 1235,
   "altura_maxima_m": 1572,
   "pendiente_media_porcentaje": 9.4,
-  "pendiente_maxima_porcentaje": 26.0,
+  "pendiente_maxima_porcentaje": 23.6,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "17/07/2026",
@@ -532,26 +532,6 @@
     {
       "kilometro": 12.6,
       "altitud": 1567
-    },
-    {
-      "kilometro": 12.7,
-      "altitud": 1568
-    },
-    {
-      "kilometro": 12.8,
-      "altitud": 1565
-    },
-    {
-      "kilometro": 12.9,
-      "altitud": 1561
-    },
-    {
-      "kilometro": 13.0,
-      "altitud": 1558
-    },
-    {
-      "kilometro": 13.1,
-      "altitud": 1556
     }
   ],
   "puntos_clave": [
@@ -577,7 +557,7 @@
       "kilometro": 10.65,
       "pendiente_porcentaje": 20.0,
       "altitud": 1325,
-      "nombre": "Rampa 20.0%"
+      "nombre": "Rampa 23.6%"
     }
   ],
   "fuente": {
