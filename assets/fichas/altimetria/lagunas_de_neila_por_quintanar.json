@@ -15,16 +15,16 @@
     "lat": 42.0436,
     "lon": -3.044718
   },
-  "longitud_km": 12.47,
-  "desnivel_m": 743,
-  "altura_maxima_m": 1869,
+  "longitud_km": 12.5,
+  "desnivel_m": 752,
+  "altura_maxima_m": 1878,
   "pendiente_media_porcentaje": 6.0,
   "pendiente_maxima_porcentaje": 13.1,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "19/07/2026",
-  "descripcion": "El puerto más emblemático de la provincia de Burgos. Tras un inicio exigente entre pinares, el cruce de Rozavientos da paso a unos 3 kilómetros finales sobrecogedores donde la pendiente rara vez baja del 10%.",
- "altimetria_puntos": [
+    "descripcion": "El puerto más emblemático de la provincia de Burgos. Tras un inicio exigente entre pinares, el cruce de Rozavientos da paso a unos 3 kilómetros finales sobrecogedores donde la pendiente rara vez baja del 10%.",
+  "altimetria_puntos": [
     {
       "kilometro": 0.0,
       "altitud": 1131
@@ -511,19 +511,23 @@
     },
     {
       "kilometro": 12.1,
-      "altitud": 1868
+      "altitud": 1869
     },
     {
       "kilometro": 12.2,
-      "altitud": 1868
+      "altitud": 1872
     },
     {
       "kilometro": 12.3,
-      "altitud": 1868
+      "altitud": 1874
     },
     {
       "kilometro": 12.4,
-      "altitud": 1868
+      "altitud": 1876
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1878
     }
   ],
   "puntos_clave": [
