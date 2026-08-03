@@ -1,7 +1,7 @@
 {
   "id": "somport_desde_canfranc_estacion",
   "nombre": "Somport",
-  "punto_inicio": "",
+  "punto_inicio": "Canfranc Estación",
   "categoria": "",
   "vertiente": "desde Canfranc Estación",
   "pais": "España",
@@ -15,7 +15,7 @@
     "lat": 42.795765,
     "lon": -0.525514
   },
-  "longitud_km": 7.47,
+  "longitud_km": 7.5,
   "desnivel_m": 418,
   "altura_maxima_m": 1580,
   "pendiente_media_porcentaje": 5.6,
@@ -324,6 +324,10 @@
     {
       "kilometro": 7.4,
       "altitud": 1576
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1580
     }
   ],
   "puntos_clave": [],
