@@ -2,7 +2,7 @@
   "id": "tornavacas_por_barco_de_avila",
   "nombre": "Tornavacas",
   "punto_inicio": "",
-  "categoria": "",
+  "categoria": "F",
   "vertiente": "por Barco de Avila",
   "pais": "España",
   "region": "Ávila",
@@ -648,6 +648,10 @@
     {
       "kilometro": 15.5,
       "altitud": 1268
+    },
+	    {
+      "kilometro": 15.555,
+      "altitud": 1273
     }
   ],
   "puntos_clave": [],

@@ -1,7 +1,7 @@
 {
   "id": "san_juan_de_la_pena_santa_cruz_de_la_seros",
   "nombre": "San Juan de la Peña",
-  "punto_inicio": "",
+  "punto_inicio": "Santa Cruz de la Seros",
   "categoria": "",
   "vertiente": "por Santa Cruz de La Seros",
   "pais": "España",
@@ -15,7 +15,7 @@
     "lat": 42.508447,
     "lon": -0.66861
   },
-  "longitud_km": 7.82,
+  "longitud_km": 7.85,
   "desnivel_m": 426,
   "altura_maxima_m": 1198,
   "pendiente_media_porcentaje": 5.4,
@@ -340,6 +340,10 @@
     {
       "kilometro": 7.8,
       "altitud": 1189
+    },
+	    {
+      "kilometro": 7.85,
+      "altitud": 1198
     }
   ],
   "puntos_clave": [

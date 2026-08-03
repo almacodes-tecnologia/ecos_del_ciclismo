@@ -2,7 +2,7 @@
   "id": "puerto_del_viento_el_burgo",
   "nombre": "Puerto del Viento",
   "punto_inicio": "",
-  "categoria": "",
+  "categoria": "F",
   "vertiente": "por El Burgo",
   "pais": "España",
   "region": "Málaga",
@@ -15,7 +15,7 @@
     "lat": 36.788822,
     "lon": -5.04831
   },
-  "longitud_km": 12.93,
+  "longitud_km": 12.9,
   "desnivel_m": 496,
   "altura_maxima_m": 1062,
   "pendiente_media_porcentaje": 3.8,
@@ -539,11 +539,11 @@
     },
     {
       "kilometro": 12.8,
-      "altitud": 1053
+      "altitud": 1055
     },
     {
       "kilometro": 12.9,
-      "altitud": 1056
+      "altitud": 1062
     }
   ],
   "puntos_clave": [

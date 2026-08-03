@@ -2,7 +2,7 @@
   "id": "tdmejrek_por_ghar_lapsi",
   "nombre": "Ascenso a T'dmerjrek",
   "punto_inicio": "",
-  "categoria": "",
+  "categoria": "F",
   "vertiente": "por Ghar-Lapsi",
   "pais": "Malta",
   "region": "",
@@ -15,9 +15,9 @@
     "lat": 35.85259,
     "lon": 14.38211
   },
-  "longitud_km": 9.03,
-  "desnivel_m": 238,
-  "altura_maxima_m": 247,
+  "longitud_km": 9.1,
+  "desnivel_m": 243,
+  "altura_maxima_m": 252,
   "pendiente_media_porcentaje": 2.6,
   "pendiente_maxima_porcentaje": 13.1,
   "superficie": "asfalto",
@@ -375,19 +375,23 @@
     },
     {
       "kilometro": 8.7,
-      "altitud": 239
+      "altitud": 237
     },
     {
       "kilometro": 8.8,
-      "altitud": 242
+      "altitud": 240
     },
     {
       "kilometro": 8.9,
-      "altitud": 243
+      "altitud": 242
     },
     {
       "kilometro": 9.0,
-      "altitud": 243
+      "altitud": 247
+    },
+	    {
+      "kilometro": 9.1,
+      "altitud": 253
     }
   ],
   "puntos_clave": [

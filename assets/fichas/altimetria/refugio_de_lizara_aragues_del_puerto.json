@@ -15,7 +15,7 @@
     "lat": 42.764263,
     "lon": -0.633861
   },
-  "longitud_km": 10.56,
+  "longitud_km": 10.55,
   "desnivel_m": 577,
   "altura_maxima_m": 1519,
   "pendiente_media_porcentaje": 5.5,
@@ -448,6 +448,10 @@
     {
       "kilometro": 10.5,
       "altitud": 1512
+    },
+    {
+      "kilometro": 10.55,
+      "altitud": 1519
     }
   ],
   "puntos_clave": [],
