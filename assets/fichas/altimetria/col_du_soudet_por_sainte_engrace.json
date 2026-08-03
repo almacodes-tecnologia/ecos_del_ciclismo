@@ -5,8 +5,8 @@
   "categoria": "",
   "vertiente": "por Sainte Engrace",
   "pais": "Francia",
-  "region": "",
-  "zona": "",
+  "region": "Aquitaine",
+  "zona": "Pirineos",
   "coordenadas_inicio": {
     "lat": 43.050265,
     "lon": -0.882369
@@ -15,7 +15,7 @@
     "lat": 42.986658,
     "lon": -0.75469
   },
-  "longitud_km": 21.43,
+  "longitud_km": 21.45,
   "desnivel_m": 1217,
   "altura_maxima_m": 1526,
   "pendiente_media_porcentaje": 5.7,
@@ -884,6 +884,10 @@
     {
       "kilometro": 21.4,
       "altitud": 1521
+    },
+    {
+      "kilometro": 21.45,
+      "altitud": 1526
     }
   ],
   "puntos_clave": [
