@@ -1,0 +1,245 @@
+{
+  "id": "cabanas_desde_rebordoes",
+  "nombre": "Cabanas",
+  "punto_inicio": "Rebordoes",
+  "categoria": "",
+  "vertiente": "desde Rebordoes",
+  "pais": "Portugal",
+  "region": "Douro Litoral",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 41.35501,
+    "lon": -8.42824
+  },
+  "coordenadas_final": {
+    "lat": 41.33232,
+    "lon": -8.41492
+  },
+  "longitud_km": 4.8,
+  "desnivel_m": 321,
+  "altura_maxima_m": 435,
+  "pendiente_media_porcentaje": 6.7,
+  "pendiente_maxima_porcentaje": 13.0,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "03/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 116
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 118
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 121
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 125
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 131
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 137
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 144
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 151
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 158
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 164
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 170
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 175
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 180
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 185
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 188
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 191
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 193
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 193
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 192
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 190
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 189
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 189
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 191
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 195
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 201
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 208
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 217
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 226
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 236
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 246
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 257
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 269
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 282
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 295
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 308
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 320
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 332
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 344
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 354
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 364
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 373
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 382
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 392
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 401
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 411
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 419
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 424
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 428
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 435
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 3.35,
+      "pendiente_porcentaje": 13.0,
+      "altitud": 301,
+      "nombre": "Rampa 13.0%"
+    },
+    {
+      "kilometro": 3.55,
+      "pendiente_porcentaje": 12.1,
+      "altitud": 325,
+      "nombre": "Rampa 12.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "cabanas-desde-rebordoes-climbfinder.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
