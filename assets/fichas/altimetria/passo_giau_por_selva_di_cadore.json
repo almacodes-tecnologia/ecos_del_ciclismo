@@ -15,11 +15,11 @@
     "lat": 46.48251,
     "lon": 12.05369
   },
-  "longitud_km": 9.74,
+  "longitud_km": 9.75,
   "desnivel_m": 919,
   "altura_maxima_m": 2235,
   "pendiente_media_porcentaje": 9.4,
-  "pendiente_maxima_porcentaje": 15.6,
+  "pendiente_maxima_porcentaje": 14.0,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "19/07/2026",
@@ -416,6 +416,10 @@
     {
       "kilometro": 9.7,
       "altitud": 2227
+    },
+    {
+      "kilometro": 9.75,
+      "altitud": 2235
     }
   ],
   "puntos_clave": [],
