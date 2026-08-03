@@ -7,7 +7,14 @@
   "pais": "España",
   "region": "",
   "zona": "",
-  "coordenadas_inicio": "43.31239,-5.05984",
+    "coordenadas_inicio": {
+    "lat": 43.31239,
+    "lon": -5.05984
+  },
+  "coordenadas_final": {
+    "lat": 43.273574,
+    "lon": -4.981714
+  },
   "longitud_km": 14.02,
   "desnivel_m": 959,
   "altura_maxima_m": 1128,
@@ -15,7 +22,7 @@
   "pendiente_maxima_porcentaje": 20.7,
   "superficie": "asfalto",
   "tags": [],
-  "ultima_revision": "2026",
+  "ultima_revision": "03/08/2026",
   "descripcion": "",
   "altimetria_puntos": [
     {
@@ -560,27 +567,27 @@
     },
     {
       "kilometro": 13.5,
-      "altitud": 1112
-    },
-    {
-      "kilometro": 13.6,
       "altitud": 1113
     },
     {
+      "kilometro": 13.6,
+      "altitud": 1114
+    },
+    {
       "kilometro": 13.7,
-      "altitud": 1115
+      "altitud": 1117
     },
     {
       "kilometro": 13.8,
-      "altitud": 1120
-    },
-    {
-      "kilometro": 13.9,
       "altitud": 1122
     },
     {
+      "kilometro": 13.9,
+      "altitud": 1124
+    },
+    {
       "kilometro": 14.0,
-      "altitud": 1121
+      "altitud": 1124
     }
   ],
   "puntos_clave": [

@@ -7,27 +7,445 @@
   "pais": "España",
   "region": "Huesca",
   "zona": "",
-  "coordenadas_inicio": "",
-  "longitud_km": 10.2,
-  "desnivel_m": 514,
-  "altura_maxima_m": 1639,
-  "pendiente_media_porcentaje": 5,
-  "pendiente_maxima_porcentaje": 12,
+  "coordenadas_inicio": {
+    "lat": 42.727346,
+    "lon": -0.307089
+  },
+  "coordenadas_final": {
+    "lat": 42.757164,
+    "lon": -0.237587
+  },
+  "longitud_km": 10.1,
+  "desnivel_m": 519,
+  "altura_maxima_m": 1633,
+  "pendiente_media_porcentaje": 5.1,
+  "pendiente_maxima_porcentaje": 11.5,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "03/08/2026",
   "descripcion": "Clásico puerto pirenaico. La ascensión se caracteriza por un inicio muy suave, un tramo central de gran dureza con rampas de hasta el 12%, y un final casi llano que lleva al Balneario, rodeado de un impresionante circo montañoso.",
   "altimetria_puntos": [
-    {"kilometro": 0, "altitud": 1125},
-    {"kilometro": 1, "altitud": 1140},
-    {"kilometro": 2, "altitud": 1165},
-    {"kilometro": 3, "altitud": 1190},
-    {"kilometro": 4, "altitud": 1220},
-    {"kilometro": 5, "altitud": 1270},
-    {"kilometro": 6, "altitud": 1345},
-    {"kilometro": 7, "altitud": 1430},
-    {"kilometro": 8, "altitud": 1515},
-    {"kilometro": 9, "altitud": 1591},
-    {"kilometro": 10, "altitud": 1634},
-    {"kilometro": 10.2, "altitud": 1639}
+    {
+      "kilometro": 0.0,
+      "altitud": 1115
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1115
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1115
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1117
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1119
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1121
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1124
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1127
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1129
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1132
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1135
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1138
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1140
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1143
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1146
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1149
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1152
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1155
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1158
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1161
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1168
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1173
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1177
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1182
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1191
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1195
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1199
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1203
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1207
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1211
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1216
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1220
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1223
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1225
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1228
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1229
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1231
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1233
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1235
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1237
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1239
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1243
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1245
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1248
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1253
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1258
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1263
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1268
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1274
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1279
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1283
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1289
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1295
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1301
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1307
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1314
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1319
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1326
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1333
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1341
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1350
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1359
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1368
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1377
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1384
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1392
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1400
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1408
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1416
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1425
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1432
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1439
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1446
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1452
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1460
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1467
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1476
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1485
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1494
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1504
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1515
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1526
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1537
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1546
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1554
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1562
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1569
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1576
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1584
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1592
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1599
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1607
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1613
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1619
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1624
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1628
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1630
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1631
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1633
+    }
   ],
   "puntos_clave": [
-  ]
+    {
+      "kilometro": 8.35,
+      "pendiente_porcentaje": 11.1,
+      "altitud": 1521,
+      "nombre": "Rampa 11.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "balneario_panticosa_gpxstudio.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
 }
