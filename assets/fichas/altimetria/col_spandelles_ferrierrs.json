@@ -1,9 +1,9 @@
 {
-  "id": "col_spandelles_ferrierrs",
+  "id": "col_spandelles_ferrieres",
   "nombre": "Col Spandelles",
-  "punto_inicio": "",
-  "categoria": "",
-  "vertiente": "por Ferrierrs",
+  "punto_inicio": "Ferrières",
+  "categoria": "1ª",
+  "vertiente": "por Ferrières",
   "pais": "Francia",
   "region": "Midi-Pyrénées",
   "zona": "Pirineos",
@@ -19,7 +19,7 @@
   "desnivel_m": 869,
   "altura_maxima_m": 1377,
   "pendiente_media_porcentaje": 8.2,
-  "pendiente_maxima_porcentaje": 12.6,
+  "pendiente_maxima_porcentaje": 15.6,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "19/07/2026",
@@ -131,37 +131,37 @@
     { "kilometro": 10.3, "altitud": 1360 },
     { "kilometro": 10.4, "altitud": 1365 },
     { "kilometro": 10.5, "altitud": 1370 },
-	{ "kilometro": 10.6, "altitud": 1377 }
+    { "kilometro": 10.6, "altitud": 1377 }
   ],
   "puntos_clave": [
     {
       "kilometro": 1.65,
-      "pendiente_porcentaje": 10.2,
+      "pendiente_porcentaje": 13.2,
       "altitud": 631,
       "nombre": "Rampa 13.2%"
     },
     {
       "kilometro": 2.35,
-      "pendiente_porcentaje": 11.1,
+      "pendiente_porcentaje": 14.1,
       "altitud": 704,
       "nombre": "Rampa 14.1%"
     },
     {
       "kilometro": 3.55,
-      "pendiente_porcentaje": 12.6,
+      "pendiente_porcentaje": 15.6,
       "altitud": 814,
       "nombre": "Rampa 15.6%"
     },
     {
       "kilometro": 5.75,
-      "pendiente_porcentaje": 11.3,
+      "pendiente_porcentaje": 14.3,
       "altitud": 1001,
       "nombre": "Rampa 14.3%"
     }
   ],
   "fuente": {
     "tipo": "gpx",
-    "referencia": "col-spandelles-1-378m-ferrierrs-pyrenees-fr-.gpx"
+    "referencia": "col-spandelles-1-378m-ferrieres-pyrenees-fr-.gpx"
   },
   "interpolado": false,
   "version_json": "1"
