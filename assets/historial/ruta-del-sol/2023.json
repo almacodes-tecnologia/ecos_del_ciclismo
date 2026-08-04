@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2023,
+    "distancia": 846.0,
+    "desnivel": 14208,
+    "tiempo": "21h 05' 02\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 92,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Buitrago Santiago",
+            "pais": "Colombia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 1 min 39 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mas Enric",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Geoghegan Hart Tao",
+            "pais": "Reino Unido",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 2 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Caruso Damiano",
+            "pais": "Italia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rota Lorenzo",
+            "pais": "Italia",
+            "equipo": "Intermarché - Circus - Wanty",
+            "ventaja": "+ 3 min 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Kron Andreas",
+            "pais": "Dinamarca",
+            "equipo": "Lotto Dstny",
+            "ventaja": "+ 3 min 40 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sivakov Pavel",
+            "pais": "Francia",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 3 min 57 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Pogačar Tadej",
+        "pais": "Eslovenia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorMontana": {
+        "nombre": "Martín Gotzon",
+        "pais": "España",
+        "equipo": "Euskaltel - Euskadi"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " INEOS Grenadiers",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 179.0,
+            "desnivel": 3947,
+            "velocidadMedia": 35.292
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 156.1,
+            "desnivel": 2589,
+            "velocidadMedia": 42.541
+        },
+        {
+            "etapa": 3,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 161.8,
+            "desnivel": 1667,
+            "velocidadMedia": 42.73
+        },
+        {
+            "etapa": 4,
+            "nombre": "Pogačar Tadej",
+            "pais": "Eslovenia",
+            "distancia": 164.8,
+            "desnivel": 3095,
+            "velocidadMedia": 40.998
+        },
+        {
+            "etapa": 5,
+            "nombre": "Fraile Omar",
+            "pais": "España",
+            "distancia": 184.3,
+            "desnivel": 2910,
+            "velocidadMedia": 41.264
+        }
+    ]
+}

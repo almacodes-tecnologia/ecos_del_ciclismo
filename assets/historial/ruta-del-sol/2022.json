@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2022,
+    "distancia": 818.3,
+    "desnivel": 15205,
+    "tiempo": "20h 51' 27\"",
+    "ciclistasInscritos": 141,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rodríguez Cristián",
+            "pais": "España",
+            "equipo": "TotalEnergies",
+            "ventaja": "+ 14 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "López Miguel Ángel",
+            "pais": "Colombia",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rodríguez Carlos",
+            "pais": "España",
+            "equipo": "INEOS Grenadiers",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "equipo": "Team BikeExchange - Jayco",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Bahrain - Victorious",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "O'Connor Ben",
+            "pais": "Australia",
+            "equipo": "AG2R Citroën Team",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vansevenant Mauri",
+            "pais": "Bélgica",
+            "equipo": "Quick-Step Alpha Vinyl Team",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Lutsenko Alexey",
+            "pais": "Kazajistán",
+            "equipo": "Astana Qazaqstan Team",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Sosa Iván Ramiro",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 39 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Covi Alessandro",
+        "pais": "Italia",
+        "equipo": "UAE Team Emirates"
+    },
+    "ganadorMontana": {
+        "nombre": "Barrenetxea Jon",
+        "pais": "España",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Astana Qazaqstan Team",
+        "pais": "Kazajistán"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Herregodts Rune",
+            "pais": "Bélgica",
+            "distancia": 200.7,
+            "desnivel": 3460,
+            "velocidadMedia": 38.019
+        },
+        {
+            "etapa": 2,
+            "nombre": "Covi Alessandro",
+            "pais": "Italia",
+            "distancia": 150.6,
+            "desnivel": 2986,
+            "velocidadMedia": 38.004
+        },
+        {
+            "etapa": 3,
+            "nombre": "Sheffield Magnus",
+            "pais": "Estados Unidos",
+            "distancia": 153.2,
+            "desnivel": 2873,
+            "velocidadMedia": 39.179
+        },
+        {
+            "etapa": 4,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "distancia": 167.4,
+            "desnivel": 2987,
+            "velocidadMedia": 42.404
+        },
+        {
+            "etapa": 5,
+            "nombre": "Kämna Lennard",
+            "pais": "Alemania",
+            "distancia": 146.4,
+            "desnivel": 2899,
+            "velocidadMedia": 39.375
+        }
+    ]
+}

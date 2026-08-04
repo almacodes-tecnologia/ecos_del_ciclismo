@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2001,
+    "distancia": 680.0,
+    "desnivel": 0,
+    "tiempo": "22h 09' 32\"",
+    "ciclistasInscritos": 133,
+    "ciclistasFinalizados": 106,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Wauters Marc",
+            "pais": "Bélgica",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Shefer Alexandr",
+            "pais": "Kazajistán",
+            "equipo": "Alessio",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Tchmil Andrei",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Schaffrath Jan",
+            "pais": "Alemania",
+            "equipo": "Team Telekom",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Mikhaylov Gennady",
+            "pais": "Rusia",
+            "equipo": "Lotto - Adecco",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Caucchioli Pietro",
+            "pais": "Italia",
+            "equipo": "Alessio",
+            "ventaja": "+ 2 min 5 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "García Casas Félix Miguel",
+            "pais": "España",
+            "equipo": "Festina",
+            "ventaja": "+ 2 min 11 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Peeters Wilfried",
+            "pais": "Bélgica",
+            "equipo": "Domo - Farm Frites",
+            "ventaja": "+ 2 min 18 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Museeuw Johan",
+            "pais": "Bélgica",
+            "equipo": "Domo - Farm Frites",
+            "ventaja": "+ 2 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Dekker Erik",
+        "pais": "Países Bajos",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Bruylandts Dave",
+        "pais": "Bélgica",
+        "equipo": "Domo - Farm Frites"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Alessio",
+        "pais": "Italia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Díaz Pedro",
+            "pais": "España",
+            "distancia": 148.5,
+            "desnivel": 0,
+            "velocidadMedia": 39.38
+        },
+        {
+            "etapa": 2,
+            "nombre": "Shefer Alexandr",
+            "pais": "Kazajistán",
+            "distancia": 178.5,
+            "desnivel": 0,
+            "velocidadMedia": 34.26
+        },
+        {
+            "etapa": 3,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 177.9,
+            "desnivel": 0,
+            "velocidadMedia": 41.3
+        },
+        {
+            "etapa": 4,
+            "nombre": "Hvastija Martin",
+            "pais": "Eslovenia",
+            "distancia": 175.1,
+            "desnivel": 0,
+            "velocidadMedia": 37.6
+        },
+        {
+            "etapa": 5,
+            "nombre": "Artetxe Mikel",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.4045
+        }
+    ]
+}

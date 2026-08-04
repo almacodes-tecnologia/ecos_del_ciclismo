@@ -1,0 +1,130 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2013,
+    "distancia": 360.6,
+    "desnivel": 0,
+    "tiempo": "13h 47' 27\"",
+    "ciclistasInscritos": 126,
+    "ciclistasFinalizados": 108,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol Team",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Blanco Pro Cycling Team",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Špilak Simon",
+            "pais": "Eslovenia",
+            "equipo": "Team Katusha ",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "De Clercq Bart",
+            "pais": "Bélgica",
+            "equipo": "Lotto Belisol Team",
+            "ventaja": "+ 17 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Quintana Nairo",
+            "pais": "Colombia",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 24 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Armée Sander",
+            "pais": "Bélgica",
+            "equipo": "Topsport Vlaanderen - Baloise",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "CCC Polsat Polkowice",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Navarro Daniel",
+            "pais": "España",
+            "equipo": "Cofidis, Solutions Crédits",
+            "ventaja": "+ 38 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Dumoulin Tom",
+        "pais": "Países Bajos",
+        "equipo": "Team Argos - Shimano"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 6.0,
+            "desnivel": 0,
+            "velocidadMedia": 53.2
+        },
+        {
+            "etapa": 1,
+            "nombre": "Hivert Jonathan",
+            "pais": "Francia",
+            "distancia": 163.9,
+            "desnivel": 0,
+            "velocidadMedia": 39.85
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hivert Jonathan",
+            "pais": "Francia",
+            "distancia": 190.7,
+            "desnivel": 0,
+            "velocidadMedia": 39.64
+        },
+        {
+            "etapa": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.3878
+        }
+    ]
+}

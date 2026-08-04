@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 1999,
+    "distancia": 785.5,
+    "desnivel": 0,
+    "tiempo": "20h 15' 34\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 135,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pascual Rodríguez Javier",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Blanco Santiago",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 1 min 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Møller Claus Michael",
+            "pais": "Dinamarca",
+            "equipo": "TVM - Farm Frites",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Mancebo Francisco",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "De Wolf Steve",
+            "pais": "Bélgica",
+            "equipo": "Cofidis",
+            "ventaja": "+ 1 min 20 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Planckaert Jo",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Mobistar",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Rebollo José Luis",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 1 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Osa Unai",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 1 min 23 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Planckaert Jo",
+        "pais": "Bélgica",
+        "equipo": "Lotto - Mobistar"
+    },
+    "ganadorMontana": {
+        "nombre": "Bettini Paolo",
+        "pais": "Italia",
+        "equipo": "Mapei - Quickstep"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Kelme - Costa Blanca",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 164.4,
+            "desnivel": 0,
+            "velocidadMedia": 37.642
+        },
+        {
+            "etapa": 2,
+            "nombre": "Botero Santiago",
+            "pais": "Colombia",
+            "distancia": 153.1,
+            "desnivel": 0,
+            "velocidadMedia": 38.85
+        },
+        {
+            "etapa": 3,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "distancia": 168.1,
+            "desnivel": 0,
+            "velocidadMedia": 39.204
+        },
+        {
+            "etapa": 4,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "distancia": 189.9,
+            "desnivel": 0,
+            "velocidadMedia": 36.988
+        },
+        {
+            "etapa": 5,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 110.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.742
+        }
+    ]
+}

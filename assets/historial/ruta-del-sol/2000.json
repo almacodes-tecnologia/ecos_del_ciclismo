@@ -1,0 +1,131 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2000,
+    "distancia": 659.8,
+    "desnivel": 0,
+    "tiempo": "20h 58' 08\"",
+    "ciclistasInscritos": 149,
+    "ciclistasFinalizados": 114,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Peña Miguel Ángel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Cabello Francisco",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Garmendia Aitor",
+            "pais": "España",
+            "equipo": "Banesto",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Farazijn Peter",
+            "pais": "Bélgica",
+            "equipo": "Cofidis",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rebollo José Luis",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 33 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "equipo": "Cofidis",
+            "ventaja": "+ 37 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "García Casas Félix Miguel",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros - Grupo Generali",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Coppolillo Michele",
+            "pais": "Italia",
+            "equipo": "Mercatone Uno - Albacom",
+            "ventaja": "+ 48 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {
+        "nombre": "Cabello Francisco",
+        "pais": "España",
+        "equipo": "Kelme - Costa Blanca"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 160.5,
+            "desnivel": 0,
+            "velocidadMedia": 38.19
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bartoli Michele",
+            "pais": "Italia",
+            "distancia": 149.3,
+            "desnivel": 0,
+            "velocidadMedia": 36.24
+        },
+        {
+            "etapa": 3,
+            "nombre": "Peña Miguel Ángel",
+            "pais": "España",
+            "distancia": 164.9,
+            "desnivel": 0,
+            "velocidadMedia": 33.81
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 185.1,
+            "desnivel": 0,
+            "velocidadMedia": 41.04
+        },
+        {
+            "etapa": 5,
+            "nombre": "Planckaert Jo",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 48.4813
+        }
+    ]
+}

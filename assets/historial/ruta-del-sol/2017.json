@@ -1,0 +1,135 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2017,
+    "distancia": 524.6,
+    "desnivel": 8268,
+    "tiempo": "17h 12' 23\"",
+    "ciclistasInscritos": 146,
+    "ciclistasFinalizados": 124,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "equipo": "FDJ",
+            "ventaja": "+ 6 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Rosa Diego",
+            "pais": "Italia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 48 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Reichenbach Sébastien",
+            "pais": "Suiza",
+            "equipo": "FDJ",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Cannondale - Drapac Pro Cycling Team",
+            "ventaja": "+ 1 min 29 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Cink Ondřej",
+            "pais": "República Checa",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 1 min 48 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Moreno Javier",
+            "pais": "España",
+            "equipo": "Bahrain Merida Pro Cycling Team",
+            "ventaja": "+ 1 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Valverde Alejandro",
+        "pais": "España",
+        "equipo": "Movistar Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Preidler Georg",
+        "pais": "Austria",
+        "equipo": "Team Sunweb"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 155.4,
+            "desnivel": 2870,
+            "velocidadMedia": 38.45
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pinot Thibaut",
+            "pais": "Francia",
+            "distancia": 177.9,
+            "desnivel": 3551,
+            "velocidadMedia": 37.58
+        },
+        {
+            "etapa": 3,
+            "nombre": "Campenaerts Victor",
+            "pais": "Bélgica",
+            "distancia": 12.0,
+            "desnivel": 187,
+            "velocidadMedia": 48.27
+        },
+        {
+            "etapa": 4,
+            "nombre": "Coquard Bryan",
+            "pais": "Francia",
+            "distancia": 179.3,
+            "desnivel": 1660,
+            "velocidadMedia": 42.94
+        },
+        {
+            "etapa": 5,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.2935
+        }
+    ]
+}

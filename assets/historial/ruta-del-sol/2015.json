@@ -1,0 +1,146 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2015,
+    "distancia": 683.4,
+    "desnivel": 0,
+    "tiempo": "21h 21' 14\"",
+    "ciclistasInscritos": 153,
+    "ciclistasFinalizados": 117,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "equipo": "Tinkoff - Saxo",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 2 min 38 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 3 min 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Bardet Romain",
+            "pais": "Francia",
+            "equipo": "AG2R La Mondiale",
+            "ventaja": "+ 3 min 13 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kennaugh Peter",
+            "pais": "Reino Unido",
+            "equipo": "Team Sky",
+            "ventaja": "+ 4 min 3 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Edet Nicolas",
+            "pais": "Francia",
+            "equipo": "Cofidis, Solutions Crédits",
+            "ventaja": "+ 5 min 10 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Siutsou Kanstantsin",
+            "pais": "Bielorrusia",
+            "equipo": "Team Sky",
+            "ventaja": "+ 5 min 17 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Chavanel Sylvain",
+            "pais": "Francia",
+            "equipo": "IAM Cycling",
+            "ventaja": "+ 5 min 30 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Jungels Bob",
+            "pais": "Luxemburgo",
+            "equipo": "Trek Factory Racing ",
+            "ventaja": "+ 5 min 50 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Froome Chris",
+        "pais": "Reino Unido",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "Bilbao Pello",
+        "pais": "España",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Sky",
+        "pais": "Reino Unido"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ligthart Pim",
+            "pais": "Países Bajos",
+            "distancia": 118.3,
+            "desnivel": 0,
+            "velocidadMedia": 39.06
+        },
+        {
+            "etapa": 1,
+            "nombre": "Moreno Javier",
+            "pais": "España",
+            "distancia": 8.2,
+            "desnivel": 0,
+            "velocidadMedia": 49.95
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lobato Juan José",
+            "pais": "España",
+            "distancia": 194.7,
+            "desnivel": 0,
+            "velocidadMedia": 40.01
+        },
+        {
+            "etapa": 3,
+            "nombre": "Contador Alberto",
+            "pais": "España",
+            "distancia": 159.8,
+            "desnivel": 0,
+            "velocidadMedia": 36.98
+        },
+        {
+            "etapa": 4,
+            "nombre": "Froome Chris",
+            "pais": "Reino Unido",
+            "distancia": 202.4,
+            "desnivel": 0,
+            "velocidadMedia": 39.31
+        },
+        {
+            "etapa": 5,
+            "nombre": "Lobato Juan José",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.0068
+        }
+    ]
+}

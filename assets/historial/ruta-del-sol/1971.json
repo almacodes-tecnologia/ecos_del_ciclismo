@@ -1,0 +1,154 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 1971,
+    "distancia": 731.0,
+    "desnivel": 0,
+    "tiempo": "19h 56' 22\"",
+    "ciclistasInscritos": 46,
+    "ciclistasFinalizados": 41,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Monseré Jean-Pierre",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Mars",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "van der Vleuten Jos",
+            "pais": "Países Bajos",
+            "equipo": "Gazelle",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "equipo": "Flandria - Mars",
+            "ventaja": "+ 58 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Casas José",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 1 min 32 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pesarrodona José",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 1 min 50 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rosiers Roger",
+            "pais": "Bélgica",
+            "equipo": "Bic",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Torres Pedro",
+            "pais": "España",
+            "equipo": "La Casera - Peña Bahamontes",
+            "ventaja": "+ 1 min 52 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "González José Antonio",
+            "pais": "España",
+            "equipo": "Kas - Kaskol",
+            "ventaja": "+ 2 min 2 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Galera Joaquín",
+            "pais": "España",
+            "equipo": "Karpy",
+            "ventaja": "+ 2 min 10 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Díaz Ventura",
+            "pais": "España",
+            "equipo": "Werner",
+            "ventaja": "+ 2 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van der Vleuten Jos",
+        "pais": "Países Bajos",
+        "equipo": "Gazelle"
+    },
+    "ganadorMontana": {
+        "nombre": "De Vlaeminck Roger",
+        "pais": "Bélgica",
+        "equipo": "Flandria - Mars"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Flandria - Mars",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "De Vlaeminck Roger",
+            "pais": "Bélgica",
+            "distancia": 28.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": null,
+            "nombre": "Leman Eric",
+            "pais": "Bélgica",
+            "distancia": 29.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 1,
+            "nombre": null,
+            "pais": null,
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.18
+        },
+        {
+            "etapa": 2,
+            "nombre": null,
+            "pais": null,
+            "distancia": 140.0,
+            "desnivel": 0,
+            "velocidadMedia": 30.021
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 98.0,
+            "desnivel": 0,
+            "velocidadMedia": 43.491
+        },
+        {
+            "etapa": 4,
+            "nombre": null,
+            "pais": null,
+            "distancia": 121.0,
+            "desnivel": 0,
+            "velocidadMedia": 32.908
+        },
+        {
+            "etapa": 5,
+            "nombre": null,
+            "pais": null,
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": 36.502
+        }
+    ]
+}

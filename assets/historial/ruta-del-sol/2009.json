@@ -1,0 +1,134 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2009,
+    "distancia": 669.0,
+    "desnivel": 0,
+    "tiempo": "17h 28' 40\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 65,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Posthuma Joost",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "equipo": "Andalucia-Caja Sur",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Velits Martin",
+            "pais": "Eslovaquia",
+            "equipo": "Milram",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Scarponi Michele",
+            "pais": "Italia",
+            "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Oroz Juan José",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "López David",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Intxausti Beñat",
+            "pais": "España",
+            "equipo": "Fuji-Servetto",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Flecha Juan Antonio",
+            "pais": "España",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Simoni Gilberto",
+            "pais": "Italia",
+            "equipo": "Lampre - NGC",
+            "ventaja": "+ 51 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Rebellin Davide",
+        "pais": "Italia",
+        "equipo": "Serramenti PVC Diquigiovanni-Androni Giocattoli"
+    },
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Serramenti PVC Diquigiovanni-Androni Giocattoli",
+        "pais": "Venezuela"
+    },
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Tondo Xavier",
+            "pais": "España",
+            "distancia": 7.3,
+            "desnivel": 0,
+            "velocidadMedia": 51.429
+        },
+        {
+            "etapa": 1,
+            "nombre": "Napolitano Danilo",
+            "pais": "Italia",
+            "distancia": 169.2,
+            "desnivel": 0,
+            "velocidadMedia": 37.358
+        },
+        {
+            "etapa": 2,
+            "nombre": "Steegmans Gert",
+            "pais": "Bélgica",
+            "distancia": 164.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.879
+        },
+        {
+            "etapa": 3,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "distancia": 162.5,
+            "desnivel": 0,
+            "velocidadMedia": 37.903
+        },
+        {
+            "etapa": 4,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "distancia": 165.8,
+            "desnivel": 0,
+            "velocidadMedia": 36.076
+        }
+    ]
+}

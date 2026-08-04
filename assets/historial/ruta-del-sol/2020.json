@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2020,
+    "distancia": 673.8,
+    "desnivel": 12076,
+    "tiempo": "17h 47' 58\"",
+    "ciclistasInscritos": 144,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Landa Mikel",
+            "pais": "España",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 1 min 18 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 1 min 45 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Bahrain - McLaren",
+            "ventaja": "+ 1 min 47 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "McNulty Brandon",
+            "pais": "Estados Unidos",
+            "equipo": "UAE Team Emirates",
+            "ventaja": "+ 3 min 8 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 3 min 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fernández Rubén",
+            "pais": "España",
+            "equipo": "Fundación - Orbea",
+            "ventaja": "+ 3 min 33 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vanhoucke Harm",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 4 min 12 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Fuglsang Jakob",
+        "pais": "Dinamarca",
+        "equipo": "Astana Pro Team"
+    },
+    "ganadorMontana": {
+        "nombre": "De Tier Floris",
+        "pais": "Bélgica",
+        "equipo": "Alpecin - Fenix"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Bahrain - McLaren",
+        "pais": "Baréin"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 173.8,
+            "desnivel": 3898,
+            "velocidadMedia": 37.09
+        },
+        {
+            "etapa": 2,
+            "nombre": "Serrano Gonzalo",
+            "pais": "España",
+            "distancia": 198.1,
+            "desnivel": 2437,
+            "velocidadMedia": 38.61
+        },
+        {
+            "etapa": 3,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "distancia": 176.9,
+            "desnivel": 3354,
+            "velocidadMedia": 38.82
+        },
+        {
+            "etapa": 4,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "distancia": 125.0,
+            "desnivel": 2387,
+            "velocidadMedia": 39.98
+        },
+        {
+            "etapa": 5,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.5855
+        }
+    ]
+}

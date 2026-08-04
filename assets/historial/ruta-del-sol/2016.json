@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2016,
+    "distancia": 530.4,
+    "desnivel": 0,
+    "tiempo": "17h 41' 10\"",
+    "ciclistasInscritos": 164,
+    "ciclistasFinalizados": 81,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Mollema Bauke",
+            "pais": "Países Bajos",
+            "equipo": "Trek - Segafredo",
+            "ventaja": "+ 52 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Kelderman Wilco",
+            "pais": "Países Bajos",
+            "equipo": "Team LottoNL-Jumbo",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Majka Rafał",
+            "pais": "Polonia",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 1 min 11 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Kreuziger Roman",
+            "pais": "República Checa",
+            "equipo": "Tinkoff",
+            "ventaja": "+ 1 min 37 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Poels Wout",
+            "pais": "Países Bajos",
+            "equipo": "Team Sky",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Bookwalter Brent",
+            "pais": "Estados Unidos",
+            "equipo": "BMC Racing Team",
+            "ventaja": "+ 2 min 3 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Navarro Daniel",
+            "pais": "España",
+            "equipo": "Cofidis, Solutions Crédits",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Nieve Mikel",
+            "pais": "España",
+            "equipo": "Team Sky",
+            "ventaja": "+ 2 min 45 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Swift Ben",
+        "pais": "Reino Unido",
+        "equipo": "Team Sky"
+    },
+    "ganadorMontana": {
+        "nombre": "Caruso Damiano",
+        "pais": "Italia",
+        "equipo": "BMC Racing Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " BMC Racing Team",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Bennati Daniele",
+            "pais": "Italia",
+            "distancia": 165.2,
+            "desnivel": 0,
+            "velocidadMedia": 41.99
+        },
+        {
+            "etapa": 2,
+            "nombre": "Bouhanni Nacer",
+            "pais": "Francia",
+            "distancia": 186.3,
+            "desnivel": 0,
+            "velocidadMedia": 39.99
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gatto Oscar",
+            "pais": "Italia",
+            "distancia": 157.9,
+            "desnivel": 0,
+            "velocidadMedia": 40.96
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Garderen Tejay",
+            "pais": "Estados Unidos",
+            "distancia": 21.0,
+            "desnivel": 0,
+            "velocidadMedia": 46.52
+        },
+        {
+            "etapa": 5,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.6582
+        }
+    ]
+}

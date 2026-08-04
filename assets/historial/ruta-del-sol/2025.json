@@ -1,0 +1,142 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2025,
+    "distancia": 820.3,
+    "desnivel": 10846,
+    "tiempo": "19h 41' 03\"",
+    "ciclistasInscritos": 115,
+    "ciclistasFinalizados": 74,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sivakov Pavel",
+            "pais": "Francia",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Berthet Clément",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 23 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pidcock Tom",
+            "pais": "Reino Unido",
+            "equipo": "Q36.5 Pro Cycling Team",
+            "ventaja": "+ 26 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Van Gils Maxim",
+            "pais": "Bélgica",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 59 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Cras Steff",
+            "pais": "Bélgica",
+            "equipo": "TotalEnergies",
+            "ventaja": "+ 1 min 42 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Soler Marc",
+            "pais": "España",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Staune-Mittet Johannes",
+            "pais": "Noruega",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 2 min 14 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Hoelgaard Markus",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 2 min 41 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Prodhomme Nicolas",
+            "pais": "Francia",
+            "equipo": "Decathlon AG2R La Mondiale Team",
+            "ventaja": "+ 3 min 2 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Van Gils Maxim",
+        "pais": "Bélgica",
+        "equipo": "Red Bull - BORA - hansgrohe"
+    },
+    "ganadorMontana": {
+        "nombre": "Silva Guillermo Thomas",
+        "pais": "Uruguay",
+        "equipo": "Caja Rural - Seguros RGA"
+    },
+    "ganadorJovenes": {
+        "nombre": "Van Hautegem Leander",
+        "pais": "Bélgica",
+        "equipo": "Wagner Bazin WB"
+    },
+    "ganadorEquipos": {
+        "nombre": " Decathlon AG2R La Mondiale Team",
+        "pais": "Francia"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Van Gils Maxim",
+            "pais": "Bélgica",
+            "distancia": 162.6,
+            "desnivel": 3121,
+            "velocidadMedia": 37.612
+        },
+        {
+            "etapa": 2,
+            "nombre": "Pidcock Tom",
+            "pais": "Reino Unido",
+            "distancia": 133.2,
+            "desnivel": 2462,
+            "velocidadMedia": 39.551
+        },
+        {
+            "etapa": 3,
+            "nombre": "Kristoff Alexander",
+            "pais": "Noruega",
+            "distancia": 162.1,
+            "desnivel": 1166,
+            "velocidadMedia": 42.007
+        },
+        {
+            "etapa": 4,
+            "nombre": "Uriarte Diego",
+            "pais": "España",
+            "distancia": 194.3,
+            "desnivel": 1494,
+            "velocidadMedia": 47.132
+        },
+        {
+            "etapa": 5,
+            "nombre": "Barrenetxea Jon",
+            "pais": "España",
+            "distancia": 168.1,
+            "desnivel": 2603,
+            "velocidadMedia": 42.819
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2019,
+    "distancia": 523.1,
+    "desnivel": 6875,
+    "tiempo": "17h 42' 00\"",
+    "ciclistasInscritos": 130,
+    "ciclistasFinalizados": 114,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Fuglsang Jakob",
+            "pais": "Dinamarca",
+            "equipo": "Astana Pro Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Izagirre Ion",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Kruijswijk Steven",
+            "pais": "Países Bajos",
+            "equipo": "Team Jumbo-Visma",
+            "ventaja": "+ 11 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Bilbao Pello",
+            "pais": "España",
+            "equipo": "Astana Pro Team",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Yates Adam",
+            "pais": "Reino Unido",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 57 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Haig Jack",
+            "pais": "Australia",
+            "equipo": "Mitchelton-Scott",
+            "ventaja": "+ 1 min 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Higuita Sergio",
+            "pais": "Colombia",
+            "equipo": "Fundación Euskadi",
+            "ventaja": "+ 1 min 12 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "Gazprom-RusVelo",
+            "ventaja": "+ 1 min 43 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "Lotto Soudal",
+            "ventaja": "+ 2 min 53 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Teuns Dylan",
+            "pais": "Bélgica",
+            "equipo": "Bahrain Merida",
+            "ventaja": "+ 3 min 41 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Wellens Tim",
+        "pais": "Bélgica",
+        "equipo": "Lotto Soudal"
+    },
+    "ganadorMontana": {
+        "nombre": "Yates Simon",
+        "pais": "Reino Unido",
+        "equipo": "Mitchelton-Scott"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "distancia": 170.5,
+            "desnivel": 2209,
+            "velocidadMedia": 38.721
+        },
+        {
+            "etapa": 2,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 216.5,
+            "desnivel": 1710,
+            "velocidadMedia": 36.544
+        },
+        {
+            "etapa": 3,
+            "nombre": null,
+            "pais": null,
+            "distancia": 16.2,
+            "desnivel": 345,
+            "velocidadMedia": 43.361
+        },
+        {
+            "etapa": 4,
+            "nombre": "Yates Simon",
+            "pais": "Reino Unido",
+            "distancia": 119.9,
+            "desnivel": 2611,
+            "velocidadMedia": 39.73
+        },
+        {
+            "etapa": 5,
+            "nombre": "Trentin Matteo",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.8136
+        }
+    ]
+}

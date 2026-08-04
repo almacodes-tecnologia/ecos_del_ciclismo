@@ -1,0 +1,127 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2011,
+    "distancia": 517.4,
+    "desnivel": 0,
+    "tiempo": "16h 27' 21\"",
+    "ciclistasInscritos": 119,
+    "ciclistasFinalizados": 109,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Irizar Markel",
+            "pais": "España",
+            "equipo": "RadioShack",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Van den Broeck Jurgen",
+            "pais": "Bélgica",
+            "equipo": "Omega Pharma-Lotto ",
+            "ventaja": "+ 1 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Leipheimer Levi",
+            "pais": "Estados Unidos",
+            "equipo": "RadioShack",
+            "ventaja": "+ 2 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Coppel Jérôme",
+            "pais": "Francia",
+            "equipo": "Saur - Sojasun",
+            "ventaja": "+ 3 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pasamontes Luis",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Löfkvist Thomas",
+            "pais": "Suecia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Urán Rigoberto",
+            "pais": "Colombia",
+            "equipo": "Sky Procycling",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Zubeldia Haimar",
+            "pais": "España",
+            "equipo": "RadioShack",
+            "ventaja": "+ 12 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Rovny Ivan",
+            "pais": "Rusia",
+            "equipo": "RadioShack",
+            "ventaja": "+ 18 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Engoulvent Jimmy",
+            "pais": "Francia",
+            "distancia": 6.8,
+            "desnivel": 0,
+            "velocidadMedia": 43.099
+        },
+        {
+            "etapa": 2,
+            "nombre": "Hivert Jonathan",
+            "pais": "Francia",
+            "distancia": 161.3,
+            "desnivel": 0,
+            "velocidadMedia": 37.164
+        },
+        {
+            "etapa": 3,
+            "nombre": "Ventoso Francisco José",
+            "pais": "España",
+            "distancia": 175.3,
+            "desnivel": 0,
+            "velocidadMedia": 40.163
+        },
+        {
+            "etapa": 4,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.513
+        },
+        {
+            "etapa": 5,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.3079
+        }
+    ]
+}

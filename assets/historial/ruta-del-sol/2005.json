@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2005,
+    "distancia": 642.5,
+    "desnivel": 0,
+    "tiempo": "20h 33' 25\"",
+    "ciclistasInscritos": 105,
+    "ciclistasFinalizados": 99,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Cabello Francisco",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Moreno Daniel",
+            "pais": "España",
+            "equipo": "Relax Fuenlabrada",
+            "ventaja": "+ 1 min 30 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Martínez José Luis",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "+ 2 min 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Reynés Vicente",
+            "pais": "España",
+            "equipo": "Illes Balears - Caisse d'Epargne",
+            "ventaja": "+ 2 min 45 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 3 min 0 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 3 min 16 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cañada David",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 3 min 33 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mosquera Ezequiel",
+            "pais": "España",
+            "equipo": "Kaiku",
+            "ventaja": "+ 4 min 1 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Castresana Ángel",
+            "pais": "España",
+            "equipo": "MrBookmaker.com - SportsTech",
+            "ventaja": "+ 4 min 23 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bru Jon",
+            "pais": "España",
+            "equipo": "Kaiku",
+            "ventaja": "+ 4 min 37 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Baguet Serge",
+        "pais": "Bélgica",
+        "equipo": "Davitamon - Lotto"
+    },
+    "ganadorMontana": {
+        "nombre": "Garate Juan Manuel",
+        "pais": "España",
+        "equipo": "Saunier Duval - Prodir"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Discovery Channel Pro Cycling Team ",
+        "pais": "Estados Unidos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "García Quesada Carlos",
+            "pais": "España",
+            "distancia": 150.5,
+            "desnivel": 0,
+            "velocidadMedia": 36.732
+        },
+        {
+            "etapa": 2,
+            "nombre": "Baguet Serge",
+            "pais": "Bélgica",
+            "distancia": 166.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.266
+        },
+        {
+            "etapa": 3,
+            "nombre": "Baguet Serge",
+            "pais": "Bélgica",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.023
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 47.0884
+        }
+    ]
+}

@@ -350,5 +350,29 @@
     "categoria": "UCI ProSeries1.Pro",
     "tipo": "Clásica",
     "imagen": "omloop_het_nieuwsblad.webp"
+  },
+    {
+    "id": "giro_de_emilia",
+    "nombre": "Giro de Emilia",
+    "pais": "Italia",
+    "categoria": "UCI ProSeries1.Pro",
+    "tipo": "Clásica",
+    "imagen": "giro_de_emilia.webp"
+  },
+    {
+    "id": "volta_ao_algarve",
+    "nombre": "Volta ao Algarve",
+    "pais": "Portugal",
+    "categoria": "UCI ProSeries1.Pro",
+    "tipo": "Carrera por etapas",
+    "imagen": "volta_ao_algarve.webp"
+  },
+    {
+    "id": "ruta_del_sol",
+    "nombre": "Ruta del Sol",
+    "pais": "España",
+    "categoria": "UCI ProSeries1.Pro",
+    "tipo": "Carrera por etapas",
+    "imagen": "ruta_del_sol.webp"
   }
 ]

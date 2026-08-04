@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2004,
+    "distancia": 694.0,
+    "desnivel": 0,
+    "tiempo": "22h 03' 57\"",
+    "ciclistasInscritos": 104,
+    "ciclistasFinalizados": 78,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Domínguez Juan Carlos",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "García Quesada Carlos",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Sánchez Samuel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Gómez Marchante José Ángel",
+            "pais": "España",
+            "equipo": "Costa de Almería - Paternina",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Osa Aitor",
+            "pais": "España",
+            "equipo": "Illes Balears - Banesto",
+            "ventaja": "+ 34 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Rodríguez Joaquim",
+            "pais": "España",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Landaluze Iñigo",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Dekker Erik",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Fernández David",
+            "pais": "España",
+            "equipo": "Costa de Almería - Paternina",
+            "ventaja": "+ 55 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pérez Santiago",
+            "pais": "España",
+            "equipo": "Phonak Hearing Systems",
+            "ventaja": "+ 56 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "van Heeswijk Max",
+        "pais": "Países Bajos",
+        "equipo": "US Postal Service p/b Berry Floor"
+    },
+    "ganadorMontana": {
+        "nombre": "Aldag Rolf",
+        "pais": "Alemania",
+        "equipo": "T-Mobile Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Euskaltel - Euskadi",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 181.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.32
+        },
+        {
+            "etapa": 2,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 185.0,
+            "desnivel": 0,
+            "velocidadMedia": 38.35
+        },
+        {
+            "etapa": 3,
+            "nombre": "Domínguez Juan Carlos",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.34
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 159.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.25
+        },
+        {
+            "etapa": 5,
+            "nombre": "Zabel Erik",
+            "pais": "Alemania",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.8807
+        }
+    ]
+}

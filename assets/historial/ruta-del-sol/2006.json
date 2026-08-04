@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2006,
+    "distancia": 827.0,
+    "desnivel": 0,
+    "tiempo": "20h 08' 23\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 84,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "García Quesada Carlos",
+            "pais": "España",
+            "equipo": "Unibet.com",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "García Rodrigo",
+            "pais": "España",
+            "equipo": "Kaiku",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "García Quesada Adolfo",
+            "pais": "España",
+            "equipo": "Andalucía - Paul Versán",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Isasi Iñaki",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pasamontes Luis",
+            "pais": "España",
+            "equipo": "Unibet.com",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Bonilla José Adrián",
+            "pais": "Costa Rica",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Zaugg Oliver",
+            "pais": "Suiza",
+            "equipo": "Saunier Duval - Prodir",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Lloret Manuel",
+            "pais": "España",
+            "equipo": "Comunidad Valenciana",
+            "ventaja": "+ 26 min 19 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Calvente Manuel",
+            "pais": "España",
+            "equipo": "Agritubel",
+            "ventaja": "+ 27 min 31 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Beltrán Manuel",
+            "pais": "España",
+            "equipo": "Discovery Channel Pro Cycling Team ",
+            "ventaja": "+ 27 min 35 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Team Milram"
+    },
+    "ganadorMontana": {
+        "nombre": "García Quesada Adolfo",
+        "pais": "España",
+        "equipo": "Andalucía - Paul Versán"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Unibet.com",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "García Quesada Adolfo",
+            "pais": "España",
+            "distancia": 161.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Lloret Manuel",
+            "pais": "España",
+            "distancia": 157.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.258
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 44.813
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 162.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.323
+        },
+        {
+            "etapa": 5,
+            "nombre": "Boonen Tom",
+            "pais": "Bélgica",
+            "distancia": 173.0,
+            "desnivel": 0,
+            "velocidadMedia": 45.098
+        }
+    ]
+}

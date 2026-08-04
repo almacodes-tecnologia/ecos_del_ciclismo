@@ -1,0 +1,146 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 1990,
+    "distancia": 907.3,
+    "desnivel": 0,
+    "tiempo": "23h 29' 39\"",
+    "ciclistasInscritos": 121,
+    "ciclistasFinalizados": 120,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Martínez Miguel Ángel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Lance Pascal",
+            "pais": "Francia",
+            "equipo": "",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Millar Robert",
+            "pais": "Reino Unido",
+            "equipo": "",
+            "ventaja": "+ 1 min 23 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Nulens Guy",
+            "pais": "Bélgica",
+            "equipo": "Panasonic - Sportlife",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Roosen Luc",
+            "pais": "Bélgica",
+            "equipo": "Histor - Sigma",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Pedersen Alex",
+            "pais": "Dinamarca",
+            "equipo": "O.N.C.E. - Look - Mavic",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Espinosa Francisco",
+            "pais": "España",
+            "equipo": "Seur",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Carlsen John",
+            "pais": "Dinamarca",
+            "equipo": "",
+            "ventaja": "+ 1 min 46 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "San Román Francisco Ignacio",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "+ 1 min 46 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Ludwig Olaf",
+        "pais": "Alemania",
+        "equipo": "Panasonic - Sportlife"
+    },
+    "ganadorMontana": {
+        "nombre": "Martínez Miguel Ángel",
+        "pais": "España",
+        "equipo": "O.N.C.E. - Look - Mavic"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " O.N.C.E. - Look - Mavic",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Ludwig Olaf",
+            "pais": "Alemania",
+            "distancia": 184.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Ludwig Olaf",
+            "pais": "Alemania",
+            "distancia": 164.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "Lance Pascal",
+            "pais": "Francia",
+            "distancia": 162.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Chozas Eduardo",
+            "pais": "España",
+            "distancia": 157.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ludwig Olaf",
+            "pais": "Alemania",
+            "distancia": 118.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 6,
+            "nombre": "Weltz Kenneth",
+            "pais": "Dinamarca",
+            "distancia": 120.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

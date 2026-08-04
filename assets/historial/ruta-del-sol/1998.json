@@ -1,0 +1,127 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 1998,
+    "distancia": 688.1,
+    "desnivel": 0,
+    "tiempo": "21h 39' 58\"",
+    "ciclistasInscritos": 26,
+    "ciclistasFinalizados": 121,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "García Marcelino",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Jalabert Laurent",
+            "pais": "Francia",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 5 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Etxebarria David",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Deutsche Bank",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Vandenbroucke Frank",
+            "pais": "Bélgica",
+            "equipo": "Mapei - Bricobi     ",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Cabello Francisco",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Salmerón Ginés",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Ekimov Viatcheslav",
+            "pais": "Rusia",
+            "equipo": "US Postal Service",
+            "ventaja": "+ 32 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Tchmil Andrei",
+            "pais": "Bélgica",
+            "equipo": "Lotto - Mobistar",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Mercado Juan Miguel",
+            "pais": "España",
+            "equipo": "Vitalicio Seguros",
+            "ventaja": "+ 36 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Bessy Frédéric",
+            "pais": "Francia",
+            "equipo": "Casino - AG2R",
+            "ventaja": "+ 36 s"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "McEwen Robbie",
+            "pais": "Australia",
+            "distancia": 157.8,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 214.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 3,
+            "nombre": "García Marcelino",
+            "pais": "España",
+            "distancia": 169.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "van Heeswijk Max",
+            "pais": "Países Bajos",
+            "distancia": 147.3,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Steels Tom",
+            "pais": "Bélgica",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

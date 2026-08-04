@@ -1,0 +1,131 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2008,
+    "distancia": 802.8,
+    "desnivel": 0,
+    "tiempo": "0h 00' 00\"",
+    "ciclistasInscritos": 0,
+    "ciclistasFinalizados": 72,
+    "clasificacionGeneral": [
+        {
+            "puesto": 2,
+            "nombre": "Lhotellerie Clement",
+            "pais": "Francia",
+            "equipo": "Skil - Shimano",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "equipo": "Silence - Lotto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Astarloza Mikel",
+            "pais": "España",
+            "equipo": "Euskaltel - Euskadi",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Garate Juan Manuel",
+            "pais": "España",
+            "equipo": "Quickstep - Innergetic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Losada Alberto",
+            "pais": "España",
+            "equipo": "Caisse d'Epargne",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Aerts Mario",
+            "pais": "Bélgica",
+            "equipo": "Silence - Lotto",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Mayoz Iban",
+            "pais": "España",
+            "equipo": "Karpin - Galicia",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Flecha Juan Antonio",
+            "pais": "España",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Tankink Bram",
+            "pais": "Países Bajos",
+            "equipo": "Rabobank ProTeam",
+            "ventaja": "0"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Petacchi Alessandro",
+        "pais": "Italia",
+        "equipo": "Milram"
+    },
+    "ganadorMontana": {
+        "nombre": "López José Antonio",
+        "pais": "España",
+        "equipo": "Andalucia-Caja Sur"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Caisse d'Epargne",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "López José Antonio",
+            "pais": "España",
+            "distancia": 123.4,
+            "desnivel": 0,
+            "velocidadMedia": 39.824
+        },
+        {
+            "etapa": 2,
+            "nombre": "Evans Cadel",
+            "pais": "Australia",
+            "distancia": 176.2,
+            "desnivel": 0,
+            "velocidadMedia": 36.728
+        },
+        {
+            "etapa": 3,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 174.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 4,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 173.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "Petacchi Alessandro",
+            "pais": "Italia",
+            "distancia": 155.2,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}

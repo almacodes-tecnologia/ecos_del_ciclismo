@@ -1,0 +1,25 @@
+{
+  "id": "ruta_del_sol",
+  "nombre": "Ruta del Sol",
+  "pais": "España",
+  "categoria": "ProSeries",
+  "tipo": "Carrera por etapas",
+  "descripcion": "La Ruta del Sol, oficialmente denominada Vuelta a Andalucía Ruta Ciclista del Sol, es una carrera por etapas disputada anualmente en Andalucía desde 1925. Es una de las pruebas más prestigiosas del calendario español y suele celebrarse en el mes de febrero, sirviendo de preparación para las grandes clásicas y vueltas por etapas de la temporada. Su recorrido combina etapas de montaña, media montaña y finales para velocistas, atravesando algunas de las carreteras más emblemáticas del sur de España.",
+  "anio_inicio": 1925,
+  "edicionesDisponibles": [
+    2026,
+    2025,
+    2024,
+    2023,
+    2022
+  ],
+  "imagenes": [
+    "assets/imagenes/ruta_del_sol.webp"
+  ],
+  "records": {
+    "primera_victoria": {
+      "valor": "1925",
+      "descripcion": "La primera edición de la Ruta del Sol se disputó en 1925, consolidándose con el paso de los años como una de las carreras por etapas más importantes del calendario español."
+    }
+  }
+}

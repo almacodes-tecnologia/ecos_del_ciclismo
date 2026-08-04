@@ -1,0 +1,142 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2026,
+    "distancia": 803.4,
+    "desnivel": 11568,
+    "tiempo": "18h 47' 10\"",
+    "ciclistasInscritos": 118,
+    "ciclistasFinalizados": 100,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Romeo Iván",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Leknessund Andreas",
+            "pais": "Noruega",
+            "equipo": "Uno-X Mobility",
+            "ventaja": "+ 7 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Pidcock Tom",
+            "pais": "Reino Unido",
+            "equipo": "Pinarello Q36.5 Pro Cycling Team",
+            "ventaja": "+ 27 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Christen Jan",
+            "pais": "Suiza",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Grégoire Romain",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ United",
+            "ventaja": "+ 44 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Aranburu Alex",
+            "pais": "España",
+            "equipo": "Cofidis",
+            "ventaja": "+ 51 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 54 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Braz Afonso Clément",
+            "pais": "Francia",
+            "equipo": "Groupama - FDJ United",
+            "ventaja": "+ 56 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wellens Tim",
+            "pais": "Bélgica",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 1 min 3 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Barrenetxea Jon",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 1 min 11 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Aranburu Alex",
+        "pais": "España",
+        "equipo": "Cofidis"
+    },
+    "ganadorMontana": {
+        "nombre": "Burnett Josh",
+        "pais": "Nueva Zelanda",
+        "equipo": "Burgos Burpellet BH"
+    },
+    "ganadorJovenes": {
+        "nombre": "Christen Jan",
+        "pais": "Suiza",
+        "equipo": "UAE Team Emirates - XRG"
+    },
+    "ganadorEquipos": {
+        "nombre": " Movistar Team",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Laporte Christophe",
+            "pais": "Francia",
+            "distancia": 150.1,
+            "desnivel": 2744,
+            "velocidadMedia": 41.957
+        },
+        {
+            "etapa": 2,
+            "nombre": "Romeo Iván",
+            "pais": "España",
+            "distancia": 138.6,
+            "desnivel": 2749,
+            "velocidadMedia": 40.135
+        },
+        {
+            "etapa": 3,
+            "nombre": "Fretin Milan",
+            "pais": "Bélgica",
+            "distancia": 180.9,
+            "desnivel": 2000,
+            "velocidadMedia": 43.206
+        },
+        {
+            "etapa": 4,
+            "nombre": "Crabbe Tom",
+            "pais": "Bélgica",
+            "distancia": 166.0,
+            "desnivel": 1795,
+            "velocidadMedia": 43.298
+        },
+        {
+            "etapa": 5,
+            "nombre": "Pidcock Tom",
+            "pais": "Reino Unido",
+            "distancia": 167.8,
+            "desnivel": 2280,
+            "velocidadMedia": 44.973
+        }
+    ]
+}

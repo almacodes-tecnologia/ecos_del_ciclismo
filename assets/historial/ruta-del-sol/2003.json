@@ -1,0 +1,138 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 2003,
+    "distancia": 685.2,
+    "desnivel": 0,
+    "tiempo": "21h 58' 34\"",
+    "ciclistasInscritos": 128,
+    "ciclistasFinalizados": 88,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Pascual Llorente Javier",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Rebellin Davide",
+            "pais": "Italia",
+            "equipo": "Gerolsteiner",
+            "ventaja": "+ 8 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Valverde Alejandro",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Caruso Giampaolo",
+            "pais": "Italia",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 9 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gutiérrez José Iván",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Paolini Luca",
+            "pais": "Italia",
+            "equipo": "Quickstep - Davitamon",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Cabello Francisco",
+            "pais": "España",
+            "equipo": "Kelme - Costa Blanca",
+            "ventaja": "+ 18 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Noè Andrea",
+            "pais": "Italia",
+            "equipo": "Alessio",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Zarrabeitia Mikel",
+            "pais": "España",
+            "equipo": "O.N.C.E. - Eroski",
+            "ventaja": "+ 21 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Pascual Rodríguez Javier",
+            "pais": "España",
+            "equipo": "iBanesto.com",
+            "ventaja": "+ 27 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Freire Óscar",
+        "pais": "España",
+        "equipo": "Rabobank ProTeam"
+    },
+    "ganadorMontana": {
+        "nombre": "Blanco Santiago",
+        "pais": "España",
+        "equipo": "Relax - Fuenlabrada"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Quickstep - Davitamon",
+        "pais": "Bélgica"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 179.6,
+            "desnivel": 0,
+            "velocidadMedia": 37.61
+        },
+        {
+            "etapa": 2,
+            "nombre": "Freire Óscar",
+            "pais": "España",
+            "distancia": 165.0,
+            "desnivel": 0,
+            "velocidadMedia": 40.44
+        },
+        {
+            "etapa": 3,
+            "nombre": "Pascual Llorente Javier",
+            "pais": "España",
+            "distancia": 166.6,
+            "desnivel": 0,
+            "velocidadMedia": 46.84
+        },
+        {
+            "etapa": 4,
+            "nombre": "Wielinga Remmert",
+            "pais": "Países Bajos",
+            "distancia": 174.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.05
+        },
+        {
+            "etapa": 5,
+            "nombre": "Ivanov Ruslan",
+            "pais": "Moldavia",
+            "distancia": 0.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.279
+        }
+    ]
+}

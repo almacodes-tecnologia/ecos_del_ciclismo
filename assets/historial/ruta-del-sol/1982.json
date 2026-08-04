@@ -1,0 +1,154 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 1982,
+    "distancia": 809.1,
+    "desnivel": 0,
+    "tiempo": "23h 08' 04\"",
+    "ciclistasInscritos": 64,
+    "ciclistasFinalizados": 56,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Sergeant Marc",
+            "pais": "Bélgica",
+            "equipo": "Boule d'Or - Sunair",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "equipo": "Reynolds - Galli",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Fernández Alberto",
+            "pais": "España",
+            "equipo": "Teka",
+            "ventaja": "+ 15 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Rupérez Faustino",
+            "pais": "España",
+            "equipo": "Zor - Gemeaz",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Pujol Juan",
+            "pais": "España",
+            "equipo": "Kelme",
+            "ventaja": "+ 1 min 54 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Van Calster Guido",
+            "pais": "Bélgica",
+            "equipo": "Del Tongo - Colnago",
+            "ventaja": "+ 10 min 28 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Wehrli Josef",
+            "pais": "Suiza",
+            "equipo": "Puch - Eorotex - Campagnolo",
+            "ventaja": "+ 10 min 35 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Herranz Eugenio",
+            "pais": "España",
+            "equipo": "Hueso Chocolates",
+            "ventaja": "+ 10 min 40 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "García Eulalio",
+            "pais": "España",
+            "equipo": "Reynolds - Galli",
+            "ventaja": "+ 28 min 1 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Murga Manuel Imanol",
+            "pais": "España",
+            "equipo": "Reynolds - Galli",
+            "ventaja": "+ 28 min 3 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Sergeant Marc",
+        "pais": "Bélgica",
+        "equipo": "Boule d'Or - Sunair"
+    },
+    "ganadorMontana": {
+        "nombre": "Maier Harald",
+        "pais": "Austria",
+        "equipo": "Puch - Eorotex - Campagnolo"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Reynolds - Galli",
+        "pais": "España"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Laguía José Luis",
+            "pais": "España",
+            "distancia": 16.5,
+            "desnivel": 0,
+            "velocidadMedia": 43.516
+        },
+        {
+            "etapa": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 123.0,
+            "desnivel": 0,
+            "velocidadMedia": 34.135
+        },
+        {
+            "etapa": 3,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 195.0,
+            "desnivel": 0,
+            "velocidadMedia": 29.847
+        },
+        {
+            "etapa": 4,
+            "nombre": "Sergeant Marc",
+            "pais": "Bélgica",
+            "distancia": 145.0,
+            "desnivel": 0,
+            "velocidadMedia": 33.784
+        },
+        {
+            "etapa": 5,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 182.0,
+            "desnivel": 0,
+            "velocidadMedia": 35.982
+        },
+        {
+            "etapa": 5,
+            "nombre": "Arroyo Angel",
+            "pais": "España",
+            "distancia": 4.6,
+            "desnivel": 0,
+            "velocidadMedia": 56.907
+        },
+        {
+            "etapa": 6,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 143.0,
+            "desnivel": 0,
+            "velocidadMedia": 37.984
+        }
+    ]
+}

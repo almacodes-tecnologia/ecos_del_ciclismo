@@ -1,0 +1,128 @@
+{
+    "idCarrera": "ruta-del-sol",
+    "anio": 1988,
+    "distancia": 827.5,
+    "desnivel": 0,
+    "tiempo": "0h 00' 00\"",
+    "ciclistasInscritos": 28,
+    "ciclistasFinalizados": 15,
+    "clasificacionGeneral": [
+        {
+            "puesto": 2,
+            "nombre": "Blanco Jesús",
+            "pais": "España",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Ducrot Maarten",
+            "pais": "Países Bajos",
+            "equipo": "Superconfex - Yoko - Opel",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 4,
+            "nombre": "van der Poel Adrie",
+            "pais": "Países Bajos",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Gelfi Luca",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Carrera José Enrique",
+            "pais": "España",
+            "equipo": "Reynolds",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 7,
+            "nombre": "da Silva Acácio",
+            "pais": "Portugal",
+            "equipo": "KAS - Canal 10 - Mavic",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Muller Jörg",
+            "pais": "Suiza",
+            "equipo": "PDM - Ultima - Concorde",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Wellens Léo",
+            "pais": "Bélgica",
+            "equipo": "",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "equipo": "",
+            "ventaja": "0"
+        }
+    ],
+    "ganadorPuntos": {},
+    "ganadorMontana": {},
+    "ganadorJovenes": {},
+    "ganadorEquipos": {},
+    "etapas": [
+        {
+            "etapa": null,
+            "nombre": "Van Hooydonck Edwig",
+            "pais": "Bélgica",
+            "distancia": 4.6,
+            "desnivel": 0,
+            "velocidadMedia": 50.334
+        },
+        {
+            "etapa": 1,
+            "nombre": "Dejonckheere Noël",
+            "pais": "Bélgica",
+            "distancia": 159.6,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 2,
+            "nombre": "Saronni Giuseppe",
+            "pais": "Italia",
+            "distancia": 164.0,
+            "desnivel": 0,
+            "velocidadMedia": 39.537
+        },
+        {
+            "etapa": 3,
+            "nombre": "Gutiérrez Alfonso",
+            "pais": "España",
+            "distancia": 193.0,
+            "desnivel": 0,
+            "velocidadMedia": 41.117
+        },
+        {
+            "etapa": 4,
+            "nombre": "Carrera José Enrique",
+            "pais": "España",
+            "distancia": 169.8,
+            "desnivel": 0,
+            "velocidadMedia": null
+        },
+        {
+            "etapa": 5,
+            "nombre": "van der Poel Adrie",
+            "pais": "Países Bajos",
+            "distancia": 136.5,
+            "desnivel": 0,
+            "velocidadMedia": null
+        }
+    ]
+}
