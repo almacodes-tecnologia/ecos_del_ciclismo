@@ -1,0 +1,479 @@
+{
+  "id": "monte_bartolo_desde_benicassim",
+  "nombre": "Monte Bartolo",
+  "punto_inicio": "Benicasim",
+  "categoria": "",
+  "vertiente": "desde Benicasim",
+  "pais": "España",
+  "region": "Castellón",
+  "zona": "Costa del Azahar.",
+  "coordenadas_inicio": {
+    "lat": 40.05439,
+    "lon": 0.0574
+  },
+  "coordenadas_final": {
+    "lat": 40.0854,
+    "lon": 0.03141
+  },
+  "longitud_km": 10.5,
+  "desnivel_m": 647,
+  "altura_maxima_m": 680,
+  "pendiente_media_porcentaje": 6.1,
+  "pendiente_maxima_porcentaje": 13.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "04/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 34
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 35
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 36
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 37
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 39
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 42
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 44
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 48
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 52
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 56
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 60
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 65
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 69
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 74
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 78
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 83
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 88
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 92
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 97
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 103
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 108
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 114
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 121
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 128
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 135
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 143
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 151
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 159
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 168
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 176
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 183
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 190
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 196
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 202
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 208
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 214
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 220
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 226
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 232
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 237
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 243
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 250
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 258
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 265
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 272
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 278
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 283
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 288
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 293
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 297
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 302
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 306
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 311
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 316
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 322
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 329
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 337
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 346
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 355
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 363
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 370
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 373
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 374
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 371
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 367
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 363
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 360
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 360
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 362
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 368
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 374
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 381
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 388
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 396
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 403
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 412
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 421
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 429
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 437
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 444
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 450
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 457
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 464
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 474
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 486
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 499
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 513
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 526
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 538
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 548
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 559
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 569
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 581
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 594
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 607
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 620
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 631
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 641
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 650
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 657
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 662
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 667
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 670
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 674
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 676
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 680
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 8.45,
+      "pendiente_porcentaje": 13.4,
+      "altitud": 495,
+      "nombre": "Rampa 13.4%"
+    },
+    {
+      "kilometro": 8.55,
+      "pendiente_porcentaje": 13.7,
+      "altitud": 505,
+      "nombre": "Rampa 13.7%"
+    },
+    {
+      "kilometro": 9.55,
+      "pendiente_porcentaje": 11.8,
+      "altitud": 622,
+      "nombre": "Rampa 11.8%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "monte-bartolo-desde-benicassim.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
