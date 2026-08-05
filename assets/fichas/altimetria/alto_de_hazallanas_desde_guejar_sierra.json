@@ -1,5 +1,5 @@
 {
-  "id": "alto_de_hazallanas_desde_guejar_sierra",
+  "id": "alto_de_hazallanas-desde-guejar-sierra",
   "nombre": "Alto de Hazallanas",
   "punto_inicio": "Güejar Sierra",
   "categoria": "",
@@ -15,15 +15,18 @@
     "lat": 37.13323,
     "lon": -3.43307
   },
-  "longitud_km": 10.05,
+  "longitud_km": 10.04,
   "desnivel_m": 700,
   "altura_maxima_m": 1667,
   "pendiente_media_porcentaje": 7.0,
   "pendiente_maxima_porcentaje": 15.3,
   "superficie": "asfalto",
-  "tags": [],
+  "tags": [
+    "vuelta a españa",
+    "puerto duro"
+  ],
   "ultima_revision": "05/08/2026",
-  "descripcion": "",
+  "descripcion": "Ascensión al Alto de Hazallanas desde el núcleo de Güejar Sierra, caracterizada por tramos muy explosivos en su primera mitad y una sección final más constante hasta la cota de 1667 metros.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -471,5 +474,5 @@
     "referencia": "alto-de-hazallanas-desde-guejar-sierra-climbfinder.gpx"
   },
   "interpolado": false,
-  "version_json": ""
+  "version_json": "1.1"
 }
