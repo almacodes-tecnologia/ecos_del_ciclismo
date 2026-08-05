@@ -8,22 +8,22 @@
   "region": "Granada",
   "zona": "Sierra Nevada",
   "coordenadas_inicio": {
-    "lat": 37.15414,
-    "lon": -3.43437
+    "lat": 37.154471,
+    "lon": -3.43449
   },
   "coordenadas_final": {
-    "lat": 37.13323,
-    "lon": -3.43307
+    "lat": 37.13321,
+    "lon": -3.433101
   },
-  "longitud_km": 10.04,
-  "desnivel_m": 700,
-  "altura_maxima_m": 1667,
-  "pendiente_media_porcentaje": 7.0,
-  "pendiente_maxima_porcentaje": 15.3,
+  "longitud_km": 7.3,
+  "desnivel_m": 692,
+  "altura_maxima_m": 1663,
+  "pendiente_media_porcentaje": 9.5,
+  "pendiente_maxima_porcentaje": 14.3,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "05/08/2026",
-  "descripcion": "",
+  "descripcion": "El Alto de Hazallanas es una de las ascensiones más exigentes y emblemáticas de Sierra Nevada. Su carretera, estrecha y repleta de curvas, se adentra en un espectacular entorno de montaña con amplias vistas sobre el valle del Genil. La dureza de sus rampas y el aislamiento del recorrido lo han convertido en un puerto muy respetado entre los aficionados al ciclismo.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -332,7 +332,7 @@
   ],
   "fuente": {
     "tipo": "gpx",
-    "referencia": "alto-de-hazallanas-desde-guejar-sierra-climbfinder.gpx"
+    "referencia": "es_complicado.gpx"
   },
   "interpolado": false,
   "version_json": ""
