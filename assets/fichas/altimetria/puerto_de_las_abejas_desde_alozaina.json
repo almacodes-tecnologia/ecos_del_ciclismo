@@ -1,0 +1,479 @@
+{
+  "id": "puerto_de_las_abejas_desde_alozaina",
+  "nombre": "Las Abejas",
+  "punto_inicio": "Alozaina",
+  "categoria": "",
+  "vertiente": "desde Alozaina",
+  "pais": "España",
+  "region": "Málaga",
+  "zona": "Costa del Sol",
+  "coordenadas_inicio": {
+    "lat": 36.72932,
+    "lon": -4.86511
+  },
+  "coordenadas_final": {
+    "lat": 36.74626,
+    "lon": -4.92808
+  },
+  "longitud_km": 10.45,
+  "desnivel_m": 438,
+  "altura_maxima_m": 820,
+  "pendiente_media_porcentaje": 4.1,
+  "pendiente_maxima_porcentaje": 9.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "05/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 384
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 385
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 386
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 388
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 391
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 394
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 397
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 401
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 406
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 412
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 420
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 429
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 439
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 449
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 458
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 465
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 470
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 474
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 476
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 479
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 484
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 491
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 500
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 508
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 517
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 526
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 534
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 542
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 549
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 554
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 558
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 562
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 564
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 564
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 564
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 561
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 556
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 551
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 546
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 542
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 540
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 540
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 541
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 543
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 546
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 548
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 551
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 554
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 557
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 561
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 565
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 571
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 578
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 584
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 589
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 593
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 595
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 597
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 600
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 603
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 605
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 608
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 611
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 613
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 616
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 618
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 621
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 624
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 628
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 633
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 639
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 645
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 651
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 657
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 661
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 666
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 670
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 675
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 679
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 684
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 688
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 692
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 696
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 700
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 704
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 709
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 713
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 718
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 723
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 728
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 733
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 737
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 742
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 747
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 754
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 760
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 767
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 773
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 779
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 786
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 794
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 800
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 807
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 812
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 816
+    },
+    {
+      "kilometro": 10.45,
+      "altitud": 820
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.25,
+      "pendiente_porcentaje": 9.9,
+      "altitud": 444,
+      "nombre": "Rampa 9.9%"
+    },
+    {
+      "kilometro": 2.35,
+      "pendiente_porcentaje": 8.9,
+      "altitud": 512,
+      "nombre": "Rampa 8.9%"
+    },
+    {
+      "kilometro": 2.55,
+      "pendiente_porcentaje": 8.4,
+      "altitud": 530,
+      "nombre": "Rampa 8.4%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-de-las-abejas-desde-alozaina-climbfinder.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
