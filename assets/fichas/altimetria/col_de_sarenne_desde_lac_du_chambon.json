@@ -1,0 +1,571 @@
+{
+  "id": "col_de_sarenne_desde_lac_du_chambon",
+  "nombre": "Col de Sarenne",
+  "punto_inicio": "Lac du Chambon",
+  "categoria": "",
+  "vertiente": "desde Lac du Chambon",
+  "pais": "Francia",
+  "region": "Isère",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 45.04758,
+    "lon": 6.14111
+  },
+  "coordenadas_final": {
+    "lat": 45.08748,
+    "lon": 6.14906
+  },
+  "longitud_km": 12.9,
+  "desnivel_m": 944,
+  "altura_maxima_m": 1993,
+  "pendiente_media_porcentaje": 7.3,
+  "pendiente_maxima_porcentaje": 13.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "05/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 1050
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1055
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1070
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1081
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1093
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1107
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1121
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1134
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1146
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1157
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1166
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1179
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1183
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1185
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1186
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1189
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1191
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1195
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1201
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1210
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1220
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1232
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1244
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1256
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1267
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1277
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1286
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1293
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1301
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1309
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1318
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1328
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1338
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1347
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1355
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1362
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1367
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1372
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1377
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1381
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1386
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1390
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1393
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1396
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1397
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1397
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1397
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1397
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1398
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1400
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1403
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1407
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1412
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1418
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1425
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1434
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1443
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1452
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1461
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1469
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1476
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1483
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1490
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1497
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1504
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1512
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1520
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1529
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1538
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1546
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1554
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1561
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1567
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1573
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1580
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1588
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1596
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1603
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1610
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1616
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1621
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1627
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1634
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1643
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1653
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1664
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1675
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1686
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1696
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1705
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1714
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1723
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1732
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1743
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1753
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1763
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1773
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1783
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1794
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1803
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1813
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1823
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1832
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1842
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1851
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1861
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1872
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1883
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1895
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1908
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1919
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1930
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1940
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1950
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1960
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1969
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1977
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1983
+    },
+    {
+      "kilometro": 12.6,
+      "altitud": 1987
+    },
+    {
+      "kilometro": 12.7,
+      "altitud": 1989
+    },
+    {
+      "kilometro": 12.8,
+      "altitud": 1993
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 0.75,
+      "pendiente_porcentaje": 13.8,
+      "altitud": 1114,
+      "nombre": "Rampa 13.8%"
+    },
+    {
+      "kilometro": 2.95,
+      "pendiente_porcentaje": 12.3,
+      "altitud": 1238,
+      "nombre": "Rampa 12.3%"
+    },
+    {
+      "kilometro": 11.65,
+      "pendiente_porcentaje": 12.3,
+      "altitud": 1901,
+      "nombre": "Rampa 12.3%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "col-de-sarenne-desde-lac-du-chambon-climbfinder.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

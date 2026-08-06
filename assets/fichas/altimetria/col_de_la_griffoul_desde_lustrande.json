@@ -1,0 +1,329 @@
+{
+  "id": "col_de_la_griffoul_desde_lustrande",
+  "nombre": "La Griffoul",
+  "punto_inicio": "Lustrande",
+  "categoria": "",
+  "vertiente": "desde Lustrande",
+  "pais": "Francia",
+  "region": "Auvernia-Ródano-Alpes",
+  "zona": "Alpes",
+  "coordenadas_inicio": {
+    "lat": 45.01088,
+    "lon": 2.78107
+  },
+  "coordenadas_final": {
+    "lat": 45.02585,
+    "lon": 2.82133
+  },
+  "longitud_km": 6.9,
+  "desnivel_m": 427,
+  "altura_maxima_m": 1362,
+  "pendiente_media_porcentaje": 6.2,
+  "pendiente_maxima_porcentaje": 13.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "05/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 938
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 939
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 941
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 944
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 947
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 951
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 956
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 960
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 965
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 970
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 976
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 982
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 989
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 996
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1003
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1009
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1016
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1023
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1029
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1036
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1044
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1063
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1075
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1103
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1115
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1126
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1135
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1142
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1149
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1155
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1159
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1162
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1163
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1165
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1167
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1172
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1179
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1188
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1197
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1207
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1215
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1224
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1233
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1242
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1251
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1259
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1268
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1275
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1282
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1288
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1295
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1301
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1307
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1313
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1318
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1324
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1328
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1332
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1335
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1338
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1341
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1345
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1349
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1353
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1356
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1359
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1362
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 2.45,
+      "pendiente_porcentaje": 13.7,
+      "altitud": 1094,
+      "nombre": "Rampa 13.7%"
+    },
+    {
+      "kilometro": 2.55,
+      "pendiente_porcentaje": 12.7,
+      "altitud": 1105,
+      "nombre": "Rampa 12.7%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "col-de-la-griffoul-desde-lustrande-climbfinder.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

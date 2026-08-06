@@ -60,6 +60,36 @@
   "superficie": "asfalto"
 },
 {
+  "id": "col_de_la_croisette_desde_archamps",
+  "nombre": "Col de La Croisette",
+  "vertiente": "desde Archamps",
+  "pais": "Francia",
+  "region": "Alta Saboya",
+  "zona": "Alpes",
+  "longitud_km": 7.7,
+  "desnivel_m": 656,
+  "pendiente_media_porcentaje": 8.6,
+  "pendiente_maxima_porcentaje": 15.3,
+  "altura_maxima_m": 1164,
+  "categoria": "",
+  "superficie": "asfalto"
+},
+{
+  "id": "ballon_d_alsace_desde_saint_maurice_sur_moselle",
+  "nombre": "Ballon d'Alsace",
+  "vertiente": "desde Saint Maurice",
+  "pais": "Francia",
+  "region": "Alsacia",
+  "zona": "Vosgos",
+  "longitud_km": 9.0,
+  "desnivel_m": 604,
+  "pendiente_media_porcentaje": 6.7,
+  "pendiente_maxima_porcentaje": 14.1,
+  "altura_maxima_m": 1163,
+  "categoria": "",
+  "superficie": "asfalto"
+},
+{
   "id": "puerto_de_penas_blancas_desde_estepona",
   "nombre": "Peñas Blancas",
   "vertiente": "desde Estepona",
@@ -72,6 +102,21 @@
   "pendiente_maxima_porcentaje": 15.2,
   "altura_maxima_m": 970,
   "categoria": "B",
+  "superficie": "asfalto"
+},
+{
+  "id": "col_de_la_croix_de_fer_desde_barrage_du_verney",
+  "nombre": "La Croix de Fer",
+  "vertiente": "desde Barrage du Verney",
+  "pais": "Francia",
+  "region": "Grenoble",
+  "zona": "Alpes",
+  "longitud_km": 24.2,
+  "desnivel_m": 1240,
+  "pendiente_media_porcentaje": 5.2,
+  "pendiente_maxima_porcentaje": 14.5,
+  "altura_maxima_m": 2051,
+  "categoria": "",
   "superficie": "asfalto"
 },
 {
@@ -135,6 +180,36 @@
   "superficie": "asfalto"
 },
 {
+  "id": "col_de_sarenne_desde_lac_du_chambon",
+  "nombre": "Col de Sarenne",
+  "vertiente": "desde Lac du Chambon",
+  "pais": "Francia",
+  "region": "Isère",
+  "zona": "",
+  "longitud_km": 12.9,
+  "desnivel_m": 944,
+  "pendiente_media_porcentaje": 7.3,
+  "pendiente_maxima_porcentaje": 13.8,
+  "altura_maxima_m": 1993,
+  "categoria": "",
+  "superficie": "asfalto"
+},
+{
+  "id": "col_de_la_griffoul_desde_lustrande",
+  "nombre": "La Griffoul",
+  "vertiente": "desde Lustrande",
+  "pais": "Francia",
+  "region": "Auvernia-Ródano-Alpes",
+  "zona": "Alpes",
+  "longitud_km": 6.9,
+  "desnivel_m": 427,
+  "pendiente_media_porcentaje": 6.2,
+  "pendiente_maxima_porcentaje": 13.7,
+  "altura_maxima_m": 1362,
+  "categoria": "",
+  "superficie": "asfalto"
+},
+{
   "id": "fuentes_de_rubielos_desde_olba",
   "nombre": "Fuentes de Rubielos",
   "vertiente": "desde Olba",
@@ -162,6 +237,21 @@
   "pendiente_maxima_porcentaje": 9.3,
   "altura_maxima_m": 430,
   "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "col_de_tentes_desde_luz_saint_sauveur_por_cirque_de_gavarnie",
+  "nombre": "Col de Tentes",
+  "vertiente": "por Cirque de Gavarnie",
+  "pais": "Francia",
+  "region": "Hautes-Pyrénées",
+  "zona": "Pirineos",
+  "longitud_km": 29.4,
+  "desnivel_m": 1510,
+  "pendiente_media_porcentaje": 5.1,
+  "pendiente_maxima_porcentaje": 12.7,
+  "altura_maxima_m": 2201,
+  "categoria": "",
   "superficie": "asfalto"
 },
 {
