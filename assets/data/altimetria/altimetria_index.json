@@ -60,6 +60,21 @@
   "superficie": "asfalto"
 },
 {
+  "id": "port_d_envalira_desde_andorra_la_vella",
+  "nombre": "Envalira",
+  "vertiente": "desde Andorra La Vella",
+  "pais": "Andorra",
+  "region": "Andorra",
+  "zona": "Pirineos",
+  "longitud_km": 25.2,
+  "desnivel_m": 1290,
+ "pendiente_media_porcentaje": 5.1,
+  "pendiente_maxima_porcentaje": 10.6,
+  "altura_maxima_m": 2408,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+{
   "id": "col_de_la_croisette_desde_archamps",
   "nombre": "La Croisette",
   "vertiente": "desde Archamps",
@@ -720,6 +735,36 @@
   "longitud_km": 8.6,
   "desnivel_m": 759
   },
+    {
+  "id": "collada_de_beixalis_desde_el_forn_encamps",
+  "nombre": "Collada de Beixalis",
+  "vertiente": "desde el Forn Encamps",
+  "pais": "Andorra",
+  "region": "Andorra",
+  "zona": "Pirineos",
+  "longitud_km": 6.5,
+  "desnivel_m": 569,
+  "pendiente_media_porcentaje": 8.6,
+  "pendiente_maxima_porcentaje": 16.5,
+  "altura_maxima_m": 1808,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+  {
+  "id": "la_comella_desde_andorra_la_vella",
+  "nombre": "La Comella",
+  "vertiente": "desde Andorra La Vella",
+  "pais": "Andorra",
+  "region": "Andorra",
+  "zona": "Pirineos",
+  "longitud_km": 4.3,
+  "desnivel_m": 350,
+  "pendiente_media_porcentaje": 8.1,
+  "pendiente_maxima_porcentaje": 12.1,
+  "altura_maxima_m": 1347,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
     {
   "id": "picon_del_fraile_por_san_roque",
   "nombre": "Picón del Fraile",

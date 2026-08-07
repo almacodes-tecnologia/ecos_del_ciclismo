@@ -1,12 +1,12 @@
 {
   "id": "collada_de_beixalis_desde_el_forn_encamps",
-  "nombre": "collada-de-beixalis-desde-el-forn-encamps",
-  "punto_inicio": "",
-  "categoria": "",
-  "vertiente": "",
+  "nombre": "Collada de Beixalis",
+  "punto_inicio": "El Forn d'Encamp",
+  "categoria": "B",
+  "vertiente": "desde el Forn Encamps",
   "pais": "Andorra",
-  "region": "",
-  "zona": "",
+  "region": "Andorra",
+  "zona": "Pirineos",
   "coordenadas_inicio": {
     "lat": 42.53364,
     "lon": 1.57346
@@ -16,14 +16,14 @@
     "lon": 1.5481
   },
   "longitud_km": 6.5,
-  "desnivel_m": 559,
+  "desnivel_m": 569,
   "altura_maxima_m": 1808,
   "pendiente_media_porcentaje": 8.6,
-  "pendiente_maxima_porcentaje": 18.7,
+  "pendiente_maxima_porcentaje": 16.5,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "07/08/2026",
-  "descripcion": "",
+  "descripcion": "La Collada de Beixalis es una de las ascensiones más exigentes de Andorra en relación con su corta longitud. La carretera asciende desde Encamp por una sucesión de rampas pronunciadas hasta alcanzar la collada, atravesando un paisaje de montaña que ofrece buenas vistas sobre los valles andorranos. Ha sido escenario de etapas de La Vuelta y del Tour de Francia, lo que ha contribuido a convertirla en una de las subidas más conocidas del ciclismo andorrano.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -283,11 +283,11 @@
     },
     {
       "kilometro": 6.4,
-      "altitud": 1803
+      "altitud": 1804
     },
     {
       "kilometro": 6.5,
-      "altitud": 1806
+      "altitud": 1808
     }
   ],
   "puntos_clave": [
