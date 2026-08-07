@@ -1,12 +1,12 @@
 {
   "id": "rigi_desde_goldau",
-  "nombre": "rigi-desde-goldau",
-  "punto_inicio": "",
-  "categoria": "",
-  "vertiente": "",
+  "nombre": "Rigi",
+  "punto_inicio": "Goldau",
+  "categoria": "A",
+  "vertiente": "desde Goldau",
   "pais": "Suiza",
-  "region": "",
-  "zona": "",
+  "region": "Schwyz",
+  "zona": "Alpes",
   "coordenadas_inicio": {
     "lat": 47.04167,
     "lon": 8.55449
@@ -16,14 +16,14 @@
     "lon": 8.48546
   },
   "longitud_km": 11.61,
-  "desnivel_m": 1191,
-  "altura_maxima_m": 1760,
+  "desnivel_m": 1245,
+  "altura_maxima_m": 1794,
   "pendiente_media_porcentaje": 10.3,
   "pendiente_maxima_porcentaje": 21.3,
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "07/08/2026",
-  "descripcion": "",
+  "descripcion": "Rigi es una de las montañas más conocidas de Suiza y un destacado destino ciclista de la región. La ascensión desde Goldau discurre por las laderas del macizo del Rigi, con pendientes exigentes y un entorno alpino cada vez más abierto a medida que se gana altura. La recompensa es la llegada a las proximidades de Rigi Kulm, desde donde se disfruta de unas espectaculares vistas sobre los lagos y las montañas del centro de Suiza.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -376,30 +376,6 @@
     }
   ],
   "puntos_clave": [
-    {
-      "kilometro": 1.75,
-      "pendiente_porcentaje": 15.3,
-      "altitud": 745,
-      "nombre": "Rampa 15.3%"
-    },
-    {
-      "kilometro": 9.25,
-      "pendiente_porcentaje": 17.7,
-      "altitud": 1437,
-      "nombre": "Rampa 17.7%"
-    },
-    {
-      "kilometro": 9.75,
-      "pendiente_porcentaje": 17.8,
-      "altitud": 1526,
-      "nombre": "Rampa 17.8%"
-    },
-    {
-      "kilometro": 10.95,
-      "pendiente_porcentaje": 17.5,
-      "altitud": 1682,
-      "nombre": "Rampa 17.5%"
-    }
   ],
   "fuente": {
     "tipo": "gpx",

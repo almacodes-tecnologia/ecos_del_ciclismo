@@ -1,12 +1,12 @@
 {
   "id": "klausenpass_desde_burglen",
-  "nombre": "klausenpass-desde-burglen",
-  "punto_inicio": "",
-  "categoria": "",
-  "vertiente": "",
-  "pais": "España",
-  "region": "",
-  "zona": "",
+  "nombre": "Klausenpass",
+  "punto_inicio": "Burglen",
+  "categoria": "A",
+  "vertiente": "desde Burglen",
+  "pais": "Suiza",
+  "region": "Cantón de Uri",
+  "zona": "Alpes",
   "coordenadas_inicio": {
     "lat": 46.875123,
     "lon": 8.65067
@@ -23,7 +23,7 @@
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "07/08/2026",
-  "descripcion": "",
+  "descripcion": "El Klausenpass es uno de los grandes puertos alpinos de Suiza y une los cantones de Uri y Glaris. La ascensión desde Bürglen atraviesa un espectacular paisaje de montaña, con praderas alpinas, paredes rocosas y curvas que ganan altura progresivamente hasta alcanzar el histórico puerto. Su longitud, desnivel y entorno alpino lo convierten en una de las ascensiones más destacadas del país.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -979,11 +979,11 @@
     },
     {
       "kilometro": 23.8,
-      "altitud": 1941
+      "altitud": 1943
     },
     {
       "kilometro": 23.9,
-      "altitud": 1945
+      "altitud": 1949
     }
   ],
   "puntos_clave": [],
