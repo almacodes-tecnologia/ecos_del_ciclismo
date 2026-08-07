@@ -120,6 +120,21 @@
   "superficie": "asfalto"
 },
 {
+  "id": "orcieres_merlette_1850",
+  "nombre": "Orcières-Merlette 1850",
+  "vertiente": "",
+  "pais": "Francia",
+  "region": "",
+  "zona": "",
+  "longitud_km": 15.3,
+  "desnivel_m": 671,
+  "pendiente_media_porcentaje": 4.5,
+  "pendiente_maxima_porcentaje": 11.0,
+  "altura_maxima_m": 1816,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+{
   "id": "valdelinares_desde_la_virgen_de_la_vega",
   "nombre": "Valdelinares",
   "vertiente": "desde La Virgen de la Vega",
@@ -132,6 +147,21 @@
   "pendiente_maxima_porcentaje": 11.0,
   "altura_maxima_m": 1970,
   "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "col_du_grand_ballon_desde_cernay",
+  "nombre": "Grand Ballon",
+  "vertiente": "desde Cernay",
+  "pais": "Francia",
+  "region": "Alto Rin",
+  "zona": "Vosgos",
+  "longitud_km": 26.6,
+  "desnivel_m": 1043,
+  "pendiente_media_porcentaje": 4.1,
+  "pendiente_maxima_porcentaje": 11.4,
+  "altura_maxima_m": 1333,
+  "categoria": "B",
   "superficie": "asfalto"
 },
 {
@@ -161,6 +191,21 @@
   "pendiente_media_porcentaje": 9.2,
   "pendiente_maxima_porcentaje": 16.1,
   "altura_maxima_m": 714,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+{
+  "id": "plateau_de_solaison_desde_thuet",
+  "nombre": "Plateau de Solaison",
+  "vertiente": "desde Thuet",
+  "pais": "Francia",
+  "region": "Alta Saboya",
+  "zona": "",
+  "longitud_km": 11.7,
+  "desnivel_m": 1038,
+  "pendiente_media_porcentaje": 8.8,
+  "pendiente_maxima_porcentaje": 12.7,
+  "altura_maxima_m": 1510,
   "categoria": "B",
   "superficie": "asfalto"
 },
@@ -300,6 +345,21 @@
   "superficie": "asfalto"
 },
 {
+  "id": "col_du_pertus_desde_mandailles",
+  "nombre": "Col du Pertus",
+  "vertiente": "desde Mandailles",
+  "pais": "Francia",
+  "region": "Auvergne-Rhône-Alpes",
+  "zona": "Macizo Central",
+  "longitud_km": 4.45,
+  "desnivel_m": 333,
+  "pendiente_media_porcentaje": 7.5,
+  "pendiente_maxima_porcentaje": 15.3,
+  "altura_maxima_m": 1293,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+{
   "id": "monte_bartolo_desde_benicassim",
   "nombre": "Monte Bartolo",
   "vertiente": "desde Benicasim",
@@ -312,6 +372,21 @@
   "pendiente_maxima_porcentaje": 13.7,
   "altura_maxima_m": 680,
   "categoria": "",
+  "superficie": "asfalto"
+},
+{
+  "id": "pas_de_peyrol_puy_mary_desde_dienne",
+  "nombre": "Pas de Peyrol",
+  "vertiente": "desde Dienne",
+  "pais": "Francia",
+  "region": "Auvergne-Rhône-Alpes",
+  "zona": "Macizo Central",
+  "longitud_km": 10.9,
+  "desnivel_m": 527,
+  "pendiente_media_porcentaje": 4.8,
+  "pendiente_maxima_porcentaje": 13.9,
+  "altura_maxima_m": 1591,
+  "categoria": "C",
   "superficie": "asfalto"
 },
 {

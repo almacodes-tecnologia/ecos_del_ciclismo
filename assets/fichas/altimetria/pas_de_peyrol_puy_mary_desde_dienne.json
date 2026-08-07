@@ -1,0 +1,501 @@
+{
+  "id": "pas_de_peyrol_puy_mary_desde_dienne",
+  "nombre": "Pas de Peyrol",
+  "punto_inicio": "Dienne",
+  "categoria": "C",
+  "vertiente": "desde Dienne",
+  "pais": "Francia",
+  "region": "Auvergne-Rhône-Alpes",
+  "zona": "Macizo Central",
+  "coordenadas_inicio": {
+    "lat": 45.15118,
+    "lon": 2.77614
+  },
+  "coordenadas_final": {
+    "lat": 45.11408,
+    "lon": 2.67189
+  },
+  "longitud_km": 10.9,
+  "desnivel_m": 527,
+  "altura_maxima_m": 1591,
+  "pendiente_media_porcentaje": 4.8,
+  "pendiente_maxima_porcentaje": 13.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "05/08/2026",
+  "descripcion": "El Pas de Peyrol, conocido también como Puy Mary, es el puerto de carretera más alto del Macizo Central y una de las ascensiones más emblemáticas del Cantal. La subida desde Dienne atraviesa el espectacular paisaje volcánico de las montañas del Cantal y culmina bajo el Puy Mary, rodeada de amplias panorámicas de las cumbres y valles de la región. Un puerto de gran belleza y con una importante presencia histórica en el Tour de Francia.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 1065
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1066
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1067
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1069
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1071
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1072
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1073
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1074
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1074
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1075
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1076
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1078
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1080
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1082
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1085
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1093
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1096
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1099
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1101
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1102
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1104
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1106
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1108
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1110
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1111
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1113
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1114
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1115
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1117
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1120
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1130
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1136
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1142
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1148
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1154
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1160
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1167
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1180
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1186
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1192
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1197
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1203
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1208
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1214
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1219
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1224
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1229
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1234
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1238
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1244
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1249
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1255
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1261
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1265
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1270
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1274
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1280
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1287
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1295
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1304
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1312
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1319
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1325
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1329
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1331
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1333
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1334
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1336
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1339
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1344
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1349
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1354
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1358
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1361
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1363
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1364
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1366
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1368
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1370
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1373
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1376
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1381
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1387
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1393
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1401
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1408
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1417
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1426
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1437
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1450
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1463
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1476
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1488
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1499
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1509
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1518
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1527
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1534
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1542
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1551
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1561
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1571
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1579
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1585
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1588
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1591
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 6.25,
+      "pendiente_porcentaje": 8.8,
+      "altitud": 1300,
+      "nombre": "Rampa 8.8%"
+    },
+    {
+      "kilometro": 9.35,
+      "pendiente_porcentaje": 13.0,
+      "altitud": 1456,
+      "nombre": "Rampa 13.0%"
+    },
+    {
+      "kilometro": 9.55,
+      "pendiente_porcentaje": 12.2,
+      "altitud": 1480,
+      "nombre": "Rampa 12.2%"
+    },
+    {
+      "kilometro": 10.55,
+      "pendiente_porcentaje": 8.5,
+      "altitud": 1570,
+      "nombre": "Rampa 8.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "pas-de-peyrol-puy-mary-desde-dienne-climbfinder.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
