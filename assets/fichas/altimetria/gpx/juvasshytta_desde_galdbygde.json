@@ -1,0 +1,575 @@
+{
+  "id": "juvasshytta_desde_galdbygde",
+  "nombre": "Juvasshytta",
+  "punto_inicio": "Galdbygde",
+  "categoria": "A",
+  "vertiente": "desde Galdbygde",
+  "pais": "Noruega",
+  "region": "Innlandet",
+  "zona": "Jotunheimen",
+  "coordenadas_inicio": {
+    "lat": 61.720934,
+    "lon": 8.348813
+  },
+  "coordenadas_final": {
+    "lat": 61.67661,
+    "lon": 8.364002
+  },
+  "longitud_km": 13.15,
+  "desnivel_m": 1303,
+  "altura_maxima_m": 1853,
+  "pendiente_media_porcentaje": 9.9,
+  "pendiente_maxima_porcentaje": 14.5,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "08/08/2026",
+  "descripcion": "Juvasshytta es una espectacular ascensión de alta montaña en el corazón de Jotunheimen. La carretera atraviesa un paisaje que cambia desde los bosques y valles de la parte baja hasta el terreno desnudo y alpino de las inmediaciones del Galdhøpiggen. El ascenso termina junto a Juvasshytta, a los pies de la montaña más alta de Noruega, en un entorno marcado por glaciares, nieve y grandes cumbres.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 558
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 562
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 565
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 573
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 581
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 589
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 598
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 608
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 617
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 625
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 632
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 640
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 648
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 656
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 666
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 676
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 686
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 694
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 702
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 711
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 719
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 729
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 739
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 750
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 763
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 776
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 789
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 802
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 816
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 830
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 843
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 855
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 867
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 878
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 890
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 902
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 915
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 928
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 941
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 955
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 967
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 978
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 987
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 994
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1000
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1004
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1007
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1010
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1015
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1027
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1036
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1048
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1060
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1074
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1103
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1115
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1127
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1137
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1148
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1158
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1169
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1181
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1193
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1205
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1218
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1231
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1245
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1259
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1272
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1285
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1298
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1310
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1322
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1334
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1346
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1357
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1368
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1379
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1390
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1401
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1414
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1427
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1440
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1454
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1468
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1480
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1493
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1505
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1517
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1527
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1535
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1541
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1544
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1545
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1546
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1548
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1551
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1556
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1564
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1574
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1586
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1598
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1610
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1621
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1632
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1643
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1654
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1665
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1675
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1684
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1694
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1703
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1714
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1724
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1734
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1742
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1750
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1758
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1765
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1772
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1780
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1788
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1797
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1806
+    },
+    {
+      "kilometro": 12.6,
+      "altitud": 1816
+    },
+    {
+      "kilometro": 12.7,
+      "altitud": 1826
+    },
+    {
+      "kilometro": 12.8,
+      "altitud": 1836
+    },
+    {
+      "kilometro": 12.9,
+      "altitud": 1844
+    },
+    {
+      "kilometro": 13.0,
+      "altitud": 1847
+    },
+    {
+      "kilometro": 13.1,
+      "altitud": 1851
+    },
+    {
+      "kilometro": 13.15,
+      "altitud": 1853
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 5.45,
+      "pendiente_porcentaje": 14.5,
+      "altitud": 1080,
+      "nombre": "Rampa 14.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "juvasshytta-desde-galdbygde.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
