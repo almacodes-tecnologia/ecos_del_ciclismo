@@ -1,11 +1,11 @@
 {
   "id": "marie_blanque_bielle",
   "nombre": "Marie Blanque",
-  "punto_inicio": "",
-  "categoria": "",
+  "punto_inicio": "Bielle",
+  "categoria": "B",
   "vertiente": "desde Bielle",
   "pais": "Francia",
-  "region": "",
+  "region": "Pirineos Atlánticos",
   "zona": "Pirineos",
   "coordenadas_inicio": {
     "lat": 43.057764,
@@ -464,6 +464,10 @@
     {
       "kilometro": 10.9,
       "altitud": 1027
+    },
+   {
+      "kilometro": 11.0,
+      "altitud": 1033
     }
   ],
   "puntos_clave": [
