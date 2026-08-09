@@ -1,8 +1,8 @@
 {
   "id": "puerto_de_torre_covilha",
   "nombre": "Puerto de Torre",
-  "punto_inicio": "",
-  "categoria": "",
+  "punto_inicio": "Covilha",
+  "categoria": "A",
   "vertiente": "por Covilha",
   "pais": "Portugal",
   "region": "",
@@ -15,7 +15,7 @@
     "lat": 40.321764,
     "lon": -7.613323
   },
-  "longitud_km": 23.88,
+  "longitud_km": 23.9,
   "desnivel_m": 1528,
   "altura_maxima_m": 1987,
   "pendiente_media_porcentaje": 6.4,
@@ -980,6 +980,10 @@
     {
       "kilometro": 23.8,
       "altitud": 1981
+    },
+{
+      "kilometro": 23.9,
+      "altitud": 1987
     }
   ],
   "puntos_clave": [
