@@ -1,11 +1,11 @@
 {
   "id": "subida_ciudad_encantada_desde_cuenca",
   "nombre": "Subida Ciudad Encantada",
-  "punto_inicio": "",
+  "punto_inicio": "Villalba de la Sierra",
   "categoria": "F",
   "vertiente": "desde Cuenca",
   "pais": "España",
-  "region": "",
+  "region": "Serranía de Cuenca",
   "zona": "Ciudad Encantada",
    "coordenadas_inicio": {
     "lat": 40.232333,
@@ -559,7 +559,11 @@
     },
     {
       "kilometro": 13.3,
-      "altitud": 1409
+      "altitud": 1410
+    },
+ {
+      "kilometro": 13.4,
+      "altitud": 1416
     }
   ], 
   "puntos_clave": [],
