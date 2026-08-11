@@ -1,0 +1,512 @@
+{
+  "id": "puerto_del_palo_por_pola_de_allende",
+  "nombre": "Alto del Palo",
+  "punto_inicio": "",
+  "categoria": "C",
+  "vertiente": "por Pola de Allende",
+  "pais": "España",
+  "region": "Asturias",
+  "zona": "Cordillera Cantábrica",
+  "coordenadas_inicio": {
+    "lat": 43.27181,
+    "lon": -6.61125
+  },
+  "coordenadas_final": {
+    "lat": 43.27242,
+    "lon": -6.6778
+  },
+  "longitud_km": 11.8,
+  "desnivel_m": 611,
+  "altura_maxima_m": 1142,
+  "pendiente_media_porcentaje": 5.2,
+  "pendiente_maxima_porcentaje": 9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+  "descripcion": "El Puerto del Palo, en su vertiente desde Pola de Allande, es un mítico paso de montaña del occidente asturiano que destaca por la sobriedad y la constante belleza de sus paisajes. A medida que se gana altura, la vegetación más densa da paso a laderas abiertas cubiertas de monte bajo, brezales y amplios pastizales, regalando vistas panorámicas espectaculares del entorno montañoso. Se trata de una ascensión tendida y de ritmo muy regular, célebre tanto en el ciclismo de carretera como por formar parte de la histórica travesía del Camino Primitivo de Santiago, culminando en un alto expuesto a los vientos donde la sensación de amplitud y aislamiento es absoluta.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 534
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 535
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 537
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 542
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 547
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 553
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 558
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 563
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 568
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 572
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 576
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 582
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 587
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 594
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 600
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 605
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 609
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 616
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 619
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 623
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 628
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 633
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 637
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 642
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 648
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 653
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 659
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 662
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 666
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 673
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 680
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 683
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 689
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 694
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 698
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 702
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 709
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 713
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 717
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 722
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 728
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 732
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 739
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 746
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 751
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 755
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 761
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 765
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 768
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 772
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 777
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 782
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 788
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 793
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 798
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 803
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 809
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 814
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 822
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 830
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 838
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 845
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 850
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 853
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 858
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 859
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 863
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 869
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 872
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 879
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 885
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 891
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 896
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 903
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 907
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 914
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 917
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 919
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 922
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 923
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 926
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 930
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 935
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 939
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 945
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 948
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 953
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 959
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 965
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 973
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 981
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 988
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 995
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1002
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1007
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1011
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1016
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1026
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1032
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1038
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1045
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1058
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1063
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1069
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1076
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1082
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1088
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1095
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1101
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1107
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1113
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1119
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1132
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1135
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1139
+    },
+{
+      "kilometro": 11.8,
+      "altitud": 1142
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-del-palo-por-pola-de-allende.gpx"
+  },
+  "interpolado": false,
+  "version_json": "1"
+}
