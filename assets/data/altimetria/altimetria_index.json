@@ -75,6 +75,21 @@
   "superficie": "asfalto"
 },
 {
+  "id": "col_du_pourtalet_laruns",
+  "nombre": "Col du Pourtalet",
+  "vertiente": "por Laruns",
+  "pais": "Francia",
+"region": "Nueva Aquitania",
+"zona": "Pirineos",
+  "longitud_km": 28.15,
+  "desnivel_m": 1245,
+  "pendiente_media_porcentaje": 4.4,
+  "pendiente_maxima_porcentaje": 8.3,
+  "altura_maxima_m": 1789,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+{
   "id": "port_d_envalira_desde_andorra_la_vella",
   "nombre": "Envalira",
   "vertiente": "desde Andorra La Vella",
@@ -102,6 +117,21 @@
   "pendiente_maxima_porcentaje": 15.3,
   "altura_maxima_m": 1164,
   "categoria": "B",
+  "superficie": "asfalto"
+},
+{
+  "id": "puerto_del_palo_por_pola_de_allende",
+  "nombre": "Alto del Palo",
+  "vertiente": "por Pola de Allende",
+  "pais": "España",
+  "region": "Asturias",
+  "zona": "Cordillera Cantábrica",
+  "longitud_km": 11.8,
+  "desnivel_m": 611,
+  "pendiente_media_porcentaje": 5.2,
+  "pendiente_maxima_porcentaje": 9,
+  "altura_maxima_m": 1142,
+  "categoria": "C",
   "superficie": "asfalto"
 },
 {
