@@ -481,6 +481,21 @@
   "superficie": "asfalto"
 },
 {
+  "id": "ucka_vojak_desde_boljunsko_polje",
+  "nombre": "Ucka-Vojak",
+  "vertiente": "desde Boljunsko Polje",
+  "pais": "Croacia",
+"region": "Istria",
+"zona": "Učka",
+  "longitud_km": 16.2,
+  "desnivel_m": 1221,
+  "pendiente_media_porcentaje": 7.5,
+  "pendiente_maxima_porcentaje": 14.1,
+  "altura_maxima_m": 1375,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+{
   "id": "rigi_desde_goldau",
   "nombre": "Rigi",
   "vertiente": "desde Goldau",
@@ -522,6 +537,21 @@
   "pendiente_media_porcentaje": 4.8,
   "pendiente_maxima_porcentaje": 13.9,
   "altura_maxima_m": 1591,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "alan_desde_stinica",
+  "nombre": "Alan",
+  "vertiente": "desde Stinica",
+  "pais": "Croacia",
+"region": "Lika-Senj",
+"zona": "Velebit",
+  "longitud_km": 10.9,
+  "desnivel_m": 527,
+  "pendiente_media_porcentaje": 6.4,
+  "pendiente_maxima_porcentaje": 11.8,
+  "altura_maxima_m": 1345,
   "categoria": "C",
   "superficie": "asfalto"
 },
@@ -582,7 +612,22 @@
   "pendiente_media_porcentaje": 3.8,
   "pendiente_maxima_porcentaje": 10.8,
   "altura_maxima_m": 842,
-  "categoria": "",
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "sveti_jure_desde_podgora",
+"nombre": "Sveti Jure",
+"vertiente": "desde Podgora",
+  "pais": "Croacia",
+"region": "Split-Dalmacia",
+"zona": "Biokovo"
+  "longitud_km": 29.3,
+  "desnivel_m": 1735,
+  "pendiente_media_porcentaje": 5.9,
+  "pendiente_maxima_porcentaje": 13.0,
+  "altura_maxima_m": 1738,
+  "categoria": "B",
   "superficie": "asfalto"
 },
 {
