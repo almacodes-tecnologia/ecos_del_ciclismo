@@ -1,0 +1,575 @@
+{
+  "id": "lakos_migerou_desde_livadiar",
+  "nombre": "Lakos Migerou",
+  "punto_inicio": "Livadiar",
+  "categoria": "B",
+  "vertiente": "desde Livadiar",
+  "pais": "Grecia",
+"region": "Rétino",
+"zona": "Psiloritis",
+  "coordenadas_inicio": {
+    "lat": 35.304249,
+    "lon": 24.807851
+  },
+  "coordenadas_final": {
+    "lat": 35.242031,
+    "lon": 24.777108
+  },
+  "longitud_km": 12.6,
+  "desnivel_m": 968,
+  "altura_maxima_m": 1568,
+  "pendiente_media_porcentaje": 7.8,
+  "pendiente_maxima_porcentaje": 15.5,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "15/08/2026",
+  "descripcion": "Ascenso desde Livadia hacia Lakos Migerou, en la vertiente norte del macizo del Psiloritis, la principal cordillera del centro de Creta. La carretera asciende de forma continua hasta la meseta de Lakos Migerou, situada en torno a los 1.600-1.700 metros de altitud, donde se encuentra un refugio y comienza la ruta de montaña hacia Timios Stavros, la cumbre más alta de Creta. El entorno es montañoso y abierto, con las características dolinas y formaciones calizas del Psiloritis.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 603
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 604
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 607
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 612
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 619
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 626
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 635
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 644
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 653
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 661
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 671
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 682
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 693
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 706
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 717
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 729
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 739
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 748
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 758
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 767
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 776
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 785
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 794
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 802
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 809
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 815
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 823
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 830
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 837
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 844
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 851
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 858
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 866
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 876
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 887
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 900
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 914
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 928
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 942
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 955
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 968
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 980
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 993
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1006
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1019
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1033
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1047
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1058
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1069
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1078
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1087
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1095
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1103
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1112
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1118
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1124
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1130
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1135
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1141
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1148
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1155
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1162
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1169
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1177
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1189
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1192
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1191
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1180
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1175
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1173
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1173
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1185
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1194
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1201
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1207
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1213
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1219
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1224
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1227
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1231
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1233
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1234
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1237
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1248
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1257
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1266
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1275
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1283
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1289
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1294
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1299
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1304
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1311
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1318
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1325
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1332
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1340
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1348
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1357
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1368
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1379
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1389
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1397
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1405
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1412
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1418
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1422
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1427
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1432
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1438
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1445
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1453
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1462
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1473
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1486
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1500
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1516
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1531
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1545
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1552
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1558
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1564
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1568
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.25,
+      "pendiente_porcentaje": 12.1,
+      "altitud": 699,
+      "nombre": "Rampa 12.1%"
+    },
+    {
+      "kilometro": 3.45,
+      "pendiente_porcentaje": 13.0,
+      "altitud": 894,
+      "nombre": "Rampa 13.0%"
+    },
+    {
+      "kilometro": 4.45,
+      "pendiente_porcentaje": 14.0,
+      "altitud": 1027,
+      "nombre": "Rampa 14.0%"
+    },
+    {
+      "kilometro": 4.55,
+      "pendiente_porcentaje": 13.7,
+      "altitud": 1038,
+      "nombre": "Rampa 13.7%"
+    },
+    {
+      "kilometro": 11.95,
+      "pendiente_porcentaje": 15.5,
+      "altitud": 1510,
+      "nombre": "Rampa 15.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "lakos-migerou-desde-livadiar.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

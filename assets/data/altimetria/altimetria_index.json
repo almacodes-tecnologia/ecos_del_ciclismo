@@ -1036,6 +1036,21 @@
   "longitud_km": 1,
   "desnivel_m": 1
   },
+     {
+  "id": "olimpo_desde_cerca_de_sparmos",
+  "nombre": "Olimpo",
+  "vertiente": "desde Sparmos",
+  "pais": "Grecia",
+  "region": "Larisa",
+  "zona": "Olimpo",
+  "longitud_km": 16.9,
+  "desnivel_m": 1142,
+  "pendiente_media_porcentaje": 6.7,
+  "pendiente_maxima_porcentaje": 10.9,
+  "altura_maxima_m": 1724,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
 {
     "id": "santuario_del_acebo_cangas",
     "nombre": "Santuario de El Acebo",
@@ -1267,6 +1282,21 @@
   "longitud_km": 15.8,
   "desnivel_m": 1249
   },
+   {
+  "id": "skinakas_observatory_desde_mourtzana",
+  "nombre": "Skinakas Observatory",
+  "vertiente": "desde Mourtzana",
+  "pais": "Grecia",
+"region": "Rétino",
+"zona": "Psiloritis",
+  "longitud_km": 38.5,
+  "desnivel_m": 1580,
+  "pendiente_media_porcentaje": 4.1,
+  "pendiente_maxima_porcentaje": 10.3,
+  "altura_maxima_m": 1744,
+  "categoria": "",
+  "superficie": "asfalto"
+},
   {
     "id": "san_bernardo_aosta",
     "nombre": "Passo Gran San Bernardo",
@@ -1432,6 +1462,21 @@
   "superficie": "asfalto"
 },
   {
+  "id": "imbros_pass_desde_chora_sfakion",
+  "nombre": "Imbros Pass",
+  "vertiente": "desde Chora",
+  "pais": "Grecia",
+  "region": "La Canea",
+  "zona": "Montañas Blancas",
+  "longitud_km": 17.3,
+  "desnivel_m": 809,
+  "pendiente_media_porcentaje": 4.7,
+  "pendiente_maxima_porcentaje": 12.8,
+  "altura_maxima_m": 819,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+  {
   "id": "tornavacas_por_barco_de_avila",
   "nombre": "Tornavacas",
   "vertiente": "por Barco de Avila",
@@ -1459,6 +1504,21 @@
   "pendiente_maxima_porcentaje": 13.1,
   "altura_maxima_m": 252,
   "categoria": "F",
+  "superficie": "asfalto"
+},
+  {
+  "id": "kallikratis_desde_kapsodasosr",
+  "nombre": "Kallikratis",
+  "vertiente": "desde Kapsodasos",
+  "pais": "Grecia",
+"region": "La Canea",
+"zona": "Montañas Blancas",
+  "longitud_km": 6.6,
+  "desnivel_m": 635,
+  "pendiente_media_porcentaje": 9.7,
+  "pendiente_maxima_porcentaje": 14.0,
+  "altura_maxima_m": 737,
+  "categoria": "C",
   "superficie": "asfalto"
 },
   {
@@ -1507,6 +1567,21 @@
   "superficie": "asfalto"
 },
   {
+  "id": "lakos_migerou_desde_livadiar",
+  "nombre": "Lakos Migerou",
+  "vertiente": "desde Livadiar",
+  "pais": "Grecia",
+"region": "Rétino",
+"zona": "Psiloritis",
+  "longitud_km": 12.6,
+  "desnivel_m": 968,
+  "pendiente_media_porcentaje": 7.8,
+  "pendiente_maxima_porcentaje": 15.5,
+  "altura_maxima_m": 1568,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+  {
   "id": "oukaimeden_desde_ourika",
   "nombre": "Oukaïmeden ",
   "vertiente": "desde Ourika",
@@ -1534,6 +1609,21 @@
   "pendiente_maxima_porcentaje": 13.8,
   "altura_maxima_m": 915,
   "categoria": "",
+  "superficie": "asfalto"
+},
+  {
+  "id": "skinakas_observatory_desde_gazider",
+  "nombre": "Skinakas Observatory",
+  "vertiente": "desde Gazider",
+  "pais": "Grecia",
+  "region": "Creta",
+  "zona": "Montañas de Psiloritis",
+  "longitud_km": 45.2,
+  "desnivel_m": 1727,
+  "pendiente_media_porcentaje": 3.8,
+  "pendiente_maxima_porcentaje": 10.2,
+  "altura_maxima_m": 1744,
+  "categoria": "C",
   "superficie": "asfalto"
 },
  {
@@ -1564,6 +1654,21 @@
   "pendiente_maxima_porcentaje": 15.8,
   "altura_maxima_m": 726,
   "categoria": "",
+  "superficie": "asfalto"
+},
+  {
+  "id": "taygetos_pass_desde_kalam_ta_por_ladas",
+  "nombre": "Taygetos Pass",
+  "vertiente": "por Ladas",
+  "pais": "Grecia",
+"region": "Mesenia",
+"zona": "Taygetos",
+  "longitud_km": 31.9,
+  "desnivel_m": 1245,
+  "pendiente_media_porcentaje": 3.9,
+  "pendiente_maxima_porcentaje": 10.1,
+  "altura_maxima_m": 1314,
+  "categoria": "C",
   "superficie": "asfalto"
 }
 ]
