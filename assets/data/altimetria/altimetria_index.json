@@ -1202,6 +1202,21 @@
     "longitud_km": 26.2,
     "desnivel_m": 1707
   },
+{
+  "id": "vega_redonda_por_selaya",
+  "nombre": "Vega Redonda",
+  "vertiente": "por Selaya",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Valles Pasiegos",
+  "longitud_km": 8.0,
+  "desnivel_m": 422,
+  "pendiente_media_porcentaje": 5.3,
+  "pendiente_maxima_porcentaje": 11.8,
+  "altura_maxima_m": 661,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
   {
     "id": "paso_de_grimsel_norte",
     "nombre": "Paso de Grimsel",
@@ -1295,6 +1310,21 @@
   "pendiente_maxima_porcentaje": 10.3,
   "altura_maxima_m": 1744,
   "categoria": "",
+  "superficie": "asfalto"
+},
+{
+  "id": "monte_de_la_garita_por_villapresente",
+  "nombre": "Monte de la Garita",
+  "vertiente": "por Villapresidente",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Costa Occidental de Cantabria",
+  "longitud_km": 5.4,
+  "desnivel_m": 244,
+  "pendiente_media_porcentaje": 4.5,
+  "pendiente_maxima_porcentaje": 9.8,
+  "altura_maxima_m": 270,
+  "categoria": "F",
   "superficie": "asfalto"
 },
   {
