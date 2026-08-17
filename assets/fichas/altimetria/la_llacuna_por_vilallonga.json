@@ -1,0 +1,451 @@
+{
+  "id": "la_llacuna_por_vilallonga",
+  "nombre": "La Llacuna",
+  "punto_inicio": "Vilallonga",
+  "categoria": "C",
+  "vertiente": "por Vilallonga",
+  "pais": "España",
+  "region": "Valencia",
+"zona": "La Safor",
+  "coordenadas_inicio": {
+    "lat": 38.8848,
+    "lon": -0.20418
+  },
+  "coordenadas_final": {
+    "lat": 38.84433,
+    "lon": -0.25225
+  },
+  "longitud_km": 9.5,
+  "desnivel_m": 581,
+  "altura_maxima_m": 694,
+  "pendiente_media_porcentaje": 6.1,
+  "pendiente_maxima_porcentaje": 16.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+  "descripcion": "La Llacuna asciende desde Villalonga hacia las montañas que separan la comarca de La Safor del interior valenciano, atravesando primero un paisaje mediterráneo y después zonas boscosas de gran belleza. La subida es bastante constante y cuenta con algunas rampas especialmente duras, mientras que en la parte alta aparecen excelentes vistas sobre la Vall de Gallinera, el Mediterráneo y las montañas de Alicante. El entorno está dominado por el macizo de la Safor y el profundo valle del río Serpis, un paisaje de gran interés natural que también conserva vestigios históricos como el Castell de Perputxent.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 117
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 120
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 123
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 130
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 137
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 144
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 151
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 159
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 166
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 175
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 183
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 192
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 201
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 207
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 212
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 220
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 230
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 239
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 251
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 261
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 270
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 278
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 285
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 293
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 305
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 317
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 330
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 342
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 356
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 366
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 373
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 379
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 383
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 385
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 391
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 400
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 408
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 419
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 428
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 436
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 445
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 454
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 462
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 469
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 473
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 474
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 474
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 474
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 475
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 476
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 479
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 481
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 483
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 484
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 487
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 488
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 490
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 493
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 497
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 500
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 504
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 508
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 513
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 516
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 520
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 525
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 529
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 533
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 538
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 543
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 547
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 553
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 559
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 563
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 568
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 572
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 576
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 579
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 584
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 588
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 595
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 602
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 608
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 615
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 625
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 634
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 644
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 655
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 664
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 671
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 675
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 679
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 683
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 686
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 689
+    },
+   {
+      "kilometro": 9.5,
+      "altitud": 694
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 2.35,
+      "pendiente_porcentaje": 13.7,
+      "altitud": 301,
+      "nombre": "Rampa 13.7%"
+    },
+    {
+      "kilometro": 2.75,
+      "pendiente_porcentaje": 16.9,
+      "altitud": 348,
+      "nombre": "Rampa 16.9%"
+    },
+    {
+      "kilometro": 3.65,
+      "pendiente_porcentaje": 12.1,
+      "altitud": 411,
+      "nombre": "Rampa 12.1%"
+    },
+    {
+      "kilometro": 8.35,
+      "pendiente_porcentaje": 11.3,
+      "altitud": 621,
+      "nombre": "Rampa 11.3%"
+    },
+    {
+      "kilometro": 8.65,
+      "pendiente_porcentaje": 11.5,
+      "altitud": 646,
+      "nombre": "Rampa 11.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-de-la-llacuna-por-vilallonga.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
