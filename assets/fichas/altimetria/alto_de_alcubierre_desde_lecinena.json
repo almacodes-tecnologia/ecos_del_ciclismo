@@ -1,0 +1,252 @@
+{
+  "id": "alto_de_alcubierre_desde_lecinena",
+  "nombre": "Alto de Alcubierre",
+  "punto_inicio": "Leciñena",
+  "categoria": "F",
+  "vertiente": "desde Leciñena",
+  "pais": "España",
+  "region": "Zaragoza",
+"zona": "Monegros",
+  "coordenadas_inicio": {
+    "lat": 41.812919,
+    "lon": -0.578293
+  },
+  "coordenadas_final": {
+    "lat": 41.824851,
+    "lon": -0.518452
+  },
+  "longitud_km": 5.3,
+  "desnivel_m": 181,
+  "altura_maxima_m": 609,
+  "pendiente_media_porcentaje": 3.4,
+  "pendiente_maxima_porcentaje": 7.4,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "El Alto de Alcubierre atraviesa la Sierra de Alcubierre desde Leciñena, en el límite entre las tierras agrícolas de Zaragoza y el paisaje estepario de Los Monegros. La carretera asciende entre pinares y terrenos áridos hasta una sierra que constituye el eje natural de la comarca, con buenas panorámicas sobre las llanuras monegrinas. El entorno tiene además una importante huella de la Guerra Civil, ya que la sierra fue escenario de duros combates y conserva numerosas trincheras y posiciones defensivas vinculadas al frente de Aragón y a la presencia de George Orwell.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 428
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 429
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 430
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 431
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 433
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 437
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 440
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 443
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 446
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 448
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 450
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 453
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 455
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 459
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 462
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 466
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 470
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 473
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 475
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 477
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 479
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 481
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 484
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 488
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 492
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 497
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 502
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 505
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 507
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 508
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 508
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 507
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 507
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 509
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 511
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 515
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 520
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 525
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 531
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 536
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 542
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 547
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 553
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 559
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 564
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 569
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 575
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 581
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 587
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 592
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 598
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 602
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 606
+    },
+  {
+      "kilometro": 5.3,
+      "altitud": 609
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Alto de alcubierre desde leciñena.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

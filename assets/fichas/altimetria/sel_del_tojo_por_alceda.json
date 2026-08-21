@@ -1,0 +1,201 @@
+{
+  "id": "sel_del_tojo_por_alceda",
+  "nombre": "Sel del Tojo",
+  "punto_inicio": "Alceda",
+  "categoria": "F",
+  "vertiente": "por Alceda",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Valles Pasiegos",
+  "coordenadas_inicio": {
+    "lat": 43.191285,
+    "lon": -3.914469
+  },
+  "coordenadas_final": {
+    "lat": 43.171273,
+    "lon": -3.917136
+  },
+  "longitud_km": 3.65,
+  "desnivel_m": 225,
+  "altura_maxima_m": 400,
+  "pendiente_media_porcentaje": 6.5,
+  "pendiente_maxima_porcentaje": 15.3,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "10/08/2026",
+  "descripcion": "La subida a Sel del Tojo desde Alceda se adentra en las laderas del valle de Toranzo, entre prados, cabañas ganaderas, bosques y pequeños núcleos rurales. La carretera asciende hasta este pequeño barrio de montaña, situado en la ladera del monte Cildá, ofreciendo un paisaje muy representativo del interior de Cantabria. En las proximidades de Alceda destacan además su conjunto histórico de casonas montañesas y su tradicional balneario.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 177
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 181
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 184
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 188
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 194
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 200
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 204
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 207
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 214
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 223
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 232
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 243
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 258
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 270
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 280
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 287
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 295
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 299
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 302
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 306
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 309
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 310
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 311
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 312
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 312
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 315
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 319
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 325
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 334
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 344
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 353
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 361
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 368
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 374
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 380
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 384
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 391
+    },
+   {
+      "kilometro": 3.7,
+      "altitud": 400
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.15,
+      "pendiente_porcentaje": 15.3,
+      "altitud": 247,
+      "nombre": "Rampa 15.3%"
+    },
+    {
+      "kilometro": 2.85,
+      "pendiente_porcentaje": 10.4,
+      "altitud": 341,
+      "nombre": "Rampa 10.4%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "sel-del-tojo-por-alceda.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

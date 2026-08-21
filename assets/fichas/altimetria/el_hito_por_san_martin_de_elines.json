@@ -1,0 +1,250 @@
+{
+  "id": "el_hito_por_san_martin_de_elines",
+  "nombre": "El Hito",
+  "punto_inicio": "",
+  "categoria": "D",
+  "vertiente": "por San Martín de Elines",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "coordenadas_inicio": {
+    "lat": 42.834169,
+    "lon": -3.86134
+  },
+  "coordenadas_final": {
+    "lat": 42.861039,
+    "lon": -3.866587
+  },
+  "longitud_km": 4.9,
+  "desnivel_m": 313,
+  "altura_maxima_m": 999,
+  "pendiente_media_porcentaje": 6.4,
+  "pendiente_maxima_porcentaje": 11.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "08/08/2026",
+  "descripcion": "El Hito desde San Martín de Elines asciende desde el valle del Ebro hacia los páramos de la zona oriental de Valderredible, atravesando un paisaje de prados, bosques y pequeñas localidades rurales. La parte alta ofrece buenas panorámicas sobre el valle, el Monte Hijedo y las Hoces del Ebro, en un entorno que conserva además un importante patrimonio románico y rupestre.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 687
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 687
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 688
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 691
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 694
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 697
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 700
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 704
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 711
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 718
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 726
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 735
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 741
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 746
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 748
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 750
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 751
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 753
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 754
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 755
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 757
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 759
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 762
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 767
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 774
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 783
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 792
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 802
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 812
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 823
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 834
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 844
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 855
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 866
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 877
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 888
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 900
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 912
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 923
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 934
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 945
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 954
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 962
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 969
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 976
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 982
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 988
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 992
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 995
+    },
+
+   {
+      "kilometro": 4.9,
+      "altitud": 999
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 3.25,
+      "pendiente_porcentaje": 11.1,
+      "altitud": 861,
+      "nombre": "Rampa 11.1%"
+    },
+    {
+      "kilometro": 3.65,
+      "pendiente_porcentaje": 11.9,
+      "altitud": 905,
+      "nombre": "Rampa 11.9%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "el-hito-por-san-martin-de-elines.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

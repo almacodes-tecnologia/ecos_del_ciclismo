@@ -1,0 +1,327 @@
+{
+  "id": "la_lama_por_navamuel",
+  "nombre": "La Lama",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por Navamuel",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "coordenadas_inicio": {
+    "lat": 42.838414,
+    "lon": -4.038634
+  },
+  "coordenadas_final": {
+    "lat": 42.836427,
+    "lon": -4.108554
+  },
+  "longitud_km": 7.0,
+  "desnivel_m": 293,
+  "altura_maxima_m": 1032,
+  "pendiente_media_porcentaje": 4.2,
+  "pendiente_maxima_porcentaje": 8.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "09/08/2026",
+  "descripcion": "La subida a La Lama desde Navamuel recorre el paisaje rural del sur de Cantabria, entre prados, bosques y pequeños pueblos de Valderredible, ganando altura hacia los páramos que dominan el valle. Es una ascensión tranquila y poco transitada, con un entorno natural muy representativo de la transición entre la montaña cantábrica y la meseta.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 747
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 751
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 755
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 763
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 770
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 778
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 786
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 793
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 800
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 809
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 816
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 824
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 831
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 837
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 841
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 845
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 846
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 848
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 852
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 857
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 864
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 872
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 880
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 887
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 893
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 899
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 905
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 911
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 916
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 922
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 927
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 932
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 939
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 946
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 953
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 960
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 965
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 968
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 972
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 976
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 980
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 984
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 988
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 991
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 995
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 998
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1002
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1005
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1009
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1012
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1015
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1017
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1017
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1016
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1014
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1011
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1008
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1006
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1006
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1007
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1009
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1011
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1014
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1016
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1019
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1024
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1027
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1028
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1030
+    },
+ {
+      "kilometro": 7.0,
+      "altitud": 1032
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 0.85,
+      "pendiente_porcentaje": 8.1,
+      "altitud": 804,
+      "nombre": "Rampa 8.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-lama-por-navamuel.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

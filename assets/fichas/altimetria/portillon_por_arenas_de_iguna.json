@@ -1,0 +1,404 @@
+{
+  "id": "portillon_por_arenas_de_iguna",
+  "nombre": "Portillón por Arenas de Iguña",
+  "punto_inicio": "San Juan de Raicedo",
+  "categoria": "D",
+  "vertiente": "por Arenas de Iguña",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Besaya",
+  "coordenadas_inicio": {
+    "lat": 43.1894,
+    "lon": -4.045494
+  },
+  "coordenadas_final": {
+    "lat": 43.213092,
+    "lon": -3.984386
+  },
+  "longitud_km": 9.1,
+  "desnivel_m": 391,
+  "altura_maxima_m": 568,
+  "pendiente_media_porcentaje": 4.3,
+  "pendiente_maxima_porcentaje": 8.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "07/08/2026",
+  "descripcion": "El Portillón desde Arenas de Iguña asciende por el valle de Anievas, atravesando un paisaje verde de prados, bosques y pequeños núcleos rurales hasta alcanzar el puerto, que comunica los valles de Iguña y Toranzo. La subida ofrece buenas vistas sobre el valle y cuenta con un pequeño monumento en la cima, mientras que el entorno conserva una marcada tradición histórica y rural.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 175
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 175
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 176
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 177
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 179
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 180
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 183
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 186
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 190
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 194
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 197
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 200
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 201
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 201
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 201
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 202
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 204
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 207
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 211
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 216
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 221
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 223
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 224
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 224
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 224
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 223
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 223
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 224
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 225
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 226
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 228
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 230
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 232
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 233
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 234
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 235
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 237
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 240
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 242
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 245
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 247
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 249
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 252
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 256
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 261
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 265
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 270
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 275
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 280
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 286
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 293
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 300
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 307
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 314
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 320
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 327
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 333
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 340
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 348
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 355
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 362
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 369
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 375
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 382
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 389
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 396
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 402
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 408
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 414
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 421
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 428
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 436
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 442
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 449
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 456
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 463
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 470
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 478
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 485
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 492
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 499
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 506
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 513
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 520
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 528
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 535
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 542
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 549
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 555
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 558
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 561
+    },
+ {
+      "kilometro": 9.1,
+      "altitud": 568
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-del-portillon-por-arenas-de-iguna.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

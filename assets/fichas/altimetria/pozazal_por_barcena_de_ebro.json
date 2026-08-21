@@ -1,0 +1,516 @@
+{
+  "id": "pozazal_por_barcena_de_ebro",
+  "nombre": "Pozazal",
+  "punto_inicio": "Bárcena de Ebro",
+  "categoria": "F",
+  "vertiente": "por Bárcena de Ebro",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Campoo-Los Valles",
+  "coordenadas_inicio": {
+    "lat": 42.852591,
+    "lon": -4.037516
+  },
+  "coordenadas_final": {
+    "lat": 42.915112,
+    "lon": -4.119757
+  },
+  "longitud_km": 11.9,
+  "desnivel_m": 240,
+  "altura_maxima_m": 992,
+  "pendiente_media_porcentaje": 2.0,
+  "pendiente_maxima_porcentaje": 6.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "El puerto de Pozazal por Bárcena de Ebro asciende suavemente desde el valle del Ebro hacia el sur de Cantabria, atravesando un paisaje rural de prados, bosques y pequeños pueblos de arquitectura tradicional. La subida llega al principal paso de comunicación entre Cantabria y la Meseta, un corredor utilizado desde antiguo y que hoy conecta la región con Castilla a través de la N-611 y la A-67. El entorno conserva además interesantes muestras del patrimonio histórico de Valderredible, como las antiguas casas y la torre de Bárcena de Ebro.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 752
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 753
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 754
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 756
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 758
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 760
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 762
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 764
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 767
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 770
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 774
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 777
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 780
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 783
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 784
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 787
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 790
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 794
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 798
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 804
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 808
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 811
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 813
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 814
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 813
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 813
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 814
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 815
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 817
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 820
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 823
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 827
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 830
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 832
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 833
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 834
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 835
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 836
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 837
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 838
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 839
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 839
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 840
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 841
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 842
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 843
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 845
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 848
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 850
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 853
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 855
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 858
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 861
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 863
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 866
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 869
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 873
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 877
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 880
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 882
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 883
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 883
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 882
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 881
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 879
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 878
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 877
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 877
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 878
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 880
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 882
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 884
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 887
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 890
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 893
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 896
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 899
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 902
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 906
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 910
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 915
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 920
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 927
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 933
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 938
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 943
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 947
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 950
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 952
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 954
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 956
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 957
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 958
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 959
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 960
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 960
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 959
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 959
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 958
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 958
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 957
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 957
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 956
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 956
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 958
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 959
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 962
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 965
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 968
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 969
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 971
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 974
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 977
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 980
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 984
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 988
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 990
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 991
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 991
+    },
+   {
+      "kilometro": 11.9,
+      "altitud": 992
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "pozazal-por-barcena-de-ebro.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

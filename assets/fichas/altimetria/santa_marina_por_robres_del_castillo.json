@@ -1,0 +1,509 @@
+{
+  "id": "santa_marina_por_robres_del_castillo",
+  "nombre": "Santa Marina",
+  "punto_inicio": "",
+  "categoria": "D",
+  "vertiente": "por Robres del Castillo",
+  "pais": "España",
+  "region": "La Rioja",
+"zona": "Sistema Ibérico",
+  "coordenadas_inicio": {
+    "lat": 42.265813,
+    "lon": -2.297044
+  },
+  "coordenadas_final": {
+    "lat": 42.246151,
+    "lon": -2.358509
+  },
+  "longitud_km": 10.8,
+  "desnivel_m": 484,
+  "altura_maxima_m": 1246,
+  "pendiente_media_porcentaje": 4.5,
+  "pendiente_maxima_porcentaje": 11.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "16/08/2026",
+  "descripcion": "La subida a Santa Marina desde Robres del Castillo remonta el valle del Jubera por una carretera solitaria y de montaña, entre numerosas herraduras y un paisaje agreste que alterna pinares con zonas más abiertas. La parte alta conduce hasta el pequeño y aislado núcleo de Santa Marina, en un entorno tranquilo y apartado de la Sierra de Cameros.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 760
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 765
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 770
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 780
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 789
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 795
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 800
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 804
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 812
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 819
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 829
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 841
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 852
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 862
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 872
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 881
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 890
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 901
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 910
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 919
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 929
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 939
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 945
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 955
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 962
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 967
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 974
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 982
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 989
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1000
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1007
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1015
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1027
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1030
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1036
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1038
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1044
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1048
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1053
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1071
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1079
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1085
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1093
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1099
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1104
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1109
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1116
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1122
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1128
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1131
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1134
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1139
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1140
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1142
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1143
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1145
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1148
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1152
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1157
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1163
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1169
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1175
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1180
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1188
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1188
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1186
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1185
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1185
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1183
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1179
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1177
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1176
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1176
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1175
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1175
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1175
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1182
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1195
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1203
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1210
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1216
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1220
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1223
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1225
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1229
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1232
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1237
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1243
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1243
+    },
+  {
+      "kilometro": 10.8,
+      "altitud": 1246
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 0.35,
+      "pendiente_porcentaje": 9.6,
+      "altitud": 784,
+      "nombre": "Rampa 9.6%"
+    },
+    {
+      "kilometro": 1.05,
+      "pendiente_porcentaje": 11.7,
+      "altitud": 833,
+      "nombre": "Rampa 11.7%"
+    },
+    {
+      "kilometro": 1.65,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 895,
+      "nombre": "Rampa 11.2%"
+    },
+    {
+      "kilometro": 2.85,
+      "pendiente_porcentaje": 10.3,
+      "altitud": 999,
+      "nombre": "Rampa 10.3%"
+    },
+    {
+      "kilometro": 4.05,
+      "pendiente_porcentaje": 10.1,
+      "altitud": 1071,
+      "nombre": "Rampa 10.1%"
+    },
+    {
+      "kilometro": 9.35,
+      "pendiente_porcentaje": 8.1,
+      "altitud": 1199,
+      "nombre": "Rampa 8.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "santa-marina-por-robres-del-castillo.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

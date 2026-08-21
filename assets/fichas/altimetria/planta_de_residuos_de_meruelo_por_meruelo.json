@@ -1,0 +1,285 @@
+{
+  "id": "planta_de_residuos_de_meruelo_por_meruelo",
+  "nombre": "Planta de residuos de Meruelo",
+  "punto_inicio": "Cruce CA-455 y CA-455",
+  "categoria": "D",
+  "vertiente": "por Meruelo",
+  "pais": "España",
+  "region": "Cantabria",
+  "zona": "Trasmiera",
+  "coordenadas_inicio": {
+    "lat": 43.446653,
+    "lon": -3.593827
+  },
+  "coordenadas_final": {
+    "lat": 43.417627,
+    "lon": -3.610886
+  },
+  "longitud_km": 5.8,
+  "desnivel_m": 272,
+  "altura_maxima_m": 279,
+  "pendiente_media_porcentaje": 4.7,
+  "pendiente_maxima_porcentaje": 13.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "16/08/2026",
+  "descripcion": "La subida a la Planta de residuos de Meruelo atraviesa el paisaje rural de Trasmiera, entre prados, pequeñas localidades y las suaves colinas del entorno de Meruelo. Aunque la ascensión toma su nombre de las instalaciones situadas en la parte alta, el recorrido ofrece un trazado bastante más interesante de lo que su denominación podría sugerir, con varias rampas exigentes y un entorno tranquilo y típicamente cántabro.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 9
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 14
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 15
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 18
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 22
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 27
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 31
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 38
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 50
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 59
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 68
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 80
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 93
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 99
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 111
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 117
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 120
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 122
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 128
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 128
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 132
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 138
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 139
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 139
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 142
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 144
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 148
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 157
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 167
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 180
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 193
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 204
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 211
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 217
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 222
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 227
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 232
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 240
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 245
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 247
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 247
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 245
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 239
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 235
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 234
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 232
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 235
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 240
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 243
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 247
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 253
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 257
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 262
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 267
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 272
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 275
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 277
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 278
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 279
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.15,
+      "pendiente_porcentaje": 12.8,
+      "altitud": 89,
+      "nombre": "Rampa 12.8%"
+    },
+    {
+      "kilometro": 2.95,
+      "pendiente_porcentaje": 13.1,
+      "altitud": 184,
+      "nombre": "Rampa 13.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "planta-de-residuos-de-meruelo-por-meruelo.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

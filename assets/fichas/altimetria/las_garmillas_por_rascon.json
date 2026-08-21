@@ -1,0 +1,249 @@
+{
+  "id": "las_garmillas_por_rascon",
+  "nombre": "Las Garmillas",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "por Rascón",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "coordenadas_inicio": {
+    "lat": 43.341637,
+    "lon": -3.409292
+  },
+  "coordenadas_final": {
+    "lat": 43.322736,
+    "lon": -3.376633
+  },
+  "longitud_km": 4.9,
+  "desnivel_m": 371,
+  "altura_maxima_m": 380,
+  "pendiente_media_porcentaje": 7.4,
+  "pendiente_maxima_porcentaje": 15.2,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "16/08/2026",
+  "descripcion": "Las Garmillas desde Rascón es una corta pero exigente subida por las laderas del interior de Cantabria, atravesando un paisaje de prados, bosques y caseríos dispersos. El tramo final, entre curvas y rampas pronunciadas, alcanza Las Garmillas en un entorno rural y tranquilo, con buenas vistas sobre los montes y valles cercanos.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 21
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 26
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 29
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 36
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 42
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 48
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 52
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 57
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 61
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 67
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 73
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 79
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 85
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 91
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 97
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 103
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 108
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 114
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 119
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 125
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 129
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 135
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 142
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 150
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 157
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 164
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 172
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 181
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 190
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 201
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 213
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 225
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 239
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 255
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 269
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 282
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 296
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 309
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 319
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 328
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 336
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 343
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 348
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 354
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 358
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 363
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 368
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 371
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 375
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 380
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 3.25,
+      "pendiente_porcentaje": 15.2,
+      "altitud": 245,
+      "nombre": "Rampa 15.2%"
+    },
+    {
+      "kilometro": 3.55,
+      "pendiente_porcentaje": 13.1,
+      "altitud": 280,
+      "nombre": "Rampa 13.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "las-garmillas-por-rascon.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

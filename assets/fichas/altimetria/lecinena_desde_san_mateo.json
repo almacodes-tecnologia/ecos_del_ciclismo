@@ -1,0 +1,536 @@
+{
+  "id": "lecinena_desde_san_mateo",
+  "nombre": "Alto de Leciñena",
+  "punto_inicio": "",
+  "categoria": "",
+  "vertiente": "desde San Mateo de Gállego",
+  "pais": "España",
+  "region": "Zaragoza",
+  "zona": "Monegros",
+  "coordenadas_inicio": {
+    "lat": 41.821216,
+    "lon": -0.774033
+  },
+  "coordenadas_final": {
+    "lat": 41.791951,
+    "lon": -0.63556
+  },
+  "longitud_km": 12.35,
+  "desnivel_m": 195,
+  "altura_maxima_m": 465,
+  "pendiente_media_porcentaje": 1.6,
+  "pendiente_maxima_porcentaje": 4.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "El Alto de Leciñena asciende desde San Mateo de Gállego hacia Leciñena por un paisaje abierto de campos de secano y monte bajo, característico del entorno monegrino. Es una ascensión tendida y de pendiente suave que conduce hacia la Sierra de Alcubierre, con amplias vistas sobre las llanuras agrícolas de Zaragoza y los relieves del entorno. La zona conserva además un importante patrimonio rural y mudéjar, con Leciñena como uno de sus principales núcleos.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 274
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 275
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 277
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 279
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 282
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 285
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 287
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 289
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 291
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 293
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 295
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 297
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 298
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 300
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 302
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 303
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 306
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 308
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 311
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 313
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 315
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 316
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 318
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 320
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 322
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 323
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 324
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 325
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 325
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 325
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 325
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 325
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 325
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 326
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 328
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 330
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 331
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 333
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 334
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 336
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 337
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 339
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 340
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 341
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 343
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 344
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 346
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 347
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 349
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 351
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 353
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 355
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 357
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 359
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 360
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 362
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 363
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 365
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 367
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 369
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 371
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 374
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 376
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 377
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 379
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 381
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 384
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 386
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 389
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 391
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 393
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 394
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 395
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 396
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 397
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 398
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 399
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 400
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 402
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 403
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 405
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 406
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 407
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 408
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 410
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 412
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 415
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 417
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 419
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 420
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 420
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 420
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 420
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 420
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 419
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 419
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 418
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 418
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 418
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 419
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 421
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 423
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 425
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 427
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 428
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 430
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 432
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 434
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 436
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 439
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 441
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 444
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 446
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 448
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 449
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 451
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 453
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 454
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 456
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 458
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 460
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 462
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 462
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 463
+    },
+   {
+      "kilometro": 12.35,
+      "altitud": 465
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Leciñena desde san mateo.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
