@@ -1439,6 +1439,36 @@
   "superficie": "asfalto"
 },
   {
+  "id": "santa_marina_por_robres_del_castillo",
+  "nombre": "Santa Marina",
+  "vertiente": "por Robres del Castillo",
+  "pais": "España",
+  "region": "La Rioja",
+"zona": "Sistema Ibérico",
+  "longitud_km": 10.8,
+  "desnivel_m": 484,
+  "pendiente_media_porcentaje": 4.5,
+  "pendiente_maxima_porcentaje": 11.7,
+  "altura_maxima_m": 1246,
+  "categoria": "D",
+  "superficie": "asfalto"
+},
+  {
+  "id": "santuari_de_sant_salvador_por_felanitx",
+  "nombre": "Santuari de Sant Salvador",
+  "vertiente": "por Felanitx",
+  "pais": "España",
+  "region": "Islas Baleares",
+"zona": "Llevant",
+  "longitud_km": 6.5,
+  "desnivel_m": 365,
+  "pendiente_media_porcentaje": 5.6,
+  "pendiente_maxima_porcentaje": 10.9,
+  "altura_maxima_m": 480,
+  "categoria": "D",
+  "superficie": "asfalto"
+},
+  {
     "id": "luz_ardiden",
     "nombre": "Luz-Ardiden",
     "vertiente": "desde Luz Saint Sauveur",
@@ -1459,6 +1489,21 @@
   "pendiente_maxima_porcentaje": 11.4,
   "altura_maxima_m": 1198,
   "categoria": "",
+  "superficie": "asfalto"
+},
+  {
+  "id": "sel_del_tojo_por_alceda",
+  "nombre": "Sel del Tojo",
+  "vertiente": "por Alceda",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Valles Pasiegos",
+  "longitud_km": 3.65,
+  "desnivel_m": 225,
+  "pendiente_media_porcentaje": 6.5,
+  "pendiente_maxima_porcentaje": 15.3,
+  "altura_maxima_m": 400,
+  "categoria": "F",
   "superficie": "asfalto"
 },
     {
@@ -1492,6 +1537,21 @@
   "superficie": "asfalto"
 },
   {
+  "id": "vega_redonda_por_selaya",
+  "nombre": "Vega Redonda",
+  "vertiente": "por Selaya",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Valles Pasiegos",
+  "longitud_km": 8.0,
+  "desnivel_m": 422,
+  "pendiente_media_porcentaje": 5.3,
+  "pendiente_maxima_porcentaje": 12.5,
+  "altura_maxima_m": 661,
+  "categoria": "F",
+  "superficie": "asfalto"
+},
+  {
   "id": "imbros_pass_desde_chora_sfakion",
   "nombre": "Imbros Pass",
   "vertiente": "desde Chora",
@@ -1519,6 +1579,21 @@
   "pendiente_maxima_porcentaje": 7.4,
   "altura_maxima_m": 1273,
   "categoria": "F",
+  "superficie": "asfalto"
+},
+  {
+  "id": "virgen_del_guila_desde_paniza",
+  "nombre": "Virgen del Águila",
+  "vertiente": "desde Paniza",
+  "pais": "España",
+  "region": "Zaragoza",
+  "zona": "Campo de Cariñena",
+  "longitud_km": 9.0,
+  "desnivel_m": 371,
+  "pendiente_media_porcentaje": 4.1,
+  "pendiente_maxima_porcentaje": 9.9,
+  "altura_maxima_m": 1045,
+  "categoria": "D",
   "superficie": "asfalto"
 },
   {
@@ -1563,6 +1638,21 @@
   "pendiente_media_porcentaje": 3.9,
   "pendiente_maxima_porcentaje": 10.1,
   "altura_maxima_m": 1140,
+  "categoria": "",
+  "superficie": "asfalto"
+},
+  {
+  "id": "zorrozillas_por_ramales",
+  "nombre": "Zorrozillas",
+  "vertiente": "por Ramales",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Asón-Agüera",
+  "longitud_km": 5.15,
+  "desnivel_m": 339,
+  "pendiente_media_porcentaje": 6.6,
+  "pendiente_maxima_porcentaje": 17.5,
+  "altura_maxima_m": 413,
   "categoria": "",
   "superficie": "asfalto"
 },
