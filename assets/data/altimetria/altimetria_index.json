@@ -466,6 +466,21 @@
   "superficie": "asfalto"
 },
 {
+  "id": "portillo_de_manzanedo_por_incinillas",
+  "nombre": "Portillo de Manzanedo",
+  "vertiente": "por Incinillas",
+  "pais": "España",
+  "region": "Burgos",
+"zona": "Cordillera Cantábrica",
+  "longitud_km": 6.70,
+  "desnivel_m": 354,
+  "pendiente_media_porcentaje": 5.3,
+  "pendiente_maxima_porcentaje": 10.0,
+  "altura_maxima_m": 1013,
+  "categoria": "D",
+  "superficie": "asfalto"
+},
+{
   "id": "col_du_pertus_desde_mandailles",
   "nombre": "Col du Pertus",
   "vertiente": "desde Mandailles",
@@ -478,6 +493,51 @@
   "pendiente_maxima_porcentaje": 15.3,
   "altura_maxima_m": 1293,
   "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "loma_somera_por_barcena_de_ebro",
+  "nombre": "Loma Somera por Bárcena de Ebro",
+  "categoria": "F",
+  "vertiente": "por Bárcena de Ebro",
+  "pais": "España",
+  "region": "Cantabria",
+  "longitud_km": 4.75,
+  "desnivel_m": 208,
+  "pendiente_media_porcentaje": 4.4,
+  "pendiente_maxima_porcentaje": 7.4,
+  "altura_maxima_m": 960,
+  "categoria": "F",
+  "superficie": "asfalto"
+},
+{
+  "id": "collado_de_hoz_por_sobrelapena",
+  "nombre": "Collado de Hoz",
+  "vertiente": "por Sobrelapeña",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "longitud_km": 7.55,
+  "desnivel_m": 446,
+  "pendiente_media_porcentaje": 5.9,
+  "pendiente_maxima_porcentaje": 14.4,
+  "altura_maxima_m": 661,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "el_somo_por_valderrama",
+  "nombre": "El Somo",
+  "vertiente": "por Valderrama",
+  "pais": "España",
+  "region": "Burgos",
+"zona": "Montes Obarenes",
+  "longitud_km": 8.3,
+  "desnivel_m": 437,
+  "pendiente_media_porcentaje": 5.3,
+  "pendiente_maxima_porcentaje": 12.1,
+  "altura_maxima_m": 972,
+  "categoria": "D",
   "superficie": "asfalto"
 },
 {
