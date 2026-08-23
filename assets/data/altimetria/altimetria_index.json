@@ -1,5 +1,20 @@
 [
 {
+  "id": "pico_de_las_nieves_por_carrizal",
+  "nombre": "Pico de las Nieves",
+  "vertiente": "por Carrizal",
+  "pais": "España",
+  "region": "Las Palmas",
+  "zona": "Cumbres de Gran Canaria",
+  "longitud_km": 27.2,
+  "desnivel_m": 1868,
+  "pendiente_media_porcentaje": 6.9,
+  "pendiente_maxima_porcentaje": 17.9,
+  "altura_maxima_m": 1930,
+  "categoria": "A",
+  "superficie": "asfalto"
+},
+{
   "id": "calar_alto_desde_bacares",
   "nombre": "Calar Alto",
   "vertiente": "desde Bacares",
@@ -177,6 +192,21 @@
   "pendiente_maxima_porcentaje": 17.7,
   "altura_maxima_m": 1520,
   "categoria": "A",
+  "superficie": "asfalto"
+},
+{
+  "id": "puerto_del_leon_por_olias",
+  "nombre": "Puerto del León",
+  "vertiente": "por Olías",
+  "pais": "España",
+  "region": "Málaga",
+"zona": "Montes de Málaga",
+  "longitud_km": 20.5,
+  "desnivel_m": 926,
+  "pendiente_media_porcentaje": 4.5,
+  "pendiente_maxima_porcentaje": 14.4,
+  "altura_maxima_m": 934,
+  "categoria": "C",
   "superficie": "asfalto"
 },
 {
@@ -1642,6 +1672,21 @@
   "superficie": "asfalto"
 },
   {
+  "id": "el_hito_por_san_martin_de_elines",
+  "nombre": "El Hito",
+  "vertiente": "por San Martín de Elines",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "longitud_km": 4.9,
+  "desnivel_m": 313,
+  "pendiente_media_porcentaje": 6.4,
+  "pendiente_maxima_porcentaje": 11.9,
+  "altura_maxima_m": 999,
+  "categoria": "D",
+  "superficie": "asfalto"
+},
+  {
   "id": "virgen_del_guila_desde_paniza",
   "nombre": "Virgen del Águila",
   "vertiente": "desde Paniza",
@@ -1684,6 +1729,36 @@
   "pendiente_maxima_porcentaje": 14.0,
   "altura_maxima_m": 737,
   "categoria": "C",
+  "superficie": "asfalto"
+},
+  {
+  "id": "alto_de_alcubierre_desde_alcubierre",
+  "nombre": "Alto de alcubierre",
+  "vertiente": "desde Alcubierre",
+  "pais": "España",
+  "region": "Huesca",
+  "zona": "Monegros",
+  "longitud_km": 6.25,
+  "desnivel_m": 157,
+  "pendiente_media_porcentaje": 2.5,
+  "pendiente_maxima_porcentaje": 6.2,
+  "altura_maxima_m": 611,
+  "categoria": "F",
+  "superficie": "asfalto"
+},
+  {
+  "id": "alto_de_alcubierre_desde_lecinena",
+  "nombre": "Alto de Alcubierre",
+  "vertiente": "desde Leciñena",
+  "pais": "España",
+  "region": "Zaragoza",
+"zona": "Monegros",
+  "longitud_km": 5.3,
+  "desnivel_m": 181,
+  "pendiente_media_porcentaje": 3.4,
+  "pendiente_maxima_porcentaje": 7.4,
+  "altura_maxima_m": 609,
+  "categoria": "F",
   "superficie": "asfalto"
 },
   {
