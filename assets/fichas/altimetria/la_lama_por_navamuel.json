@@ -1,8 +1,8 @@
 {
   "id": "la_lama_por_navamuel",
   "nombre": "La Lama",
-  "punto_inicio": "",
-  "categoria": "",
+  "punto_inicio": "Cruce CA-272 y CA-745",
+  "categoria": "D",
   "vertiente": "por Navamuel",
   "pais": "España",
   "region": "Cantabria",
@@ -16,7 +16,7 @@
     "lon": -4.108554
   },
   "longitud_km": 7.0,
-  "desnivel_m": 293,
+  "desnivel_m": 298,
   "altura_maxima_m": 1032,
   "pendiente_media_porcentaje": 4.2,
   "pendiente_maxima_porcentaje": 8.1,
@@ -27,19 +27,19 @@
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
-      "altitud": 747
+      "altitud": 744
     },
     {
       "kilometro": 0.1,
-      "altitud": 751
+      "altitud": 750
     },
     {
       "kilometro": 0.2,
-      "altitud": 755
+      "altitud": 754
     },
     {
       "kilometro": 0.3,
-      "altitud": 763
+      "altitud": 762
     },
     {
       "kilometro": 0.4,
@@ -303,11 +303,11 @@
     },
     {
       "kilometro": 6.9,
-      "altitud": 1030
+      "altitud": 1032
     },
  {
       "kilometro": 7.0,
-      "altitud": 1032
+      "altitud": 1035
     }
   ],
   "puntos_clave": [

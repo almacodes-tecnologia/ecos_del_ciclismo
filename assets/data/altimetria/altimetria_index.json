@@ -1204,6 +1204,21 @@
     "longitud_km": 24.6,
     "desnivel_m": 1832
   },
+   {
+  "id": "el_portillo_por_las_mestas",
+  "nombre": "El Portillo",
+  "vertiente": "por Las Mestas",
+  "pais": "España",
+  "region": "Cáceres",
+"zona": "Sistema Central",
+  "longitud_km": 14.75,
+  "desnivel_m": 788,
+  "pendiente_media_porcentaje": 5.4,
+  "pendiente_maxima_porcentaje": 13.7,
+  "altura_maxima_m": 1237,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
   {
     "id": "mont_ventoux_bedoin",
     "nombre": "Mont Ventoux",
@@ -1863,7 +1878,52 @@
   "pendiente_media_porcentaje": 5.2,
   "pendiente_maxima_porcentaje": 11.6,
   "altura_maxima_m": 2616,
+    "categoria": "B",
+  "superficie": "asfalto"
+  }
+  {
+  "id": "zorrozillas_por_ramales",
+  "nombre": "Zorrozillas",
+  "vertiente": "por Ramales",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Asón-Agüera",
+  "longitud_km": 5.15,
+  "desnivel_m": 339,
+  "pendiente_media_porcentaje": 6.6,
+  "pendiente_maxima_porcentaje": 17.5,
+  "altura_maxima_m": 413,
   "categoria": "",
+  "superficie": "asfalto"
+},
+  {
+  "id": "el_coteron_por_selaya_la_tejera",
+  "nombre": "El Coterón",
+  "vertiente": "por Selaya",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "longitud_km": 6.4,
+  "desnivel_m": 494,
+  "pendiente_media_porcentaje": 7.7,
+  "pendiente_maxima_porcentaje": 12.2,
+  "altura_maxima_m": 731,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+  {
+  "id": "las_garmillas_por_rascon",
+  "nombre": "Las Garmillas",
+  "vertiente": "por Ramales",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Asón-Agüera",
+  "longitud_km": 5.0,
+  "desnivel_m": 391,
+  "pendiente_media_porcentaje": 7.4,
+  "pendiente_maxima_porcentaje": 15.2,
+  "altura_maxima_m": 400,
+  "categoria": "C",
   "superficie": "asfalto"
 },
   {
@@ -1909,6 +1969,21 @@
   "pendiente_maxima_porcentaje": 15.5,
   "altura_maxima_m": 222,
   "categoria": "",
+  "superficie": "asfalto"
+},
+  {
+  "id": "la_lama_por_navamuel",
+  "nombre": "La Lama",
+  "vertiente": "por Navamuel",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "longitud_km": 7.0,
+  "desnivel_m": 298,
+  "pendiente_media_porcentaje": 4.2,
+  "pendiente_maxima_porcentaje": 8.1,
+  "altura_maxima_m": 1032,
+  "categoria": "D",
   "superficie": "asfalto"
 },
  {
