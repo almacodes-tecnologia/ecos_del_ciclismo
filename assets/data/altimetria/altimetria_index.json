@@ -1238,10 +1238,17 @@
   {
     "id": "el_purche_monachil",
     "nombre": "El Purche",
-    "vertiente": "dese Monachil",
+    "vertiente": "por Monachil",
     "pais": "España",
+    "region": "Granada",
+    "zona": "",
     "longitud_km": 8.5,
-    "desnivel_m": 704
+    "desnivel_m": 704,
+    "pendiente_media_porcentaje": 8.0,
+    "pendiente_maxima_porcentaje": 13.3,
+    "altura_maxima_m": 1490,
+    "categoria": "B",
+    "superficie": "asfalto"
   },
   {
     "id": "pico_veleta_cenes_de_la_vega",
@@ -1601,6 +1608,51 @@
 "pendiente_maxima_porcentaje": 8.4,
 "altura_maxima_m": 978,
 "categoria": "F",
+"superficie": "asfalto"
+},
+{
+  "id": "pozazal_por_barcena_de_ebro",
+  "nombre": "Pozazal",
+  "vertiente": "por Bárcena de Ebro",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Campoo-Los Valles",
+"longitud_km": 11.9,
+"desnivel_m": 240,
+"pendiente_media_porcentaje": 2.0,
+"pendiente_maxima_porcentaje": 6.7,
+"altura_maxima_m": 992,
+"categoria": "F",
+"superficie": "asfalto"
+},
+{
+  "id": "dorleta_por_a2101",
+  "nombre": "Virgen de Dorleta",
+  "vertiente": "Vertiente de Jaulin",
+  "pais": "España",
+  "region": "Zaragoza",
+  "zona": "Campo de Zaragoza",
+  "longitud_km": 3.9,
+  "desnivel_m": 164,
+  "pendiente_media_porcentaje": 4.2,
+  "pendiente_maxima_porcentaje": 7.1,
+"altura_maxima_m": 733,
+"categoria": "F",
+"superficie": "asfalto"
+},
+{
+  "id": "cruz_de_san_antonio_por_mogan",
+  "nombre": "Cruz de San Antonio",
+  "vertiente": "por Mogán",
+  "pais": "España",
+  "region": "Las Palmas",
+"zona": "Canarias",
+"longitud_km": 19.6,
+"desnivel_m": 926,
+"pendiente_media_porcentaje": 4.7,
+"pendiente_maxima_porcentaje": 9.8,
+"altura_maxima_m": 962,
+"categoria": "D",
 "superficie": "asfalto"
 },
   {

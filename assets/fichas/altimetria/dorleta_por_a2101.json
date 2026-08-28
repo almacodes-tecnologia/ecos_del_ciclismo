@@ -15,7 +15,7 @@
     "lat": 41.401181,
     "lon": -0.978492
   },
-  "longitud_km": 3.88,
+  "longitud_km": 3.9,
   "desnivel_m": 164,
   "altura_maxima_m": 733,
   "pendiente_media_porcentaje": 4.2,
@@ -23,7 +23,7 @@
   "superficie": "asfalto",
   "tags": [],
   "ultima_revision": "18/08/2026",
-  "descripcion": "",
+  "descripcion": "Corta ascensión hasta la Virgen de Dorleta, situada en lo alto del puerto de Jaulín. Es una subida muy conocida entre los ciclistas zaragozanos, con un trazado sencillo pero de pendiente creciente hacia la parte final y un final emblemático junto al monumento dedicado a la patrona de los ciclistas.",
   "altimetria_puntos": [
     {
       "kilometro": 0.0,
@@ -179,7 +179,11 @@
     },
     {
       "kilometro": 3.8,
-      "altitud": 731
+      "altitud": 732
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 733
     }
   ],
   "puntos_clave": [],
