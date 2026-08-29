@@ -1,0 +1,200 @@
+{
+  "id": "salcedo_por_polientes",
+  "nombre": "Salcedo",
+  "punto_inicio": "Polientes",
+  "categoria": "D",
+  "vertiente": "por Polientes",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Cordillera Cantábrica",
+  "coordenadas_inicio": {
+    "lat": 42.804556,
+    "lon": -3.930187
+  },
+  "coordenadas_final": {
+    "lat": 42.828331,
+    "lon": -3.94936
+  },
+  "longitud_km": 4.0,
+  "desnivel_m": 281,
+  "altura_maxima_m": 982,
+  "pendiente_media_porcentaje": 7.0,
+  "pendiente_maxima_porcentaje": 10.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "07/08/2026",
+  "descripcion": "Ascensión a Salcedo desde Polientes por una carretera local que gana altura entre bosques y prados del valle de Valderredible. En la parte alta aparecen buenas vistas sobre el valle del Ebro y el páramo de La Lora.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 706
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 707
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 707
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 710
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 711
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 713
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 715
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 720
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 725
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 732
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 740
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 749
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 758
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 767
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 775
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 784
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 793
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 803
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 812
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 821
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 829
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 837
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 845
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 853
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 861
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 869
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 878
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 887
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 896
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 906
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 915
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 924
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 934
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 943
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 952
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 960
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 967
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 973
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 977
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 980
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 982
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "salcedo-por-polientes.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,272 @@
+{
+  "id": "parador_de_gredos_por_san_martin_del_pimpollar",
+  "nombre": "Parador de Gredos",
+  "punto_inicio": "San Martín del Pimpollar",
+  "categoria": "D",
+  "vertiente": "por San Martín del Pimpollar",
+  "pais": "España",
+  "region": "Ávila",
+"zona": "Sierra de Gredos",
+  "coordenadas_inicio": {
+    "lat": 40.371343,
+    "lon": -5.060329
+  },
+  "coordenadas_final": {
+    "lat": 40.35515,
+    "lon": -5.112958
+  },
+  "longitud_km": 5.8,
+  "desnivel_m": 247,
+  "altura_maxima_m": 1587,
+  "pendiente_media_porcentaje": 4.3,
+  "pendiente_maxima_porcentaje": 8.3,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "08/08/2026",
+  "descripcion": "La subida al Parador de Gredos desde San Martín del Pimpollar se adentra en la Sierra de Gredos entre pinares y paisajes de montaña, hasta alcanzar el histórico Parador situado en el Alto del Risquillo. Inaugurado en 1928 por Alfonso XIII, fue el primer establecimiento de la Red de Paradores y años después acogió reuniones de los ponentes que participaron en la elaboración de la Constitución de 1978.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 1349
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1352
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1355
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1361
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1366
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1371
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1375
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1380
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1384
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1389
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1394
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1400
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1406
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1412
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1419
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1425
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1430
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1435
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1439
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1442
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1446
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1450
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1455
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1460
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1466
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1471
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1476
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1482
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1487
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1491
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1496
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1501
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1505
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1510
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1515
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1519
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1523
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1527
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1531
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1535
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1539
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1543
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1547
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1552
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1557
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1562
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1566
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1568
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1568
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1568
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1568
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1569
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1570
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1572
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1575
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1578
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1581
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1584
+    },
+   {
+      "kilometro": 5.8,
+      "altitud": 1587
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "parador-de-gredos-por-san-martin-del-pimpollar.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,196 @@
+{
+  "id": "repetidor_de_osma_por_osma",
+  "nombre": "Repetidor de Osma",
+  "punto_inicio": "Osma",
+  "categoria": "C",
+  "vertiente": "por Osma",
+  "pais": "España",
+  "region": "",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 42.889756,
+    "lon": -3.061821
+  },
+  "coordenadas_final": {
+    "lat": 42.901391,
+    "lon": -3.029952
+  },
+  "longitud_km": 3.9,
+  "desnivel_m": 498,
+  "altura_maxima_m": 1079,
+  "pendiente_media_porcentaje": 13.0,
+  "pendiente_maxima_porcentaje": 15.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 591
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 597
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 604
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 616
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 630
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 643
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 656
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 669
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 682
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 696
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 710
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 724
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 739
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 753
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 767
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 782
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 796
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 809
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 822
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 835
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 847
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 860
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 873
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 888
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 903
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 917
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 932
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 946
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 960
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 974
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 988
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 999
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1010
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1031
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1042
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1054
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1069
+    },
+  {
+      "kilometro": 3.9,
+      "altitud": 1079
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "repetidor-de-osma-por-osma.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

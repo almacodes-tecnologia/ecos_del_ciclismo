@@ -1,0 +1,252 @@
+{
+  "id": "collado_de_vilviestre_por_vilviestre_del_pinar",
+  "nombre": "Collado de Vilviestre",
+  "punto_inicio": "Cruce BU-8225 con CL-117",
+  "categoria": "F",
+  "vertiente": "por Vilviestre del Pinar",
+  "pais": "España",
+  "region": "Burgos",
+"zona": "Sierra de la Demanda",
+  "coordenadas_inicio": {
+    "lat": 41.965633,
+    "lon": -3.083822
+  },
+  "coordenadas_final": {
+    "lat": 41.929182,
+    "lon": -3.090205
+  },
+  "longitud_km": 5.3,
+  "desnivel_m": 206,
+  "altura_maxima_m": 1271,
+  "pendiente_media_porcentaje": 3.9,
+  "pendiente_maxima_porcentaje": 9.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "10/08/2026",
+  "descripcion": "Ascensión por la carretera que atraviesa los pinares de la comarca de Pinares hasta el Collado de Vilviestre. Es una subida tranquila, de pendientes moderadas y rodeada de extensos bosques de pino.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 1070
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1072
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1075
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1080
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1084
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1087
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1090
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1092
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1094
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1098
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1103
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1108
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1112
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1116
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1120
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1122
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1124
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1127
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1129
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1131
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1134
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1136
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1138
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1142
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1145
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1150
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1157
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1172
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1180
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1186
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1190
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1194
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1196
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1196
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1196
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1198
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1200
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1203
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1207
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1212
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1217
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1220
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1225
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1230
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1238
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1245
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1252
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1260
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1265
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1268
+    },
+   {
+      "kilometro": 5.2,
+      "altitud": 1271
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "collado-de-vilviestre-por-vilviestre-del-pinar.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,439 @@
+{
+  "id": "sierra_de_las_coronas_por_cires",
+  "nombre": "Sierra de las Coronas",
+  "punto_inicio": "Sobrelapeña",
+  "categoria": "C",
+  "vertiente": "por Cires",
+  "pais": "España",
+  "region": "",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 43.258112,
+    "lon": -4.482744
+  },
+  "coordenadas_final": {
+    "lat": 43.223176,
+    "lon": -4.517065
+  },
+  "longitud_km": 9.2,
+  "desnivel_m": 592,
+  "altura_maxima_m": 800,
+  "pendiente_media_porcentaje": 6.5,
+  "pendiente_maxima_porcentaje": 13.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "11/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 220
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 221
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 222
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 225
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 225
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 224
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 224
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 224
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 229
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 234
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 239
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 246
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 255
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 262
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 271
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 281
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 289
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 298
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 304
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 309
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 314
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 320
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 324
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 328
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 333
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 339
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 344
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 345
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 349
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 355
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 360
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 366
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 374
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 378
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 383
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 387
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 395
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 404
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 415
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 423
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 432
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 441
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 449
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 456
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 461
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 467
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 472
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 478
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 485
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 495
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 504
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 511
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 517
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 521
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 524
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 524
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 527
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 532
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 537
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 545
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 554
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 564
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 574
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 584
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 596
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 609
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 619
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 629
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 641
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 650
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 657
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 665
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 668
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 667
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 666
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 666
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 670
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 678
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 690
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 702
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 713
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 722
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 732
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 740
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 744
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 748
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 753
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 759
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 768
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 773
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 782
+    },
+ {
+      "kilometro": 9.1,
+      "altitud": 791
+    },
+ {
+      "kilometro": 9.2,
+      "altitud": 800
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.45,
+      "pendiente_porcentaje": 10.0,
+      "altitud": 274,
+      "nombre": "Rampa 10.0%"
+    },
+    {
+      "kilometro": 3.75,
+      "pendiente_porcentaje": 10.7,
+      "altitud": 405,
+      "nombre": "Rampa 10.7%"
+    },
+    {
+      "kilometro": 6.45,
+      "pendiente_porcentaje": 13.1,
+      "altitud": 608,
+      "nombre": "Rampa 13.1%"
+    },
+    {
+      "kilometro": 6.75,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 634,
+      "nombre": "Rampa 11.2%"
+    },
+    {
+      "kilometro": 7.85,
+      "pendiente_porcentaje": 12.0,
+      "altitud": 697,
+      "nombre": "Rampa 12.0%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "sierra-de-las-coronas-por-cires.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,296 @@
+{
+  "id": "lac_d_engolasters_por_escaldes",
+  "nombre": "Lac d´Engolasters",
+  "punto_inicio": "Cercanías de Las Escaldas",
+  "categoria": "D",
+  "vertiente": "por Escaldes-Engordany",
+  "pais": "Andorra",
+"region": "Escaldes-Engordany",
+"zona": "Pirineos",
+  "coordenadas_inicio": {
+    "lat": 42.512175,
+    "lon": 1.550539
+  },
+  "coordenadas_final": {
+    "lat": 42.517481,
+    "lon": 1.568003
+  },
+  "longitud_km": 6.4,
+  "desnivel_m": 535,
+  "altura_maxima_m": 1645,
+  "pendiente_media_porcentaje": 8.4,
+  "pendiente_maxima_porcentaje": 11.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "07/08/2026",
+  "descripcion": "La subida al lago de Engolasters es una de las ascensiones ciclistas más conocidas de Andorra, con fuertes pendientes entre bosques de pino hasta alcanzar este lago de origen glaciar. El recorrido pasa junto a la iglesia románica de Sant Miquel d’Engolasters y termina junto a la presa, construida en 1934 y fundamental para la producción hidroeléctrica del país. El lugar está además rodeado de antiguas leyendas sobre brujas y un pueblo que habría quedado sumergido bajo sus aguas.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 1114
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 1117
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 1120
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 1127
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1136
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1145
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1154
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1164
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1174
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1194
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1204
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1214
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1223
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1233
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1242
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1251
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1261
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1270
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1280
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1290
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1300
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1311
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1321
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1331
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1342
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1352
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1362
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1373
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1384
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1394
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1403
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1412
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1421
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1430
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1439
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1448
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1457
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1465
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1473
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1480
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1486
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1492
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1497
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1502
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1507
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1513
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1517
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1523
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1530
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1538
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1547
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1556
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1565
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1573
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1581
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1588
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1596
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1604
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1613
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1621
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1630
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1635
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1640
+    },
+ {
+      "kilometro": 6.4,
+      "altitud": 1645
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "lac-dengolasters-por-escaldes-engordany.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

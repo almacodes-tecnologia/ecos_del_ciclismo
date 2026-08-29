@@ -1,0 +1,387 @@
+{
+  "id": "embalse_de_alsa_por_barcena_de_pie_de_concha",
+  "nombre": "Embalse de Alsa",
+  "punto_inicio": "Bárcena de Pie de Concha",
+  "categoria": "C",
+  "vertiente": "por Alsa de Bárcena de Pie de Concha",
+  "pais": "España",
+  "region": "",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 43.126061,
+    "lon": -4.053622
+  },
+  "coordenadas_final": {
+    "lat": 43.09517,
+    "lon": -3.999195
+  },
+  "longitud_km": 8.1,
+  "desnivel_m": 551,
+  "altura_maxima_m": 842,
+  "pendiente_media_porcentaje": 6.8,
+  "pendiente_maxima_porcentaje": 12.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 300
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 301
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 303
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 307
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 311
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 315
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 319
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 323
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 328
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 334
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 341
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 349
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 357
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 366
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 375
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 384
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 391
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 401
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 410
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 419
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 429
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 441
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 454
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 465
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 475
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 485
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 494
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 502
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 510
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 520
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 529
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 540
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 550
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 558
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 567
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 577
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 585
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 595
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 604
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 613
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 623
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 634
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 644
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 655
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 664
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 673
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 681
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 688
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 692
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 697
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 701
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 708
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 714
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 722
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 730
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 739
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 746
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 754
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 762
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 769
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 775
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 776
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 781
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 787
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 796
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 801
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 808
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 813
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 820
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 823
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 827
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 828
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 829
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 830
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 832
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 833
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 835
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 836
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 837
+    },
+  {
+      "kilometro": 7.8,
+      "altitud": 838
+    },
+{
+      "kilometro": 7.9,
+      "altitud": 838
+    },
+{
+      "kilometro": 8.0,
+      "altitud": 839
+    },
+{
+      "kilometro": 8.1,
+      "altitud": 842
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 2.15,
+      "pendiente_porcentaje": 12.8,
+      "altitud": 447,
+      "nombre": "Rampa 12.8%"
+    },
+    {
+      "kilometro": 3.05,
+      "pendiente_porcentaje": 11.0,
+      "altitud": 536,
+      "nombre": "Rampa 11.0%"
+    },
+    {
+      "kilometro": 4.25,
+      "pendiente_porcentaje": 11.1,
+      "altitud": 644,
+      "nombre": "Rampa 11.1%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "embalse-de-alsa-por-barcena-de-pie-de-concha.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

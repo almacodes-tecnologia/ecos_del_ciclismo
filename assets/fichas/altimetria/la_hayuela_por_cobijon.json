@@ -1,0 +1,193 @@
+{
+  "id": "la_hayuela_por_cobijon",
+  "nombre": "La Hayuela",
+  "punto_inicio": "Cobijón",
+  "categoria": "F",
+  "vertiente": "por Cobijón",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Costa Occidental",
+  "coordenadas_inicio": {
+    "lat": 43.341425,
+    "lon": -4.238958
+  },
+  "coordenadas_final": {
+    "lat": 43.335422,
+    "lon": -4.268089
+  },
+  "longitud_km": 3.5,
+  "desnivel_m": 165,
+  "altura_maxima_m": 282,
+  "pendiente_media_porcentaje": 4.7,
+  "pendiente_maxima_porcentaje": 9.2,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "La subida a La Hayuela por Cobijón atraviesa las verdes colinas del valle de Udías, en el entorno de la costa occidental de Cantabria. Es una ascensión corta y llevadera, rodeada de prados y vegetación atlántica, que conduce hasta La Hayuela, localidad vinculada históricamente a la actividad minera de Udías y situada cerca de otros pequeños puertos y repechos muy conocidos entre los ciclistas de la zona.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 123
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 127
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 132
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 140
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 148
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 155
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 161
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 166
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 171
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 176
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 179
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 181
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 182
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 183
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 183
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 184
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 187
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 190
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 196
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 203
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 211
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 220
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 229
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 236
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 242
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 248
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 253
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 257
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 260
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 263
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 266
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 269
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 273
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 276
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 279
+    },
+ {
+      "kilometro": 3.5,
+      "altitud": 282
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 0.35,
+      "pendiente_porcentaje": 8.3,
+      "altitud": 140,
+      "nombre": "Rampa 8.3%"
+    },
+    {
+      "kilometro": 2.15,
+      "pendiente_porcentaje": 9.2,
+      "altitud": 221,
+      "nombre": "Rampa 9.2%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-hayuela-por-cobijon.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,465 @@
+{
+  "id": "monte_sta_catalina_por_la_hermida",
+  "nombre": "Monte Sta Catalina",
+  "punto_inicio": "La Hermida",
+  "categoria": "C",
+  "vertiente": "por La Hermida",
+  "pais": "España",
+  "region": "",
+  "zona": "",
+  "coordenadas_inicio": {
+    "lat": 43.25434,
+    "lon": -4.612622
+  },
+  "coordenadas_final": {
+    "lat": 43.241194,
+    "lon": -4.57324
+  },
+  "longitud_km": 10.3,
+  "desnivel_m": 606,
+  "altura_maxima_m": 713,
+  "pendiente_media_porcentaje": 5.9,
+  "pendiente_maxima_porcentaje": 12.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 111
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 114
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 117
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 122
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 129
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 135
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 141
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 147
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 153
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 160
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 166
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 173
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 178
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 184
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 189
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 194
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 200
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 205
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 210
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 215
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 220
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 226
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 231
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 238
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 244
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 251
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 257
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 264
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 270
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 277
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 284
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 291
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 299
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 306
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 314
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 321
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 330
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 337
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 345
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 352
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 359
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 365
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 371
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 377
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 382
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 389
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 395
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 402
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 407
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 410
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 411
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 410
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 408
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 405
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 405
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 405
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 406
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 407
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 409
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 410
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 412
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 414
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 418
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 423
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 428
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 433
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 438
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 444
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 451
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 458
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 465
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 473
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 481
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 488
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 495
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 502
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 508
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 515
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 522
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 527
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 533
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 539
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 546
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 554
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 565
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 577
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 589
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 601
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 613
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 625
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 637
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 650
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 662
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 675
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 688
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 694
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 706
+    },
+  {
+      "kilometro": 10.3,
+      "altitud": 713
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 9.45,
+      "pendiente_porcentaje": 12.3,
+      "altitud": 619,
+      "nombre": "Rampa 12.3%"
+    },
+    {
+      "kilometro": 9.95,
+      "pendiente_porcentaje": 12.9,
+      "altitud": 681,
+      "nombre": "Rampa 12.9%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "monte-sta-catalina-por-la-hermida.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

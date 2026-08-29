@@ -1,0 +1,391 @@
+{
+  "id": "lagunilla_por_abadia",
+  "nombre": "Lagunilla por Abadía",
+  "punto_inicio": "Oeste de Abadía",
+  "categoria": "D",
+  "vertiente": "por Abadía",
+  "pais": "España",
+  "region": "Cáceres",
+"zona": "Sistema Central",
+  "coordenadas_inicio": {
+    "lat": 40.267463,
+    "lon": -5.993503
+  },
+  "coordenadas_final": {
+    "lat": 40.320867,
+    "lon": -5.976829
+  },
+  "longitud_km": 8.3,
+  "desnivel_m": 476,
+  "altura_maxima_m": 934,
+  "pendiente_media_porcentaje": 5.8,
+  "pendiente_maxima_porcentaje": 12.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "09/08/2026",
+  "descripcion": "El Puerto de Lagunilla desde Abadía asciende desde el valle del Ambroz hacia la localidad salmantina de Lagunilla, atravesando un paisaje de transición entre las dehesas extremeñas y las montañas del Sistema Central. La subida tiene además un cierto interés histórico, ya que este paso comunicaba tradicionalmente Extremadura con Castilla y fue una vía importante entre ambos territorios.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 459
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 461
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 463
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 465
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 468
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 472
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 476
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 480
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 484
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 488
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 493
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 497
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 499
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 502
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 505
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 508
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 511
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 512
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 512
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 510
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 509
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 511
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 517
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 525
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 534
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 539
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 542
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 540
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 537
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 533
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 529
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 526
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 524
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 524
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 526
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 531
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 538
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 547
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 556
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 565
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 574
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 584
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 592
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 600
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 606
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 611
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 616
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 621
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 628
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 636
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 643
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 651
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 659
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 666
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 673
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 678
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 684
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 689
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 696
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 703
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 713
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 722
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 732
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 742
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 752
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 759
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 770
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 779
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 788
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 798
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 809
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 819
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 830
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 842
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 854
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 865
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 876
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 887
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 896
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 906
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 915
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 921
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 927
+    },
+  {
+      "kilometro": 8.3,
+      "altitud": 934
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 6.25,
+      "pendiente_porcentaje": 10.0,
+      "altitud": 736,
+      "nombre": "Rampa 10.0%"
+    },
+    {
+      "kilometro": 7.25,
+      "pendiente_porcentaje": 12.1,
+      "altitud": 837,
+      "nombre": "Rampa 12.1%"
+    },
+    {
+      "kilometro": 7.55,
+      "pendiente_porcentaje": 10.8,
+      "altitud": 869,
+      "nombre": "Rampa 10.8%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "lagunilla-por-abadia.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

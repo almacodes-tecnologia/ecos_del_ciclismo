@@ -1,0 +1,269 @@
+{
+  "id": "rasillo_por_bustillo",
+  "nombre": "Rasillo",
+  "punto_inicio": "Vega de Villafufre",
+  "categoria": "F",
+  "vertiente": "por Bustillo",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Valles Pasiegos",
+  "coordenadas_inicio": {
+    "lat": 43.254412,
+    "lon": -3.848804
+  },
+  "coordenadas_final": {
+    "lat": 43.249876,
+    "lon": -3.886553
+  },
+  "longitud_km": 5.4,
+  "desnivel_m": 178,
+  "altura_maxima_m": 323,
+  "pendiente_media_porcentaje": 3.3,
+  "pendiente_maxima_porcentaje": 11.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "10/08/2026",
+"descripcion": "La subida al Rasillo por Bustillo discurre por el tranquilo entorno del valle de Carriedo, entre prados, casonas montañesas y zonas de bosque características del interior de Cantabria. La parte alta pasa junto al hayedo de Rasillo, uno de los elementos naturales más destacados del entorno, mientras que los pequeños núcleos de Bustillo y Rasillo conservan numerosas casas tradicionales y antiguos solares de familias hidalgas.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 146
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 150
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 153
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 157
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 162
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 166
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 169
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 172
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 174
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 176
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 178
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 179
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 181
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 184
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 187
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 192
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 196
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 197
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 197
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 196
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 193
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 190
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 188
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 186
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 184
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 184
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 184
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 184
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 186
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 187
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 188
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 190
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 191
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 192
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 197
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 202
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 208
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 215
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 223
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 231
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 238
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 247
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 255
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 265
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 276
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 288
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 299
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 306
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 309
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 310
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 310
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 312
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 314
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 317
+    },
+   {
+      "kilometro": 5.4,
+      "altitud": 323
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 4.45,
+      "pendiente_porcentaje": 11.9,
+      "altitud": 283,
+      "nombre": "Rampa 11.9%"
+    },
+    {
+      "kilometro": 4.55,
+      "pendiente_porcentaje": 10.5,
+      "altitud": 287,
+      "nombre": "Rampa 10.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "rasillo-por-bustillo.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
