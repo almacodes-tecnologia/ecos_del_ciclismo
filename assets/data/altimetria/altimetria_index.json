@@ -631,6 +631,36 @@
   "superficie": "asfalto"
 },
 {
+  "id": "sirnitzpass_desde_munstertal",
+  "nombre": "Sirnitzpass",
+  "vertiente": "desde Münstertal",
+  "pais": "Alemania",
+  "region": "Baden-Württemberg",
+"zona": "Selva Negra",
+"longitud_km": 11.5,
+"desnivel_m": 693,
+"pendiente_media_porcentaje": 6.0,
+"pendiente_maxima_porcentaje": 10.3,
+  "altura_maxima_m": 1073,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+{
+  "id": "rogla_desde_puscava",
+  "nombre": "Rogla",
+  "vertiente": "desde Puščava",
+  "pais": "Eslovenia",
+  "region": "Pohorje",
+"zona": "Pohorje",
+"longitud_km": 19.35,
+"desnivel_m": 1146,
+"pendiente_media_porcentaje": 5.9,
+"pendiente_maxima_porcentaje": 11.2,
+  "altura_maxima_m": 1494,
+  "categoria": "A",
+  "superficie": "asfalto"
+},
+{
   "id": "alan_desde_stinica",
   "nombre": "Alan",
   "vertiente": "desde Stinica",
