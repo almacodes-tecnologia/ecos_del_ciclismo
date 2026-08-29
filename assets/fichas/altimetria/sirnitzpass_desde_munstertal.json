@@ -1,0 +1,513 @@
+{
+  "id": "sirnitzpass_desde_munstertal",
+  "nombre": "Sirnitzpass",
+  "punto_inicio": "Münstertal",
+  "categoria": "B",
+  "vertiente": "desde Münstertal",
+  "pais": "Alemania",
+  "region": "Baden-Württemberg",
+"zona": "Selva Negra",
+  "coordenadas_inicio": {
+    "lat": 47.852327,
+    "lon": 7.78647
+  },
+  "coordenadas_final": {
+    "lat": 47.80031,
+    "lon": 7.778086
+  },
+  "longitud_km": 11.5,
+  "desnivel_m": 693,
+  "altura_maxima_m": 1073,
+  "pendiente_media_porcentaje": 6.0,
+  "pendiente_maxima_porcentaje": 10.3,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "28/08/2026",
+  "descripcion": "Ascensión al Sirnitzpass desde Münstertal, atravesando los bosques de la Selva Negra meridional. La subida mantiene una pendiente sostenida durante buena parte del recorrido y culmina en el entorno del Kreuzweg, desde donde se abren vistas hacia los valles y montañas de la Selva Negra.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 381
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 383
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 384
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 387
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 389
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 391
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 393
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 396
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 398
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 400
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 403
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 406
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 409
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 412
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 415
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 418
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 421
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 425
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 428
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 432
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 436
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 439
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 443
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 447
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 451
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 456
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 461
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 467
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 472
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 478
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 482
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 487
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 492
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 497
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 502
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 507
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 511
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 516
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 522
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 527
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 532
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 537
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 542
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 547
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 554
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 561
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 569
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 578
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 587
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 596
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 605
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 614
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 622
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 633
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 643
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 653
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 663
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 673
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 683
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 692
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 701
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 709
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 716
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 723
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 729
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 735
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 741
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 747
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 753
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 760
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 766
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 772
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 778
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 784
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 790
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 796
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 802
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 809
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 815
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 822
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 828
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 835
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 841
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 847
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 853
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 859
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 866
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 872
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 879
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 885
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 892
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 899
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 907
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 915
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 923
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 932
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 939
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 946
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 954
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 961
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 969
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 977
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 985
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 993
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1001
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1008
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1014
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1025
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1031
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1037
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1043
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1056
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1066
+    },
+   {
+      "kilometro": 11.5,
+      "altitud": 1073
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 5.25,
+      "pendiente_porcentaje": 10.3,
+      "altitud": 628,
+      "nombre": "Rampa 10.3%"
+    },
+    {
+      "kilometro": 5.65,
+      "pendiente_porcentaje": 10.3,
+      "altitud": 667,
+      "nombre": "Rampa 10.3%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Sirnitzpass desde munstertal.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

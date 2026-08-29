@@ -1,0 +1,553 @@
+{
+  "id": "krvavec_desde_cerklje",
+  "nombre": "Krvavec",
+  "punto_inicio": "Cerklje",
+  "categoria": "A",
+  "vertiente": "desde Cerklje",
+  "pais": "Eslovenia",
+  "region": "Gorenjska",
+"zona": "Alpes de Kamnik y Savinja",
+  "coordenadas_inicio": {
+    "lat": 46.260887,
+    "lon": 14.49204
+  },
+  "coordenadas_final": {
+    "lat": 46.284979,
+    "lon": 14.532855
+  },
+  "longitud_km": 12.45,
+  "desnivel_m": 994,
+  "altura_maxima_m": 1420,
+  "pendiente_media_porcentaje": 8.0,
+  "pendiente_maxima_porcentaje": 13.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "28/08/2026",
+  "descripcion": "Una de las ascensiones de carretera más exigentes y conocidas de Eslovenia. Desde Cerklje, la carretera asciende de forma muy constante hacia Krvavec, atravesando bosques y prados alpinos hasta alcanzar la zona de Jezerce. Las duras rampas y las vistas sobre la cuenca de Liubliana y los Alpes de Kamnik y Savinja convierten esta subida en uno de los grandes retos ciclistas del país.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 428
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 429
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 430
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 433
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 437
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 443
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 450
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 460
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 471
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 483
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 496
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 510
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 523
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 536
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 548
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 561
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 573
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 585
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 596
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 607
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 619
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 630
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 639
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 646
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 653
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 660
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 667
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 675
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 684
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 691
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 695
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 696
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 695
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 693
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 691
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 692
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 693
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 696
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 701
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 706
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 713
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 721
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 730
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 740
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 749
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 758
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 767
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 775
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 784
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 792
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 800
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 809
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 817
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 825
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 833
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 841
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 850
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 859
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 868
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 877
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 885
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 892
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 898
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 904
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 910
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 917
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 925
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 933
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 940
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 947
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 953
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 959
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 965
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 973
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 981
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 988
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 996
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1004
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1012
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1021
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1031
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1040
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1050
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1059
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1068
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1078
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1100
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1111
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1122
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1132
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1141
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1151
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1159
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1168
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1187
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1197
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1206
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1215
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1223
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1231
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1239
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1247
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1255
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1263
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1273
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1282
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1292
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1301
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1310
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1320
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1329
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1339
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1349
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1359
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1368
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1377
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1387
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1397
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1404
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1410
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1415
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1417
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1419
+    },
+ {
+      "kilometro": 12.45,
+      "altitud": 1420
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.05,
+      "pendiente_porcentaje": 13.8,
+      "altitud": 502,
+      "nombre": "Rampa 13.8%"
+    },
+    {
+      "kilometro": 1.55,
+      "pendiente_porcentaje": 12.5,
+      "altitud": 568,
+      "nombre": "Rampa 12.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Krvavec desde Cerklje.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

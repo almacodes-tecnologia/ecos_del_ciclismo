@@ -1,0 +1,841 @@
+{
+  "id": "rogla_desde_puscava",
+  "nombre": "Rogla",
+  "punto_inicio": "Puščava",
+  "categoria": "A",
+  "vertiente": "desde Puščava",
+  "pais": "Eslovenia",
+  "region": "Pohorje",
+"zona": "Pohorje",
+  "coordenadas_inicio": {
+    "lat": 46.552026,
+    "lon": 15.408913
+  },
+  "coordenadas_final": {
+    "lat": 46.455526,
+    "lon": 15.341078
+  },
+  "longitud_km": 19.35,
+  "desnivel_m": 1146,
+  "altura_maxima_m": 1494,
+  "pendiente_media_porcentaje": 5.9,
+  "pendiente_maxima_porcentaje": 11.2,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "28/08/2026",
+  "descripcion": "Larga y exigente ascensión hasta Rogla desde Puščava, atravesando los extensos bosques del macizo de Pohorje. La subida mantiene una pendiente sostenida durante buena parte del recorrido y culmina en Rogla, uno de los principales centros de montaña y ciclismo de Eslovenia, a casi 1.500 metros de altitud.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 350
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 353
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 354
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 358
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 361
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 364
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 367
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 369
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 372
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 375
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 377
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 380
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 383
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 387
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 391
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 395
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 398
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 402
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 405
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 408
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 411
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 414
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 418
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 422
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 425
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 430
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 435
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 439
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 444
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 448
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 453
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 458
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 462
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 468
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 472
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 476
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 479
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 483
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 487
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 491
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 496
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 503
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 511
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 519
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 528
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 537
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 545
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 554
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 562
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 570
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 578
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 585
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 593
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 601
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 608
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 616
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 625
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 632
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 641
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 649
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 656
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 663
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 670
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 676
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 682
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 688
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 694
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 700
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 706
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 712
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 719
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 727
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 734
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 741
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 747
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 752
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 755
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 759
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 764
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 770
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 777
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 785
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 794
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 801
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 806
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 810
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 813
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 817
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 823
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 830
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 840
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 851
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 862
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 873
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 883
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 893
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 902
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 911
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 921
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 932
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 941
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 950
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 959
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 968
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 977
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 987
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 996
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1004
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1012
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1028
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1037
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1047
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1057
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1066
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1077
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1087
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1097
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1107
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1117
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 1128
+    },
+    {
+      "kilometro": 12.1,
+      "altitud": 1138
+    },
+    {
+      "kilometro": 12.2,
+      "altitud": 1149
+    },
+    {
+      "kilometro": 12.3,
+      "altitud": 1159
+    },
+    {
+      "kilometro": 12.4,
+      "altitud": 1169
+    },
+    {
+      "kilometro": 12.5,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 12.6,
+      "altitud": 1185
+    },
+    {
+      "kilometro": 12.7,
+      "altitud": 1193
+    },
+    {
+      "kilometro": 12.8,
+      "altitud": 1200
+    },
+    {
+      "kilometro": 12.9,
+      "altitud": 1207
+    },
+    {
+      "kilometro": 13.0,
+      "altitud": 1213
+    },
+    {
+      "kilometro": 13.1,
+      "altitud": 1220
+    },
+    {
+      "kilometro": 13.2,
+      "altitud": 1227
+    },
+    {
+      "kilometro": 13.3,
+      "altitud": 1233
+    },
+    {
+      "kilometro": 13.4,
+      "altitud": 1238
+    },
+    {
+      "kilometro": 13.5,
+      "altitud": 1243
+    },
+    {
+      "kilometro": 13.6,
+      "altitud": 1246
+    },
+    {
+      "kilometro": 13.7,
+      "altitud": 1248
+    },
+    {
+      "kilometro": 13.8,
+      "altitud": 1251
+    },
+    {
+      "kilometro": 13.9,
+      "altitud": 1254
+    },
+    {
+      "kilometro": 14.0,
+      "altitud": 1257
+    },
+    {
+      "kilometro": 14.1,
+      "altitud": 1262
+    },
+    {
+      "kilometro": 14.2,
+      "altitud": 1268
+    },
+    {
+      "kilometro": 14.3,
+      "altitud": 1273
+    },
+    {
+      "kilometro": 14.4,
+      "altitud": 1279
+    },
+    {
+      "kilometro": 14.5,
+      "altitud": 1284
+    },
+    {
+      "kilometro": 14.6,
+      "altitud": 1288
+    },
+    {
+      "kilometro": 14.7,
+      "altitud": 1291
+    },
+    {
+      "kilometro": 14.8,
+      "altitud": 1293
+    },
+    {
+      "kilometro": 14.9,
+      "altitud": 1295
+    },
+    {
+      "kilometro": 15.0,
+      "altitud": 1298
+    },
+    {
+      "kilometro": 15.1,
+      "altitud": 1301
+    },
+    {
+      "kilometro": 15.2,
+      "altitud": 1305
+    },
+    {
+      "kilometro": 15.3,
+      "altitud": 1309
+    },
+    {
+      "kilometro": 15.4,
+      "altitud": 1314
+    },
+    {
+      "kilometro": 15.5,
+      "altitud": 1319
+    },
+    {
+      "kilometro": 15.6,
+      "altitud": 1322
+    },
+    {
+      "kilometro": 15.7,
+      "altitud": 1325
+    },
+    {
+      "kilometro": 15.8,
+      "altitud": 1329
+    },
+    {
+      "kilometro": 15.9,
+      "altitud": 1334
+    },
+    {
+      "kilometro": 16.0,
+      "altitud": 1340
+    },
+    {
+      "kilometro": 16.1,
+      "altitud": 1347
+    },
+    {
+      "kilometro": 16.2,
+      "altitud": 1355
+    },
+    {
+      "kilometro": 16.3,
+      "altitud": 1363
+    },
+    {
+      "kilometro": 16.4,
+      "altitud": 1369
+    },
+    {
+      "kilometro": 16.5,
+      "altitud": 1375
+    },
+    {
+      "kilometro": 16.6,
+      "altitud": 1380
+    },
+    {
+      "kilometro": 16.7,
+      "altitud": 1384
+    },
+    {
+      "kilometro": 16.8,
+      "altitud": 1388
+    },
+    {
+      "kilometro": 16.9,
+      "altitud": 1394
+    },
+    {
+      "kilometro": 17.0,
+      "altitud": 1400
+    },
+    {
+      "kilometro": 17.1,
+      "altitud": 1407
+    },
+    {
+      "kilometro": 17.2,
+      "altitud": 1414
+    },
+    {
+      "kilometro": 17.3,
+      "altitud": 1420
+    },
+    {
+      "kilometro": 17.4,
+      "altitud": 1425
+    },
+    {
+      "kilometro": 17.5,
+      "altitud": 1427
+    },
+    {
+      "kilometro": 17.6,
+      "altitud": 1428
+    },
+    {
+      "kilometro": 17.7,
+      "altitud": 1428
+    },
+    {
+      "kilometro": 17.8,
+      "altitud": 1426
+    },
+    {
+      "kilometro": 17.9,
+      "altitud": 1424
+    },
+    {
+      "kilometro": 18.0,
+      "altitud": 1425
+    },
+    {
+      "kilometro": 18.1,
+      "altitud": 1427
+    },
+    {
+      "kilometro": 18.2,
+      "altitud": 1431
+    },
+    {
+      "kilometro": 18.3,
+      "altitud": 1437
+    },
+    {
+      "kilometro": 18.4,
+      "altitud": 1443
+    },
+    {
+      "kilometro": 18.5,
+      "altitud": 1451
+    },
+    {
+      "kilometro": 18.6,
+      "altitud": 1459
+    },
+    {
+      "kilometro": 18.7,
+      "altitud": 1467
+    },
+    {
+      "kilometro": 18.8,
+      "altitud": 1476
+    },
+    {
+      "kilometro": 18.9,
+      "altitud": 1483
+    },
+    {
+      "kilometro": 19.0,
+      "altitud": 1488
+    },
+    {
+      "kilometro": 19.1,
+      "altitud": 1491
+    },
+    {
+      "kilometro": 19.2,
+      "altitud": 1492
+    },
+    {
+      "kilometro": 19.3,
+      "altitud": 1493
+    },
+   {
+      "kilometro": 19.35,
+      "altitud": 1494
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 9.15,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 857,
+      "nombre": "Rampa 11.2%"
+    },
+    {
+      "kilometro": 9.85,
+      "pendiente_porcentaje": 10.4,
+      "altitud": 925,
+      "nombre": "Rampa 10.4%"
+    },
+    {
+      "kilometro": 11.45,
+      "pendiente_porcentaje": 10.4,
+      "altitud": 1073,
+      "nombre": "Rampa 10.4%"
+    },
+    {
+      "kilometro": 12.15,
+      "pendiente_porcentaje": 11.2,
+      "altitud": 1143,
+      "nombre": "Rampa 11.2%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Rogla desde Puščava.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
