@@ -1360,7 +1360,7 @@
   "superficie": "asfalto"
 },
 {
-  "id": "wikiloc_bonicaparra_por_ezcaray",
+  "id": "bonicaparra_por_ezcaray",
   "nombre": "Bonicaparra",
   "vertiente": "por Ezcaray",
   "pais": "España",
@@ -1413,6 +1413,51 @@
     "pais": "Francia",
   "longitud_km": 28.5,
   "desnivel_m": 1470
+  },
+  {
+    "id": "krvavec_desde_cerklje",
+    "nombre": "Krvavec",
+    "vertiente": "desde Cerklje",
+    "pais": "Eslovenia",
+    "region": "Gorenjska",
+  "zona": "Alpes de Kamnik y Savinja",
+  "longitud_km": 12.45,
+  "desnivel_m": 994,
+  "pendiente_media_porcentaje": 8.0,
+  "pendiente_maxima_porcentaje": 13.8,
+    "altura_maxima_m": 1420,
+    "categoria": "A",
+    "superficie": "asfalto"
+  },
+  {
+    "id": "belchen_desde_munstertal",
+    "nombre": "Belchen",
+    "vertiente": "desde Münstertal",
+    "pais": "Alemania",
+    "region": "Baden-Württemberg",
+  "zona": "Selva Negra",
+  "longitud_km": 24.0,
+  "desnivel_m": 971,
+  "pendiente_media_porcentaje": 4.1,
+  "pendiente_maxima_porcentaje": 10.3,
+    "altura_maxima_m": 1349,
+    "categoria": "B",
+    "superficie": "asfalto"
+  },
+  {
+    "id": "matanela_por_la_rasia",
+    "nombre": "Matanela",
+    "vertiente": "por la Rasia",
+    "pais": "España",
+    "region": "Cantabria",
+  "zona": "Valles Pasiegos",
+  "longitud_km": 19.9,
+  "desnivel_m": 690,
+  "pendiente_media_porcentaje": 3.5,
+  "pendiente_maxima_porcentaje": 13.8,
+    "altura_maxima_m": 1004,
+    "categoria": "D",
+    "superficie": "asfalto"
   },
   {
     "id": "col_daubisque_laruns",
