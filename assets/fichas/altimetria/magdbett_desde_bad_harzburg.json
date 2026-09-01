@@ -1,0 +1,460 @@
+{
+  "id": "magdbett_desde_bad_harzburg",
+  "nombre": "Magdbett",
+  "punto_inicio": "Bad Harzburg",
+  "categoria": "D",
+  "vertiente": "desde Bad Harzburg",
+  "pais": "Alemania",
+  "region": "Baja Sajonia",
+"zona": "Harz",
+  "coordenadas_inicio": {
+    "lat": 51.87368,
+    "lon": 10.561826
+  },
+  "coordenadas_final": {
+    "lat": 51.794327,
+    "lon": 10.540988
+  },
+  "longitud_km": 10.5,
+  "desnivel_m": 538,
+  "altura_maxima_m": 820,
+  "pendiente_media_porcentaje": 5.1,
+  "pendiente_maxima_porcentaje": 10.0,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "28/08/2026",
+  "descripcion": "Ascensión desde Bad Harzburg hacia el interior del macizo del Harz, atravesando un entorno predominantemente boscoso. La subida mantiene una pendiente moderada y bastante constante durante más de diez kilómetros, acumulando más de 500 metros de desnivel hasta alcanzar los 820 metros de altitud.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 286
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 288
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 289
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 292
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 295
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 299
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 303
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 307
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 312
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 316
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 321
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 326
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 330
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 335
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 340
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 345
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 350
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 355
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 360
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 365
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 370
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 376
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 382
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 388
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 395
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 402
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 408
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 416
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 424
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 432
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 441
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 449
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 458
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 467
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 476
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 484
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 492
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 500
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 509
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 517
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 525
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 533
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 541
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 548
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 554
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 561
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 567
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 574
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 581
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 588
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 594
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 600
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 606
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 610
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 614
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 618
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 620
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 622
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 624
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 625
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 627
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 629
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 632
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 635
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 638
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 641
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 644
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 645
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 647
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 648
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 649
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 651
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 653
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 656
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 660
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 665
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 670
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 676
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 681
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 688
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 695
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 703
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 712
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 722
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 732
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 742
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 752
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 761
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 770
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 778
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 785
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 792
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 797
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 801
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 803
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 803
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 802
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 801
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 800
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 800
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 801
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 805
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 809
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 812
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 815
+    },
+ {
+      "kilometro": 10.5,
+      "altitud": 820
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Magdbett desde bad harzburg.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

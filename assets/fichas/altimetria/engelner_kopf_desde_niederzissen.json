@@ -1,0 +1,353 @@
+{
+  "id": "engelner_kopf_desde_niederzissen",
+  "nombre": "Engelner Kopf",
+  "punto_inicio": "Niederzissen",
+  "categoria": "C",
+  "vertiente": "desde Niederzissen",
+  "pais": "Alemania",
+  "region": "Renania-Palatinado",
+"zona": "Eifel",
+  "coordenadas_inicio": {
+    "lat": 50.458112,
+    "lon": 7.215821
+  },
+  "coordenadas_final": {
+    "lat": 50.427681,
+    "lon": 7.145966
+  },
+  "longitud_km": 7.5,
+  "desnivel_m": 317,
+  "altura_maxima_m": 521,
+  "pendiente_media_porcentaje": 4.2,
+  "pendiente_maxima_porcentaje": 12.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "28/08/2026",
+"descripcion": "Ascensión por las colinas volcánicas de la Eifel desde Niederzissen hacia Engelner Kopf. La subida combina tramos de pendiente moderada con algunas rampas más exigentes, alcanzando más de 500 metros de altitud tras superar 300 metros de desnivel. El recorrido atraviesa un paisaje rural y boscoso característico de la Eifel."
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 208
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 211
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 213
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 218
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 223
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 228
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 234
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 240
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 246
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 253
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 260
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 266
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 274
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 281
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 287
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 293
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 299
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 304
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 308
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 313
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 318
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 322
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 327
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 330
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 334
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 336
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 339
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 342
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 345
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 348
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 349
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 349
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 348
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 347
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 347
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 346
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 346
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 346
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 345
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 345
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 344
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 343
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 343
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 342
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 341
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 341
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 341
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 343
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 345
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 349
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 355
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 361
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 366
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 370
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 373
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 373
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 374
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 376
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 379
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 384
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 391
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 400
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 409
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 421
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 434
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 446
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 456
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 465
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 472
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 479
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 486
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 494
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 504
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 509
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 514
+    },
+  {
+      "kilometro": 7.5,
+      "altitud": 521
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 6.35,
+      "pendiente_porcentaje": 12.7,
+      "altitud": 428,
+      "nombre": "Rampa 12.7%"
+    },
+    {
+      "kilometro": 6.55,
+      "pendiente_porcentaje": 10.4,
+      "altitud": 446,
+      "nombre": "Rampa 10.4%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Engelner kopf desde niederzissen.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

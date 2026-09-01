@@ -1,0 +1,302 @@
+{
+  "id": "la_hayuela_por_ruilobuca",
+  "nombre": "La Hayuela",
+  "punto_inicio": "La Hayuela",
+  "categoria": "F",
+  "vertiente": "por Ruilobuca",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Saja-Nansa",
+  "coordenadas_inicio": {
+    "lat": 43.380929,
+    "lon": -4.252036
+  },
+  "coordenadas_final": {
+    "lat": 43.335428,
+    "lon": -4.268408
+  },
+  "longitud_km": 6.5,
+  "desnivel_m": 251,
+  "altura_maxima_m": 287,
+  "pendiente_media_porcentaje": 3.9,
+  "pendiente_maxima_porcentaje": 8.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "region": "Cantabria",
+"zona": "Saja-Nansa",
+"descripcion": "Ascensión suave hacia La Hayuela desde Ruilobuca, atravesando el paisaje de media montaña del occidente de Cantabria. La carretera asciende de forma progresiva durante más de seis kilómetros, con una pendiente media moderada y algunas rampas puntuales cercanas al 9 %. Una subida sencilla, ideal para enlazar con otras ascensiones de la zona.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 37
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 38
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 39
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 41
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 43
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 45
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 48
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 51
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 53
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 57
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 61
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 67
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 74
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 81
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 89
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 96
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 103
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 109
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 115
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 121
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 128
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 135
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 141
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 147
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 151
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 154
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 155
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 154
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 152
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 151
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 150
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 150
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 152
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 156
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 161
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 167
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 173
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 179
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 183
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 187
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 190
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 193
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 194
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 196
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 198
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 201
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 206
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 211
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 216
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 222
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 227
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 231
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 235
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 237
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 240
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 242
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 245
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 249
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 254
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 259
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 264
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 270
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 276
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 279
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 282
+    },
+{
+      "kilometro": 6.5,
+      "altitud": 287
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-hayuela-por-ruilobuca.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

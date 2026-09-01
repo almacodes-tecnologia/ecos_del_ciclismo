@@ -1,0 +1,553 @@
+{
+  "id": "vrsic_desde_kranjska_gora",
+  "nombre": "Vršič desde Kranjska Gora",
+  "punto_inicio": "Kranjska Gora",
+  "categoria": "B",
+  "vertiente": "desde Kranjska Gora",
+  "pais": "Eslovenia",
+  "region": "Alta Carniola",
+"zona": "Alpes Julianos",
+  "coordenadas_inicio": {
+    "lat": 46.484072,
+    "lon": 13.788097
+  },
+  "coordenadas_final": {
+    "lat": 46.434841,
+    "lon": 13.743761
+  },
+  "longitud_km": 11.9,
+  "desnivel_m": 809,
+  "altura_maxima_m": 1609,
+  "pendiente_media_porcentaje": 6.8,
+  "pendiente_maxima_porcentaje": 11.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "28/08/2026",
+  "descripcion": "Una de las ascensiones más emblemáticas de Eslovenia, desde Kranjska Gora hasta el puerto de Vršič, atravesando el espectacular paisaje de los Alpes Julianos. La subida supera los 800 metros de desnivel en apenas 12 kilómetros y presenta una pendiente sostenida, con numerosas curvas de herradura en la parte alta. El puerto alcanza los 1.609 metros de altitud y constituye una de las grandes ascensiones ciclistas del país.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 802
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 803
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 804
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 807
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 809
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 812
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 814
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 817
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 818
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 820
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 822
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 824
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 826
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 829
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 832
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 833
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 834
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 835
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 836
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 837
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 839
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 841
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 844
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 846
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 848
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 851
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 855
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 861
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 867
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 875
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 883
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 891
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 899
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 907
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 915
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 923
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 930
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 936
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 940
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 944
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 947
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 951
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 954
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 959
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 965
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 972
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 979
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 986
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 993
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1000
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1006
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1011
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1016
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1020
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1026
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1031
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1038
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 1045
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 1059
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 1068
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 1079
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 1100
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 1110
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 1118
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 1126
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 1134
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 1142
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 1150
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 1159
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 1168
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 1177
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 1186
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 1195
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 1202
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 1210
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 1214
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 1220
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 1226
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 1233
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 1241
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 1251
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 1261
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 1272
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 1280
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 1287
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 1294
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 1301
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 1309
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 1318
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 1328
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 1337
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 1347
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 1358
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 1369
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 1381
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 1392
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 1403
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 1411
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 1420
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 1428
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 1438
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 1447
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 1458
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 1468
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 1479
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 1489
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 1499
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 1510
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 1520
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 1530
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 1540
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 1551
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 1562
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 1574
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 1585
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 1592
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 1600
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 1609
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 6.25,
+      "pendiente_porcentaje": 10.6,
+      "altitud": 1091,
+      "nombre": "Rampa 10.6%"
+    },
+    {
+      "kilometro": 8.25,
+      "pendiente_porcentaje": 10.4,
+      "altitud": 1255,
+      "nombre": "Rampa 10.4%"
+    },
+    {
+      "kilometro": 9.35,
+      "pendiente_porcentaje": 11.0,
+      "altitud": 1356,
+      "nombre": "Rampa 11.0%"
+    },
+    {
+      "kilometro": 9.55,
+      "pendiente_porcentaje": 11.8,
+      "altitud": 1377,
+      "nombre": "Rampa 11.8%"
+    },
+    {
+      "kilometro": 11.35,
+      "pendiente_porcentaje": 11.4,
+      "altitud": 1557,
+      "nombre": "Rampa 11.4%"
+    },
+    {
+      "kilometro": 11.55,
+      "pendiente_porcentaje": 11.9,
+      "altitud": 1579,
+      "nombre": "Rampa 11.9%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Vršič desde Kranjska Gora.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

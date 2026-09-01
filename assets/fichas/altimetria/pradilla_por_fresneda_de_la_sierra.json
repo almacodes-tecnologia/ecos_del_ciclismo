@@ -1,0 +1,240 @@
+{
+  "id": "pradilla_por_fresneda_de_la_sierra",
+  "nombre": "Pradilla",
+  "punto_inicio": "D",
+  "categoria": "",
+  "vertiente": "por Fresneda de la Sierra",
+  "pais": "España",
+  "region": "Burgos",
+"zona": "Sierra de la Demanda",
+  "coordenadas_inicio": {
+    "lat": 42.315794,
+    "lon": -3.132478
+  },
+  "coordenadas_final": {
+    "lat": 42.318092,
+    "lon": -3.104651
+  },
+  "longitud_km": 5.0,
+  "desnivel_m": 256,
+  "altura_maxima_m": 1236,
+  "pendiente_media_porcentaje": 5.1,
+  "pendiente_maxima_porcentaje": 7.1,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "Ascensión corta hacia Pradilla desde Fresneda de la Sierra, en el entorno montañoso de la Sierra de la Demanda. La carretera gana altura de manera progresiva a través de un paisaje dominado por bosques y montañas, con una pendiente media del 5,1 % y rampas de hasta el 7,1 %. Una subida de dificultad moderada que permite adentrarse en el sector burgalés de la Demanda.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 985
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 987
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 990
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 994
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 1000
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 1004
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 1009
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 1014
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 1019
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 1023
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 1028
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 1033
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1038
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1043
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1048
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1057
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1061
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1066
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1071
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1076
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1081
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1087
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1092
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1097
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1102
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1106
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1111
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1116
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1120
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1125
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1130
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1134
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1139
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1144
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1148
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1153
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1157
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1162
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1167
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1172
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1178
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1183
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1189
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1197
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1204
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1211
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1219
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1226
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1230
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1236
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "pradilla-por-fresneda-de-la-sierra.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,221 @@
+{
+  "id": "duna_por_ontoria",
+  "nombre": "Duña",
+  "punto_inicio": "La Serna-Ontoria",
+  "categoria": "F",
+  "vertiente": "por Ontoria",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Saja-Nansa",
+  "coordenadas_inicio": {
+    "lat": 43.316086,
+    "lon": -4.216808
+  },
+  "coordenadas_final": {
+    "lat": 43.333094,
+    "lon": -4.218383
+  },
+  "longitud_km": 4.2,
+  "desnivel_m": 165,
+  "altura_maxima_m": 285,
+  "pendiente_media_porcentaje": 3.9,
+  "pendiente_maxima_porcentaje": 8.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "Ascensión corta y tendida hacia Duña desde el entorno de Ontoria, en el occidente de Cantabria. La carretera gana altura de forma progresiva entre un paisaje de valles y montes, con una pendiente media moderada y algunas rampas cercanas al 9 %. Una subida sencilla, pero interesante para enlazar con otras ascensiones de la zona.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 129
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 134
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 141
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 150
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 157
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 163
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 169
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 171
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 174
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 180
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 188
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 194
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 199
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 204
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 208
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 210
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 212
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 215
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 219
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 220
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 219
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 221
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 223
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 227
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 235
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 242
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 249
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 253
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 255
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 254
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 255
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 257
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 256
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 257
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 258
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 258
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 260
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 265
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 271
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 277
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 280
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 283
+    },
+   {
+      "kilometro": 4.2,
+      "altitud": 285
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 0.25,
+      "pendiente_porcentaje": 8.8,
+      "altitud": 142,
+      "nombre": "Rampa 8.8%"
+    },
+    {
+      "kilometro": 0.95,
+      "pendiente_porcentaje": 8.5,
+      "altitud": 188,
+      "nombre": "Rampa 8.5%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "duna-por-ontoria.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

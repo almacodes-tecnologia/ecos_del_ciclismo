@@ -1,0 +1,405 @@
+{
+  "id": "torre_de_la_bastilla_por_lanestosa",
+  "nombre": "Torre de la Bastilla",
+  "punto_inicio": "Salto del Oso",
+  "categoria": "C",
+  "vertiente": "por Lanestosa",
+  "pais": "España",
+  "region": "Bizkaia",
+"zona": "Las Encartaciones",
+  "coordenadas_inicio": {
+    "lat": 43.247493,
+    "lon": -3.459743
+  },
+  "coordenadas_final": {
+    "lat": 43.203648,
+    "lon": -3.450748
+  },
+  "longitud_km": 8.44,
+  "desnivel_m": 563,
+  "altura_maxima_m": 668,
+  "pendiente_media_porcentaje": 6.7,
+  "pendiente_maxima_porcentaje": 15.9,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "Exigente ascensión desde el entorno de Lanestosa hacia la Torre de la Bastilla, con una pendiente media elevada y rampas que rozan el 16 %. La carretera asciende por un paisaje montañoso y boscoso del occidente de Bizkaia, ofreciendo una subida corta pero intensa hasta alcanzar los 668 metros de altitud.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 110
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 113
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 117
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 123
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 129
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 136
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 143
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 150
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 157
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 164
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 170
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 176
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 182
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 189
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 196
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 203
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 211
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 219
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 225
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 230
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 234
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 236
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 237
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 239
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 240
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 242
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 244
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 247
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 251
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 256
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 261
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 266
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 269
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 271
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 272
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 272
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 273
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 274
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 276
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 278
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 280
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 283
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 284
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 286
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 287
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 288
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 289
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 290
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 292
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 293
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 296
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 300
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 307
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 315
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 324
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 335
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 348
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 362
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 377
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 392
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 407
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 421
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 435
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 449
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 465
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 481
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 496
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 511
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 524
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 537
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 548
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 559
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 571
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 584
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 597
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 610
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 621
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 632
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 642
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 649
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 655
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 660
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 663
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 665
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 667
+    },
+ {
+      "kilometro": 8.45,
+      "altitud": 668
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 5.45,
+      "pendiente_porcentaje": 11.6,
+      "altitud": 329,
+      "nombre": "Rampa 11.6%"
+    },
+    {
+      "kilometro": 6.45,
+      "pendiente_porcentaje": 15.9,
+      "altitud": 473,
+      "nombre": "Rampa 15.9%"
+    },
+    {
+      "kilometro": 6.55,
+      "pendiente_porcentaje": 15.4,
+      "altitud": 488,
+      "nombre": "Rampa 15.4%"
+    },
+    {
+      "kilometro": 7.55,
+      "pendiente_porcentaje": 11.7,
+      "altitud": 613,
+      "nombre": "Rampa 11.7%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "torre-de-la-bastilla-por-lanestosa.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
