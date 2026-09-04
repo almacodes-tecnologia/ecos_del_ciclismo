@@ -2248,6 +2248,21 @@
   "categoria": "F",
   "superficie": "asfalto"
 },
+{
+  "id": "amieva_por_sames",
+  "nombre": "Amieva",
+  "vertiente": "por Sames",
+  "pais": "España",
+  "region": "Asturias",
+"zona": "Picos de Europa",
+"longitud_km": 7.7,
+"desnivel_m": 569,
+"pendiente_media_porcentaje": 7.4,
+"pendiente_maxima_porcentaje": 17.8,
+  "altura_maxima_m": 703,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
   {
   "id": "puerto_del_viento_el_burgo",
   "nombre": "Puerto del Viento",
@@ -2290,6 +2305,36 @@
 "pendiente_media_porcentaje": 6.3,
 "pendiente_maxima_porcentaje": 13.0,
   "altura_maxima_m": 743,
+  "categoria": "C",
+  "superficie": "asfalto"
+},
+{
+  "id": "kandel_desde_waldkirch",
+  "nombre": "Kandel",
+  "vertiente": "desde Waldkirch",
+  "pais": "Alemania",
+  "region": "Baden-Württemberg",
+"zona": "Selva Negra",
+"longitud_km": 10.75,
+"desnivel_m": 891,
+"pendiente_media_porcentaje": 8.3,
+"pendiente_maxima_porcentaje": 14.1,
+  "altura_maxima_m": 1203,
+  "categoria": "B",
+  "superficie": "asfalto"
+},
+{
+  "id": "caloca_por_pesaguero",
+  "nombre": "Caloca por Pesaguero",
+  "vertiente": "por Pesaguero",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Liébana",
+"longitud_km": 6.9,
+"desnivel_m": 523,
+"pendiente_media_porcentaje": 7.6,
+"pendiente_maxima_porcentaje": 13.1,
+  "altura_maxima_m": 1062,
   "categoria": "C",
   "superficie": "asfalto"
 },
