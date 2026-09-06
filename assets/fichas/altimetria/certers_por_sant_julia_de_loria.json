@@ -1,0 +1,268 @@
+{
+  "id": "certers_por_sant_julia_de_loria",
+  "nombre": "Certers por Sant Juliá de Loria",
+  "punto_inicio": "Sant Juliá de Loria",
+  "categoria": "C",
+  "vertiente": "por Sant Juliá de Loria",
+  "pais": "Andorra",
+  "region": "Andorra",
+"zona": "Pirineos",
+  "coordenadas_inicio": {
+    "lat": 42.466665,
+    "lon": 1.492669
+  },
+  "coordenadas_final": {
+    "lat": 42.475261,
+    "lon": 1.507245
+  },
+  "longitud_km": 5.65,
+  "desnivel_m": 455,
+  "altura_maxima_m": 1366,
+  "pendiente_media_porcentaje": 8.1,
+  "pendiente_maxima_porcentaje": 14.0,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "10/08/2026",
+  "descripcion": "Ascensión a Certèrs desde Sant Julià de Lòria por la CS-120, corta pero exigente y con una pendiente media superior al 8%. La subida atraviesa el valle de Sant Julià entre bosques y laderas de montaña, con varias rampas exigentes en la primera parte antes de suavizarse al acercarse a Certèrs. Desde la parte alta se disfrutan buenas vistas sobre el entorno de Sant Julià y los valles andorranos.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 918
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 923
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 926
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 933
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 942
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 950
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 957
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 965
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 975
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 982
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 990
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 999
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 1008
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 1017
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 1026
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 1035
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 1044
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 1052
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 1060
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 1069
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 1079
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 1088
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 1097
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1107
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1116
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1124
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1133
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1144
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1155
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1165
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1175
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1184
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1193
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1200
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1206
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1213
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 1219
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 1225
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 1232
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 1240
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 1246
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 1254
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 1262
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 1269
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 1276
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 1284
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 1291
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 1297
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 1302
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 1306
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 1311
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 1317
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 1325
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 1334
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 1344
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 1351
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 1360
+    },
+  {
+      "kilometro": 5.65,
+      "altitud": 1366
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "certers-por-sant-julia-de-loria.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

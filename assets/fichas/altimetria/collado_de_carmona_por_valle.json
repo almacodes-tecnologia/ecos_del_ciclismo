@@ -1,0 +1,232 @@
+{
+  "id": "collado_de_carmona_por_valle",
+  "nombre": "Collado de Carmona",
+  "punto_inicio": "Valle",
+  "categoria": "C",
+  "vertiente": "por Valle",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Saja-Nansa",
+  "coordenadas_inicio": {
+    "lat": 43.227489,
+    "lon": -4.301334
+  },
+  "coordenadas_final": {
+    "lat": 43.23988,
+    "lon": -4.325169
+  },
+  "longitud_km": 4.75,
+  "desnivel_m": 348,
+  "altura_maxima_m": 599,
+  "pendiente_media_porcentaje": 7.3,
+  "pendiente_maxima_porcentaje": 9.6,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "09/08/2026",
+  "descripcion": "Ascensión al Collado de Carmona desde Valle de Cabuérniga, una subida corta pero exigente y bastante regular. La carretera asciende entre prados y zonas boscosas por el valle de Cabuérniga, con varias rampas sostenidas en torno al 7-8%. La cima, situada a unos 600 metros, ofrece buenas panorámicas sobre los valles de Cabuérniga y Nansa.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 255
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 257
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 260
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 266
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 273
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 280
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 287
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 295
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 302
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 310
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 318
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 325
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 333
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 341
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 349
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 356
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 364
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 372
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 379
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 387
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 394
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 402
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 411
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 419
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 428
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 436
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 444
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 451
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 459
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 467
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 475
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 483
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 490
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 498
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 506
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 514
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 522
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 530
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 537
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 545
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 551
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 559
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 566
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 574
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 581
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 589
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 593
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 597
+    },
+  {
+      "kilometro": 4.75,
+      "altitud": 599
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "collado-de-carmona-por-valle.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

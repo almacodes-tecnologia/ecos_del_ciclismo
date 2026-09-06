@@ -1,0 +1,321 @@
+{
+  "id": "la_estranguada_por_llerana_montija",
+  "nombre": "La Estranguada",
+  "punto_inicio": "Llerana",
+  "categoria": "B",
+  "vertiente": "por Llerana - Montija",
+  "pais": "España",
+  "region": "Cantabria",
+"zona": "Valles Pasiegos",
+  "coordenadas_inicio": {
+    "lat": 43.262365,
+    "lon": -3.806875
+  },
+  "coordenadas_final": {
+    "lat": 43.27024,
+    "lon": -3.763359
+  },
+  "longitud_km": 6.7,
+  "desnivel_m": 480,
+  "altura_maxima_m": 677,
+  "pendiente_media_porcentaje": 7.3,
+  "pendiente_maxima_porcentaje": 18.6,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "07/08/2026",
+  "descripcion": "Ascensión a La Estranguada desde Llerana, atravesando el paisaje ganadero de los Valles Pasiegos. Es una subida exigente y de perfil irregular, con varias rampas duras intercaladas con pequeños descansos, que atraviesa praderías y zonas de bosque hasta alcanzar el collado. La carretera es estrecha y tranquila, y desde la parte alta se abren buenas panorámicas sobre los valles del Pisueña y del Miera.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 203
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 205
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 206
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 210
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 213
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 217
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 223
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 231
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 241
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 253
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 264
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 273
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 283
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 293
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 304
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 319
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 335
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 353
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 371
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 390
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 405
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 419
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 432
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 442
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 450
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 459
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 468
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 475
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 481
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 485
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 488
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 493
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 498
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 504
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 511
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 519
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 524
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 531
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 538
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 544
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 550
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 558
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 566
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 575
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 583
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 591
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 596
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 599
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 602
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 603
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 603
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 600
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 595
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 590
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 586
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 584
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 586
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 591
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 597
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 605
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 615
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 626
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 636
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 648
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 658
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 663
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 670
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 677
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.45,
+      "pendiente_porcentaje": 14.7,
+      "altitud": 318,
+      "nombre": "Rampa 14.7%"
+    },
+    {
+      "kilometro": 1.75,
+      "pendiente_porcentaje": 18.6,
+      "altitud": 361,
+      "nombre": "Rampa 18.6%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-estranguada-por-llerana.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

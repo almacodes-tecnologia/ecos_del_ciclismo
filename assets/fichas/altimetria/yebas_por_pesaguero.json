@@ -1,0 +1,183 @@
+{
+  "id": "yebas_por_pesaguero",
+  "nombre": "Yebas",
+  "punto_inicio": "CA-875",
+  "categoria": "F",
+  "vertiente": "por Pesaguero",
+  "pais": "España",
+    "region": "Cantabria",
+  "zona": "Liébana",
+  "coordenadas_inicio": {
+    "lat": 43.079315,
+    "lon": -4.555286
+  },
+  "coordenadas_final": {
+    "lat": 43.092934,
+    "lon": -4.579471
+  },
+  "longitud_km": 3.4,
+  "desnivel_m": 182,
+  "altura_maxima_m": 691,
+  "pendiente_media_porcentaje": 5.8,
+  "pendiente_maxima_porcentaje": 9.4,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "07/08/2026",
+    "descripcion": "Ascensión corta y de dificultad moderada hasta Yebas desde la CA-875, en el entorno de Pesaguero. La carretera asciende entre prados, bosques y pequeñas localidades de la montaña lebaniega, con un trazado tranquilo y algunas rampas de cierta entidad. El último tramo alcanza el pequeño núcleo de Yebas, situado en un entorno rural y ganadero con buenas vistas sobre el valle de Pesaguero.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 505
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 506
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 506
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 509
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 511
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 515
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 519
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 525
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 532
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 540
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 546
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 554
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 563
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 572
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 582
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 590
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 598
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 604
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 610
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 615
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 620
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 625
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 631
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 637
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 644
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 651
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 657
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 663
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 668
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 674
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 679
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 684
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 685
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 689
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 691
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.35,
+      "pendiente_porcentaje": 9.4,
+      "altitud": 579,
+      "nombre": "Rampa 9.4%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "yebas-por-pesaguero.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

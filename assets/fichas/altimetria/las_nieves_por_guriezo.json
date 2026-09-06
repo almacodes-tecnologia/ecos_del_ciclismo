@@ -1,0 +1,539 @@
+{
+  "id": "las_nieves_por_guriezo",
+  "nombre": "Las Nieves",
+  "punto_inicio": "La Magdalena",
+  "categoria": "D",
+  "vertiente": "por Guriezo",
+  "pais": "España",
+   "region": "Cantabria",
+  "zona": "Asón-Agüera",
+  "coordenadas_inicio": {
+    "lat": 43.354098,
+    "lon": -3.332307
+  },
+  "coordenadas_final": {
+    "lat": 43.312507,
+    "lon": -3.358635
+  },
+  "longitud_km": 12.0,
+  "desnivel_m": 641,
+  "altura_maxima_m": 675,
+  "pendiente_media_porcentaje": 5.5,
+  "pendiente_maxima_porcentaje": 12.2,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+    "descripcion": "Larga y exigente ascensión desde La Magdalena, en Guriezo, hasta el entorno de la ermita de Las Nieves. La subida comienza por la CA-510 hacia el puerto de Hoyomenor y, tras coronarlo, toma una estrecha carretera que conduce hacia Las Nieves. El recorrido atraviesa un paisaje de prados, bosque y montaña, con escaso tráfico y algunas rampas exigentes. El tramo final, ya por la pista asfaltada hacia la ermita, alcanza el Pico de las Nieves, con amplias vistas sobre el valle de Guriezo y las montañas del entorno. El firme de este último tramo fue reasfaltado y en 2026 presenta un estado aceptable.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 15
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 16
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 18
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 22
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 27
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 32
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 37
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 42
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 47
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 52
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 57
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 62
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 67
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 72
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 76
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 81
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 86
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 92
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 98
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 105
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 111
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 118
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 124
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 131
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 137
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 144
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 151
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 157
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 162
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 166
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 170
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 174
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 179
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 185
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 191
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 198
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 204
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 211
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 217
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 222
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 228
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 233
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 238
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 244
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 249
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 255
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 260
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 266
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 271
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 276
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 282
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 287
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 292
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 296
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 301
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 305
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 310
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 314
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 318
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 322
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 326
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 330
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 334
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 337
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 338
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 341
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 343
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 347
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 354
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 363
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 372
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 381
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 390
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 399
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 408
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 417
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 427
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 439
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 451
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 463
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 475
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 486
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 497
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 506
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 516
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 525
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 534
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 541
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 546
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 548
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 551
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 552
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 551
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 550
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 548
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 544
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 537
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 529
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 523
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 518
+    },
+    {
+      "kilometro": 10.0,
+      "altitud": 516
+    },
+    {
+      "kilometro": 10.1,
+      "altitud": 518
+    },
+    {
+      "kilometro": 10.2,
+      "altitud": 524
+    },
+    {
+      "kilometro": 10.3,
+      "altitud": 533
+    },
+    {
+      "kilometro": 10.4,
+      "altitud": 543
+    },
+    {
+      "kilometro": 10.5,
+      "altitud": 553
+    },
+    {
+      "kilometro": 10.6,
+      "altitud": 564
+    },
+    {
+      "kilometro": 10.7,
+      "altitud": 574
+    },
+    {
+      "kilometro": 10.8,
+      "altitud": 584
+    },
+    {
+      "kilometro": 10.9,
+      "altitud": 595
+    },
+    {
+      "kilometro": 11.0,
+      "altitud": 605
+    },
+    {
+      "kilometro": 11.1,
+      "altitud": 616
+    },
+    {
+      "kilometro": 11.2,
+      "altitud": 626
+    },
+    {
+      "kilometro": 11.3,
+      "altitud": 637
+    },
+    {
+      "kilometro": 11.4,
+      "altitud": 646
+    },
+    {
+      "kilometro": 11.5,
+      "altitud": 654
+    },
+    {
+      "kilometro": 11.6,
+      "altitud": 662
+    },
+    {
+      "kilometro": 11.7,
+      "altitud": 667
+    },
+    {
+      "kilometro": 11.8,
+      "altitud": 671
+    },
+    {
+      "kilometro": 11.9,
+      "altitud": 674
+    },
+    {
+      "kilometro": 12.0,
+      "altitud": 675
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 7.85,
+      "pendiente_porcentaje": 12.2,
+      "altitud": 457,
+      "nombre": "Rampa 12.2%"
+    },
+    {
+      "kilometro": 10.45,
+      "pendiente_porcentaje": 10.4,
+      "altitud": 548,
+      "nombre": "Rampa 10.4%"
+    },
+    {
+      "kilometro": 10.85,
+      "pendiente_porcentaje": 10.7,
+      "altitud": 590,
+      "nombre": "Rampa 10.7%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "las-nieves-por-guriezo.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

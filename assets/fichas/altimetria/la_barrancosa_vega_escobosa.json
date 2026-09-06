@@ -1,0 +1,465 @@
+{
+  "id": "la_barrancosa_vega_escobosa",
+  "nombre": "La Barrancosa",
+  "punto_inicio": "Proximidades de Ocejo",
+  "categoria": "D",
+  "vertiente": "por Vega Escobosa",
+  "pais": "España",
+   "region": "Cantabria",
+  "zona": "Valles Pasiegos",
+  "coordenadas_inicio": {
+    "lat": 43.173551,
+    "lon": -3.868359
+  },
+  "coordenadas_final": {
+    "lat": 43.176833,
+    "lon": -3.819911
+  },
+  "longitud_km": 9.95,
+  "desnivel_m": 546,
+  "altura_maxima_m": 782,
+  "pendiente_media_porcentaje": 5.5,
+  "pendiente_maxima_porcentaje": 12.4,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+    "descripcion": "Ascensión a La Barrancosa desde las proximidades de Ocejo, por Vega Escobosa, en el valle de Luena. Es una subida exigente y bastante irregular, con una pendiente media cercana al 5,5% y numerosas rampas que endurecen el recorrido. El trazado discurre por un entorno rural y muy tranquilo, entre prados, cabañales y laderas de montaña, con escasez de sombra en buena parte de la vertiente. La parte final alcanza La Barrancosa, en las proximidades del alto de Gamonal.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 241
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 245
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 248
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 255
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 263
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 272
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 281
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 291
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 300
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 310
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 319
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 329
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 339
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 350
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 361
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 373
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 385
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 397
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 408
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 420
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 431
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 442
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 452
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 462
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 471
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 479
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 489
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 500
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 511
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 523
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 535
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 547
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 557
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 566
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 574
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 581
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 587
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 592
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 599
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 605
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 612
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 619
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 625
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 629
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 631
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 632
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 634
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 635
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 637
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 639
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 639
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 637
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 634
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 632
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 631
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 632
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 636
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 643
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 652
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 663
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 674
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 686
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 698
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 710
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 721
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 730
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 738
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 744
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 748
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 751
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 755
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 759
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 763
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 767
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 770
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 773
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 774
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 773
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 771
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 768
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 764
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 760
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 757
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 756
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 757
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 759
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 760
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 761
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 759
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 756
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 754
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 754
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 755
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 759
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 763
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 768
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 772
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 776
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 778
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 781
+    },
+   {
+      "kilometro": 9.9,
+      "altitud": 782
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 1.45,
+      "pendiente_porcentaje": 11.7,
+      "altitud": 367,
+      "nombre": "Rampa 11.7%"
+    },
+    {
+      "kilometro": 1.55,
+      "pendiente_porcentaje": 12.4,
+      "altitud": 379,
+      "nombre": "Rampa 12.4%"
+    },
+    {
+      "kilometro": 2.95,
+      "pendiente_porcentaje": 12.1,
+      "altitud": 528,
+      "nombre": "Rampa 12.1%"
+    },
+    {
+      "kilometro": 6.05,
+      "pendiente_porcentaje": 11.9,
+      "altitud": 681,
+      "nombre": "Rampa 11.9%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-barrancosa-vega-escobosa.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

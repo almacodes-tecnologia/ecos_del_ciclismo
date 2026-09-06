@@ -1,0 +1,440 @@
+{
+  "id": "el_ragudo_por_viver",
+  "nombre": "El Ragudo",
+  "punto_inicio": "Víver",
+  "categoria": "F",
+  "vertiente": "por Víver",
+  "pais": "España",
+    "region": "Castellón",
+  "zona": "Alto Palancia",
+  "coordenadas_inicio": {
+    "lat": 39.92794,
+    "lon": -0.60248
+  },
+  "coordenadas_final": {
+    "lat": 39.97279,
+    "lon": -0.6592
+  },
+  "longitud_km": 10.0,
+  "desnivel_m": 379,
+  "altura_maxima_m": 997,
+  "pendiente_media_porcentaje": 3.8,
+  "pendiente_maxima_porcentaje": 9.0,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+    "descripcion": "Ascensión al Alto de Ragudo desde Viver, en el Alto Palancia, siguiendo el antiguo trazado de la carretera hacia las tierras altas de Barracas. Es una subida larga y muy regular, con pendientes generalmente suaves y algunas rampas más exigentes, pero sin grandes cambios de ritmo. El recorrido atraviesa zonas de cultivos, pinares y monte bajo, con buenas vistas sobre el valle del Palancia. La carretera está asfaltada y el tráfico es escaso, especialmente en la parte alta, aunque el firme se vuelve algo más rugoso y antiguo al alejarse de la carretera principal.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 618
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 620
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 622
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 626
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 631
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 635
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 639
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 643
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 648
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 651
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 653
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 655
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 657
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 658
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 661
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 664
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 668
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 673
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 677
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 682
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 686
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 689
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 693
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 698
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 702
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 707
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 711
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 715
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 717
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 718
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 718
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 717
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 716
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 715
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 716
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 718
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 721
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 725
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 728
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 732
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 735
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 737
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 740
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 744
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 749
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 754
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 760
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 767
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 773
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 779
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 784
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 788
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 792
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 796
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 801
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 806
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 812
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 817
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 821
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 826
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 832
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 836
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 842
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 850
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 855
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 858
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 863
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 869
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 873
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 878
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 882
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 887
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 890
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 896
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 901
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 907
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 911
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 912
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 914
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 915
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 920
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 925
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 931
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 936
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 943
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 948
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 953
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 958
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 961
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 963
+    },
+    {
+      "kilometro": 9.0,
+      "altitud": 967
+    },
+    {
+      "kilometro": 9.1,
+      "altitud": 970
+    },
+    {
+      "kilometro": 9.2,
+      "altitud": 973
+    },
+    {
+      "kilometro": 9.3,
+      "altitud": 978
+    },
+    {
+      "kilometro": 9.4,
+      "altitud": 984
+    },
+    {
+      "kilometro": 9.5,
+      "altitud": 988
+    },
+    {
+      "kilometro": 9.6,
+      "altitud": 991
+    },
+    {
+      "kilometro": 9.7,
+      "altitud": 994
+    },
+    {
+      "kilometro": 9.8,
+      "altitud": 995
+    },
+    {
+      "kilometro": 9.9,
+      "altitud": 995
+    },
+ {
+      "kilometro": 10.0,
+      "altitud": 997
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "puerto-del-ragudo-por-viver.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

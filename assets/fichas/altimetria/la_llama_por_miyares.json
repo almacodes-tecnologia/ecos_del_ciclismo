@@ -1,0 +1,401 @@
+{
+  "id": "la_llama_por_miyares",
+  "nombre": "La LLama",
+  "punto_inicio": "Puente de la Barquera",
+  "categoria": "F",
+  "vertiente": "por Miyares",
+  "pais": "España",
+  "region": "Asturias",
+  "zona": "Cordillera Cantábrica",
+  "coordenadas_inicio": {
+    "lat": 43.369783,
+    "lon": -5.296595
+  },
+  "coordenadas_final": {
+    "lat": 43.411282,
+    "lon": -5.310377
+  },
+  "longitud_km": 9.0,
+  "desnivel_m": 289,
+  "altura_maxima_m": 331,
+  "pendiente_media_porcentaje": 3.2,
+  "pendiente_maxima_porcentaje": 8.2,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "18/08/2026",
+  "descripcion": "Ascensión asturiana de pendiente suave que parte del entorno del Puente de la Barquera y se adentra hacia el interior por la vertiente de Miyares. Sus 9 kilómetros presentan un desnivel moderado y una pendiente generalmente llevadera, aunque incluye algunas rampas más exigentes. El recorrido transcurre por un paisaje rural y montañoso del oriente asturiano, con una ascensión más constante que dura que realmente difícil."
+},
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 46
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 48
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 50
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 54
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 59
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 63
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 68
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 73
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 78
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 83
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 88
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 94
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 99
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 103
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 107
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 110
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 113
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 115
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 117
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 117
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 116
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 114
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 111
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 108
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 103
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 99
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 94
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 90
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 86
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 83
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 80
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 79
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 78
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 77
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 76
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 76
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 76
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 77
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 79
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 82
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 86
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 90
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 94
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 97
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 100
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 101
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 101
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 102
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 103
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 104
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 107
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 110
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 115
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 120
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 125
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 131
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 138
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 145
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 152
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 160
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 167
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 174
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 180
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 187
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 194
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 200
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 206
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 212
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 217
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 222
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 227
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 232
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 237
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 242
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 247
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 252
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 257
+    },
+    {
+      "kilometro": 7.7,
+      "altitud": 263
+    },
+    {
+      "kilometro": 7.8,
+      "altitud": 269
+    },
+    {
+      "kilometro": 7.9,
+      "altitud": 276
+    },
+    {
+      "kilometro": 8.0,
+      "altitud": 283
+    },
+    {
+      "kilometro": 8.1,
+      "altitud": 289
+    },
+    {
+      "kilometro": 8.2,
+      "altitud": 296
+    },
+    {
+      "kilometro": 8.3,
+      "altitud": 302
+    },
+    {
+      "kilometro": 8.4,
+      "altitud": 308
+    },
+    {
+      "kilometro": 8.5,
+      "altitud": 313
+    },
+    {
+      "kilometro": 8.6,
+      "altitud": 319
+    },
+    {
+      "kilometro": 8.7,
+      "altitud": 323
+    },
+    {
+      "kilometro": 8.8,
+      "altitud": 326
+    },
+    {
+      "kilometro": 8.9,
+      "altitud": 329
+    },
+  {
+      "kilometro": 9.0,
+      "altitud": 331
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "la-llama-por-miyares.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

@@ -1,0 +1,355 @@
+{
+  "id": "monte_de_la_garita_por_altamira",
+  "nombre": "Monte de la Garita",
+  "punto_inicio": "Puente San Miguel",
+  "categoria": "F",
+  "vertiente": "por Altamira",
+  "pais": "España",
+   "region": "Cantabria",
+  "zona": "Costa Occidental",
+  "coordenadas_inicio": {
+    "lat": 43.362083,
+    "lon": -4.087981
+  },
+  "coordenadas_final": {
+    "lat": 43.380016,
+    "lon": -4.14435
+  },
+  "longitud_km": 7.7,
+  "desnivel_m": 241,
+  "altura_maxima_m": 263,
+  "pendiente_media_porcentaje": 3.1,
+  "pendiente_maxima_porcentaje": 9.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "16/08/2026",
+    "descripcion": "Ascensión al Monte de la Garita desde Puente San Miguel pasando por Altamira, en el entorno de Santillana del Mar y Reocín. Es una subida corta y bastante llevadera, aunque presenta algunos repechos más exigentes. El recorrido atraviesa un paisaje rural de prados y pequeñas masas boscosas, con la presencia cercana de la cueva de Altamira. La carretera está asfaltada y el tramo final alcanza el Monte de la Garita, a unos 260 metros de altitud.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 24
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 26
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 28
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 32
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 38
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 43
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 47
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 51
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 54
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 56
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 59
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 63
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 67
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 72
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 76
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 80
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 83
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 86
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 87
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 87
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 85
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 83
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 80
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 76
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 73
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 71
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 70
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 69
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 68
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 68
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 67
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 67
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 66
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 66
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 66
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 65
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 65
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 67
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 70
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 75
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 82
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 89
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 95
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 101
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 106
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 110
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 113
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 116
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 117
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 118
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 118
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 118
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 119
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 121
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 126
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 132
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 137
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 140
+    },
+    {
+      "kilometro": 5.8,
+      "altitud": 142
+    },
+    {
+      "kilometro": 5.9,
+      "altitud": 143
+    },
+    {
+      "kilometro": 6.0,
+      "altitud": 145
+    },
+    {
+      "kilometro": 6.1,
+      "altitud": 147
+    },
+    {
+      "kilometro": 6.2,
+      "altitud": 152
+    },
+    {
+      "kilometro": 6.3,
+      "altitud": 158
+    },
+    {
+      "kilometro": 6.4,
+      "altitud": 165
+    },
+    {
+      "kilometro": 6.5,
+      "altitud": 172
+    },
+    {
+      "kilometro": 6.6,
+      "altitud": 180
+    },
+    {
+      "kilometro": 6.7,
+      "altitud": 189
+    },
+    {
+      "kilometro": 6.8,
+      "altitud": 196
+    },
+    {
+      "kilometro": 6.9,
+      "altitud": 203
+    },
+    {
+      "kilometro": 7.0,
+      "altitud": 210
+    },
+    {
+      "kilometro": 7.1,
+      "altitud": 218
+    },
+    {
+      "kilometro": 7.2,
+      "altitud": 227
+    },
+    {
+      "kilometro": 7.3,
+      "altitud": 237
+    },
+    {
+      "kilometro": 7.4,
+      "altitud": 246
+    },
+    {
+      "kilometro": 7.5,
+      "altitud": 252
+    },
+    {
+      "kilometro": 7.6,
+      "altitud": 257
+    },
+   {
+      "kilometro": 7.7,
+      "altitud": 263
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 7.35,
+      "pendiente_porcentaje": 9.7,
+      "altitud": 238,
+      "nombre": "Rampa 9.7%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "monte-de-la-garita-por-altamira.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
