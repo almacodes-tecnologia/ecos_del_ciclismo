@@ -1,0 +1,285 @@
+{
+  "id": "glengesh_pass_desde_brackey",
+  "nombre": "Glengesh Pass",
+  "punto_inicio": "Brackey",
+  "categoria": "C",
+  "vertiente": "desde Brackey",
+  "pais": "Irlanda",
+  "region": "Donegal",
+  "zona": "Península de Banagh",
+  "coordenadas_inicio": {
+    "lat": 54.747362,
+    "lon": -8.424745
+  },
+  "coordenadas_final": {
+    "lat": 54.720374,
+    "lon": -8.487715
+  },
+  "longitud_km": 5.75,
+  "desnivel_m": 247,
+  "altura_maxima_m": 272,
+  "pendiente_media_porcentaje": 4.3,
+  "pendiente_maxima_porcentaje": 11.7,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "10/09/2026",
+  "descripcion": "Ascensión al Glengesh Pass desde Brackey, en el condado de Donegal, por una estrecha carretera de montaña que une la zona de Ardara con Glencolmcille. Es una subida relativamente corta pero con rampas exigentes y numerosas curvas, que atraviesa un espectacular valle de origen glaciar rodeado por las montañas de Glengesh y Mulmosog. El paisaje es muy abierto, con laderas verdes, turberas, muros de piedra y algunas explotaciones ganaderas, y desde la parte alta se obtienen amplias vistas sobre el valle y hacia Loughros Beg Bay. La carretera está asfaltada, aunque es estrecha y muy revirada.",
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 30
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 31
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 33
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 38
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 43
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 47
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 49
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 51
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 52
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 52
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 52
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 54
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 56
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 58
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 60
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 62
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 66
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 69
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 72
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 74
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 75
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 75
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 74
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 73
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 73
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 73
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 74
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 76
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 77
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 78
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 79
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 81
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 82
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 85
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 88
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 92
+    },
+    {
+      "kilometro": 3.6,
+      "altitud": 97
+    },
+    {
+      "kilometro": 3.7,
+      "altitud": 101
+    },
+    {
+      "kilometro": 3.8,
+      "altitud": 103
+    },
+    {
+      "kilometro": 3.9,
+      "altitud": 105
+    },
+    {
+      "kilometro": 4.0,
+      "altitud": 108
+    },
+    {
+      "kilometro": 4.1,
+      "altitud": 113
+    },
+    {
+      "kilometro": 4.2,
+      "altitud": 121
+    },
+    {
+      "kilometro": 4.3,
+      "altitud": 131
+    },
+    {
+      "kilometro": 4.4,
+      "altitud": 141
+    },
+    {
+      "kilometro": 4.5,
+      "altitud": 152
+    },
+    {
+      "kilometro": 4.6,
+      "altitud": 164
+    },
+    {
+      "kilometro": 4.7,
+      "altitud": 175
+    },
+    {
+      "kilometro": 4.8,
+      "altitud": 186
+    },
+    {
+      "kilometro": 4.9,
+      "altitud": 197
+    },
+    {
+      "kilometro": 5.0,
+      "altitud": 208
+    },
+    {
+      "kilometro": 5.1,
+      "altitud": 218
+    },
+    {
+      "kilometro": 5.2,
+      "altitud": 229
+    },
+    {
+      "kilometro": 5.3,
+      "altitud": 239
+    },
+    {
+      "kilometro": 5.4,
+      "altitud": 250
+    },
+    {
+      "kilometro": 5.5,
+      "altitud": 260
+    },
+    {
+      "kilometro": 5.6,
+      "altitud": 265
+    },
+    {
+      "kilometro": 5.7,
+      "altitud": 270
+    },
+  {
+      "kilometro": 5.75,
+      "altitud": 272
+    }
+  ],
+  "puntos_clave": [
+    {
+      "kilometro": 4.45,
+      "pendiente_porcentaje": 11.1,
+      "altitud": 144,
+      "nombre": "Rampa 11.1%"
+    },
+    {
+      "kilometro": 4.55,
+      "pendiente_porcentaje": 11.7,
+      "altitud": 157,
+      "nombre": "Rampa 11.7%"
+    }
+  ],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "Glengesh pass desde brackey.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
