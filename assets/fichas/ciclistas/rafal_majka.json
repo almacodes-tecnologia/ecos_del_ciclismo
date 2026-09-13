@@ -1,284 +1,279 @@
 {
-  "id": "rafal_majka",
-  "nombre": "Rafal Majka",
-  "nacionalidad": "Polonia",
-  "anioNacimiento": 1989,
-  "activo": "2009-2025",
-  "especialidad": [
-    "carretera",
-	"montaña"
-  ],
-"equipos": [
-  {
-    "anio": 2009,
-    "equipo": "Miche-Silver Cross-Selle Italia"
-  },
-  {
-    "anio": 2010,
-    "equipo": "Miche-Silver Cross-Selle Italia"
-  },
-  {
-    "anio": 2011,
-    "equipo": "Saxo Bank Sungard"
-  },
-  {
-    "anio": 2012,
-    "equipo": "Saxo Bank-Tinkoff Bank"
-  },
-  {
-    "anio": 2013,
-    "equipo": "Team Saxo-Tinkoff"
-  },
-  {
-    "anio": 2014,
-    "equipo": "Tinkoff-Saxo"
-  },
-  {
-    "anio": 2015,
-    "equipo": "Tinkoff-Saxo"
-  },
-  {
-    "anio": 2016,
-    "equipo": "Tinkoff"
-  },
-  {
-    "anio": 2017,
-    "equipo": "Bora-Hansgrohe"
-  },
-  {
-    "anio": 2018,
-    "equipo": "Bora-Hansgrohe"
-  },
-  {
-    "anio": 2019,
-    "equipo": "Bora-Hansgrohe"
-  },
-  {
-    "anio": 2020,
-    "equipo": "Bora-Hansgrohe"
-  },
-  {
-    "anio": 2021,
-    "equipo": "UAE Team Emirates"
-  },
-  {
-    "anio": 2022,
-    "equipo": "UAE Team Emirates"
-  },
-  {
-    "anio": 2023,
-    "equipo": "UAE Team Emirates"
-  },
-  {
-    "anio": 2024,
-    "equipo": "UAE Team Emirates"
-  },
-  {
-    "anio": 2025,
-    "equipo": "UAE Team Emirates XRG"
-  }
-],
-  "palmares": {
-   "2014":[
-   "2 etapas del Tour de Francia",
-   "Clasificación de la montaña del Tour de Francia", 
-   "Tour de Polonia",
-   "2 etapas del Tour de Polonia"
-   ],
-	"2015":[
-	"1 etapa del Tour de Francia",
-	"3º en la Vuelta a España"
-	],
-
-	"2016":[
-	"Campeonato de Polonia en Ruta",  
-	"Clasificación de la montaña del Tour de Francia ",
-	"3º en los Juegos Olímpicos en Ruta"
-	],
-	"2017":[
-	"1 etapa del Tour de California",
-	"Tour de Eslovenia",
-	"1 etapa del Tour de Eslovenia",
-	"1 etapa de la Vuelta a España"
-	],
-	"2021":[
-	"1 etapa de la Vuelta a España"
-	],
-	"2022":[
-	"2 etapas del Tour de Eslovenia"
-	],
-	"2023":[
-	"1 etapa del Tour de Polonia"
-	],
-	"2025":[
-	"Campeonato de Polonia en Ruta"
-	]
-
-},
-
-  "resumenPalmares": [
-  "3 etapas del Tour de Francia",
-  "2 clasificaciones de la montaña del Tour de Francia",
-  "3º en La Vuelta a España",
-  "2 etapas en La Vuelta a España",
-  "Bronce en los Juegos Olímpicos en Ruta"
-  ],
-  "resultadosGrandesVueltas": [
-      {
-      "anio": 2013,
-      "carrera": "Giro de Italia",
-      "puesto": "7"
+    "id": "rafal_majka",
+    "nombre": "Rafal Majka",
+    "nacionalidad": "Polonia",
+    "anioNacimiento": 1989,
+    "activo": "2009-2025",
+    "especialidad": [
+        "carretera",
+        "montaña"
+    ],
+    "equipos": [
+        {
+            "anio": 2009,
+            "equipo": "Miche-Silver Cross-Selle Italia"
+        },
+        {
+            "anio": 2010,
+            "equipo": "Miche-Silver Cross-Selle Italia"
+        },
+        {
+            "anio": 2011,
+            "equipo": "Saxo Bank Sungard"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Saxo Bank-Tinkoff Bank"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Team Saxo-Tinkoff"
+        },
+        {
+            "anio": 2014,
+            "equipo": "Tinkoff-Saxo"
+        },
+        {
+            "anio": 2015,
+            "equipo": "Tinkoff-Saxo"
+        },
+        {
+            "anio": 2016,
+            "equipo": "Tinkoff"
+        },
+        {
+            "anio": 2017,
+            "equipo": "Bora-Hansgrohe"
+        },
+        {
+            "anio": 2018,
+            "equipo": "Bora-Hansgrohe"
+        },
+        {
+            "anio": 2019,
+            "equipo": "Bora-Hansgrohe"
+        },
+        {
+            "anio": 2020,
+            "equipo": "Bora-Hansgrohe"
+        },
+        {
+            "anio": 2021,
+            "equipo": "UAE Team Emirates"
+        },
+        {
+            "anio": 2022,
+            "equipo": "UAE Team Emirates"
+        },
+        {
+            "anio": 2023,
+            "equipo": "UAE Team Emirates"
+        },
+        {
+            "anio": 2024,
+            "equipo": "UAE Team Emirates"
+        },
+        {
+            "anio": 2025,
+            "equipo": "UAE Team Emirates XRG"
+        }
+    ],
+    "palmares": {
+        "2014": [
+            "2 etapas del Tour de Francia,",
+            "clasificación de la montaña",
+            "Tour de Polonia,",
+            "2 etapas"
+        ],
+        "2015": [
+            "1 etapa del Tour de Francia",
+            "3.º en la Vuelta a España"
+        ],
+        "2016": [
+            "Campeonato de Polonia en Ruta",
+            "Clasificación de la montaña del Tour de Francia",
+            "3.º en los Juegos Olímpicos en Ruta"
+        ],
+        "2017": [
+            "1 etapa del Tour de California",
+            "Tour de Eslovenia,",
+            "1 etapa",
+            "1 etapa de la Vuelta a España"
+        ],
+        "2021": [
+            "1 etapa de la Vuelta a España"
+        ],
+        "2022": [
+            "2 etapas del Tour de Eslovenia"
+        ],
+        "2023": [
+            "1 etapa del Tour de Polonia"
+        ],
+        "2025": [
+            "Campeonato de Polonia en Ruta"
+        ]
     },
-    {
-      "anio": 2014,
-      "carrera": "Giro de Italia",
-      "puesto": "6"
-    },
-	    {
-      "anio": 2016,
-      "carrera": "Giro de Italia",
-      "puesto": "5"
-    },
-	    {
-      "anio": 2019,
-      "carrera": "Giro de Italia",
-      "puesto": "6"
-    },
-	    {
-      "anio": 2020,
-      "carrera": "Giro de Italia",
-      "puesto": "12"
-    },
-	    {
-      "anio": 2024,
-      "carrera": "Giro de Italia",
-      "puesto": "15"
-    },
-	    {
-      "anio": 2025,
-      "carrera": "Giro de Italia",
-      "puesto": "13"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tour de Francia",
-      "puesto": "44"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Tour de Francia",
-      "puesto": "28"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Tour de Francia",
-      "puesto": "27"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Tour de Francia",
-      "puesto": "NC."
-    },
-    {
-      "anio": 2018,
-      "carrera": "Tour de Francia",
-      "puesto": "19"
-    },
-    {
-      "anio": 2021,
-      "carrera": "Tour de Francia",
-      "puesto": "39"
-    },
-    {
-      "anio": 2022,
-      "carrera": "Tour de Francia",
-      "puesto": "NC."
-    },
-    {
-      "anio": 2023,
-      "carrera": "Tour de Francia",
-      "puesto": "14"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Vuelta a España",
-      "puesto": "NC."
-    },
-    {
-      "anio": 2012,
-      "carrera": "Vuelta a España",
-      "puesto": "32"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Vuelta a España",
-      "puesto": "19"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Vuelta a España",
-      "puesto": "3"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Vuelta a España",
-      "puesto": "39"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Vuelta a España",
-      "puesto": "13"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Vuelta a España",
-      "puesto": "6"
-    },
-    {
-      "anio": 2021,
-      "carrera": "Vuelta a España",
-      "puesto": "21"
+    "resumenPalmares": [
+        "3 etapas del Tour de Francia",
+        "2 clasificaciones de la montaña del Tour de Francia",
+        "3º en La Vuelta a España",
+        "2 etapas en La Vuelta a España",
+        "Bronce en los Juegos Olímpicos en Ruta"
+    ],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2013,
+            "carrera": "Giro de Italia",
+            "puesto": "7"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Giro de Italia",
+            "puesto": "6"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Giro de Italia",
+            "puesto": "5"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Giro de Italia",
+            "puesto": "6"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Giro de Italia",
+            "puesto": "12"
+        },
+        {
+            "anio": 2024,
+            "carrera": "Giro de Italia",
+            "puesto": "15"
+        },
+        {
+            "anio": 2025,
+            "carrera": "Giro de Italia",
+            "puesto": "13"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tour de Francia",
+            "puesto": "44"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Tour de Francia",
+            "puesto": "28"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Tour de Francia",
+            "puesto": "27"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Tour de Francia",
+            "puesto": "NC."
+        },
+        {
+            "anio": 2018,
+            "carrera": "Tour de Francia",
+            "puesto": "19"
+        },
+        {
+            "anio": 2021,
+            "carrera": "Tour de Francia",
+            "puesto": "39"
+        },
+        {
+            "anio": 2022,
+            "carrera": "Tour de Francia",
+            "puesto": "NC."
+        },
+        {
+            "anio": 2023,
+            "carrera": "Tour de Francia",
+            "puesto": "14"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Vuelta a España",
+            "puesto": "NC."
+        },
+        {
+            "anio": 2012,
+            "carrera": "Vuelta a España",
+            "puesto": "32"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Vuelta a España",
+            "puesto": "19"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Vuelta a España",
+            "puesto": "3"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Vuelta a España",
+            "puesto": "39"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Vuelta a España",
+            "puesto": "13"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Vuelta a España",
+            "puesto": "6"
+        },
+        {
+            "anio": 2021,
+            "carrera": "Vuelta a España",
+            "puesto": "21"
+        }
+    ],
+    "resultadosMonumentos": [],
+    "resultadosMundiales": [
+        {
+            "anio": 2013,
+            "carrera": "Mundial en Ruta",
+            "puesto": "58"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Mundial en Ruta",
+            "puesto": "74"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Mundial en Ruta",
+            "puesto": "35"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Mundial en Ruta",
+            "puesto": "NC."
+        }
+    ],
+    "resultadosVueltasMenores": [],
+    "habilidades": {
+        "llano": 3,
+        "montana": 7,
+        "media_montana": 7,
+        "muros": 6,
+        "pave": 1,
+        "sprint": 2,
+        "aceleracion": 7,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 4,
+        "combatividad": 9,
+        "contrarreloj": 4,
+        "pista": 1,
+        "tierra": 1
     }
-  ],
-  "resultadosMonumentos": [],
-  "resultadosMundiales": [
-    {
-      "anio": 2013,
-      "carrera": "Mundial en Ruta",
-      "puesto": "58"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Mundial en Ruta",
-      "puesto": "74"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Mundial en Ruta",
-      "puesto": "35"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Mundial en Ruta",
-      "puesto": "NC."
-    }
-  ],
-  "resultadosVueltasMenores": [
-    
-  ],
-  "habilidades": {
-    "llano": 3,
-    "montana": 7,
-    "media_montana": 7,
-    "muros": 6,
-    "pave": 1,
-    "sprint": 2,
-    "aceleracion": 7,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 4,
-    "combatividad": 9,
-    "contrarreloj": 4,
-    "pista": 1,
-    "tierra": 1
-  }
 }

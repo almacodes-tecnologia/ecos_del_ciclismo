@@ -1,0 +1,154 @@
+{
+    "idCarrera": "tour-de-pologne",
+    "anio": 2026,
+    "distancia": 1096.6,
+    "desnivel": 10480,
+    "tiempo": "24h 33' 49\"",
+    "ciclistasInscritos": 147,
+    "ciclistasFinalizados": 127,
+    "clasificacionGeneral": [
+        {
+            "puesto": 1,
+            "nombre": "Brenner Marco",
+            "pais": "Alemania",
+            "equipo": "Tudor Pro Cycling Team",
+            "ventaja": "0"
+        },
+        {
+            "puesto": 2,
+            "nombre": "Fisher-Black Finn",
+            "pais": "Nueva Zelanda",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 10 s"
+        },
+        {
+            "puesto": 3,
+            "nombre": "Romeo Iván",
+            "pais": "España",
+            "equipo": "Movistar Team",
+            "ventaja": "+ 16 s"
+        },
+        {
+            "puesto": 4,
+            "nombre": "Barré Louis",
+            "pais": "Francia",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 19 s"
+        },
+        {
+            "puesto": 5,
+            "nombre": "Lemmen Bart",
+            "pais": "Países Bajos",
+            "equipo": "Team Visma | Lease a Bike",
+            "ventaja": "+ 20 s"
+        },
+        {
+            "puesto": 6,
+            "nombre": "Christen Jan",
+            "pais": "Suiza",
+            "equipo": "UAE Team Emirates - XRG",
+            "ventaja": "+ 22 s"
+        },
+        {
+            "puesto": 7,
+            "nombre": "Scaroni Christian",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 25 s"
+        },
+        {
+            "puesto": 8,
+            "nombre": "Sobrero Matteo",
+            "pais": "Italia",
+            "equipo": "Lidl - Trek",
+            "ventaja": "+ 28 s"
+        },
+        {
+            "puesto": 9,
+            "nombre": "Bettiol Alberto",
+            "pais": "Italia",
+            "equipo": "XDS Astana Team",
+            "ventaja": "+ 30 s"
+        },
+        {
+            "puesto": 10,
+            "nombre": "Vlasov Aleksandr",
+            "pais": "Rusia",
+            "equipo": "Red Bull - BORA - hansgrohe",
+            "ventaja": "+ 34 s"
+        }
+    ],
+    "ganadorPuntos": {
+        "nombre": "Brenner Marco",
+        "pais": "Alemania",
+        "equipo": "Tudor Pro Cycling Team"
+    },
+    "ganadorMontana": {
+        "nombre": "Calzoni Walter",
+        "pais": "Italia",
+        "equipo": "Pinarello Q36.5 Pro Cycling Team"
+    },
+    "ganadorJovenes": {},
+    "ganadorEquipos": {
+        "nombre": " Team Visma | Lease a Bike",
+        "pais": "Países Bajos"
+    },
+    "etapas": [
+        {
+            "etapa": 1,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 234.2,
+            "desnivel": 1839,
+            "velocidadMedia": 46.196
+        },
+        {
+            "etapa": 2,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 150.1,
+            "desnivel": 579,
+            "velocidadMedia": 48.519
+        },
+        {
+            "etapa": 3,
+            "nombre": "Milan Jonathan",
+            "pais": "Italia",
+            "distancia": 193.5,
+            "desnivel": 878,
+            "velocidadMedia": 46.099
+        },
+        {
+            "etapa": 4,
+            "nombre": "Lemmen Bart",
+            "pais": "Países Bajos",
+            "distancia": 161.9,
+            "desnivel": 2234,
+            "velocidadMedia": 41.38
+        },
+        {
+            "etapa": 5,
+            "nombre": "Christen Jan",
+            "pais": "Suiza",
+            "distancia": 218.9,
+            "desnivel": 1977,
+            "velocidadMedia": 44.744
+        },
+        {
+            "etapa": 6,
+            "nombre": "Barré Louis",
+            "pais": "Francia",
+            "distancia": 125.5,
+            "desnivel": 2794,
+            "velocidadMedia": 39.831
+        },
+        {
+            "etapa": 7,
+            "nombre": "Küng Stefan",
+            "pais": "Suiza",
+            "distancia": 12.5,
+            "desnivel": 179,
+            "velocidadMedia": 52.023
+        }
+    ]
+}
