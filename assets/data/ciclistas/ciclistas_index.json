@@ -1,385 +1,889 @@
 [
-      {
-  "id": "andrei_kivilev",
-  "nombre": "Andrei Kivilev",
-  "nacionalidad": "Kazajistán",
-  "activo": "1998-2003",
-      "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-    "genero": "masculino"
-  },
-      {
-    "id": "fernando_escartin",
-  "nombre": "Fernando Escartín",
-  "nacionalidad": "España",
-  "activo": "1990-2002",
-    "especialidad": ["escalador"],
-    "genero": "masculino"
-  },
-      {
-    "id": "christophe_moreau",
-    "nombre": "Christophe Moreau",
-    "nacionalidad": "Francia",
-    "activo": "1994-2010",
-    "especialidad": ["escalador", "clasicómano", "vueltómano"],
-    "genero": "masculino"
-  },
-      {
-    "id": "roberto_heras",
-    "nombre": "Roberto Heras",
-    "nacionalidad": "España",
-    "activo": "1995-2005",
-    "especialidad": ["escalador"],
-    "genero": "masculino"
-  },
-        {
-    "id": "joseba_beloki",
-    "nombre": "Joseba Beloki",
-    "nacionalidad": "España",
-    "activo": "1999-2006",
-    "especialidad": ["escalador", "vueltómano", "carretera"],
-    "genero": "masculino"
-  },
-      {
-    "id": "rui_costa",
-    "nombre": "Rui Costa",
-    "nacionalidad": "Portugal",
-    "activo": "2007-2025",
-    "especialidad": ["muros", "clasicómano"],
-    "genero": "masculino"
-  },
-      {
-    "id": "abraham_olano",
-    "nombre": "Abraham Olan",
-    "nacionalidad": "España",
-    "activo": "1992-2002",
-    "especialidad": ["carretera", "contrarreloj"],
-    "genero": "masculino"
-  },
-      {
-    "id": "michael_woods",
-    "nombre": "Michael Woods",
-    "nacionalidad": "Canadá",
-    "activo": "2013-2025",
-    "especialidad": ["carretera", "mtb"],
-    "genero": "masculino"
-  },
-      {
-    "id": "ryder_hesjedal",
-    "nombre": "Ryder Hesjedal",
-    "nacionalidad": "Canadá",
-    "activo": "2002-2016",
-    "especialidad": ["carretera", "mtb"],
-    "genero": "masculino"
-  },
     {
-    "id": "alexander_kristoff",
-    "nombre": "Alexander Kristoff",
-    "nacionalidad": "Noruega",
-    "activo": "2006-2025",
-    "especialidad": ["carretera", "esprinter"],
-    "genero": "masculino"
-  },
-  {
-    "id": "miguel_indurain",
-    "nombre": "Miguel Indurain",
-    "nacionalidad": "España",
-    "activo": "1984-1996",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "eddy_merckx",
-    "nombre": "Eddy Merckx",
-    "nacionalidad": "Bélgica",
-    "activo": "1965-1978",
-    "especialidad": ["carretera", "pista"],
-    "genero": "masculino"
-  },
-  {
-    "id": "bernard_hinault",
-    "nombre": "Bernard Hinault",
-    "nacionalidad": "Francia",
-    "activo": "1975-1986",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "peter_sagan",
-    "nombre": "Peter Sagan",
-    "nacionalidad": "Eslovaquia",
-    "activo": "2010-2023",
-    "especialidad": ["carretera", "mountain bike"],
-    "genero": "masculino"
-  },
-  {
-    "id": "sean_kelly",
-    "nombre": "Sean Kelly",
-    "nacionalidad": "Irlanda",
-    "activo": "1977-1994",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "gino_bartali",
-    "nombre": "Gino Bartali",
-    "nacionalidad": "Italia",
-    "activo": "1935-1954",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "aleksandr_vinokurov",
-    "nombre": "Aleksandr Vinokurov",
-    "nacionalidad": "Kazajistan",
-    "activo": "1998-2012",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "fausto_coppi",
-    "nombre": "Fausto Coppi",
-    "nacionalidad": "Italia",
-    "activo": "1939-1959",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "bradley_wiggins",
-    "nombre": "Bradley Wiggins",
-    "nacionalidad": "Reino Unido",
-    "activo": "2001-2016",
-    "especialidad": ["carretera", "pista"],
-    "genero": "masculino"
-  },
-  {
-    "id": "stephen_roche",
-    "nombre": "Stephen Roche",
-    "nacionalidad": "Irlanda",
-    "activo": "1981-1993",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "nicolas_frantz",
-    "nombre": "Nicolas Frantz",
-    "nacionalidad": "Luxemburgo",
-    "activo": "1923-1934",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "greg_lemond",
-    "nombre": "Greg LeMond",
-    "nacionalidad": "Estados Unidos",
-    "activo": "1981-1994",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "lucho_herrera",
-    "nombre": "Lucho Herrera",
-    "nacionalidad": "Colombia",
-    "activo": "1982-1992",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "alejandro_valverde",
-    "nombre": "Alejandro Valverde",
-    "nacionalidad": "España",
-    "activo": "2002-2022",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "cadel_evans",
-    "nombre": "Cadel Evans",
-    "nacionalidad": "Australia",
-    "activo": "1999-2015",
-    "especialidad": [
-      "carretera",
-      "montaña"],
-    "genero": "masculino"
-  },
-  {
-    "id": "alberto_contador",
-    "nombre": "Alberto Contador",
-    "nacionalidad": "España",
-    "activo": "2003-2017",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "alex_zulle",
-    "nombre": "Alex Zülle",
-    "nacionalidad": "Suiza",
-    "activo": "1991-2004",
-    "especialidad": ["carretera", "contrarreloj"],
-    "genero": "masculino"
-  },
-  {
-    "id": "richard_virenque",
-    "nombre": "Richard Virenque",
-    "nacionalidad": "Francia",
-    "activo": "1991-2004",
-    "especialidad": ["carretera", "escalador"],
-    "genero": "masculino"
-  },
-  {
-    "id": "joop_zoetemelk",
-    "nombre": "Joop Zoetemelk",
-    "nacionalidad": "Paises Bajos",
-    "activo": "1970-1987",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "jacques_anquetil",
-    "nombre": "Jacques Anquetil",
-    "nacionalidad": "Francia",
-    "activo": "1953-1969",
-    "especialidad": ["carretera", "pista"],
-    "genero": "masculino"
-  },
-  {
-    "id": "maurice_garin",
-    "nombre": "Maurice Garin",
-    "nacionalidad": "Francia",
-    "activo": "1897-1904",
-    "especialidad": ["ciclismo"],
-    "genero": "masculino"
-  },
-  {
-    "id": "santiago_botero",
-    "nombre": "Santiago Botero",
-    "nacionalidad": "Colombia",
-    "activo": "1996-2008",
-    "especialidad": ["ciclismo"],
-    "genero": "masculino"
-  },
-  {
-    "id": "robert_hunter",
-    "nombre": "Robert Hunter",
-    "nacionalidad": "Sudafrica",
-    "activo": "1999-2013",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "alfredo_binda",
-    "nombre": "Alfredo Binda",
-    "nacionalidad": "Italia",
-    "activo": "1922-1935",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "luis_ocana",
-    "nombre": "Luis Ocaña",
-    "nacionalidad": "España",
-    "activo": "1968-1977",
-    "especialidad": ["Ciclismo"],
-    "genero": "masculino"
-  },
-  {
-    "id": "marino_lejarreta",
-    "nombre": "Marino Lejarreta",
-    "nacionalidad": "España",
-    "activo":  "1979-1992",
-    "especialidad": [
-      "carretera",
-      "escalador"],
-    "genero": "masculino"
-  },
-  {
-    "id": "tony_rominger",
-    "nombre": "Tony Rominger",
-    "nacionalidad": "Suiza",
-    "activo": "1986-1997",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "ryder_hesjedal",
-    "nombre": "Ryder Hesjedal",
-    "nacionalidad": "Canada",
-    "activo": "2004-2016",
-    "especialidad": ["carretera"],
-    "genero": "masculino"
-  },
-  {
-    "id": "joane_somarriba",
-    "nombre": "Joane Somarriba",
-    "nacionalidad": "España",
-    "activo": "1999-2006",
-    "especialidad": ["ciclismo"],
-    "genero": "femenino"
-  },
-  {
-    "id": "nicole_cooke",
-    "nombre": "Nicole Cooke",
-    "nacionalidad": "Reino unido",
-    "activo": "1999-2012",
-    "especialidad": ["carretera", "ciclocross", "montaña"],
-    "genero": "femenino"
-  },
-  {
-    "id": "jeannie_longo",
-    "nombre": "Jeannie Longo",
-    "nacionalidad": "Francia",
-    "activo": "1979-2016",
-    "especialidad": ["carretera", "contrarreloj","pista","montaña"],
-    "genero": "femenino"
-  },
-  {
-    "id": "judith_arndt",
-    "nombre": "Judith Arndt",
-    "nacionalidad": "Alemania",
-    "activo": "1995-2012",
-    "especialidad": ["carretera", "pista"],
-    "genero": "femenino"
-  },
-  {
-    "id": "susanne_ljungskog",
-    "nombre": "Susanne Ljungskog",
-    "nacionalidad": "Suecia",
-    "activo": "1999-2010",
-    "especialidad": ["carretera"],
-    "genero": "femenino"
-  },
-  {
-    "id": "marco_pantani",
-    "nombre": "Marco Pantani",
-    "nacionalidad": "Italia",
-    "activo": "1992-2003",
-    "especialidad": ["carretera", "escalador"],
-    "genero": "masculino"
-  },
-  {
-    "id": "jakob_fuglsang",
-    "nombre": "Jakob Fuglsang",
-    "nacionalidad": "Dinamarca",
-    "activo": "2006-2025",
-    "especialidad": ["carretera", "escalador"],
-    "genero": "masculino"
-  },
-  {
-    "id": "geraint_thomas",
-    "nombre": "Geraint Thomas",
-    "nacionalidad": "Reino Unido",
-    "activo": "2005-2025",
-    "especialidad": ["pista", "carretera"],
-    "genero": "masculino"
-  },
+        "id": "abraham_olano_manzano",
+        "nombre": "Abraham Olano",
+        "nacionalidad": "España",
+        "activo": "1992-2002",
+        "especialidad": [
+            "vueltómano",
+            "contrarrelojista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Campeonato Mundial",
+            "Mundial Contrarreloj",
+            "Vuelta a España"
+        ]
+    },
     {
-    "id": "rafal_majka",
-    "nombre": "Rafal Majka",
-    "nacionalidad": "Polonia",
-    "activo": "2009-2025",
-    "especialidad": ["carretera", "montaña"],
-    "genero": "masculino"
-  }
+        "id": "alberto_contador",
+        "nombre": "Alberto Contador",
+        "nacionalidad": "España",
+        "activo": "2003-2017",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "alejandro_valverde",
+        "nombre": "Alejandro Valverde",
+        "nacionalidad": "España",
+        "activo": "2002-2022",
+        "especialidad": [
+            "carretera",
+            "muros"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja",
+            "Mundial en Ruta",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "aleksandr_vinokurov",
+        "nombre": "Aleksandr Vinokurov",
+        "nacionalidad": "Kazajistan",
+        "activo": "1998-2012",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "JJ. OO. (Ruta)",
+            "Lieja-Bastoña-Lieja",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "alexander_kristoff",
+        "nombre": "Alexander Kristoff",
+        "nacionalidad": "Noruega",
+        "activo": "2006-2025",
+        "especialidad": [
+            "carretera",
+            "sprint"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Europeo en Ruta",
+            "Milán-San Remo",
+            "Tour de Flandes"
+        ]
+    },
+    {
+        "id": "alex_zulle",
+        "nombre": "Alex Zülle",
+        "nacionalidad": "Suiza",
+        "activo": "1991-2004",
+        "especialidad": [
+            "carretera",
+            "contrarreloj"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "alfredo_binda",
+        "nombre": "Alfredo Binda",
+        "nacionalidad": "Italia",
+        "activo": "1922-1935",
+        "especialidad": [
+            "carretera",
+            "pista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Mundial en Ruta"
+        ]
+    },
+    {
+        "id": "andrei_kivilev",
+        "nombre": "Andrei Kivilev",
+        "nacionalidad": "Kazajistán",
+        "activo": "1998-2003",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bernard_hinault",
+        "nombre": "Bernard Hinault",
+        "nacionalidad": "Francia",
+        "activo": "1975-1986",
+        "especialidad": [
+            "carretera",
+            "Todos los terrenos"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Mundial en Ruta",
+            "París-Roubaix",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "bjarne_riis",
+        "nombre": "Bjarne Riis",
+        "nacionalidad": "Dinamarca",
+        "activo": "1986-2000",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "bradley_wiggins",
+        "nombre": "Bradley Wiggins",
+        "nacionalidad": "Reino Unido",
+        "activo": "2001-2016",
+        "especialidad": [
+            "carretera",
+            "pista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "cadel_evans",
+        "nombre": "Cadel Evans",
+        "nacionalidad": "Australia",
+        "activo": "1999-2015",
+        "especialidad": [
+            "carretera",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "carlos_sastre",
+        "nombre": "Carlos Sastre",
+        "nacionalidad": "España",
+        "activo": "1997-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "christophe_moreau",
+        "nombre": "Christophe Moreau",
+        "nacionalidad": "Francia",
+        "activo": "1994-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "claudio_chiappucci",
+        "nombre": "Claudio Chiappucci",
+        "nacionalidad": "Italia",
+        "activo": "1985-1999",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo"
+        ]
+    },
+    {
+        "id": "eddy_merckx",
+        "nombre": "Eddy Merckx",
+        "nacionalidad": "Bélgica",
+        "activo": "1965-1978",
+        "especialidad": [
+            "carretera",
+            "pista",
+            "todos los terrenos"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja",
+            "Mundial Ruta",
+            "París-Roubaix",
+            "Tour de Flandes",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "fausto_coppi",
+        "nombre": "Fausto Coppi",
+        "nacionalidad": "Italia",
+        "activo": "1939-1959",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Ciclismo en Ruta",
+            "Giro de Lombardía",
+            "Milán-San Remo",
+            "París-Roubaix",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "fernando_escartin",
+        "nombre": "Fernando Escartín",
+        "nacionalidad": "España",
+        "activo": "1990-2002",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "francois_simon",
+        "nombre": "François Simon",
+        "nacionalidad": "Francia",
+        "activo": "1990-2002",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "geraint_thomas",
+        "nombre": "Geraint Thomas",
+        "nacionalidad": "Reino Unido",
+        "activo": "2005-2025",
+        "especialidad": [
+            "carretera",
+            "pista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "gino_bartali",
+        "nombre": "Gino Bartali",
+        "nacionalidad": "Italia",
+        "activo": "1935-1954",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Milán-San Remo",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "gosta_pettersson",
+        "nombre": "Gösta Pettersson",
+        "nacionalidad": "Suecia",
+        "activo": "1970-1974",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia"
+        ]
+    },
+    {
+        "id": "greg_lemond",
+        "nombre": "Greg LeMond",
+        "nacionalidad": "Estados Unidos",
+        "activo": "1981-1994",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Ruta",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "haimar_zubeldia",
+        "nombre": "Haimar Zubeldia",
+        "nacionalidad": "España",
+        "activo": "1998-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "iban_mayo",
+        "nombre": "Iban Mayo",
+        "nacionalidad": "España",
+        "activo": "2000-2007",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "igor_gonzalez_de_galdeano",
+        "nombre": "Igor González de Galdeano",
+        "nacionalidad": "España",
+        "activo": "1995-2005",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ivan_basso",
+        "nombre": "Ivan Basso",
+        "nacionalidad": "Italia",
+        "activo": "1998-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia",
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "ivan_gotti",
+        "nombre": "Ivan Gotti",
+        "nacionalidad": "Italia",
+        "activo": "1991-2002",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia"
+        ]
+    },
+    {
+        "id": "jacques_anquetil",
+        "nombre": "Jacques Anquetil",
+        "nacionalidad": "Francia",
+        "activo": "1953-1969",
+        "especialidad": [
+            "carretera",
+            "pista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "jakob_fuglsang",
+        "nombre": "Jakob Fuglsang",
+        "nacionalidad": "Dinamarca",
+        "activo": "2006-2025",
+        "especialidad": [
+            "ruta",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Dinamarca CRI",
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja"
+        ]
+    },
+    {
+        "id": "jeannie_longo",
+        "nombre": "Jeannie Longo",
+        "nacionalidad": "Francia",
+        "activo": "1979-2016",
+        "especialidad": [
+            "carretera",
+            "contrarreloj",
+            "pista",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "joane_somarriba",
+        "nombre": "Joane Somarriba",
+        "nacionalidad": "Australia",
+        "activo": "1999-2006",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj "
+        ]
+    },
+    {
+        "id": "joop_zoetemelk",
+        "nombre": "Joop Zoetemelk",
+        "nacionalidad": "Paises Bajos",
+        "activo": "1970-1987",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "jorg_jaksche",
+        "nombre": "Jörg Jaksche",
+        "nacionalidad": "Alemania",
+        "activo": "1997-2007",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "joseba_beloki",
+        "nombre": "Joseba Beloki",
+        "nacionalidad": "España",
+        "activo": "1998-2006",
+        "especialidad": [
+            "escalador",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "judith_arndt",
+        "nombre": "Judith Arndt",
+        "nacionalidad": "Alemania",
+        "activo": "1995-2012",
+        "especialidad": [
+            "carretera",
+            "pista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Mundial en Ruta"
+        ]
+    },
+    {
+        "id": "lucho_herrera",
+        "nombre": "Lucho Herrera",
+        "nacionalidad": "Colombia",
+        "activo": "1982-1992",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "luis_ocana",
+        "nombre": "Luis Ocaña",
+        "nacionalidad": "España",
+        "activo": "1968-1977",
+        "especialidad": [
+            "carretera",
+            "pista"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "marco_pantani",
+        "nombre": "Marco Pantani",
+        "nacionalidad": "Italia",
+        "activo": "1992-2003",
+        "especialidad": [
+            "carretera",
+            "escalador"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "marino_lejarreta",
+        "nombre": "Marino Lejarreta",
+        "nacionalidad": "España",
+        "activo": "1979-1992",
+        "especialidad": [
+            "carretera",
+            "escalador"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "mario_aerts",
+        "nombre": "Mario Aerts",
+        "nacionalidad": "Bélgica",
+        "activo": "1995-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "martin_van_den_bossche",
+        "nombre": "Martin Van den Bossche",
+        "nacionalidad": "Bélgica",
+        "activo": "1963-1974",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maurice_garin",
+        "nombre": "Maurice Garin",
+        "nacionalidad": "Francia",
+        "activo": "1897-1904",
+        "especialidad": [
+            "carretera",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "michael_boogerd",
+        "nombre": "Michael Boogerd",
+        "nacionalidad": "Países Bajos",
+        "activo": "1993-2007",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "michael_woods",
+        "nombre": "Michael Woods",
+        "nacionalidad": "Canadá",
+        "activo": "2013-2025",
+        "especialidad": [
+            "ruta"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "miguel_indurain",
+        "nombre": "Miguel Indurain",
+        "nacionalidad": "España",
+        "activo": "1984-1996",
+        "especialidad": [
+            "carretera",
+            "contrarreloj"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "JJOO Contrarreloj",
+            "Mundial Contrarreloj",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "nicolas_frantz",
+        "nombre": "Nicolas Frantz",
+        "nacionalidad": "Luxemburgo",
+        "activo": "1923-1934",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "nicole_cooke",
+        "nombre": "Nicole Cooke",
+        "nacionalidad": "Reino Unido",
+        "activo": "1999-2012",
+        "especialidad": [
+            "carretera",
+            "ciclocross",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta"
+        ]
+    },
+    {
+        "id": "pedro_delgado",
+        "nombre": "Pedro Delgado",
+        "nacionalidad": "España",
+        "activo": "1982-1994",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "peter_sagan",
+        "nombre": "Peter Sagan",
+        "nacionalidad": "Eslovaquia",
+        "activo": "2009-2023",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Eslovaquia CRI",
+            "Eslovaquia en Ruta",
+            "Europeo en Ruta",
+            "Mundial en Ruta",
+            "París-Roubaix",
+            "Tour de Flandes"
+        ]
+    },
+    {
+        "id": "rafal_majka",
+        "nombre": "Rafal Majka",
+        "nacionalidad": "Polonia",
+        "activo": "2009-2025",
+        "especialidad": [
+            "carretera",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "raymond_poulidor",
+        "nombre": "Raymond Poulidor",
+        "nacionalidad": "Francia",
+        "activo": "1960-1977",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "richard_virenque",
+        "nombre": "Richard Virenque",
+        "nacionalidad": "Francia",
+        "activo": "1991-2004",
+        "especialidad": [
+            "carretera",
+            "escalador"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "robbie_mcewen",
+        "nombre": "Robbie McEwen",
+        "nacionalidad": "Australia",
+        "activo": "1996-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "robert_hunter",
+        "nombre": "Robert Hunter",
+        "nacionalidad": "Sudáfrica",
+        "activo": "1999-2013",
+        "especialidad": [
+            "carretera",
+            "esprinter"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "rui_costa",
+        "nombre": "Rui Costa",
+        "nacionalidad": "Portugal",
+        "activo": "2007-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta"
+        ]
+    },
+    {
+        "id": "ryder_hesjedal",
+        "nombre": "Ryder Hesjedal",
+        "nacionalidad": "Canadá",
+        "activo": "2002-2016",
+        "especialidad": [
+            "carretera",
+            "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "santiago_botero",
+        "nombre": "Santiago Botero",
+        "nacionalidad": "Colombia",
+        "activo": "1996-2008",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta "
+        ]
+    },
+    {
+        "id": "sean_kelly",
+        "nombre": "Sean Kelly",
+        "nacionalidad": "Irlanda",
+        "activo": "1976-1994",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja",
+            "Milán-San Remo",
+            "París-Roubaix",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "stephen_roche",
+        "nombre": "Stephen Roche",
+        "nacionalidad": "Irlanda",
+        "activo": "1981-1993",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Ciclismo en Ruta",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "stuart_o_grady",
+        "nombre": "Stuart O'Grady",
+        "nacionalidad": "Australia",
+        "activo": "1995-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "susanne_ljungskog",
+        "nombre": "Susanne Ljungskog",
+        "nacionalidad": "Suecia",
+        "activo": "1999-2010",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Mundial en Ruta"
+        ]
+    },
+    {
+        "id": "tony_rominguer",
+        "nombre": "Tony Rominguer",
+        "nacionalidad": "Suiza",
+        "activo": "1986-1997",
+        "especialidad": [
+            "carretera"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Vuelta a España"
+        ]
+    }
 ]

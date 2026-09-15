@@ -8,7 +8,12 @@
             "vueltómano",
             "contrarrelojista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Campeonato Mundial",
+            "Mundial Contrarreloj",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "alberto_contador",
@@ -18,7 +23,11 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "alejandro_valverde",
@@ -29,7 +38,12 @@
             "carretera",
             "muros"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja",
+            "Mundial en Ruta",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "aleksandr_vinokurov",
@@ -39,7 +53,12 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "JJ. OO. (Ruta)",
+            "Lieja-Bastoña-Lieja",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "alexander_kristoff",
@@ -50,7 +69,12 @@
             "carretera",
             "sprint"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Europeo en Ruta",
+            "Milán-San Remo",
+            "Tour de Flandes"
+        ]
     },
     {
         "id": "alex_zulle",
@@ -61,7 +85,11 @@
             "carretera",
             "contrarreloj"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "alfredo_binda",
@@ -72,7 +100,11 @@
             "carretera",
             "pista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Mundial en Ruta"
+        ]
     },
     {
         "id": "andrei_kivilev",
@@ -83,7 +115,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "bernard_hinault",
@@ -94,7 +127,14 @@
             "carretera",
             "Todos los terrenos"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Mundial en Ruta",
+            "París-Roubaix",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "bjarne_riis",
@@ -105,7 +145,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
     },
     {
         "id": "bradley_wiggins",
@@ -116,7 +159,11 @@
             "carretera",
             "pista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "cadel_evans",
@@ -127,7 +174,11 @@
             "carretera",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "carlos_sastre",
@@ -138,7 +189,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
     },
     {
         "id": "christophe_moreau",
@@ -149,7 +203,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "claudio_chiappucci",
@@ -160,7 +215,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo"
+        ]
     },
     {
         "id": "eddy_merckx",
@@ -172,7 +230,16 @@
             "pista",
             "todos los terrenos"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja",
+            "Mundial Ruta",
+            "París-Roubaix",
+            "Tour de Flandes",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "fausto_coppi",
@@ -182,7 +249,14 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Ciclismo en Ruta",
+            "Giro de Lombardía",
+            "Milán-San Remo",
+            "París-Roubaix",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "fernando_escartin",
@@ -193,7 +267,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "francois_simon",
@@ -204,7 +279,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "geraint_thomas",
@@ -215,7 +291,10 @@
             "carretera",
             "pista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
     },
     {
         "id": "gino_bartali",
@@ -225,7 +304,12 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Milán-San Remo",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "gosta_pettersson",
@@ -236,7 +320,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia"
+        ]
     },
     {
         "id": "greg_lemond",
@@ -246,7 +333,11 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Ruta",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "haimar_zubeldia",
@@ -257,7 +348,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "iban_mayo",
@@ -268,7 +360,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "igor_gonzalez_de_galdeano",
@@ -279,7 +372,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "ivan_basso",
@@ -290,7 +384,11 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia",
+            "World Championships U23"
+        ]
     },
     {
         "id": "ivan_gotti",
@@ -301,7 +399,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia"
+        ]
     },
     {
         "id": "jacques_anquetil",
@@ -312,7 +413,12 @@
             "carretera",
             "pista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "jakob_fuglsang",
@@ -323,7 +429,12 @@
             "ruta",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Dinamarca CRI",
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja"
+        ]
     },
     {
         "id": "jeannie_longo",
@@ -336,7 +447,8 @@
             "pista",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "joane_somarriba",
@@ -346,7 +458,10 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj "
+        ]
     },
     {
         "id": "joop_zoetemelk",
@@ -356,7 +471,12 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "jorg_jaksche",
@@ -367,7 +487,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "joseba_beloki",
@@ -378,7 +499,8 @@
             "escalador",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "judith_arndt",
@@ -389,7 +511,11 @@
             "carretera",
             "pista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Mundial en Ruta"
+        ]
     },
     {
         "id": "lucho_herrera",
@@ -399,7 +525,10 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
     },
     {
         "id": "luis_ocana",
@@ -410,7 +539,11 @@
             "carretera",
             "pista"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "marco_pantani",
@@ -421,7 +554,10 @@
             "carretera",
             "escalador"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
     },
     {
         "id": "marino_lejarreta",
@@ -432,7 +568,10 @@
             "carretera",
             "escalador"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
     },
     {
         "id": "mario_aerts",
@@ -443,7 +582,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "martin_van_den_bossche",
@@ -454,7 +594,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "maurice_garin",
@@ -465,7 +606,10 @@
             "carretera",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
     },
     {
         "id": "michael_boogerd",
@@ -476,7 +620,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "michael_woods",
@@ -486,7 +631,8 @@
         "especialidad": [
             "ruta"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "miguel_indurain",
@@ -497,7 +643,12 @@
             "carretera",
             "contrarreloj"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "JJOO Contrarreloj",
+            "Mundial Contrarreloj",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "nicolas_frantz",
@@ -507,7 +658,10 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
     },
     {
         "id": "nicole_cooke",
@@ -519,7 +673,10 @@
             "ciclocross",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta"
+        ]
     },
     {
         "id": "pedro_delgado",
@@ -530,7 +687,11 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "peter_sagan",
@@ -540,7 +701,15 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Eslovaquia CRI",
+            "Eslovaquia en Ruta",
+            "Europeo en Ruta",
+            "Mundial en Ruta",
+            "París-Roubaix",
+            "Tour de Flandes"
+        ]
     },
     {
         "id": "rafal_majka",
@@ -551,7 +720,8 @@
             "carretera",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "raymond_poulidor",
@@ -562,7 +732,11 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "richard_virenque",
@@ -573,7 +747,8 @@
             "carretera",
             "escalador"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "robbie_mcewen",
@@ -584,7 +759,8 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "robert_hunter",
@@ -595,7 +771,8 @@
             "carretera",
             "esprinter"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "rui_costa",
@@ -606,7 +783,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta"
+        ]
     },
     {
         "id": "ryder_hesjedal",
@@ -617,7 +797,8 @@
             "carretera",
             "montaña"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "santiago_botero",
@@ -627,7 +808,10 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial en Ruta "
+        ]
     },
     {
         "id": "sean_kelly",
@@ -637,7 +821,14 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja",
+            "Milán-San Remo",
+            "París-Roubaix",
+            "Vuelta a España"
+        ]
     },
     {
         "id": "stephen_roche",
@@ -647,7 +838,11 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Ciclismo en Ruta",
+            "Tour de Francia"
+        ]
     },
     {
         "id": "stuart_o_grady",
@@ -658,7 +853,10 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix"
+        ]
     },
     {
         "id": "susanne_ljungskog",
@@ -668,7 +866,11 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "Mundial en Ruta"
+        ]
     },
     {
         "id": "tony_rominguer",
@@ -678,6 +880,10 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "masculino"
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Vuelta a España"
+        ]
     }
 ]
