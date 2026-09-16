@@ -1,3 +1,5 @@
+#Añado palmares si el ciclista tiene archivo .txt con su palmares
+
 import json
 import re
 from pathlib import Path
