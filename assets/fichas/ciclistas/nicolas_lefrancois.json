@@ -1,0 +1,85 @@
+{
+  "id": "nicolas_lefrancois",
+  "nombre": "Nicolas Lefrancois",
+  "nacionalidad": "Francia",
+  "lugarNacimiento": "Caen",
+  "peso": "82 kg",
+  "altura": "1.83 m",
+  "anioNacimiento": 1987,
+  "activo": "2013-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2013,
+      "equipo": "Team Novo Nordisk Development"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Team Novo Nordisk"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Team Novo Nordisk"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Team Novo Nordisk"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [],
+  "resultadosMonumentos": [
+    {
+      "anio": 2015,
+      "carrera": "Milán-Turín",
+      "puesto": "102"
+    },
+    {
+      "anio": 2015,
+      "carrera": "París-Tours",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Strade Bianche",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Trofeo Laigueglia",
+      "puesto": "NC"
+    }
+  ],
+  "resultadosMundiales": [],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2014,
+      "carrera": "Tour Of Turkey",
+      "puesto": "128"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour Of Turkey",
+      "puesto": "143"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "james_glasspool",
+  "nombre": "James Glasspool",
+  "nacionalidad": "Australia",
+  "lugarNacimiento": "Adelaide",
+  "peso": "N/A",
+  "altura": "1.77 m",
+  "anioNacimiento": 1991,
+  "activo": "2015-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2015,
+      "equipo": "Team Novo Nordisk"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Team Novo Nordisk"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [],
+  "resultadosMonumentos": [
+    {
+      "anio": 2016,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "NC"
+    }
+  ],
+  "resultadosMundiales": [],
+  "resultadosVueltasMenores": [],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

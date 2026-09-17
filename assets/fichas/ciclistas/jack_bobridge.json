@@ -1,0 +1,227 @@
+{
+  "id": "jack_bobridge",
+  "nombre": "Jack Bobridge",
+  "nacionalidad": "Australia",
+  "lugarNacimiento": "Adelaide",
+  "peso": "65 kg",
+  "altura": "1.80 m",
+  "anioNacimiento": 1989,
+  "activo": "2008-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2008,
+      "equipo": "Southaustralia.com-AIS"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Team Jayco - AIS"
+    },
+    {
+      "anio": 2010,
+      "equipo": "Team Garmin - Transitions"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Team Garmin - Cervélo"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Orica GreenEDGE"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Belkin-Pro Cycling Team"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Belkin-Pro Cycling Team"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Team Budget Forklifts"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Trek - Segafredo"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 2016,
+      "carrera": "Giro d'Italia",
+      "puesto": "156"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2011,
+      "carrera": "Bretagne Classic",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Bretagne Classic",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "43"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Flecha Valona",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "GP de Quebec",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2011,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "5"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Uci World Championships Itt Mj",
+      "puesto": "4"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Uci World Championships Mj",
+      "puesto": "65"
+    },
+    {
+      "anio": 2009,
+      "carrera": "World Championships Itt U23",
+      "puesto": "1"
+    },
+    {
+      "anio": 2009,
+      "carrera": "World Championships U23",
+      "puesto": "NC"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2009,
+      "carrera": "Tour Down Under",
+      "puesto": "65"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour Down Under",
+      "puesto": "97"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour Down Under",
+      "puesto": "52"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour Down Under",
+      "puesto": "91"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour Down Under",
+      "puesto": "49"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour Down Under",
+      "puesto": "61"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour Down Under",
+      "puesto": "33"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de California",
+      "puesto": "22"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Gran Bretaña",
+      "puesto": "72"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour de Romandía",
+      "puesto": "120"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Romandía",
+      "puesto": "78"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Vuelta a Polonia",
+      "puesto": "131"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "137"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "115"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 10,
+    "pista": 5,
+    "tierra": 5
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "id": "lance_armstrong",
+  "nombre": "Lance Armstrong",
+  "nacionalidad": "Estados Unidos",
+  "lugarNacimiento": "Plano",
+  "peso": "72 kg",
+  "altura": "1.78 m",
+  "anioNacimiento": 1971,
+  "activo": "1992-2011",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 1992,
+      "equipo": "Motorola"
+    },
+    {
+      "anio": 1993,
+      "equipo": "Motorola"
+    },
+    {
+      "anio": 1994,
+      "equipo": "Motorola"
+    },
+    {
+      "anio": 1995,
+      "equipo": "Motorola"
+    },
+    {
+      "anio": 1996,
+      "equipo": "Motorola"
+    },
+    {
+      "anio": 1997,
+      "equipo": "Cofidis"
+    },
+    {
+      "anio": 1998,
+      "equipo": "US Postal Service"
+    },
+    {
+      "anio": 1999,
+      "equipo": "US Postal Service"
+    },
+    {
+      "anio": 2000,
+      "equipo": "US Postal Service"
+    },
+    {
+      "anio": 2001,
+      "equipo": "US Postal Service"
+    },
+    {
+      "anio": 2002,
+      "equipo": "US Postal Service"
+    },
+    {
+      "anio": 2003,
+      "equipo": "US Postal Service p/b Berry Floor"
+    },
+    {
+      "anio": 2004,
+      "equipo": "US Postal Service p/b Berry Floor"
+    },
+    {
+      "anio": 2005,
+      "equipo": "Discovery Channel Pro Cycling Team"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Astana"
+    },
+    {
+      "anio": 2010,
+      "equipo": "RadioShack"
+    },
+    {
+      "anio": 2011,
+      "equipo": "RadioShack"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 2009,
+      "carrera": "Giro d'Italia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1995,
+      "carrera": "Tour de Francia",
+      "puesto": "36"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2001,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour de Francia",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1998,
+      "carrera": "Vuelta a España",
+      "puesto": "NC"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 1994,
+      "carrera": "Amstel Gold Race",
+      "puesto": "13"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Amstel Gold Race",
+      "puesto": "17"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2001,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Clásica Brujas-La Panne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "111"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "35"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "2"
+    },
+    {
+      "anio": 1995,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "1"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "14"
+    },
+    {
+      "anio": 1998,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1995,
+      "carrera": "E3 Harelbeke",
+      "puesto": "27"
+    },
+    {
+      "anio": 1996,
+      "carrera": "E3 Harelbeke",
+      "puesto": "8"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Flecha Valona",
+      "puesto": "36"
+    },
+    {
+      "anio": 1995,
+      "carrera": "Flecha Valona",
+      "puesto": "22"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Flecha Valona",
+      "puesto": "1"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "40"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1998,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "2"
+    },
+    {
+      "anio": 1995,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "6"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "2"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Milán-San Remo",
+      "puesto": "22"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Milán-San Remo",
+      "puesto": "99"
+    },
+    {
+      "anio": 1995,
+      "carrera": "Milán-San Remo",
+      "puesto": "73"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Milán-San Remo",
+      "puesto": "11"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "51"
+    },
+    {
+      "anio": 1993,
+      "carrera": "París-Camembert",
+      "puesto": "14"
+    },
+    {
+      "anio": 2000,
+      "carrera": "París-Camembert",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2001,
+      "carrera": "París-Camembert",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2005,
+      "carrera": "París-Camembert",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1994,
+      "carrera": "París-Tours",
+      "puesto": "56"
+    },
+    {
+      "anio": 1998,
+      "carrera": "París-Tours",
+      "puesto": "58"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Scheldeprijs",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1995,
+      "carrera": "Tour de Flandes",
+      "puesto": "45"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Tour de Flandes",
+      "puesto": "28"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1993,
+      "carrera": "Trofeo Laigueglia",
+      "puesto": "1"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Trofeo Laigueglia",
+      "puesto": "9"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Trofeo Laigueglia",
+      "puesto": "14"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 1996,
+      "carrera": "JJOO. Contrarreloj",
+      "puesto": "6"
+    },
+    {
+      "anio": 2000,
+      "carrera": "JJOO. Contrarreloj",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1998,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1992,
+      "carrera": "Olympic Games",
+      "puesto": "14"
+    },
+    {
+      "anio": 1996,
+      "carrera": "Olympic Games",
+      "puesto": "12"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Olympic Games",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1989,
+      "carrera": "Uci World Championships Mj",
+      "puesto": "73"
+    },
+    {
+      "anio": 1992,
+      "carrera": "World Championship",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1993,
+      "carrera": "World Championship",
+      "puesto": "1"
+    },
+    {
+      "anio": 1994,
+      "carrera": "World Championship",
+      "puesto": "7"
+    },
+    {
+      "anio": 1998,
+      "carrera": "World Championship",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1990,
+      "carrera": "World Championships Road Race Amateurs",
+      "puesto": "11"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2002,
+      "carrera": "Criterium International",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Criterium International",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Criterium International",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1999,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2002,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2005,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1993,
+      "carrera": "París-Niza",
+      "puesto": "9"
+    },
+    {
+      "anio": 1995,
+      "carrera": "París-Niza",
+      "puesto": "35"
+    },
+    {
+      "anio": 1996,
+      "carrera": "París-Niza",
+      "puesto": "2"
+    },
+    {
+      "anio": 1999,
+      "carrera": "París-Niza",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2000,
+      "carrera": "Setmana Catalana",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2001,
+      "carrera": "Setmana Catalana",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Setmana Catalana",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "51"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Tour Down Under",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour Down Under",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour Down Under",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Tour de California",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2004,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "NC"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Volta a Cataluña",
+      "puesto": "63"
+    },
+    {
+      "anio": 1994,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "7"
+    },
+    {
+      "anio": 2001,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "NC"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 7,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 10,
+    "combatividad": 5,
+    "contrarreloj": 8,
+    "pista": 5,
+    "tierra": 5
+  }
+}

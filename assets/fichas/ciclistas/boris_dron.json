@@ -1,0 +1,125 @@
+{
+  "id": "boris_dron",
+  "nombre": "Boris Dron",
+  "nacionalidad": "Bélgica",
+  "lugarNacimiento": "Virton",
+  "peso": "72 kg",
+  "altura": "1.83 m",
+  "anioNacimiento": 1988,
+  "activo": "2008-2017",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2008,
+      "equipo": "FC Wallonie-Bruxelles Espoirs"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Lotto - Bodysol - Pôle Continental Wallon"
+    },
+    {
+      "anio": 2010,
+      "equipo": "Lotto - Bodysol - Pôle Continental Wallon"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Lotto - Bodysol - Pôle Continental Wallon"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Wallonie - Bruxelles"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Wallonie - Bruxelles"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Wallonie - Bruxelles"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Wanty - Groupe Gobert"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Wanty - Groupe Gobert"
+    },
+    {
+      "anio": 2017,
+      "equipo": "Tarteletto - Isorex"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [],
+  "resultadosMonumentos": [
+    {
+      "anio": 2015,
+      "carrera": "A Través de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Flecha Valona",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "123"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2006,
+      "carrera": "European Championship Itt Mj",
+      "puesto": "23"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2015,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "30"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Volta a Cataluña",
+      "puesto": "109"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Vuelta a Austria",
+      "puesto": "100"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

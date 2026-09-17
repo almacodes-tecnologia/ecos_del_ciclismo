@@ -1,0 +1,88 @@
+{
+  "id": "patrick_shaw",
+  "nombre": "Patrick Shaw",
+  "nacionalidad": "Australia",
+  "lugarNacimiento": "Desconocido",
+  "peso": "N/A",
+  "altura": "N/A",
+  "anioNacimiento": 1986,
+  "activo": "2010-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2010,
+      "equipo": "Fly V Australia Pro Cycling Team"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Genesys Wealth Advisers"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Genesys Wealth Advisers"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Huon Salmon Genesys Wealth Advisers p/b Praties"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Satalyst Giant Racing Team"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Avanti Racing Team"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Avanti IsoWhey Sport"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [],
+  "resultadosMonumentos": [
+    {
+      "anio": 2015,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "51"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "63"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2004,
+      "carrera": "Uci World Championships Mj",
+      "puesto": "82"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2016,
+      "carrera": "Tour Down Under",
+      "puesto": "89"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

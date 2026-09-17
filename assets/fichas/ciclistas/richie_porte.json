@@ -1,0 +1,601 @@
+{
+  "id": "richie_porte",
+  "nombre": "Richie Porte",
+  "nacionalidad": "Australia",
+  "lugarNacimiento": "Launceston",
+  "peso": "62 kg",
+  "altura": "1.72 m",
+  "anioNacimiento": 1985,
+  "activo": "2008-2022",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2008,
+      "equipo": "Praties"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Praties"
+    },
+    {
+      "anio": 2010,
+      "equipo": "Saxo Bank"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Saxo Bank - Sungard"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Sky Procycling"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Sky Procycling"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Team Sky"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Team Sky"
+    },
+    {
+      "anio": 2016,
+      "equipo": "BMC Racing Team"
+    },
+    {
+      "anio": 2017,
+      "equipo": "BMC Racing Team"
+    },
+    {
+      "anio": 2018,
+      "equipo": "BMC Racing Team"
+    },
+    {
+      "anio": 2019,
+      "equipo": "Trek - Segafredo"
+    },
+    {
+      "anio": 2020,
+      "equipo": "Trek - Segafredo"
+    },
+    {
+      "anio": 2021,
+      "equipo": "INEOS Grenadiers"
+    },
+    {
+      "anio": 2022,
+      "equipo": "INEOS Grenadiers"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 2010,
+      "carrera": "Giro d'Italia",
+      "puesto": "7"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Giro d'Italia",
+      "puesto": "81"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour de Francia",
+      "puesto": "72"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Francia",
+      "puesto": "34"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de Francia",
+      "puesto": "19"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Francia",
+      "puesto": "23"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de Francia",
+      "puesto": "48"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour de Francia",
+      "puesto": "5"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Tour de Francia",
+      "puesto": "11"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Tour de Francia",
+      "puesto": "3"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Tour de Francia",
+      "puesto": "38"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Vuelta a España",
+      "puesto": "68"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Vuelta a España",
+      "puesto": "84"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2014,
+      "carrera": "Bretagne Classic",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "20"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "21"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "29"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "32"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "10"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "24"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "73"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Flecha Valona",
+      "puesto": "132"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Flecha Valona",
+      "puesto": "8"
+    },
+    {
+      "anio": 2013,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2019,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "GP de Quebec",
+      "puesto": "54"
+    },
+    {
+      "anio": 2019,
+      "carrera": "GP de Quebec",
+      "puesto": "84"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "91"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "16"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Milán-Turín",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Trofeo Laigueglia",
+      "puesto": "12"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2021,
+      "carrera": "JJOO. Contrarreloj",
+      "puesto": "27"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "4"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "6"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "17"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Olympic Games",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Olympic Games",
+      "puesto": "48"
+    },
+    {
+      "anio": 2012,
+      "carrera": "World Championship",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "World Championship",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2020,
+      "carrera": "World Championship",
+      "puesto": "25"
+    },
+    {
+      "anio": 2013,
+      "carrera": "World Championship Ttt",
+      "puesto": "3"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2013,
+      "carrera": "Criterium International",
+      "puesto": "2"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "9"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "2"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "22"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "4"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "2"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "11"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "15"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "1"
+    },
+    {
+      "anio": 2011,
+      "carrera": "París-Niza",
+      "puesto": "22"
+    },
+    {
+      "anio": 2012,
+      "carrera": "París-Niza",
+      "puesto": "68"
+    },
+    {
+      "anio": 2013,
+      "carrera": "París-Niza",
+      "puesto": "1"
+    },
+    {
+      "anio": 2015,
+      "carrera": "París-Niza",
+      "puesto": "1"
+    },
+    {
+      "anio": 2016,
+      "carrera": "París-Niza",
+      "puesto": "3"
+    },
+    {
+      "anio": 2017,
+      "carrera": "París-Niza",
+      "puesto": "11"
+    },
+    {
+      "anio": 2020,
+      "carrera": "París-Niza",
+      "puesto": "41"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "4"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Tour Down Under",
+      "puesto": "9"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour Down Under",
+      "puesto": "33"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour Down Under",
+      "puesto": "4"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour Down Under",
+      "puesto": "2"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour Down Under",
+      "puesto": "2"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Tour Down Under",
+      "puesto": "1"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Tour Down Under",
+      "puesto": "2"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Tour Down Under",
+      "puesto": "2"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Tour Down Under",
+      "puesto": "1"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Tour de California",
+      "puesto": "5"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour de Gran Bretaña",
+      "puesto": "4"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Tour de Gran Bretaña",
+      "puesto": "55"
+    },
+    {
+      "anio": 2022,
+      "carrera": "Tour de Gran Bretaña",
+      "puesto": "83"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de Omán",
+      "puesto": "37"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour de Omán",
+      "puesto": "49"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour de Romandía",
+      "puesto": "10"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour de Romandía",
+      "puesto": "121"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Romandía",
+      "puesto": "4"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de Romandía",
+      "puesto": "8"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Tour de Romandía",
+      "puesto": "1"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Tour de Romandía",
+      "puesto": "3"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Tour de Romandía",
+      "puesto": "2"
+    },
+    {
+      "anio": 2019,
+      "carrera": "UAE Tour",
+      "puesto": "50"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "1"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "4"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "27"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Volta a Cataluña",
+      "puesto": "1"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Volta a Cataluña",
+      "puesto": "4"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Volta a Cataluña",
+      "puesto": "38"
+    },
+    {
+      "anio": 2021,
+      "carrera": "Volta a Cataluña",
+      "puesto": "2"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Vuelta a Alemania",
+      "puesto": "60"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "1"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "127"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "2"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 9,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 10,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 8,
+    "pista": 5,
+    "tierra": 5
+  }
+}

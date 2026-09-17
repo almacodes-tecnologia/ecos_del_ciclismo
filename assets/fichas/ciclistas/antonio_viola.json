@@ -1,0 +1,95 @@
+{
+  "id": "antonio_viola",
+  "nombre": "Antonio Viola",
+  "nacionalidad": "Italia",
+  "lugarNacimiento": "Potenza",
+  "peso": "69 kg",
+  "altura": "1.71 m",
+  "anioNacimiento": 1990,
+  "activo": "2012-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2012,
+      "equipo": "Farnese Vini-Neri-Sottoli"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Vini Fantini Nippo"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Nippo - Vini Fantini"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Nippo - Vini Fantini"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [],
+  "resultadosMonumentos": [
+    {
+      "anio": 2016,
+      "carrera": "Clásica Brujas-La Panne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Scheldeprijs",
+      "puesto": "74"
+    }
+  ],
+  "resultadosMundiales": [],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2015,
+      "carrera": "Tour Of Turkey",
+      "puesto": "127"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour Of Turkey",
+      "puesto": "79"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "tom_zirbel",
+  "nombre": "Tom Zirbel",
+  "nacionalidad": "Estados Unidos",
+  "lugarNacimiento": "Clear Lake",
+  "peso": "91 kg",
+  "altura": "1.96 m",
+  "anioNacimiento": 1978,
+  "activo": "2006-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2006,
+      "equipo": "Priority Health Cycling Team"
+    },
+    {
+      "anio": 2007,
+      "equipo": "Priority Health Cycling Team presented by Bissell"
+    },
+    {
+      "anio": 2008,
+      "equipo": "Bissell Pro Cycling"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Bissell Pro Cycling"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Jamis - Sutter Home presented by Colavita"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Optum p/b Kelly Benefit Strategies"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Optum p/b Kelly Benefit Strategies"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Optum p/b Kelly Benefit Strategies"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Optum p/b Kelly Benefit Strategies"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Rally Cycling"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [],
+  "resultadosMonumentos": [],
+  "resultadosMundiales": [
+    {
+      "anio": 2009,
+      "carrera": "Mundial Contrarreloj",
+      "puesto": "4"
+    },
+    {
+      "anio": 2012,
+      "carrera": "World Championship Ttt",
+      "puesto": "20"
+    },
+    {
+      "anio": 2013,
+      "carrera": "World Championship Ttt",
+      "puesto": "23"
+    },
+    {
+      "anio": 2015,
+      "carrera": "World Championship Ttt",
+      "puesto": "17"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2008,
+      "carrera": "Tour de California",
+      "puesto": "40"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Tour de California",
+      "puesto": "36"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour de California",
+      "puesto": "31"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de California",
+      "puesto": "87"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de California",
+      "puesto": "97"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "152"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 8,
+    "pista": 5,
+    "tierra": 5
+  }
+}

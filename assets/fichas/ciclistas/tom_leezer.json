@@ -1,0 +1,804 @@
+{
+  "id": "tom_leezer",
+  "nombre": "Tom Leezer",
+  "nacionalidad": "Países Bajos",
+  "lugarNacimiento": "Delft",
+  "peso": "76 kg",
+  "altura": "1.85 m",
+  "anioNacimiento": 1985,
+  "activo": "2004-2020",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2004,
+      "equipo": "Van Vliet - EBH Advocaten"
+    },
+    {
+      "anio": 2005,
+      "equipo": "Rabobank Continental Team"
+    },
+    {
+      "anio": 2006,
+      "equipo": "Rabobank Continental Team"
+    },
+    {
+      "anio": 2007,
+      "equipo": "Rabobank Continental Team"
+    },
+    {
+      "anio": 2008,
+      "equipo": "Rabobank ProTeam"
+    },
+    {
+      "anio": 2009,
+      "equipo": "Rabobank ProTeam"
+    },
+    {
+      "anio": 2010,
+      "equipo": "Rabobank ProTeam"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Rabobank Cycling Team"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Rabobank Cycling Team"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Belkin-Pro Cycling Team"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Belkin-Pro Cycling Team"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Team LottoNL-Jumbo"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Team LottoNL-Jumbo"
+    },
+    {
+      "anio": 2017,
+      "equipo": "Team LottoNL-Jumbo"
+    },
+    {
+      "anio": 2018,
+      "equipo": "Team LottoNL-Jumbo"
+    },
+    {
+      "anio": 2019,
+      "equipo": "Team Jumbo-Visma"
+    },
+    {
+      "anio": 2020,
+      "equipo": "Team Jumbo-Visma"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 2019,
+      "carrera": "Giro d'Italia",
+      "puesto": "119"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de Francia",
+      "puesto": "150"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Francia",
+      "puesto": "133"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de Francia",
+      "puesto": "153"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Tour de Francia",
+      "puesto": "166"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Vuelta a España",
+      "puesto": "129"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Vuelta a España",
+      "puesto": "139"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2008,
+      "carrera": "A Través de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "A Través de Flandes",
+      "puesto": "88"
+    },
+    {
+      "anio": 2011,
+      "carrera": "A Través de Flandes",
+      "puesto": "8"
+    },
+    {
+      "anio": 2012,
+      "carrera": "A Través de Flandes",
+      "puesto": "98"
+    },
+    {
+      "anio": 2018,
+      "carrera": "A Través de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Bretagne Classic",
+      "puesto": "20"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Bretagne Classic",
+      "puesto": "66"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Bretagne Classic",
+      "puesto": "79"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Bretagne Classic",
+      "puesto": "113"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Bretagne Classic",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "53"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "60"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Clásica Brujas-La Panne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "67"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "7"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "92"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "16"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "68"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "107"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "76"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Cyclassics Hamburgo",
+      "puesto": "128"
+    },
+    {
+      "anio": 2009,
+      "carrera": "E3 Harelbeke",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "E3 Harelbeke",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "E3 Harelbeke",
+      "puesto": "93"
+    },
+    {
+      "anio": 2016,
+      "carrera": "E3 Harelbeke",
+      "puesto": "96"
+    },
+    {
+      "anio": 2017,
+      "carrera": "E3 Harelbeke",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2018,
+      "carrera": "E3 Harelbeke",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Flecha Valona",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Flecha Valona",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2012,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2017,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2019,
+      "carrera": "GP de Montreal",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2012,
+      "carrera": "GP de Quebec",
+      "puesto": "105"
+    },
+    {
+      "anio": 2014,
+      "carrera": "GP de Quebec",
+      "puesto": "119"
+    },
+    {
+      "anio": 2015,
+      "carrera": "GP de Quebec",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2017,
+      "carrera": "GP de Quebec",
+      "puesto": "120"
+    },
+    {
+      "anio": 2019,
+      "carrera": "GP de Quebec",
+      "puesto": "112"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "68"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "8"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "82"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "65"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "73"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "140"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "5"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "121"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "34"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "79"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2020,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Milán-San Remo",
+      "puesto": "137"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Milán-San Remo",
+      "puesto": "93"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Milán-San Remo",
+      "puesto": "144"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Milán-San Remo",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Milán-San Remo",
+      "puesto": "31"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Milán-San Remo",
+      "puesto": "113"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Milán-San Remo",
+      "puesto": "164"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Milán-San Remo",
+      "puesto": "138"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "98"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "68"
+    },
+    {
+      "anio": 2008,
+      "carrera": "París-Roubaix",
+      "puesto": "104"
+    },
+    {
+      "anio": 2009,
+      "carrera": "París-Roubaix",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "París-Roubaix",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "París-Roubaix",
+      "puesto": "46"
+    },
+    {
+      "anio": 2012,
+      "carrera": "París-Roubaix",
+      "puesto": "46"
+    },
+    {
+      "anio": 2014,
+      "carrera": "París-Roubaix",
+      "puesto": "85"
+    },
+    {
+      "anio": 2015,
+      "carrera": "París-Roubaix",
+      "puesto": "87"
+    },
+    {
+      "anio": 2010,
+      "carrera": "París-Tours",
+      "puesto": "124"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Scheldeprijs",
+      "puesto": "45"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Scheldeprijs",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Scheldeprijs",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Scheldeprijs",
+      "puesto": "85"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Strade Bianche",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour de Flandes",
+      "puesto": "46"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Flandes",
+      "puesto": "67"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de Flandes",
+      "puesto": "71"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Trofeo Laigueglia",
+      "puesto": "NC"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2005,
+      "carrera": "European Championships Mu",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2006,
+      "carrera": "European Championships Mu",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2003,
+      "carrera": "Uci World Championships Mj",
+      "puesto": "9"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Uec Road European Championships Me",
+      "puesto": "37"
+    },
+    {
+      "anio": 2016,
+      "carrera": "World Championship",
+      "puesto": "17"
+    },
+    {
+      "anio": 2013,
+      "carrera": "World Championship Ttt",
+      "puesto": "12"
+    },
+    {
+      "anio": 2015,
+      "carrera": "World Championship Ttt",
+      "puesto": "6"
+    },
+    {
+      "anio": 2016,
+      "carrera": "World Championship Ttt",
+      "puesto": "5"
+    },
+    {
+      "anio": 2018,
+      "carrera": "World Championship Ttt",
+      "puesto": "13"
+    },
+    {
+      "anio": 2007,
+      "carrera": "World Championships U23",
+      "puesto": "4"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2008,
+      "carrera": "Criterium International",
+      "puesto": "52"
+    },
+    {
+      "anio": 2017,
+      "carrera": "París-Niza",
+      "puesto": "94"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "107"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "150"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "130"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tirreno-Adriático",
+      "puesto": "111"
+    },
+    {
+      "anio": 2009,
+      "carrera": "Tour Down Under",
+      "puesto": "48"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Tour Down Under",
+      "puesto": "91"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Tour Down Under",
+      "puesto": "94"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour Down Under",
+      "puesto": "70"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Tour Down Under",
+      "puesto": "73"
+    },
+    {
+      "anio": 2019,
+      "carrera": "Tour Down Under",
+      "puesto": "71"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour Of Turkey",
+      "puesto": "159"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de California",
+      "puesto": "85"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Tour de California",
+      "puesto": "73"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour de Gran Bretaña",
+      "puesto": "71"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Tour de Omán",
+      "puesto": "67"
+    },
+    {
+      "anio": 2019,
+      "carrera": "UAE Tour",
+      "puesto": "119"
+    },
+    {
+      "anio": 2006,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "89"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "55"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "147"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "138"
+    },
+    {
+      "anio": 2017,
+      "carrera": "Volta Ao Algarve",
+      "puesto": "110"
+    },
+    {
+      "anio": 2008,
+      "carrera": "Vuelta a Austria",
+      "puesto": "95"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Vuelta a Austria",
+      "puesto": "113"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Vuelta a Polonia",
+      "puesto": "95"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Vuelta a Polonia",
+      "puesto": "83"
+    },
+    {
+      "anio": 2010,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "97"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "118"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "83"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "93"
+    },
+    {
+      "anio": 2018,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "105"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 9,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 10,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "marcel_aregger",
+  "nombre": "Marcel Aregger",
+  "nacionalidad": "Suiza",
+  "lugarNacimiento": "Unterägeri",
+  "peso": "70 kg",
+  "altura": "1.83 m",
+  "anioNacimiento": 1990,
+  "activo": "2010-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2010,
+      "equipo": "Price - Custom Bikes"
+    },
+    {
+      "anio": 2011,
+      "equipo": "Price Your Bike"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Atlas Personal - Jakroo"
+    },
+    {
+      "anio": 2013,
+      "equipo": "IAM Cycling"
+    },
+    {
+      "anio": 2014,
+      "equipo": "IAM Cycling"
+    },
+    {
+      "anio": 2015,
+      "equipo": "IAM Cycling"
+    },
+    {
+      "anio": 2016,
+      "equipo": "IAM Cycling"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 2014,
+      "carrera": "Vuelta a España",
+      "puesto": "117"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Vuelta a España",
+      "puesto": "106"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2014,
+      "carrera": "A Través de Flandes",
+      "puesto": "92"
+    },
+    {
+      "anio": 2015,
+      "carrera": "A Través de Flandes",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Cadel Evans Great Ocean Road Race",
+      "puesto": "45"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Gante-Wevelgem",
+      "puesto": "94"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Kuurne-Bruselas-Kuurne",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Omloop Het Nieuwsblad",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2014,
+      "carrera": "París-Roubaix",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "París-Tours",
+      "puesto": "124"
+    },
+    {
+      "anio": 2014,
+      "carrera": "París-Tours",
+      "puesto": "69"
+    },
+    {
+      "anio": 2015,
+      "carrera": "París-Tours",
+      "puesto": "66"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Scheldeprijs",
+      "puesto": "74"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Strade Bianche",
+      "puesto": "70"
+    }
+  ],
+  "resultadosMundiales": [
+    {
+      "anio": 2010,
+      "carrera": "European Championships Mu",
+      "puesto": "88"
+    },
+    {
+      "anio": 2011,
+      "carrera": "European Championships Mu",
+      "puesto": "11"
+    },
+    {
+      "anio": 2012,
+      "carrera": "European Championships Mu",
+      "puesto": "23"
+    },
+    {
+      "anio": 2011,
+      "carrera": "World Championships U23",
+      "puesto": "18"
+    },
+    {
+      "anio": 2012,
+      "carrera": "World Championships U23",
+      "puesto": "63"
+    }
+  ],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2016,
+      "carrera": "Tour Down Under",
+      "puesto": "115"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Omán",
+      "puesto": "111"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Tour de Omán",
+      "puesto": "104"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Vuelta a Polonia",
+      "puesto": "92"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Vuelta a Portugal",
+      "puesto": "67"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "96"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

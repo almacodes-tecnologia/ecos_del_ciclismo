@@ -1,0 +1,238 @@
+{
+  "id": "caleb_fairly",
+  "nombre": "Caleb Fairly",
+  "nacionalidad": "Estados Unidos",
+  "lugarNacimiento": "Amarillo",
+  "peso": "60 kg",
+  "altura": "1.70 m",
+  "anioNacimiento": 1987,
+  "activo": "2010-2016",
+  "especialidad": [
+    "clasicómano",
+    "vueltómano"
+  ],
+  "equipos": [
+    {
+      "anio": 2010,
+      "equipo": "Team Garmin - Transitions"
+    },
+    {
+      "anio": 2011,
+      "equipo": "HTC - High Road"
+    },
+    {
+      "anio": 2012,
+      "equipo": "Spidertech Powered by C10"
+    },
+    {
+      "anio": 2013,
+      "equipo": "Garmin Sharp"
+    },
+    {
+      "anio": 2014,
+      "equipo": "Garmin Sharp"
+    },
+    {
+      "anio": 2015,
+      "equipo": "Team Giant - Alpecin"
+    },
+    {
+      "anio": 2016,
+      "equipo": "Team Giant - Alpecin"
+    }
+  ],
+  "palmares": {},
+  "resumenPalmares": [],
+  "resultadosGrandesVueltas": [
+    {
+      "anio": 2015,
+      "carrera": "Giro d'Italia",
+      "puesto": "134"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Vuelta a España",
+      "puesto": "112"
+    }
+  ],
+  "resultadosMonumentos": [
+    {
+      "anio": 2011,
+      "carrera": "Amstel Gold Race",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Bretagne Classic",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Clásica de San Sebastián",
+      "puesto": "43"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Flecha Valona",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Flecha Valona",
+      "puesto": "95"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Flecha Valona",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "GP de Montreal",
+      "puesto": "110"
+    },
+    {
+      "anio": 2012,
+      "carrera": "GP de Montreal",
+      "puesto": "49"
+    },
+    {
+      "anio": 2011,
+      "carrera": "GP de Quebec",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Giro de Lombardía",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "NC"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Lieja-Bastoña-Lieja",
+      "puesto": "153"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Milán-Turín",
+      "puesto": "65"
+    },
+    {
+      "anio": 2010,
+      "carrera": "París-Tours",
+      "puesto": "28"
+    }
+  ],
+  "resultadosMundiales": [],
+  "resultadosVueltasMenores": [
+    {
+      "anio": 2014,
+      "carrera": "Criterium International",
+      "puesto": "50"
+    },
+    {
+      "anio": 2015,
+      "carrera": "Criterium International",
+      "puesto": "47"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Critérium del Dauphiné",
+      "puesto": "88"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour Down Under",
+      "puesto": "41"
+    },
+    {
+      "anio": 2007,
+      "carrera": "Tour de California",
+      "puesto": "109"
+    },
+    {
+      "anio": 2013,
+      "carrera": "Tour de California",
+      "puesto": "47"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de California",
+      "puesto": "34"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Tour de California",
+      "puesto": "94"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Tour de Romandía",
+      "puesto": "57"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Volta a Cataluña",
+      "puesto": "110"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Vuelta a Austria",
+      "puesto": "31"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Vuelta a Polonia",
+      "puesto": "87"
+    },
+    {
+      "anio": 2012,
+      "carrera": "Vuelta a Suiza",
+      "puesto": "88"
+    },
+    {
+      "anio": 2011,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "119"
+    },
+    {
+      "anio": 2014,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "61"
+    },
+    {
+      "anio": 2016,
+      "carrera": "Vuelta al País Vasco",
+      "puesto": "97"
+    }
+  ],
+  "habilidades": {
+    "llano": 5,
+    "montana": 7,
+    "media_montana": 5,
+    "muros": 5,
+    "pave": 5,
+    "sprint": 5,
+    "aceleracion": 5,
+    "resistencia_gran_vuelta": 8,
+    "resistencia_clasicas": 8,
+    "combatividad": 5,
+    "contrarreloj": 5,
+    "pista": 5,
+    "tierra": 5
+  }
+}

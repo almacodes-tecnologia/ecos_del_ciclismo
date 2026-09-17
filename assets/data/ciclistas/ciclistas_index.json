@@ -16,6 +16,68 @@
         ]
     },
     {
+        "id": "adam_blythe",
+        "nombre": "Adam Blythe",
+        "nacionalidad": "Reino Unido",
+        "activo": "2008-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "adam_hansen",
+        "nombre": "Adam Hansen",
+        "nacionalidad": "Australia",
+        "activo": "2003-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "adam_phelan",
+        "nombre": "Adam Phelan",
+        "nacionalidad": "Australia",
+        "activo": "2011-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "adriano_malori",
+        "nombre": "Adriano Malori",
+        "nacionalidad": "Italia",
+        "activo": "2008-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "adrien_petit",
+        "nombre": "Adrien Petit",
+        "nacionalidad": "Francia",
+        "activo": "2010-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "alberto_contador",
         "nombre": "Alberto Contador",
         "nacionalidad": "España",
@@ -28,6 +90,18 @@
             "Tour de Francia",
             "Vuelta a España"
         ]
+    },
+    {
+        "id": "alberto_losada",
+        "nombre": "Alberto Losada",
+        "nacionalidad": "España",
+        "activo": "2005-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "alejandro_valverde",
@@ -46,6 +120,15 @@
         ]
     },
     {
+        "id": "aleksandr_kuschynski",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "aleksandr_vinokurov",
         "nombre": "Aleksandr Vinokurov",
         "nacionalidad": "Kazajistan",
@@ -58,6 +141,44 @@
             "JJ. OO. (Ruta)",
             "Lieja-Bastoña-Lieja",
             "Vuelta a España"
+        ]
+    },
+    {
+        "id": "aleksejs_saramotins",
+        "nombre": "Aleksejs Saramotins",
+        "nacionalidad": "Letonia",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alessandro_de_marchi",
+        "nombre": "Alessandro De Marchi",
+        "nacionalidad": "Italia",
+        "activo": "2010-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alessandro_petacchi",
+        "nombre": "Alessandro Petacchi",
+        "nacionalidad": "Italia",
+        "activo": "1996-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo"
         ]
     },
     {
@@ -75,6 +196,78 @@
             "Milán-San Remo",
             "Tour de Flandes"
         ]
+    },
+    {
+        "id": "alexander_serov",
+        "nombre": "Aleksandr Serov",
+        "nacionalidad": "Rusia",
+        "activo": "2001-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alexandre_botcharov",
+        "nombre": "Alexandre Botcharov",
+        "nacionalidad": "Rusia",
+        "activo": "1999-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alexandre_geniez",
+        "nombre": "Alexandre Geniez",
+        "nacionalidad": "Francia",
+        "activo": "2010-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alexandr_kolobnev",
+        "nombre": "Alexandr Kolobnev",
+        "nacionalidad": "Rusia",
+        "activo": "2002-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alex_dowsett",
+        "nombre": "Alex Dowsett",
+        "nacionalidad": "Reino Unido",
+        "activo": "2010-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "alex_rasmussen",
+        "nombre": "Alex Rasmussen",
+        "nacionalidad": "Dinamarca",
+        "activo": "2007-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "alex_zulle",
@@ -107,10 +300,427 @@
         ]
     },
     {
+        "id": "allan_davis",
+        "nombre": "Allan Davis",
+        "nacionalidad": "Australia",
+        "activo": "2001-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "amael_moinard",
+        "nombre": "Amaël Moinard",
+        "nacionalidad": "Francia",
+        "activo": "2004-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "amets_txurruka",
+        "nombre": "Amets Txurruka",
+        "nacionalidad": "España",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andreas_kloden",
+        "nombre": "Andreas Klöden",
+        "nacionalidad": "Alemania",
+        "activo": "1998-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrea_guardini",
+        "nombre": "Andrea Guardini",
+        "nacionalidad": "Italia",
+        "activo": "2010-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrea_pasqualon",
+        "nombre": "Andrea Pasqualon",
+        "nacionalidad": "Italia",
+        "activo": "2010-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrea_tafi",
+        "nombre": "Andrea Tafi",
+        "nacionalidad": "Italia",
+        "activo": "1989-2005",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "París-Roubaix",
+            "Tour de Flandes"
+        ]
+    },
+    {
         "id": "andrei_kivilev",
         "nombre": "Andrei Kivilev",
         "nacionalidad": "Kazajistán",
         "activo": "1998-2003",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrew_talansky",
+        "nombre": "Andrew Talansky",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2008-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrey_amador",
+        "nombre": "Andrey Amador",
+        "nacionalidad": "Costa Rica",
+        "activo": "2006-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrey_grivko",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrey_kashechkin",
+        "nombre": "Andrey Kashechkin",
+        "nacionalidad": "Kazajistán",
+        "activo": "2001-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andrey_zeits",
+        "nombre": "Andrey Zeits",
+        "nacionalidad": "Kazajistán",
+        "activo": "2008-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andre_greipel",
+        "nombre": "André Greipel",
+        "nacionalidad": "Alemania",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "andy_schleck",
+        "nombre": "Andy Schleck",
+        "nacionalidad": "Luxemburgo",
+        "activo": "2004-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja",
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "angelo_furlan",
+        "nombre": "Angelo Furlan",
+        "nacionalidad": "Italia",
+        "activo": "2000-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "angel_luis_casero",
+        "nombre": "Ángel Luis Casero",
+        "nacionalidad": "Spain",
+        "activo": "1993-2005",
+        "especialidad": [
+            "onedayraces",
+            "gc"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "angel_madrazo",
+        "nombre": "Ángel Madrazo",
+        "nacionalidad": "España",
+        "activo": "2008-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "angel_vicioso",
+        "nombre": "Ángel Vicioso",
+        "nacionalidad": "España",
+        "activo": "1999-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "anthony_delaplace",
+        "nombre": "Anthony Delaplace",
+        "nacionalidad": "Francia",
+        "activo": "2007-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "anthony_geslin",
+        "nombre": "Anthony Geslin",
+        "nacionalidad": "Francia",
+        "activo": "2000-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "anthony_roux",
+        "nombre": "Anthony Roux",
+        "nacionalidad": "Francia",
+        "activo": "2007-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "antonio_pedrero",
+        "nombre": "Antonio Pedrero",
+        "nacionalidad": "España",
+        "activo": "2015-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "antonio_viola",
+        "nombre": "Antonio Viola",
+        "nacionalidad": "Italia",
+        "activo": "2012-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "arnaud_demare",
+        "nombre": "Arnaud Démare",
+        "nacionalidad": "Francia",
+        "activo": "2009-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo",
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "arnold_jeannesson",
+        "nombre": "Arnold Jeannesson",
+        "nacionalidad": "Francia",
+        "activo": "2006-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "arthur_vichot",
+        "nombre": "Arthur Vichot",
+        "nacionalidad": "Francia",
+        "activo": "2009-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "baden_cooke",
+        "nombre": "Baden Cooke",
+        "nacionalidad": "Australia",
+        "activo": "2000-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bartosz_huzarski",
+        "nombre": "Bartosz Huzarski",
+        "nacionalidad": "Polonia",
+        "activo": "2002-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bauke_mollema",
+        "nombre": "Bauke Mollema",
+        "nacionalidad": "Países Bajos",
+        "activo": "2006-2026",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "World Championship Mixed Relay Ttt"
+        ]
+    },
+    {
+        "id": "beat_intxausti",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "benat_intxausti",
+        "nombre": "Beñat Intxausti",
+        "nacionalidad": "España",
+        "activo": "2007-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "benoit_vaugrenard",
+        "nombre": "Benoît Vaugrenard",
+        "nacionalidad": "Francia",
+        "activo": "2002-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ben_hermans",
+        "nombre": "Ben Hermans",
+        "nacionalidad": "Bélgica",
+        "activo": "2007-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ben_swift",
+        "nombre": "Ben Swift",
+        "nacionalidad": "Reino Unido",
+        "activo": "2007-2026",
         "especialidad": [
             "clasicómano",
             "vueltómano"
@@ -137,6 +747,44 @@
         ]
     },
     {
+        "id": "bernard_sulzberger",
+        "nombre": "Bernard Sulzberger",
+        "nacionalidad": "Australia",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bernhard_eisel",
+        "nombre": "Bernhard Eisel",
+        "nacionalidad": "Austria",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bert_grabsch",
+        "nombre": "Bert Grabsch",
+        "nacionalidad": "Alemania",
+        "activo": "1998-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj"
+        ]
+    },
+    {
         "id": "bjarne_riis",
         "nombre": "Bjarne Riis",
         "nacionalidad": "Dinamarca",
@@ -149,6 +797,30 @@
         "carreras_ganadas": [
             "Tour de Francia"
         ]
+    },
+    {
+        "id": "boris_dron",
+        "nombre": "Boris Dron",
+        "nacionalidad": "Bélgica",
+        "activo": "2008-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bradley_white",
+        "nombre": "Bradley White",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2007-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "bradley_wiggins",
@@ -166,6 +838,72 @@
         ]
     },
     {
+        "id": "bram_tankink",
+        "nombre": "Bram Tankink",
+        "nacionalidad": "Países Bajos",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "branislau_samoilau",
+        "nombre": "Branislau Samoilau",
+        "nacionalidad": "Bielorrusia",
+        "activo": "2006-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "brent_bookwalter",
+        "nombre": "Brent Bookwalter",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "brian_bach_vandborg",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "brice_feillu",
+        "nombre": "Brice Feillu",
+        "nacionalidad": "Francia",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "bruno_pires",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "cadel_evans",
         "nombre": "Cadel Evans",
         "nacionalidad": "Australia",
@@ -179,6 +917,54 @@
             "Mundial en Ruta",
             "Tour de Francia"
         ]
+    },
+    {
+        "id": "caleb_ewan",
+        "nombre": "Caleb Ewan",
+        "nacionalidad": "Australia",
+        "activo": "2013-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "caleb_fairly",
+        "nombre": "Caleb Fairly",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2010-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "cameron_meyer",
+        "nombre": "Cameron Meyer",
+        "nacionalidad": "Australia",
+        "activo": "2007-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "carlos_betancur",
+        "nombre": "Carlos Betancur",
+        "nacionalidad": "Colombia",
+        "activo": "2011-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "carlos_sastre",
@@ -195,10 +981,156 @@
         ]
     },
     {
+        "id": "carter_jones",
+        "nombre": "Carter Jones",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2010-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "chad_haga",
+        "nombre": "Chad Haga",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2012-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "cheng_ji",
+        "nombre": "Cheng Ji",
+        "nacionalidad": "China",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "christian_knees",
+        "nombre": "Christian Knees",
+        "nacionalidad": "Alemania",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "christian_meier",
+        "nombre": "Christian Meier",
+        "nacionalidad": "Canadá",
+        "activo": "2005-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "christian_vande_velde",
+        "nombre": "Christian Vande Velde",
+        "nacionalidad": "Estados Unidos",
+        "activo": "1998-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "christophe_laborie",
+        "nombre": "Christophe Laborie",
+        "nacionalidad": "Francia",
+        "activo": "2010-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "christophe_le_mevel",
+        "nombre": "Christophe Le Mével",
+        "nacionalidad": "Francia",
+        "activo": "2000-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "christophe_moreau",
         "nombre": "Christophe Moreau",
         "nacionalidad": "Francia",
         "activo": "1994-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "christophe_riblon",
+        "nombre": "Christophe Riblon",
+        "nacionalidad": "Francia",
+        "activo": "2004-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "chris_anker_sorensen",
+        "nombre": "Chris Anker Sørensen",
+        "nacionalidad": "Dinamarca",
+        "activo": "2005-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "chris_horner",
+        "nombre": "Chris Horner",
+        "nacionalidad": "Estados Unidos",
+        "activo": "1995-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "chris_sutton",
+        "nombre": "Chris Sutton",
+        "nacionalidad": "Australia",
+        "activo": "2005-2015",
         "especialidad": [
             "clasicómano",
             "vueltómano"
@@ -221,6 +1153,374 @@
         ]
     },
     {
+        "id": "cyril_gautier",
+        "nombre": "Cyril Gautier",
+        "nacionalidad": "Francia",
+        "activo": "2007-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "European Championships Mu"
+        ]
+    },
+    {
+        "id": "damiano_cunego",
+        "nombre": "Damiano Cunego",
+        "nacionalidad": "Italia",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia",
+            "Giro de Lombardía",
+            "Uci World Championships Mj"
+        ]
+    },
+    {
+        "id": "daniele_bennati",
+        "nombre": "Daniele Bennati",
+        "nacionalidad": "Italia",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daniele_pietropolli",
+        "nombre": "Daniele Pietropolli",
+        "nacionalidad": "Italia",
+        "activo": "2001-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daniele_ratto",
+        "nombre": "Daniele Ratto",
+        "nacionalidad": "Italia",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daniel_mclay",
+        "nombre": "Daniel McLay",
+        "nacionalidad": "Reino Unido",
+        "activo": "2011-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daniel_moreno",
+        "nombre": "Daniel Moreno",
+        "nacionalidad": "España",
+        "activo": "2004-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daniel_navarro",
+        "nombre": "Daniel Navarro",
+        "nacionalidad": "España",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daniel_oss",
+        "nombre": "Daniel Oss",
+        "nacionalidad": "Italia",
+        "activo": "2008-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "danilo_hondo",
+        "nombre": "Danilo Hondo",
+        "nacionalidad": "Alemania",
+        "activo": "1997-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "danilo_napolitano",
+        "nombre": "Danilo Napolitano",
+        "nacionalidad": "Italia",
+        "activo": "2004-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "danny_pate",
+        "nombre": "Danny Pate",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "dan_martin",
+        "nombre": "Dan Martin",
+        "nacionalidad": "Irlanda",
+        "activo": "2007-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja"
+        ]
+    },
+    {
+        "id": "dario_david_cioni",
+        "nombre": "Dario David Cioni",
+        "nacionalidad": "Italia",
+        "activo": "1996-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "darwin_atapuma",
+        "nombre": "Darwin Atapuma",
+        "nacionalidad": "Colombia",
+        "activo": "2011-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "daryl_impey",
+        "nombre": "Daryl Impey",
+        "nacionalidad": "Sudáfrica",
+        "activo": "2008-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "davide_cimolai",
+        "nombre": "Davide Cimolai",
+        "nacionalidad": "Italia",
+        "activo": "2008-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "davide_rebellin",
+        "nombre": "Davide Rebellin",
+        "nacionalidad": "Italia",
+        "activo": "1992-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja"
+        ]
+    },
+    {
+        "id": "davide_villella",
+        "nombre": "Davide Villella",
+        "nacionalidad": "Italia",
+        "activo": "2013-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "david_arroyo",
+        "nombre": "David Arroyo",
+        "nacionalidad": "España",
+        "activo": "2001-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "david_lopez",
+        "nombre": "David López",
+        "nacionalidad": "España",
+        "activo": "2003-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "david_millar",
+        "nombre": "David Millar",
+        "nacionalidad": "Reino Unido",
+        "activo": "1997-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "david_zabriskie",
+        "nombre": "David Zabriskie",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2000-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "denis_menchov",
+        "nombre": "Denis Menchov",
+        "nacionalidad": "Rusia",
+        "activo": "1999-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "diego_rosa",
+        "nombre": "Diego Rosa",
+        "nacionalidad": "Italia",
+        "activo": "2013-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "diego_ulissi",
+        "nombre": "Diego Ulissi",
+        "nacionalidad": "Italia",
+        "activo": "2007-2027",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Mj"
+        ]
+    },
+    {
+        "id": "dmitriy_fofonov",
+        "nombre": "Dmitriy Fofonov",
+        "nacionalidad": "Kazajistán",
+        "activo": "1998-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "dominik_nerz",
+        "nombre": "Dominik Nerz",
+        "nacionalidad": "Alemania",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "dries_devenyns",
+        "nombre": "Dries Devenyns",
+        "nacionalidad": "Bélgica",
+        "activo": "2006-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "eddy_merckx",
         "nombre": "Eddy Merckx",
         "nacionalidad": "Bélgica",
@@ -240,6 +1540,164 @@
             "Tour de Francia",
             "Vuelta a España"
         ]
+    },
+    {
+        "id": "edvald_boasson_hagen",
+        "nombre": "Edvald Boasson Hagen",
+        "nacionalidad": "Noruega",
+        "activo": "2006-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "egoi_martinez",
+        "nombre": "Egoi Martínez",
+        "nacionalidad": "España",
+        "activo": "2002-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "elia_viviani",
+        "nombre": "Elia Viviani",
+        "nacionalidad": "Italia",
+        "activo": "2008-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uec Road European Championships Me"
+        ]
+    },
+    {
+        "id": "enrico_battaglin",
+        "nombre": "Enrico Battaglin",
+        "nacionalidad": "Italia",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "enrico_gasparotto",
+        "nombre": "Enrico Gasparotto",
+        "nacionalidad": "Suiza",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "eros_capecchi",
+        "nombre": "Eros Capecchi",
+        "nacionalidad": "Italia",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "evgeni_petrov",
+        "nombre": "Evgeni Petrov",
+        "nacionalidad": "Rusia",
+        "activo": "2001-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23",
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "fabian_cancellara",
+        "nombre": "Fabian Cancellara",
+        "nacionalidad": "Suiza",
+        "activo": "2000-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "JJOO. Contrarreloj",
+            "Milán-San Remo",
+            "Mundial Contrarreloj",
+            "París-Roubaix",
+            "Tour de Flandes",
+            "Uci World Championships Itt Mj"
+        ]
+    },
+    {
+        "id": "fabian_wegmann",
+        "nombre": "Fabian Wegmann",
+        "nacionalidad": "Alemania",
+        "activo": "2002-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "fabio_aru",
+        "nombre": "Fabio Aru",
+        "nacionalidad": "Italia",
+        "activo": "2012-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "fabio_felline",
+        "nombre": "Fabio Felline",
+        "nacionalidad": "Italia",
+        "activo": "2010-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "fabio_sabatini",
+        "nombre": "Fabio Sabatini",
+        "nacionalidad": "Italia",
+        "activo": "2006-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "fausto_coppi",
@@ -271,10 +1729,171 @@
         "carreras_ganadas": []
     },
     {
+        "id": "filippo_pozzato",
+        "nombre": "Filippo Pozzato",
+        "nacionalidad": "Italia",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo"
+        ]
+    },
+    {
+        "id": "florian_vachon",
+        "nombre": "Florian Vachon",
+        "nacionalidad": "Francia",
+        "activo": "2008-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "francesco_chicchi",
+        "nombre": "Francesco Chicchi",
+        "nacionalidad": "Italia",
+        "activo": "2002-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "francesco_gavazzi",
+        "nombre": "Francesco Gavazzi",
+        "nacionalidad": "Italia",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "francois_simon",
         "nombre": "François Simon",
         "nacionalidad": "Francia",
         "activo": "1990-2002",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "franco_pellizotti",
+        "nombre": "Franco Pellizotti",
+        "nacionalidad": "Italia",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "frank_hoj",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "frank_schleck",
+        "nombre": "Fränk Schleck",
+        "nacionalidad": "Luxemburgo",
+        "activo": "2000-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "frantisek_rabon",
+        "nombre": "František Raboň",
+        "nacionalidad": "República Checa",
+        "activo": "2002-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "European Championships Mu"
+        ]
+    },
+    {
+        "id": "fran_ventoso",
+        "nombre": "Francisco José Ventoso",
+        "nacionalidad": "España",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "frederic_guesdon",
+        "nombre": "Frédéric Guesdon",
+        "nacionalidad": "Francia",
+        "activo": "1995-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "fredrik_kessiakoff",
+        "nombre": "Fredrik Kessiakoff",
+        "nacionalidad": "Suecia",
+        "activo": "2002-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "fumiyuki_beppu",
+        "nombre": "Fumiyuki Beppu",
+        "nacionalidad": "Japón",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "geoffroy_lequatre",
+        "nombre": "Geoffroy Lequatre",
+        "nacionalidad": "Francia",
+        "activo": "2002-2013",
         "especialidad": [
             "clasicómano",
             "vueltómano"
@@ -297,6 +1916,147 @@
         ]
     },
     {
+        "id": "gerald_ciolek",
+        "nombre": "Gerald Ciolek",
+        "nacionalidad": "Alemania",
+        "activo": "2005-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo",
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "gerben_lowik",
+        "nombre": "Gerben Löwik",
+        "nacionalidad": "Países Bajos",
+        "activo": "1996-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gert_dockx",
+        "nombre": "Gert Dockx",
+        "nacionalidad": "Bélgica",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gert_steegmans",
+        "nombre": "Gert Steegmans",
+        "nacionalidad": "Bélgica",
+        "activo": "2001-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ghader_mizbani",
+        "nombre": "Ghader Mizbani",
+        "nacionalidad": "Irán",
+        "activo": "2003-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "giacomo_nizzolo",
+        "nombre": "Giacomo Nizzolo",
+        "nacionalidad": "Italia",
+        "activo": "2008-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uec Road European Championships Me"
+        ]
+    },
+    {
+        "id": "giampaolo_caruso",
+        "nombre": "Giampaolo Caruso",
+        "nacionalidad": "Italia",
+        "activo": "2002-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "European Championships Mu"
+        ]
+    },
+    {
+        "id": "giampaolo_cheula",
+        "nombre": "Giampaolo Cheula",
+        "nacionalidad": "Italia",
+        "activo": "2001-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gianluca_brambilla",
+        "nombre": "Gianluca Brambilla",
+        "nacionalidad": "Italia",
+        "activo": "2008-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gianni_meersman",
+        "nombre": "Gianni Meersman",
+        "nacionalidad": "Bélgica",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gilberto_simoni",
+        "nombre": "Gilberto Simoni",
+        "nacionalidad": "Italia",
+        "activo": "1990-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia"
+        ]
+    },
+    {
         "id": "gino_bartali",
         "nombre": "Gino Bartali",
         "nacionalidad": "Italia",
@@ -312,6 +2072,56 @@
         ]
     },
     {
+        "id": "giovanni_visconti",
+        "nombre": "Giovanni Visconti",
+        "nacionalidad": "Italia",
+        "activo": "2005-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "European Championships Mu"
+        ]
+    },
+    {
+        "id": "gorazd_stangelj",
+        "nombre": "Gorazd Štangelj",
+        "nacionalidad": "Eslovenia",
+        "activo": "1997-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gorka_izagirre",
+        "nombre": "Gorka Izagirre",
+        "nacionalidad": "España",
+        "activo": "2008-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gorka_verdugo",
+        "nombre": "Gorka Verdugo",
+        "nacionalidad": "España",
+        "activo": "2002-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "gosta_pettersson",
         "nombre": "Gösta Pettersson",
         "nacionalidad": "Suecia",
@@ -320,10 +2130,67 @@
             "clasicómano",
             "vueltómano"
         ],
-        "genero": "femenino",
+        "genero": "masculino",
         "carreras_ganadas": [
             "Giro d'Italia"
         ]
+    },
+    {
+        "id": "graeme_allen_brown",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "graeme_brown",
+        "nombre": "Graeme Allen Brown",
+        "nacionalidad": "Australia",
+        "activo": "2002-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "grega_bole",
+        "nombre": "Grega Bole",
+        "nacionalidad": "Eslovenia",
+        "activo": "2005-2026",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gregory_henderson",
+        "nombre": "Gregory Henderson",
+        "nacionalidad": "Nueva Zelanda",
+        "activo": "2002-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gregory_rast",
+        "nombre": "Grégory Rast",
+        "nacionalidad": "Suiza",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "greg_lemond",
@@ -340,10 +2207,151 @@
         ]
     },
     {
+        "id": "greg_van_avermaet",
+        "nombre": "Greg Van Avermaet",
+        "nacionalidad": "Bélgica",
+        "activo": "2006-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Juegos Olímpicos",
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "grischa_janorschke",
+        "nombre": "Grischa Janorschke",
+        "nacionalidad": "Alemania",
+        "activo": "2007-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "grischa_niermann",
+        "nombre": "Grischa Niermann",
+        "nacionalidad": "Alemania",
+        "activo": "1996-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gustavo_cesar_veloso",
+        "nombre": "Gustavo César Veloso",
+        "nacionalidad": "España",
+        "activo": "2001-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "gustav_erik_larsson",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "haimar_zubeldia",
         "nombre": "Haimar Zubeldia",
         "nacionalidad": "España",
         "activo": "1998-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "hayden_rouston",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "hector_carretero",
+        "nombre": "Héctor Carretero",
+        "nacionalidad": "España",
+        "activo": "2015-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "heinrich_haussler",
+        "nombre": "Heinrich Haussler",
+        "nacionalidad": "Australia",
+        "activo": "2004-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "hubert_dupont",
+        "nombre": "Hubert Dupont",
+        "nacionalidad": "Francia",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "hugh_carthy",
+        "nombre": "Hugh Carthy",
+        "nacionalidad": "Reino Unido",
+        "activo": "2013-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "hugo_sabido",
+        "nombre": "Hugo Sabido",
+        "nacionalidad": "Portugal",
+        "activo": "2001-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ian_stannard",
+        "nombre": "Ian Stannard",
+        "nacionalidad": "Reino Unido",
+        "activo": "2006-2020",
         "especialidad": [
             "clasicómano",
             "vueltómano"
@@ -364,6 +2372,18 @@
         "carreras_ganadas": []
     },
     {
+        "id": "igor_anton",
+        "nombre": "Igor Antón",
+        "nacionalidad": "España",
+        "activo": "2005-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "igor_gonzalez_de_galdeano",
         "nombre": "Igor González de Galdeano",
         "nacionalidad": "España",
@@ -372,6 +2392,41 @@
             "clasicómano",
             "vueltómano"
         ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ilnur_zakarin",
+        "nombre": "Ilnur Zakarin",
+        "nacionalidad": "Rusia",
+        "activo": "2012-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "European Championship Itt Mj"
+        ]
+    },
+    {
+        "id": "imanol_erviti",
+        "nombre": "Imanol Erviti",
+        "nacionalidad": "España",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "inaki_isasi",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
         "genero": "masculino",
         "carreras_ganadas": []
     },
@@ -403,6 +2458,56 @@
         "carreras_ganadas": [
             "Giro d'Italia"
         ]
+    },
+    {
+        "id": "ivan_santaromita",
+        "nombre": "Ivan Santaromita",
+        "nacionalidad": "Italia",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jaan_kirsipuu",
+        "nombre": "Jaan Kirsipuu",
+        "nacionalidad": "Estonia",
+        "activo": "1992-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jack_bobridge",
+        "nombre": "Jack Bobridge",
+        "nacionalidad": "Australia",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "jacopo_guarnieri",
+        "nombre": "Jacopo Guarnieri",
+        "nacionalidad": "Italia",
+        "activo": "2008-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "jacques_anquetil",
@@ -437,6 +2542,86 @@
         ]
     },
     {
+        "id": "james_glasspool",
+        "nombre": "James Glasspool",
+        "nacionalidad": "Australia",
+        "activo": "2015-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "janez_brajkovic",
+        "nombre": "Janez Brajkovič",
+        "nacionalidad": "Eslovenia",
+        "activo": "2005-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "jan_bakelants",
+        "nombre": "Jan Bakelants",
+        "nacionalidad": "Bélgica",
+        "activo": "2003-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jan_barta",
+        "nombre": "Jan Bárta",
+        "nacionalidad": "República Checa",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jan_polanc",
+        "nombre": "Jan Polanc",
+        "nacionalidad": "Eslovenia",
+        "activo": "2011-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jan_ullrich",
+        "nombre": "Jan Ullrich",
+        "nacionalidad": "Alemania",
+        "activo": "1995-2006",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Juegos Olímpicos",
+            "Mundial Contrarreloj",
+            "Tour de Francia",
+            "Vuelta a España",
+            "World Championships Road Race Amateurs"
+        ]
+    },
+    {
         "id": "jeannie_longo",
         "nombre": "Jeannie Longo",
         "nacionalidad": "Francia",
@@ -447,7 +2632,163 @@
             "pista",
             "montaña"
         ],
-        "genero": "femenino",
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jean_christophe_peraud",
+        "nombre": "Jean-Christophe Peraud",
+        "nacionalidad": "Francia",
+        "activo": "2010-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jean_marc_bideau",
+        "nombre": "Jean-Marc Bideau",
+        "nacionalidad": "Francia",
+        "activo": "2005-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jean_pierre_drucker",
+        "nombre": "Jempy Drucker",
+        "nacionalidad": "Luxemburgo",
+        "activo": "2004-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jef_van_meirhaeghe",
+        "nombre": "Jef Van Meirhaeghe",
+        "nacionalidad": "Bélgica",
+        "activo": "2012-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jelle_vanendert",
+        "nombre": "Jelle Vanendert",
+        "nacionalidad": "Bélgica",
+        "activo": "2003-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jens_debusschere",
+        "nombre": "Jens Debusschere",
+        "nacionalidad": "Bélgica",
+        "activo": "2010-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jens_keukeleire",
+        "nombre": "Jens Keukeleire",
+        "nacionalidad": "Bélgica",
+        "activo": "2010-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jens_voigt",
+        "nombre": "Jens Voigt",
+        "nacionalidad": "Alemania",
+        "activo": "1997-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jeremy_roy",
+        "nombre": "Jérémy Roy",
+        "nacionalidad": "Francia",
+        "activo": "2003-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jerome_coppel",
+        "nombre": "Jérôme Coppel",
+        "nacionalidad": "Francia",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jesse_sergent",
+        "nombre": "Jesse Sergent",
+        "nacionalidad": "Nueva Zelanda",
+        "activo": "2009-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jesus_hernandez_3",
+        "nombre": "Jesús Hernández Blázquez",
+        "nacionalidad": "España",
+        "activo": "2002-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jetse_bol",
+        "nombre": "Jetse Bol",
+        "nacionalidad": "Países Bajos",
+        "activo": "2008-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
         "carreras_ganadas": []
     },
     {
@@ -458,10 +2799,162 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "femenino",
+        "genero": "masculino",
         "carreras_ganadas": [
             "Mundial Contrarreloj "
         ]
+    },
+    {
+        "id": "joaquim_rodriguez",
+        "nombre": "Joaquim Rodríguez",
+        "nacionalidad": "España",
+        "activo": "2000-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía"
+        ]
+    },
+    {
+        "id": "johannes_frohlinger",
+        "nombre": "Johannes Fröhlinger",
+        "nacionalidad": "Alemania",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "johan_esteban_chaves",
+        "nombre": "Esteban Chaves",
+        "nacionalidad": "Colombia",
+        "activo": "2009-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía"
+        ]
+    },
+    {
+        "id": "johan_vansummeren",
+        "nombre": "Johan Vansummeren",
+        "nacionalidad": "Bélgica",
+        "activo": "2002-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "johnny_hoogerland",
+        "nombre": "Johnny Hoogerland",
+        "nacionalidad": "Países Bajos",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "john_gadret",
+        "nombre": "John Gadret",
+        "nacionalidad": "Francia",
+        "activo": "2003-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jonas_aaen_jorgensen",
+        "nombre": "Jonas Aaen Jørgensen",
+        "nacionalidad": "Dinamarca",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jonas_van_genechten",
+        "nombre": "Jonas van Genechten",
+        "nacionalidad": "Bélgica",
+        "activo": "2006-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jonathan_castroviejo",
+        "nombre": "Jonathan Castroviejo",
+        "nacionalidad": "España",
+        "activo": "2008-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uec Road European Championships Itt"
+        ]
+    },
+    {
+        "id": "jonathan_hivert",
+        "nombre": "Jonathan Hivert",
+        "nacionalidad": "Francia",
+        "activo": "2005-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jonipher_ravina",
+        "nombre": "Jonipher Ravina",
+        "nacionalidad": "Philippines",
+        "activo": "2013-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jon_aberasturi",
+        "nombre": "Jon Aberasturi",
+        "nacionalidad": "España",
+        "activo": "2008-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "joop_zoetemelk",
@@ -477,6 +2970,18 @@
             "Tour de Francia",
             "Vuelta a España"
         ]
+    },
+    {
+        "id": "joost_posthuma",
+        "nombre": "Joost Posthuma",
+        "nacionalidad": "Países Bajos",
+        "activo": "2001-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "jorg_jaksche",
@@ -503,6 +3008,134 @@
         "carreras_ganadas": []
     },
     {
+        "id": "jose_ivan_gutierrez",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jose_joaquin_rojas",
+        "nombre": "José Joaquín Rojas",
+        "nacionalidad": "España",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jose_jufre",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jose_luis_rubiera",
+        "nombre": "José Luis Rubiera",
+        "nacionalidad": "España",
+        "activo": "1995-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jose_vicente_garcia_acosta",
+        "nombre": "José Vicente García Acosta",
+        "nacionalidad": "España",
+        "activo": "1994-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jos_van_emden",
+        "nombre": "Jos van Emden",
+        "nacionalidad": "Países Bajos",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship Mixed Relay Ttt"
+        ]
+    },
+    {
+        "id": "juan_antonio_flecha",
+        "nombre": "Juan Antonio Flecha",
+        "nacionalidad": "España",
+        "activo": "2000-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "juan_jose_cobo",
+        "nombre": "Juan José Cobo",
+        "nacionalidad": "España",
+        "activo": "2002-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "juan_jose_haedo",
+        "nombre": "Juan José Haedo",
+        "nacionalidad": "Argentina",
+        "activo": "2003-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "juan_jose_lobato",
+        "nombre": "Juan José Lobato",
+        "nacionalidad": "España",
+        "activo": "2010-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "juan_manuel_garate",
+        "nombre": "Juan Manuel Garate",
+        "nacionalidad": "España",
+        "activo": "2000-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "judith_arndt",
         "nombre": "Judith Arndt",
         "nacionalidad": "Alemania",
@@ -511,11 +3144,455 @@
             "carretera",
             "pista"
         ],
-        "genero": "femenino",
+        "genero": "masculino",
         "carreras_ganadas": [
             "Mundial Contrarreloj",
             "Mundial en Ruta"
         ]
+    },
+    {
+        "id": "julian_david_arredondo",
+        "nombre": "Julián David Arredondo",
+        "nacionalidad": "Colombia",
+        "activo": "2012-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "julian_dean",
+        "nombre": "Julian Dean",
+        "nacionalidad": "Nueva Zelanda",
+        "activo": "1996-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "julien_el_fares",
+        "nombre": "Julien El Fares",
+        "nacionalidad": "Francia",
+        "activo": "2006-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jurgen_roelandts",
+        "nombre": "Jürgen Roelandts",
+        "nacionalidad": "Bélgica",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jurgen_van_den_broeck",
+        "nombre": "Jurgen Van den Broeck",
+        "nacionalidad": "Bélgica",
+        "activo": "2003-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Itt Mj"
+        ]
+    },
+    {
+        "id": "jurgen_van_goolen",
+        "nombre": "Jurgen Van Goolen",
+        "nacionalidad": "Bélgica",
+        "activo": "2002-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "jussi_veikkanen",
+        "nombre": "Jussi Veikkanen",
+        "nacionalidad": "Finlandia",
+        "activo": "2002-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "kai_reus",
+        "nombre": "Kai Reus",
+        "nacionalidad": "Países Bajos",
+        "activo": "2004-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Mj"
+        ]
+    },
+    {
+        "id": "kanstantsin_siutsou",
+        "nombre": "Kanstantsin Siutsou",
+        "nacionalidad": "Bielorrusia",
+        "activo": "2001-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "kenny_dehaes",
+        "nombre": "Kenny Dehaes",
+        "nacionalidad": "Bélgica",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "kevin_de_mesmaeker",
+        "nombre": "Kevin De Mesmaeker",
+        "nacionalidad": "Bélgica",
+        "activo": "2013-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "kim_kirchen",
+        "nombre": "Kim Kirchen",
+        "nacionalidad": "Luxemburgo",
+        "activo": "2000-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "koldo_fernandez",
+        "nombre": "Koldo Fernández",
+        "nacionalidad": "España",
+        "activo": "2002-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "koos_moerenhout",
+        "nombre": "Koos Moerenhout",
+        "nacionalidad": "Países Bajos",
+        "activo": "1994-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "kristian_sbaragli",
+        "nombre": "Kristian Sbaragli",
+        "nacionalidad": "Italia",
+        "activo": "2007-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "kristijan_koren",
+        "nombre": "Kristijan Koren",
+        "nacionalidad": "Eslovenia",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "kurt_asle_arvesen",
+        "nombre": "Kurt-Asle Arvesen",
+        "nacionalidad": "Noruega",
+        "activo": "1998-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "lance_armstrong",
+        "nombre": "Lance Armstrong",
+        "nacionalidad": "Estados Unidos",
+        "activo": "1992-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship"
+        ]
+    },
+    {
+        "id": "lars_boom",
+        "nombre": "Lars Boom",
+        "nacionalidad": "Países Bajos",
+        "activo": "2003-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "lars_petter_nordhaug",
+        "nombre": "Lars Petter Nordhaug",
+        "nacionalidad": "Noruega",
+        "activo": "2005-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "lars_ytting_bak",
+        "nombre": "Lars Ytting Bak",
+        "nacionalidad": "Dinamarca",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "laszlo_bodrogi",
+        "nombre": "László Bodrogi",
+        "nacionalidad": "Francia",
+        "activo": "1997-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "laurens_ten_dam",
+        "nombre": "Laurens ten Dam",
+        "nacionalidad": "Países Bajos",
+        "activo": "2002-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "laurent_pichon",
+        "nombre": "Laurent Pichon",
+        "nacionalidad": "Francia",
+        "activo": "2010-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "leif_hoste",
+        "nombre": "Leif Hoste",
+        "nacionalidad": "Bélgica",
+        "activo": "1997-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "leigh_howard",
+        "nombre": "Leigh Howard",
+        "nacionalidad": "Australia",
+        "activo": "2009-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "leonardo_duque",
+        "nombre": "Leonardo Fabio Duque",
+        "nacionalidad": "Francia",
+        "activo": "2004-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "leopold_konig",
+        "nombre": "Leopold König",
+        "nacionalidad": "República Checa",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "levi_leipheimer",
+        "nombre": "Levi Leipheimer",
+        "nacionalidad": "Estados Unidos",
+        "activo": "1995-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "lieuwe_westra",
+        "nombre": "Lieuwe Westra",
+        "nacionalidad": "Países Bajos",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "linus_gerdemann",
+        "nombre": "Linus Gerdemann",
+        "nacionalidad": "Alemania",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "lloyd_mondory",
+        "nombre": "Lloyd Mondory",
+        "nacionalidad": "Francia",
+        "activo": "2002-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "lorenzo_bernucci",
+        "nombre": "Lorenzo Bernucci",
+        "nacionalidad": "Italia",
+        "activo": "2002-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "louis_meintjes",
+        "nombre": "Louis Meintjes",
+        "nacionalidad": "Sudáfrica",
+        "activo": "2010-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "luca_mazzanti",
+        "nombre": "Luca Mazzanti",
+        "nacionalidad": "Italia",
+        "activo": "1996-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "luca_paolini",
+        "nombre": "Luca Paolini",
+        "nacionalidad": "Italia",
+        "activo": "2000-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "lucho_herrera",
@@ -529,6 +3606,18 @@
         "carreras_ganadas": [
             "Vuelta a España"
         ]
+    },
+    {
+        "id": "luis_leon_sanchez",
+        "nombre": "Luis León Sánchez",
+        "nacionalidad": "España",
+        "activo": "2003-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "luis_ocana",
@@ -546,6 +3635,212 @@
         ]
     },
     {
+        "id": "luke_roberts",
+        "nombre": "Luke Roberts",
+        "nacionalidad": "Sudáfrica",
+        "activo": "",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maarten_tjallingii",
+        "nombre": "Maarten Tjallingii",
+        "nacionalidad": "Países Bajos",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maarten_wynants",
+        "nombre": "Maarten Wynants",
+        "nacionalidad": "Bélgica",
+        "activo": "2004-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maciej_bodnar",
+        "nombre": "Maciej Bodnar",
+        "nacionalidad": "Polonia",
+        "activo": "2005-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maciej_paterski",
+        "nombre": "Maciej Paterski",
+        "nacionalidad": "Polonia",
+        "activo": "2009-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "manuele_mori",
+        "nombre": "Manuele Mori",
+        "nacionalidad": "Italia",
+        "activo": "2002-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "manuel_antonio_leal_cardoso",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "manuel_belletti",
+        "nombre": "Manuel Belletti",
+        "nacionalidad": "Italia",
+        "activo": "2008-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "manuel_quinziato",
+        "nombre": "Manuel Quinziato",
+        "nacionalidad": "Italia",
+        "activo": "2002-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "marcel_aregger",
+        "nombre": "Marcel Aregger",
+        "nacionalidad": "Suiza",
+        "activo": "2010-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marcel_kittel",
+        "nombre": "Marcel Kittel",
+        "nacionalidad": "Alemania",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Itt Mj",
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "marcel_sieberg",
+        "nombre": "Marcel Sieberg",
+        "nacionalidad": "Alemania",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marcel_wyss",
+        "nombre": "Marcel Wyss",
+        "nacionalidad": "Suiza",
+        "activo": "2006-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marco_bandiera",
+        "nombre": "Marco Bandiera",
+        "nacionalidad": "Italia",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marco_canola",
+        "nombre": "Marco Canola",
+        "nacionalidad": "Italia",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marco_marcato",
+        "nombre": "Marco Marcato",
+        "nacionalidad": "Italia",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marco_marzano",
+        "nombre": "Marco Marzano",
+        "nacionalidad": "Italia",
+        "activo": "2005-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "marco_pantani",
         "nombre": "Marco Pantani",
         "nacionalidad": "Italia",
@@ -558,6 +3853,54 @@
         "carreras_ganadas": [
             "Tour de Francia"
         ]
+    },
+    {
+        "id": "marco_pinotti",
+        "nombre": "Marco Pinotti",
+        "nacionalidad": "Italia",
+        "activo": "1998-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marcus_burghardt",
+        "nombre": "Marcus Burghardt",
+        "nacionalidad": "Alemania",
+        "activo": "2004-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marc_de_maar",
+        "nombre": "Marc de Maar",
+        "nacionalidad": "Países Bajos",
+        "activo": "2001-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marek_rutkiewicz",
+        "nombre": "Marek Rutkiewicz",
+        "nacionalidad": "Polonia",
+        "activo": "2001-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "marino_lejarreta",
@@ -586,10 +3929,220 @@
         "carreras_ganadas": []
     },
     {
+        "id": "mario_costa",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mario_faria_da_costa",
+        "nombre": "Mário Costa",
+        "nacionalidad": "Portugal",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "markel_irizar",
+        "nombre": "Markel Irizar",
+        "nacionalidad": "España",
+        "activo": "2002-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "markus_fothen",
+        "nombre": "Markus Fothen",
+        "nacionalidad": "Alemania",
+        "activo": "2004-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "mark_cavendish",
+        "nombre": "Mark Cavendish",
+        "nacionalidad": "Reino Unido",
+        "activo": "2005-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Campeonato Mundial",
+            "Milán-San Remo"
+        ]
+    },
+    {
+        "id": "mark_renshaw",
+        "nombre": "Mark Renshaw",
+        "nacionalidad": "Australia",
+        "activo": "2003-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "martijn_maaskant",
+        "nombre": "Martijn Maaskant",
+        "nacionalidad": "Países Bajos",
+        "activo": "2001-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "martin_elmiger",
+        "nombre": "Martin Elmiger",
+        "nacionalidad": "Suiza",
+        "activo": "2000-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "martin_van_den_bossche",
         "nombre": "Martin Van den Bossche",
         "nacionalidad": "Bélgica",
         "activo": "1963-1974",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "marzio_bruseghin",
+        "nombre": "Marzio Bruseghin",
+        "nacionalidad": "Italia",
+        "activo": "1997-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mathew_hayman",
+        "nombre": "Mathew Hayman",
+        "nacionalidad": "Australia",
+        "activo": "2000-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "mathias_frank",
+        "nombre": "Mathias Frank",
+        "nacionalidad": "Suiza",
+        "activo": "2008-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "matteo_tosatto",
+        "nombre": "Matteo Tosatto",
+        "nacionalidad": "Italia",
+        "activo": "1997-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "matthew_busche",
+        "nombre": "Matthew Busche",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2009-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "matthew_goss",
+        "nombre": "Matthew Goss",
+        "nacionalidad": "Australia",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo"
+        ]
+    },
+    {
+        "id": "matthias_brandle",
+        "nombre": "Matthias Brändle",
+        "nacionalidad": "Austria",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "matthieu_ladagnous",
+        "nombre": "Matthieu Ladagnous",
+        "nacionalidad": "Francia",
+        "activo": "2006-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "matti_breschel",
+        "nombre": "Matti Breschel",
+        "nacionalidad": "Dinamarca",
+        "activo": "2003-2019",
         "especialidad": [
             "clasicómano",
             "vueltómano"
@@ -612,10 +4165,148 @@
         ]
     },
     {
+        "id": "mauricio_alberto_ardila",
+        "nombre": "Mauricio Alberto Ardila",
+        "nacionalidad": "Colombia",
+        "activo": "2002-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mauro_finetto",
+        "nombre": "Mauro Finetto",
+        "nacionalidad": "Italia",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maxime_bouet",
+        "nombre": "Maxime Bouet",
+        "nacionalidad": "Francia",
+        "activo": "2007-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maxime_monfort",
+        "nombre": "Maxime Monfort",
+        "nacionalidad": "Bélgica",
+        "activo": "2003-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maxime_vantomme",
+        "nombre": "Maxime Vantomme",
+        "nacionalidad": "Bélgica",
+        "activo": "2006-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "maxim_iglinskiy",
+        "nombre": "Maxim Iglinskiy",
+        "nacionalidad": "Kazajistán",
+        "activo": "2004-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja"
+        ]
+    },
+    {
+        "id": "michael_albasini",
+        "nombre": "Michael Albasini",
+        "nacionalidad": "Suiza",
+        "activo": "2003-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "European Championships Mu"
+        ]
+    },
+    {
         "id": "michael_boogerd",
         "nombre": "Michael Boogerd",
         "nacionalidad": "Países Bajos",
         "activo": "1993-2007",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "michael_james_northey",
+        "nombre": "Michael James Northey",
+        "nacionalidad": "Nueva Zelanda",
+        "activo": "2009-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "michael_morkov",
+        "nombre": "Michael Mørkøv",
+        "nacionalidad": "Dinamarca",
+        "activo": "2005-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "michael_rogers",
+        "nombre": "Michael Rogers",
+        "nacionalidad": "Australia",
+        "activo": "2000-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj"
+        ]
+    },
+    {
+        "id": "michael_van_staeyen",
+        "nombre": "Michael Van Staeyen",
+        "nacionalidad": "Bélgica",
+        "activo": "2007-2022",
         "especialidad": [
             "clasicómano",
             "vueltómano"
@@ -630,6 +4321,42 @@
         "activo": "2013-2025",
         "especialidad": [
             "ruta"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "michal_golas",
+        "nombre": "Michał Gołaś",
+        "nacionalidad": "Polonia",
+        "activo": "2007-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "michel_kreder",
+        "nombre": "Michel Kreder",
+        "nacionalidad": "Países Bajos",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mickael_delage",
+        "nombre": "Mickaël Delage",
+        "nacionalidad": "Francia",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
         ],
         "genero": "masculino",
         "carreras_ganadas": []
@@ -651,6 +4378,164 @@
         ]
     },
     {
+        "id": "mikael_cherel",
+        "nombre": "Mikaël Cherel",
+        "nacionalidad": "Francia",
+        "activo": "2006-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mikel_nieve",
+        "nombre": "Mikel Nieve",
+        "nacionalidad": "España",
+        "activo": "2004-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mikhaylo_khalilov",
+        "nombre": "Mikhaylo Khalilov",
+        "nacionalidad": "Ucrania",
+        "activo": "2000-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mirco_lorenzetto",
+        "nombre": "Mirco Lorenzetto",
+        "nacionalidad": "Italia",
+        "activo": "2004-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "mirko_selvaggi",
+        "nombre": "Mirko Selvaggi",
+        "nacionalidad": "Italia",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "moreno_hofland",
+        "nombre": "Moreno Hofland",
+        "nacionalidad": "Países Bajos",
+        "activo": "2010-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "moreno_moser",
+        "nombre": "Moreno Moser",
+        "nacionalidad": "Italia",
+        "activo": "2011-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "murilo_antonio_fischer",
+        "nombre": "Murilo Antonio Fischer",
+        "nacionalidad": "Brasil",
+        "activo": "2004-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "nacer_bouhanni",
+        "nombre": "Nacer Bouhanni",
+        "nacionalidad": "Francia",
+        "activo": "2010-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "nathan_haas",
+        "nombre": "Nathan Haas",
+        "nacionalidad": "Australia",
+        "activo": "2010-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "nicki_sorensen",
+        "nombre": "Nicki Sørensen",
+        "nacionalidad": "Dinamarca",
+        "activo": "1999-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "nick_nuyens",
+        "nombre": "Nick Nuyens",
+        "nacionalidad": "Bélgica",
+        "activo": "2002-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Flandes"
+        ]
+    },
+    {
+        "id": "nicolas_edet",
+        "nombre": "Nicolas Edet",
+        "nacionalidad": "Francia",
+        "activo": "2011-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "nicolas_frantz",
         "nombre": "Nicolas Frantz",
         "nacionalidad": "Luxemburgo",
@@ -664,6 +4549,30 @@
         ]
     },
     {
+        "id": "nicolas_lefrancois",
+        "nombre": "Nicolas Lefrancois",
+        "nacionalidad": "Francia",
+        "activo": "2013-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "nicolas_roche",
+        "nombre": "Nicolas Roche",
+        "nacionalidad": "Irlanda",
+        "activo": "2004-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "nicole_cooke",
         "nombre": "Nicole Cooke",
         "nacionalidad": "Reino Unido",
@@ -673,10 +4582,217 @@
             "ciclocross",
             "montaña"
         ],
-        "genero": "femenino",
+        "genero": "masculino",
         "carreras_ganadas": [
             "Mundial en Ruta"
         ]
+    },
+    {
+        "id": "niki_terpstra",
+        "nombre": "Niki Terpstra",
+        "nacionalidad": "Países Bajos",
+        "activo": "2001-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix",
+            "Tour de Flandes",
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "oliver_zaugg",
+        "nombre": "Oliver Zaugg",
+        "nacionalidad": "Suiza",
+        "activo": "2004-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía"
+        ]
+    },
+    {
+        "id": "omar_fraile",
+        "nombre": "Omar Fraile",
+        "nacionalidad": "España",
+        "activo": "2012-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "oscar_freire",
+        "nombre": "Óscar Freire",
+        "nacionalidad": "España",
+        "activo": "1998-2012",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Milán-San Remo",
+            "World Championship"
+        ]
+    },
+    {
+        "id": "oscar_pereiro",
+        "nombre": "Óscar Pereiro",
+        "nacionalidad": "España",
+        "activo": "2000-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Francia"
+        ]
+    },
+    {
+        "id": "oscar_stevenson",
+        "nombre": "Oscar Stevenson",
+        "nacionalidad": "Australia",
+        "activo": "2015-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pablo_lastras",
+        "nombre": "Pablo Lastras",
+        "nacionalidad": "España",
+        "activo": "1997-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pablo_urtasun",
+        "nombre": "Pablo Urtasun",
+        "nacionalidad": "España",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "paolo_savoldelli",
+        "nombre": "Paolo Savoldelli",
+        "nacionalidad": "Italia",
+        "activo": "1996-2008",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia"
+        ]
+    },
+    {
+        "id": "paolo_tiralongo",
+        "nombre": "Paolo Tiralongo",
+        "nacionalidad": "Italia",
+        "activo": "2000-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "patrick_gretsch",
+        "nombre": "Patrick Gretsch",
+        "nacionalidad": "Alemania",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Itt Mj"
+        ]
+    },
+    {
+        "id": "patrick_shaw",
+        "nombre": "Patrick Shaw",
+        "nacionalidad": "Australia",
+        "activo": "2010-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "paul_martens",
+        "nombre": "Paul Martens",
+        "nacionalidad": "Alemania",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "paul_voss",
+        "nombre": "Paul Voß",
+        "nacionalidad": "Alemania",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pavel_brutt",
+        "nombre": "Pavel Brutt",
+        "nacionalidad": "Rusia",
+        "activo": "2001-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pawel_poljanski",
+        "nombre": "Paweł Poljański",
+        "nacionalidad": "Polonia",
+        "activo": "2013-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "pedro_delgado",
@@ -692,6 +4808,18 @@
             "Tour de Francia",
             "Vuelta a España"
         ]
+    },
+    {
+        "id": "peter_kennaugh",
+        "nombre": "Peter Kennaugh",
+        "nacionalidad": "Reino Unido",
+        "activo": "2010-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "peter_sagan",
@@ -712,6 +4840,182 @@
         ]
     },
     {
+        "id": "peter_stetina",
+        "nombre": "Peter Stetina",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "peter_velits",
+        "nombre": "Peter Velits",
+        "nacionalidad": "Eslovaquia",
+        "activo": "2004-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship Ttt",
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "peter_wrolich",
+        "nombre": "Peter Wrolich",
+        "nacionalidad": "Austria",
+        "activo": "1999-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "philippe_gilbert",
+        "nombre": "Philippe Gilbert",
+        "nacionalidad": "Bélgica",
+        "activo": "2002-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Campeonato Mundial",
+            "Giro de Lombardía",
+            "Lieja-Bastoña-Lieja",
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "philip_deignan",
+        "nombre": "Philip Deignan",
+        "nacionalidad": "Irlanda",
+        "activo": "2005-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pierre_latour",
+        "nombre": "Pierre Latour",
+        "nacionalidad": "Francia",
+        "activo": "2012-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pierre_rolland",
+        "nombre": "Pierre Rolland",
+        "nacionalidad": "Francia",
+        "activo": "2005-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pierrick_fedrigo",
+        "nombre": "Pierrick Fédrigo",
+        "nacionalidad": "Francia",
+        "activo": "1999-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pieter_serry",
+        "nombre": "Pieter Serry",
+        "nacionalidad": "Bélgica",
+        "activo": "2010-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pieter_weening",
+        "nombre": "Pieter Weening",
+        "nacionalidad": "Países Bajos",
+        "activo": "2002-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "pim_ligthart",
+        "nombre": "Pim Ligthart",
+        "nacionalidad": "Países Bajos",
+        "activo": "2007-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "przemyslaw_niemiec",
+        "nombre": "Przemysław Niemiec",
+        "nacionalidad": "Polonia",
+        "activo": "2002-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "radoslav_rogina",
+        "nombre": "Radoslav Rogina",
+        "nacionalidad": "Croacia",
+        "activo": "2002-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "rafael_valls",
+        "nombre": "Rafael Valls",
+        "nacionalidad": "España",
+        "activo": "2009-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "rafal_majka",
         "nombre": "Rafal Majka",
         "nacionalidad": "Polonia",
@@ -719,6 +5023,42 @@
         "especialidad": [
             "carretera",
             "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ramunas_navardauskas",
+        "nombre": "Ramūnas Navardauskas",
+        "nacionalidad": "Lituania",
+        "activo": "2007-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "rasmus_guldhammer",
+        "nombre": "Rasmus Guldhammer",
+        "nacionalidad": "Dinamarca",
+        "activo": "2008-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "raymond_kreder",
+        "nombre": "Raymond Kreder",
+        "nacionalidad": "Países Bajos",
+        "activo": "2010-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
         ],
         "genero": "masculino",
         "carreras_ganadas": []
@@ -739,6 +5079,30 @@
         ]
     },
     {
+        "id": "reidar_bohlin_borgersen",
+        "nombre": "Reidar Bohlin Borgersen",
+        "nacionalidad": "Noruega",
+        "activo": "2011-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "remy_di_gregorio",
+        "nombre": "Rémy Di Grégorio",
+        "nacionalidad": "Francia",
+        "activo": "2005-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "richard_virenque",
         "nombre": "Richard Virenque",
         "nacionalidad": "Francia",
@@ -746,6 +5110,42 @@
         "especialidad": [
             "carretera",
             "escalador"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "richie_porte",
+        "nombre": "Richie Porte",
+        "nacionalidad": "Australia",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "rigoberto_uran",
+        "nombre": "Rigoberto Urán",
+        "nacionalidad": "Colombia",
+        "activo": "2006-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "rinaldo_nocentini",
+        "nombre": "Rinaldo Nocentini",
+        "nacionalidad": "Italia",
+        "activo": "1999-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
         ],
         "genero": "masculino",
         "carreras_ganadas": []
@@ -763,6 +5163,51 @@
         "carreras_ganadas": []
     },
     {
+        "id": "roberto_ferrari",
+        "nombre": "Roberto Ferrari",
+        "nacionalidad": "Italia",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "roberto_laiseka",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "roberto_laiseka_jaio",
+        "nombre": "Roberto Laiseka",
+        "nacionalidad": "España",
+        "activo": "1994-2006",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "robert_gesink",
+        "nombre": "Robert Gesink",
+        "nacionalidad": "Países Bajos",
+        "activo": "2005-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "robert_hunter",
         "nombre": "Robert Hunter",
         "nacionalidad": "Sudáfrica",
@@ -770,6 +5215,145 @@
         "especialidad": [
             "carretera",
             "esprinter"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "robert_kiserlovski",
+        "nombre": "Robert Kišerlovski",
+        "nacionalidad": "Croacia",
+        "activo": "2005-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "roger_kluge",
+        "nombre": "Roger Kluge",
+        "nacionalidad": "Alemania",
+        "activo": "2008-2026",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "rohan_dennis",
+        "nombre": "Rohan Dennis",
+        "nacionalidad": "Australia",
+        "activo": "2009-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "romain_bardet",
+        "nombre": "Romain Bardet",
+        "nacionalidad": "Francia",
+        "activo": "2007-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "romain_feillu",
+        "nombre": "Romain Feillu",
+        "nacionalidad": "Francia",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "romain_sicard",
+        "nombre": "Romain Sicard",
+        "nacionalidad": "Francia",
+        "activo": "2009-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "roman_kreuziger",
+        "nombre": "Roman Kreuziger",
+        "nacionalidad": "República Checa",
+        "activo": "2006-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Mj"
+        ]
+    },
+    {
+        "id": "rory_sutherland",
+        "nombre": "Rory Sutherland",
+        "nacionalidad": "Australia",
+        "activo": "2002-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "roy_jans",
+        "nombre": "Roy Jans",
+        "nacionalidad": "Bélgica",
+        "activo": "2008-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "roy_sentjens",
+        "nombre": "Roy Sentjens",
+        "nacionalidad": "Bélgica",
+        "activo": "2002-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "ruben_plaza",
+        "nombre": "Rubén Plaza",
+        "nacionalidad": "España",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
         ],
         "genero": "masculino",
         "carreras_ganadas": []
@@ -796,6 +5380,92 @@
         "especialidad": [
             "carretera",
             "montaña"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sacha_modolo",
+        "nombre": "Sacha Modolo",
+        "nacionalidad": "Italia",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "salvatore_puccio",
+        "nombre": "Salvatore Puccio",
+        "nacionalidad": "Italia",
+        "activo": "2011-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "samuel_dumoulin",
+        "nombre": "Samuel Dumoulin",
+        "nacionalidad": "Francia",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "samuel_sanchez",
+        "nombre": "Samuel Sánchez",
+        "nacionalidad": "España",
+        "activo": "2000-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Olympic Games"
+        ]
+    },
+    {
+        "id": "sam_bennett",
+        "nombre": "Sam Bennett",
+        "nacionalidad": "Irlanda",
+        "activo": "2010-2026",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sander_helven",
+        "nombre": "Sander Helven",
+        "nacionalidad": "Bélgica",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sandy_casar",
+        "nombre": "Sandy Casar",
+        "nacionalidad": "Francia",
+        "activo": "1997-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
         ],
         "genero": "masculino",
         "carreras_ganadas": []
@@ -831,6 +5501,262 @@
         ]
     },
     {
+        "id": "sebastian_lang",
+        "nombre": "Sebastian Lang",
+        "nacionalidad": "Alemania",
+        "activo": "2002-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sebastian_langeveld",
+        "nombre": "Sebastian Langeveld",
+        "nacionalidad": "Países Bajos",
+        "activo": "2003-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sebastien_chavanel",
+        "nombre": "Sébastien Chavanel",
+        "nacionalidad": "Francia",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sebastien_hinault",
+        "nombre": "Sébastien Hinault",
+        "nacionalidad": "Francia",
+        "activo": "1996-2014",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sebastien_rosseler",
+        "nombre": "Sébastien Rosseler",
+        "nacionalidad": "Bélgica",
+        "activo": "2002-2015",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sep_vanmarcke",
+        "nombre": "Sep Vanmarcke",
+        "nacionalidad": "Bélgica",
+        "activo": "2008-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sergei_ivanov",
+        "nombre": "Sergei Ivanov",
+        "nacionalidad": "Rusia",
+        "activo": "1996-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sergey_chernetskiy",
+        "nombre": "Sergei Chernetskii",
+        "nacionalidad": "Rusia",
+        "activo": "2012-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sergey_lagutin",
+        "nombre": "Sergey Lagutin",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2004-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "serge_pauwels",
+        "nombre": "Serge Pauwels",
+        "nacionalidad": "Bélgica",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sergio_miguel_paulinho",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sergio_pardilla",
+        "nombre": "Sergio Pardilla",
+        "nacionalidad": "España",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sergio_sousa",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "servais_knaven",
+        "nombre": "Servais Knaven",
+        "nacionalidad": "Países Bajos",
+        "activo": "1993-2010",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix"
+        ]
+    },
+    {
+        "id": "simone_ponzi",
+        "nombre": "Simone Ponzi",
+        "nacionalidad": "Italia",
+        "activo": "2008-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "simon_gerrans",
+        "nombre": "Simon Gerrans",
+        "nacionalidad": "Australia",
+        "activo": "2003-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Lieja-Bastoña-Lieja",
+            "Milán-San Remo"
+        ]
+    },
+    {
+        "id": "simon_spilak",
+        "nombre": "Simon Špilak",
+        "nacionalidad": "Eslovenia",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sonny_colbrelli",
+        "nombre": "Sonny Colbrelli",
+        "nacionalidad": "Italia",
+        "activo": "2010-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix",
+            "Uec Road European Championships Me"
+        ]
+    },
+    {
+        "id": "stefan_schumacher",
+        "nombre": "Stefan Schumacher",
+        "nacionalidad": "Alemania",
+        "activo": "2002-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "stef_clement",
+        "nombre": "Stef Clement",
+        "nacionalidad": "Países Bajos",
+        "activo": "2003-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "stephen_cummings",
+        "nombre": "Steve Cummings",
+        "nacionalidad": "Reino Unido",
+        "activo": "2005-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
         "id": "stephen_roche",
         "nombre": "Stephen Roche",
         "nacionalidad": "Irlanda",
@@ -843,6 +5769,65 @@
             "Ciclismo en Ruta",
             "Tour de Francia"
         ]
+    },
+    {
+        "id": "steven_kruijswijk",
+        "nombre": "Steven Kruijswijk",
+        "nacionalidad": "Países Bajos",
+        "activo": "2006-2026",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "steve_cummings",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "steve_morabito",
+        "nombre": "Steve Morabito",
+        "nacionalidad": "Suiza",
+        "activo": "2006-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "stijn_devolder",
+        "nombre": "Stijn Devolder",
+        "nacionalidad": "Bélgica",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Tour de Flandes"
+        ]
+    },
+    {
+        "id": "stijn_vandenbergh",
+        "nombre": "Stijn Vandenbergh",
+        "nacionalidad": "Bélgica",
+        "activo": "2005-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
     },
     {
         "id": "stuart_o_grady",
@@ -866,10 +5851,338 @@
         "especialidad": [
             "carretera"
         ],
-        "genero": "femenino",
+        "genero": "masculino",
         "carreras_ganadas": [
             "Mundial Contrarreloj",
             "Mundial en Ruta"
+        ]
+    },
+    {
+        "id": "svein_tuft",
+        "nombre": "Svein Tuft",
+        "nacionalidad": "Canadá",
+        "activo": "2001-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "sylvain_chavanel",
+        "nombre": "Sylvain Chavanel",
+        "nacionalidad": "Francia",
+        "activo": "2000-2018",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "sylwester_szmyd",
+        "nombre": "Sylwester Szmyd",
+        "nacionalidad": "Polonia",
+        "activo": "2001-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tadej_valjavec",
+        "nombre": "Tadej Valjavec",
+        "nacionalidad": "Eslovenia",
+        "activo": "2000-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tanel_kangert",
+        "nombre": "Tanel Kangert",
+        "nacionalidad": "Estonia",
+        "activo": "2007-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "taylor_phinney",
+        "nombre": "Taylor Phinney",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2009-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Uci World Championships Itt Mj",
+            "World Championship Ttt",
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "tejay_van_garderen",
+        "nombre": "Tejay van Garderen",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2008-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "thibaut_pinot",
+        "nombre": "Thibaut Pinot",
+        "nacionalidad": "Francia",
+        "activo": "2007-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro de Lombardía"
+        ]
+    },
+    {
+        "id": "thomas_loefkvist",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "thomas_rohregger",
+        "nombre": "Thomas Rohregger",
+        "nacionalidad": "Austria",
+        "activo": "2003-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "thomas_voeckler",
+        "nombre": "Thomas Voeckler",
+        "nacionalidad": "Francia",
+        "activo": "2000-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tiago_machado",
+        "nombre": "Tiago Machado",
+        "nacionalidad": "Portugal",
+        "activo": "2005-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tiziano_dall_antonia",
+        "nombre": "Tiziano Dall'Antonia",
+        "nacionalidad": "Italia",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tomasz_kiendys",
+        "nombre": "Tomasz Kiendyś",
+        "nacionalidad": "Polonia",
+        "activo": "2001-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tomasz_marczynski",
+        "nombre": "Tomasz Marczyński",
+        "nacionalidad": "Polonia",
+        "activo": "2006-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tomas_gil",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tomas_vaitkus",
+        "nombre": "Tomas Vaitkus",
+        "nacionalidad": "Lituania",
+        "activo": "2003-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships Itt U23"
+        ]
+    },
+    {
+        "id": "tom_boonen",
+        "nombre": "Tom Boonen",
+        "nacionalidad": "Bélgica",
+        "activo": "2000-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "París-Roubaix",
+            "Tour de Flandes",
+            "World Championship",
+            "World Championship Ttt"
+        ]
+    },
+    {
+        "id": "tom_danielson",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tom_dumoulin",
+        "nombre": "Tom Dumoulin",
+        "nacionalidad": "Países Bajos",
+        "activo": "2009-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia",
+            "Mundial Contrarreloj",
+            "World-Championship-Ttt"
+        ]
+    },
+    {
+        "id": "tom_jelte_slagter",
+        "nombre": "Tom-Jelte Slagter",
+        "nacionalidad": "Países Bajos",
+        "activo": "2010-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tom_leezer",
+        "nombre": "Tom Leezer",
+        "nacionalidad": "Países Bajos",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tom_veelers",
+        "nombre": "Tom Veelers",
+        "nacionalidad": "Países Bajos",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tom_zirbel",
+        "nombre": "Tom Zirbel",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tony_gallopin",
+        "nombre": "Tony Gallopin",
+        "nacionalidad": "Francia",
+        "activo": "2008-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tony_martin",
+        "nombre": "Tony Martin",
+        "nacionalidad": "Alemania",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj",
+            "World Championship Mixed Relay Ttt",
+            "World Championship Ttt"
         ]
     },
     {
@@ -883,6 +6196,243 @@
         "genero": "masculino",
         "carreras_ganadas": [
             "Giro de Lombardía",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "tosh_van_der_sande",
+        "nombre": "Tosh Van der Sande",
+        "nacionalidad": "Bélgica",
+        "activo": "2011-2025",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "travis_meyer",
+        "nombre": "Travis Meyer",
+        "nacionalidad": "Australia",
+        "activo": "2008-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "tyler_farrar",
+        "nombre": "Tyler Farrar",
+        "nacionalidad": "Estados Unidos",
+        "activo": "2003-2017",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "valerio_agnoli",
+        "nombre": "Valerio Agnoli",
+        "nacionalidad": "Italia",
+        "activo": "2004-2019",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "vasil_kiryienka",
+        "nombre": "Vasil Kiryienka",
+        "nacionalidad": "Bielorrusia",
+        "activo": "2004-2020",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Mundial Contrarreloj"
+        ]
+    },
+    {
+        "id": "vicente_reynes",
+        "nombre": "Vicente Reynés",
+        "nacionalidad": "España",
+        "activo": "2003-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "vincenzo_nibali",
+        "nombre": "Vincenzo Nibali",
+        "nacionalidad": "Italia",
+        "activo": "2005-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "Giro d'Italia",
+            "Giro de Lombardía",
+            "Milán-San Remo",
+            "Tour de Francia",
+            "Vuelta a España"
+        ]
+    },
+    {
+        "id": "vitaliy_buts",
+        "nombre": "Vitaliy Buts",
+        "nacionalidad": "Ucrania",
+        "activo": "2008-2022",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "vladimir_efimkin",
+        "nombre": "Vladimir Efimkin",
+        "nacionalidad": "Rusia",
+        "activo": "2005-2011",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "vladimir_gusev",
+        "nombre": "Vladimir Gusev",
+        "nacionalidad": "Rusia",
+        "activo": "2004-2024",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "vladimir_isaychev",
+        "nombre": "Vladimir Isaychev",
+        "nacionalidad": "Rusia",
+        "activo": "2005-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "vladimir_karpets",
+        "nombre": "Vladimir Karpets",
+        "nacionalidad": "Rusia",
+        "activo": "2001-2013",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "william_bonnet",
+        "nombre": "William Bonnet",
+        "nacionalidad": "Francia",
+        "activo": "2005-2021",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "xabier_zandio",
+        "nombre": "Xabier Zandio",
+        "nacionalidad": "España",
+        "activo": "1999-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "yanto_barker",
+        "nombre": "Yanto Barker",
+        "nacionalidad": "Reino Unido",
+        "activo": "2003-2023",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "yaroslav_popovych",
+        "nombre": "Yaroslav Popovych",
+        "nacionalidad": "Ucrania",
+        "activo": "2000-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
+            "World Championships U23"
+        ]
+    },
+    {
+        "id": "yauheni_hutarovich",
+        "nombre": "Yauheni Hutarovich",
+        "nacionalidad": "Bielorrusia",
+        "activo": "2006-2016",
+        "especialidad": [
+            "clasicómano",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "yauhenni_hutarovich",
+        "nombre": "Page not found",
+        "nacionalidad": "Desconocida",
+        "activo": "",
+        "especialidad": [],
+        "genero": "masculino",
+        "carreras_ganadas": []
+    },
+    {
+        "id": "roberto_heras",
+        "nombre": "Roberto Heras",
+        "nacionalidad": "España",
+        "activo": "1995-2005",
+        "especialidad": [
+            "escalador",
+            "vueltómano"
+        ],
+        "genero": "masculino",
+        "carreras_ganadas": [
             "Vuelta a España"
         ]
     }
