@@ -1,535 +1,554 @@
 {
-  "id": "andrey_kashechkin",
-  "nombre": "Andrey Kashechkin",
-  "nacionalidad": "Kazajistán",
-  "lugarNacimiento": "Kyzylorda",
-  "peso": "70 kg",
-  "altura": "1.85 m",
-  "anioNacimiento": 1980,
-  "activo": "2001-2013",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2001,
-      "equipo": "Domo - Farm Frites"
+    "id": "andrey_kashechkin",
+    "nombre": "Andrey Kashechkin",
+    "nacionalidad": "Kazajistán",
+    "lugarNacimiento": "Kyzylorda",
+    "peso": "70 kg",
+    "altura": "1.85 m",
+    "anioNacimiento": 1980,
+    "activo": "2001-2013",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2001,
+            "equipo": "Domo - Farm Frites"
+        },
+        {
+            "anio": 2002,
+            "equipo": "Domo - Farm Frites"
+        },
+        {
+            "anio": 2003,
+            "equipo": "Quickstep - Davitamon"
+        },
+        {
+            "anio": 2004,
+            "equipo": "Crédit Agricole"
+        },
+        {
+            "anio": 2005,
+            "equipo": "Crédit Agricole"
+        },
+        {
+            "anio": 2006,
+            "equipo": "Astana"
+        },
+        {
+            "anio": 2007,
+            "equipo": "Astana"
+        },
+        {
+            "anio": 2010,
+            "equipo": "Lampre - Farnese Vini"
+        },
+        {
+            "anio": 2011,
+            "equipo": "Lampre - ISD"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Astana Pro Team"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Astana Pro Team"
+        }
+    ],
+    "palmares": {
+        "2001": [
+            "Triptyque des Monts et Châteaux",
+            "Côte picarde"
+        ],
+        "2004": [
+            "2.º en el Campeonato de Kazajistán en Ruta",
+            "Sachsen-Tour",
+            "Gran Premio de Fourmies"
+        ],
+        "2005": [
+            "3.º en el Campeonato de Kazajistán en Ruta"
+        ],
+        "2006": [
+            "1 etapa de la París-Niza",
+            "Campeonato de Kazajistán en Ruta",
+            "3.º en la Vuelta a España,",
+            "1 etapa"
+        ]
     },
-    {
-      "anio": 2002,
-      "equipo": "Domo - Farm Frites"
-    },
-    {
-      "anio": 2003,
-      "equipo": "Quickstep - Davitamon"
-    },
-    {
-      "anio": 2004,
-      "equipo": "Crédit Agricole"
-    },
-    {
-      "anio": 2005,
-      "equipo": "Crédit Agricole"
-    },
-    {
-      "anio": 2006,
-      "equipo": "Astana"
-    },
-    {
-      "anio": 2007,
-      "equipo": "Astana"
-    },
-    {
-      "anio": 2010,
-      "equipo": "Lampre - Farnese Vini"
-    },
-    {
-      "anio": 2011,
-      "equipo": "Lampre - ISD"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Astana Pro Team"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Astana Pro Team"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2005,
+            "carrera": "Tour de Francia",
+            "puesto": "19"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tour de Francia",
+            "puesto": "78"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Vuelta a España",
+            "puesto": "3"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Vuelta a España",
+            "puesto": "16"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Vuelta a España",
+            "puesto": "88"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Vuelta a España",
+            "puesto": "34"
+        }
+    ],
+    "resultadosMonumentos": [
+        {
+            "anio": 2003,
+            "carrera": "A Través de Flandes",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Amstel Gold Race",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Amstel Gold Race",
+            "puesto": "40"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Amstel Gold Race",
+            "puesto": "101"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Bretagne Classic",
+            "puesto": "70"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Bretagne Classic",
+            "puesto": "88"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Bretagne Classic",
+            "puesto": "85"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Clásica de San Sebastián",
+            "puesto": "57"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Clásica de San Sebastián",
+            "puesto": "3"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Clásica de San Sebastián",
+            "puesto": "91"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "24"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "47"
+        },
+        {
+            "anio": 2003,
+            "carrera": "E3 Harelbeke",
+            "puesto": "78"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Flecha Valona",
+            "puesto": "87"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Flecha Valona",
+            "puesto": "65"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Flecha Valona",
+            "puesto": "34"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Flecha Valona",
+            "puesto": "80"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "39"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "20"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "82"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "56"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "21"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "11"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "51"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Milán-San Remo",
+            "puesto": "50"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Milán-San Remo",
+            "puesto": "67"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Milán-Turín",
+            "puesto": "117"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Milán-Turín",
+            "puesto": "67"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "48"
+        },
+        {
+            "anio": 2004,
+            "carrera": "París-Camembert",
+            "puesto": "6"
+        },
+        {
+            "anio": 2003,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2013,
+            "carrera": "París-Tours",
+            "puesto": "142"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Trofeo Laigueglia",
+            "puesto": "79"
+        }
+    ],
+    "resultadosMundiales": [
+        {
+            "anio": 2004,
+            "carrera": "JJOO. Contrarreloj",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2001,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "42"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "6"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "11"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "25"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Olympic Games",
+            "puesto": "70"
+        },
+        {
+            "anio": 1998,
+            "carrera": "Uci World Championships Mj",
+            "puesto": "22"
+        },
+        {
+            "anio": 2001,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2002,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2004,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2005,
+            "carrera": "World Championship",
+            "puesto": "57"
+        },
+        {
+            "anio": 2006,
+            "carrera": "World Championship",
+            "puesto": "25"
+        },
+        {
+            "anio": 2009,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 1999,
+            "carrera": "World Championships Itt U23",
+            "puesto": "18"
+        },
+        {
+            "anio": 2000,
+            "carrera": "World Championships Itt U23",
+            "puesto": "23"
+        },
+        {
+            "anio": 1999,
+            "carrera": "World Championships U23",
+            "puesto": "50"
+        },
+        {
+            "anio": 2000,
+            "carrera": "World Championships U23",
+            "puesto": "76"
+        }
+    ],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2005,
+            "carrera": "Criterium International",
+            "puesto": "48"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Criterium International",
+            "puesto": "54"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "65"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "38"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "9"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "52"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "3"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "31"
+        },
+        {
+            "anio": 2002,
+            "carrera": "París-Niza",
+            "puesto": "102"
+        },
+        {
+            "anio": 2004,
+            "carrera": "París-Niza",
+            "puesto": "37"
+        },
+        {
+            "anio": 2005,
+            "carrera": "París-Niza",
+            "puesto": "25"
+        },
+        {
+            "anio": 2006,
+            "carrera": "París-Niza",
+            "puesto": "25"
+        },
+        {
+            "anio": 2012,
+            "carrera": "París-Niza",
+            "puesto": "133"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Tour Down Under",
+            "puesto": "19"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Tour Of Turkey",
+            "puesto": "17"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "23"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Tour de Romandía",
+            "puesto": "5"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Tour de Romandía",
+            "puesto": "3"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Tour de Romandía",
+            "puesto": "37"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tour de Romandía",
+            "puesto": "62"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Volta a Cataluña",
+            "puesto": "21"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Volta a Cataluña",
+            "puesto": "120"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Volta a Cataluña",
+            "puesto": "62"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Vuelta a Alemania",
+            "puesto": "27"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Vuelta a Alemania",
+            "puesto": "3"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Vuelta a Portugal",
+            "puesto": "29"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Vuelta a Suiza",
+            "puesto": "22"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Vuelta a Suiza",
+            "puesto": "54"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "101"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 9,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 5,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 10,
+        "resistencia_clasicas": 10,
+        "combatividad": 5,
+        "contrarreloj": 8,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [
-    {
-      "anio": 2005,
-      "carrera": "Tour de Francia",
-      "puesto": "19"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tour de Francia",
-      "puesto": "78"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Vuelta a España",
-      "puesto": "3"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Vuelta a España",
-      "puesto": "16"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Vuelta a España",
-      "puesto": "88"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Vuelta a España",
-      "puesto": "34"
-    }
-  ],
-  "resultadosMonumentos": [
-    {
-      "anio": 2003,
-      "carrera": "A Través de Flandes",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Amstel Gold Race",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Amstel Gold Race",
-      "puesto": "40"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Amstel Gold Race",
-      "puesto": "101"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Bretagne Classic",
-      "puesto": "70"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Bretagne Classic",
-      "puesto": "88"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Bretagne Classic",
-      "puesto": "85"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Clásica de San Sebastián",
-      "puesto": "57"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Clásica de San Sebastián",
-      "puesto": "3"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Clásica de San Sebastián",
-      "puesto": "91"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "24"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "47"
-    },
-    {
-      "anio": 2003,
-      "carrera": "E3 Harelbeke",
-      "puesto": "78"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Flecha Valona",
-      "puesto": "87"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Flecha Valona",
-      "puesto": "65"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Flecha Valona",
-      "puesto": "34"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Flecha Valona",
-      "puesto": "80"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "39"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "20"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "82"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "56"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "21"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "11"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "51"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Milán-San Remo",
-      "puesto": "50"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Milán-San Remo",
-      "puesto": "67"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Milán-Turín",
-      "puesto": "117"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Milán-Turín",
-      "puesto": "67"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "48"
-    },
-    {
-      "anio": 2004,
-      "carrera": "París-Camembert",
-      "puesto": "6"
-    },
-    {
-      "anio": 2003,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2013,
-      "carrera": "París-Tours",
-      "puesto": "142"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Trofeo Laigueglia",
-      "puesto": "79"
-    }
-  ],
-  "resultadosMundiales": [
-    {
-      "anio": 2004,
-      "carrera": "JJOO. Contrarreloj",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2001,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "42"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "6"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "11"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "25"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Olympic Games",
-      "puesto": "70"
-    },
-    {
-      "anio": 1998,
-      "carrera": "Uci World Championships Mj",
-      "puesto": "22"
-    },
-    {
-      "anio": 2001,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2002,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2004,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2005,
-      "carrera": "World Championship",
-      "puesto": "57"
-    },
-    {
-      "anio": 2006,
-      "carrera": "World Championship",
-      "puesto": "25"
-    },
-    {
-      "anio": 2009,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 1999,
-      "carrera": "World Championships Itt U23",
-      "puesto": "18"
-    },
-    {
-      "anio": 2000,
-      "carrera": "World Championships Itt U23",
-      "puesto": "23"
-    },
-    {
-      "anio": 1999,
-      "carrera": "World Championships U23",
-      "puesto": "50"
-    },
-    {
-      "anio": 2000,
-      "carrera": "World Championships U23",
-      "puesto": "76"
-    }
-  ],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2005,
-      "carrera": "Criterium International",
-      "puesto": "48"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Criterium International",
-      "puesto": "54"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "65"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "38"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "9"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "52"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "3"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "31"
-    },
-    {
-      "anio": 2002,
-      "carrera": "París-Niza",
-      "puesto": "102"
-    },
-    {
-      "anio": 2004,
-      "carrera": "París-Niza",
-      "puesto": "37"
-    },
-    {
-      "anio": 2005,
-      "carrera": "París-Niza",
-      "puesto": "25"
-    },
-    {
-      "anio": 2006,
-      "carrera": "París-Niza",
-      "puesto": "25"
-    },
-    {
-      "anio": 2012,
-      "carrera": "París-Niza",
-      "puesto": "133"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Tour Down Under",
-      "puesto": "19"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Tour Of Turkey",
-      "puesto": "17"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "23"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Tour de Romandía",
-      "puesto": "5"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Tour de Romandía",
-      "puesto": "3"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Tour de Romandía",
-      "puesto": "37"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tour de Romandía",
-      "puesto": "62"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Volta a Cataluña",
-      "puesto": "21"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Volta a Cataluña",
-      "puesto": "120"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Volta a Cataluña",
-      "puesto": "62"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Vuelta a Alemania",
-      "puesto": "27"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Vuelta a Alemania",
-      "puesto": "3"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Vuelta a Portugal",
-      "puesto": "29"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Vuelta a Suiza",
-      "puesto": "22"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Vuelta a Suiza",
-      "puesto": "54"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "101"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 9,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 10,
-    "resistencia_clasicas": 10,
-    "combatividad": 5,
-    "contrarreloj": 8,
-    "pista": 5,
-    "tierra": 5
-  }
 }

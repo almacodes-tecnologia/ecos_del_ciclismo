@@ -1,272 +1,303 @@
 {
-  "id": "alexander_serov",
-  "nombre": "Aleksandr Serov",
-  "nacionalidad": "Rusia",
-  "lugarNacimiento": "Vyborg",
-  "peso": "77 kg",
-  "altura": "1.89 m",
-  "anioNacimiento": 1982,
-  "activo": "2001-2016",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2001,
-      "equipo": "Itera"
+    "id": "alexander_serov",
+    "nombre": "Aleksandr Serov",
+    "nacionalidad": "Rusia",
+    "lugarNacimiento": "Vyborg",
+    "peso": "77 kg",
+    "altura": "1.89 m",
+    "anioNacimiento": 1982,
+    "activo": "2001-2016",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2001,
+            "equipo": "Itera"
+        },
+        {
+            "anio": 2002,
+            "equipo": "Itera"
+        },
+        {
+            "anio": 2003,
+            "equipo": "Lokomotiv"
+        },
+        {
+            "anio": 2004,
+            "equipo": "Lokomotiv"
+        },
+        {
+            "anio": 2005,
+            "equipo": "Lokomotiv"
+        },
+        {
+            "anio": 2006,
+            "equipo": "Tinkoff Restaurants"
+        },
+        {
+            "anio": 2007,
+            "equipo": "Tinkoff Credit Systems"
+        },
+        {
+            "anio": 2008,
+            "equipo": "Tinkoff Credit Systems"
+        },
+        {
+            "anio": 2009,
+            "equipo": "Team Katusha"
+        },
+        {
+            "anio": 2012,
+            "equipo": "RusVelo"
+        },
+        {
+            "anio": 2013,
+            "equipo": "RusVelo"
+        },
+        {
+            "anio": 2014,
+            "equipo": "RusVelo"
+        },
+        {
+            "anio": 2015,
+            "equipo": "RusVelo"
+        },
+        {
+            "anio": 2016,
+            "equipo": "Gazprom-RusVelo"
+        }
+    ],
+    "palmares": {
+        "2010": [
+            "2.º en el campeonato de Europa de persecución por equipos  (con Evgeny Kovalev, Alexei Markov y Ivan Kovalev)"
+        ],
+        "2011": [
+            "2.º en el Campeonato Mundial en persecución por equipos",
+            "Campeón de Rusia por equipos (con Evgeny Kovalev, Alexei Markov y Ivan Kovalev)",
+            "Campeón de Rusia en Madison (con Alexei Markov)",
+            "2.º en el campeonato de Rusia en omnium",
+            "1 etapa de la Flèche du Sud"
+        ],
+        "2012": [
+            "Campeonato de Europa de persecución por equipos (con Arthur Ershov, Valery Kaykov y Alexei Markov)",
+            "1 etapa de la Vuelta a Murcia"
+        ],
+        "2013": [
+            "2.º en el campeonato de Europa de persecución por equipos (con Arthur Ershov, Ivan Kovalev y Evgeny Kovalev)",
+            "Campeón de Rusia por equipos (con Evgeny Kovalev, Ivan Savitskiy y Arthur Ershov)",
+            "1 etapa de la Vuelta a Portugal",
+            "1 etapa de la Vuelta a Costa Rica"
+        ],
+        "2014": [
+            "3.º en el campeonato de Europa de persecución por equipos  (con Evgeny Kovalev, Ivan Kovalev y Alexey Kurbatov)",
+            "Ruta"
+        ],
+        "2006": [
+            "Paris-Mantes-en-Yvelines"
+        ],
+        "2007": [
+            "1 etapa de la Vuelta a Gran Bretaña"
+        ]
     },
-    {
-      "anio": 2002,
-      "equipo": "Itera"
-    },
-    {
-      "anio": 2003,
-      "equipo": "Lokomotiv"
-    },
-    {
-      "anio": 2004,
-      "equipo": "Lokomotiv"
-    },
-    {
-      "anio": 2005,
-      "equipo": "Lokomotiv"
-    },
-    {
-      "anio": 2006,
-      "equipo": "Tinkoff Restaurants"
-    },
-    {
-      "anio": 2007,
-      "equipo": "Tinkoff Credit Systems"
-    },
-    {
-      "anio": 2008,
-      "equipo": "Tinkoff Credit Systems"
-    },
-    {
-      "anio": 2009,
-      "equipo": "Team Katusha"
-    },
-    {
-      "anio": 2012,
-      "equipo": "RusVelo"
-    },
-    {
-      "anio": 2013,
-      "equipo": "RusVelo"
-    },
-    {
-      "anio": 2014,
-      "equipo": "RusVelo"
-    },
-    {
-      "anio": 2015,
-      "equipo": "RusVelo"
-    },
-    {
-      "anio": 2016,
-      "equipo": "Gazprom-RusVelo"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2008,
+            "carrera": "Giro d'Italia",
+            "puesto": "124"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Giro d'Italia",
+            "puesto": "117"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Giro d'Italia",
+            "puesto": "128"
+        }
+    ],
+    "resultadosMonumentos": [
+        {
+            "anio": 2004,
+            "carrera": "Bretagne Classic",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2002,
+            "carrera": "E3 Harelbeke",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Flecha Valona",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Flecha Valona",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Milán-San Remo",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Milán-Turín",
+            "puesto": "119"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Milán-Turín",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "París-Tours",
+            "puesto": "22"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Scheldeprijs",
+            "puesto": "91"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Scheldeprijs",
+            "puesto": "140"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Strade Bianche",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Subida al Naranco",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Trofeo Laigueglia",
+            "puesto": "84"
+        }
+    ],
+    "resultadosMundiales": [
+        {
+            "anio": 2000,
+            "carrera": "Uci World Championships Mj",
+            "puesto": "37"
+        },
+        {
+            "anio": 2012,
+            "carrera": "World Championship Ttt",
+            "puesto": "14"
+        }
+    ],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2009,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "134"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Setmana Catalana",
+            "puesto": "92"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "97"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "33"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Tour de Romandía",
+            "puesto": "122"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Volta Ao Algarve",
+            "puesto": "146"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Vuelta a Austria",
+            "puesto": "66"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Vuelta a Austria",
+            "puesto": "80"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Vuelta a Austria",
+            "puesto": "70"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Vuelta a Austria",
+            "puesto": "68"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "98"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Vuelta a Portugal",
+            "puesto": "95"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 5,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 8,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [
-    {
-      "anio": 2008,
-      "carrera": "Giro d'Italia",
-      "puesto": "124"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Giro d'Italia",
-      "puesto": "117"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Giro d'Italia",
-      "puesto": "128"
-    }
-  ],
-  "resultadosMonumentos": [
-    {
-      "anio": 2004,
-      "carrera": "Bretagne Classic",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2002,
-      "carrera": "E3 Harelbeke",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Flecha Valona",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Flecha Valona",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Milán-San Remo",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Milán-Turín",
-      "puesto": "119"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Milán-Turín",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "París-Tours",
-      "puesto": "22"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Scheldeprijs",
-      "puesto": "91"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Scheldeprijs",
-      "puesto": "140"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Strade Bianche",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Subida al Naranco",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Trofeo Laigueglia",
-      "puesto": "84"
-    }
-  ],
-  "resultadosMundiales": [
-    {
-      "anio": 2000,
-      "carrera": "Uci World Championships Mj",
-      "puesto": "37"
-    },
-    {
-      "anio": 2012,
-      "carrera": "World Championship Ttt",
-      "puesto": "14"
-    }
-  ],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2009,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "134"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Setmana Catalana",
-      "puesto": "92"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "97"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "33"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Tour de Romandía",
-      "puesto": "122"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Volta Ao Algarve",
-      "puesto": "146"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Vuelta a Austria",
-      "puesto": "66"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Vuelta a Austria",
-      "puesto": "80"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Vuelta a Austria",
-      "puesto": "70"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Vuelta a Austria",
-      "puesto": "68"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "98"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Vuelta a Portugal",
-      "puesto": "95"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 8,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }

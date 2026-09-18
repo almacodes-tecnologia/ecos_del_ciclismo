@@ -1,226 +1,301 @@
 {
-  "id": "alex_rasmussen",
-  "nombre": "Alex Rasmussen",
-  "nacionalidad": "Dinamarca",
-  "lugarNacimiento": "Svendborg",
-  "peso": "88 kg",
-  "altura": "1.86 m",
-  "anioNacimiento": 1984,
-  "activo": "2007-2016",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2007,
-      "equipo": "Team Odense Energi"
+    "id": "alex_rasmussen",
+    "nombre": "Alex Rasmussen",
+    "nacionalidad": "Dinamarca",
+    "lugarNacimiento": "Svendborg",
+    "peso": "88 kg",
+    "altura": "1.86 m",
+    "anioNacimiento": 1984,
+    "activo": "2007-2016",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2007,
+            "equipo": "Team Odense Energi"
+        },
+        {
+            "anio": 2008,
+            "equipo": "Team Designa Køkken"
+        },
+        {
+            "anio": 2009,
+            "equipo": "Saxo Bank"
+        },
+        {
+            "anio": 2010,
+            "equipo": "Saxo Bank"
+        },
+        {
+            "anio": 2011,
+            "equipo": "HTC - High Road"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Garmin Sharp"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Garmin Sharp"
+        },
+        {
+            "anio": 2014,
+            "equipo": "Riwal Platform Cycling Team"
+        },
+        {
+            "anio": 2015,
+            "equipo": "Team Trefor - Blue Water"
+        },
+        {
+            "anio": 2016,
+            "equipo": "ColoQuick CULT"
+        }
+    ],
+    "palmares": {
+        "2006": [
+            "Tour de Berlín",
+            "Tour de Fyen"
+        ],
+        "2007": [
+            "Campeonato de Dinamarca de en Ruta",
+            "3.º en persecución por equipos"
+        ],
+        "2008": [
+            "1 etapa de la Ronde de l'Oise",
+            "4 etapas de la Vuelta al Lago Qinghai",
+            "2.º en persecución por equipos",
+            "3.º en la modalidad americana"
+        ],
+        "2009": [
+            "2.º en el Campeonato de Dinamarca Contrarreloj",
+            "Campeonato del mundo en la modalidad americana",
+            "Campeonato del mundo en persecución por equipos",
+            "Alex Rasmussen"
+        ],
+        "2010": [
+            "1 etapa de la Vuelta a Andalucía",
+            "G. P. Herning",
+            "2 etapas de los Cuatro Días de Dunkerque",
+            "2.º en el Campeonato de Dinamarca Contrarreloj"
+        ],
+        "2011": [
+            "TD Bank International Cycling Championship"
+        ],
+        "2013": [
+            "1 etapa de la Vuelta a Baviera"
+        ],
+        "2014": [
+            "2 etapas del Dookoła Mazowsza",
+            "Palmarés en pista",
+            "Juegos Olímpicos",
+            "Pékin 2008",
+            "Medalla de plata en persecución por equipos",
+            "Campeonatos del mundo",
+            "2.º en el Campeonato Mundial Persecución por Equipos (haciendo equipo con Casper Folsach, Lasse Norman Hansen y Rasmus Quaade)",
+            "Copa del mundo",
+            "2004-2005",
+            "Clasificación general de scratch",
+            "1.º en la modalidad de scratch en Los Ángeles",
+            "2.º en la modalidad de scratch en Sídney",
+            "2.º en la modalidad americana en Sídney",
+            "2005-2006",
+            "1.º en la modalidad americana en Sídney (con Michael Mørkøv)",
+            "1.º en la persecución por equipos en Sídney",
+            "2006-2007",
+            "1.º en la modalidad americana en Los Ángeles (con Michael Mørkøv)",
+            "2.º en la modalidad americana en Sídney",
+            "2.º en la persecución por equipos en Sídney",
+            "2.º en la persecución por equipos en Los Ángeles",
+            "3.º en la modalidad americana en Moscú",
+            "2007-2008",
+            "2.º en la persecución por equipos en Los Ángeles",
+            "2.º en la modalidad americana en Los Ángeles",
+            "3.º en la modalidad americana en Sídney",
+            "Campeonatos de Dinamarca",
+            "Bandera de Dinamarca  Campeón del kilómetro en 2001, 2002, 2003, 2004, 2005 y 2006",
+            "Bandera de Dinamarca  Campeón de persecución por equipos 2001, 2003, 2004, 2005, 2006 y 2007.",
+            "Bandera de Dinamarca  Campeón de persecución individual en 2003, 2004, 2005, 2006, 2007 y 2008",
+            "Bandera de Dinamarca  Campeón en la modalidad americana en 2004, 2005 (con Michael Berling), 2006, 2007, 2008 y 2009 (con Michael Mørkøv)",
+            "Bandera de Dinamarca  Campeón en la modalidad de puntuación en 2005 y 2007",
+            "Carreras de Seis Días",
+            "Seis días de Grenoble: 2007 y 2008 (con Michael Mørkøv)",
+            "Seis días de Copenhague : 2009 y 2010 (con Michael Mørkøv)",
+            "Seis días de Gante : 2009 (con Michael Mørkøv)",
+            "Seis Días de Berlín : 2010 (con Michael Mørkøv)"
+        ],
+        "2005": [
+            "Campeonato del mundo de scrach"
+        ]
     },
-    {
-      "anio": 2008,
-      "equipo": "Team Designa Køkken"
-    },
-    {
-      "anio": 2009,
-      "equipo": "Saxo Bank"
-    },
-    {
-      "anio": 2010,
-      "equipo": "Saxo Bank"
-    },
-    {
-      "anio": 2011,
-      "equipo": "HTC - High Road"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Garmin Sharp"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Garmin Sharp"
-    },
-    {
-      "anio": 2014,
-      "equipo": "Riwal Platform Cycling Team"
-    },
-    {
-      "anio": 2015,
-      "equipo": "Team Trefor - Blue Water"
-    },
-    {
-      "anio": 2016,
-      "equipo": "ColoQuick CULT"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2011,
+            "carrera": "Giro d'Italia",
+            "puesto": "154"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Giro d'Italia",
+            "puesto": "150"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Vuelta a España",
+            "puesto": "134"
+        }
+    ],
+    "resultadosMonumentos": [
+        {
+            "anio": 2011,
+            "carrera": "A Través de Flandes",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Bretagne Classic",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "93"
+        },
+        {
+            "anio": 2012,
+            "carrera": "E3 Harelbeke",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "134"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "63"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "50"
+        },
+        {
+            "anio": 2011,
+            "carrera": "París-Roubaix",
+            "puesto": "50"
+        },
+        {
+            "anio": 2013,
+            "carrera": "París-Tours",
+            "puesto": "143"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Scheldeprijs",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Scheldeprijs",
+            "puesto": "29"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Scheldeprijs",
+            "puesto": "NC"
+        }
+    ],
+    "resultadosMundiales": [
+        {
+            "anio": 2006,
+            "carrera": "European Championships Mu",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "24"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "18"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Mundial Contrarreloj",
+            "puesto": "43"
+        },
+        {
+            "anio": 2010,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2006,
+            "carrera": "World Championships Itt U23",
+            "puesto": "11"
+        }
+    ],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2012,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2006,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "50"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Tour de Omán",
+            "puesto": "92"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tour de Omán",
+            "puesto": "112"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tour de Romandía",
+            "puesto": "129"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Vuelta a Suiza",
+            "puesto": "142"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 7,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 8,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [
-    {
-      "anio": 2011,
-      "carrera": "Giro d'Italia",
-      "puesto": "154"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Giro d'Italia",
-      "puesto": "150"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Vuelta a España",
-      "puesto": "134"
-    }
-  ],
-  "resultadosMonumentos": [
-    {
-      "anio": 2011,
-      "carrera": "A Través de Flandes",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Bretagne Classic",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "93"
-    },
-    {
-      "anio": 2012,
-      "carrera": "E3 Harelbeke",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "134"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "63"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "50"
-    },
-    {
-      "anio": 2011,
-      "carrera": "París-Roubaix",
-      "puesto": "50"
-    },
-    {
-      "anio": 2013,
-      "carrera": "París-Tours",
-      "puesto": "143"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Scheldeprijs",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Scheldeprijs",
-      "puesto": "29"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Scheldeprijs",
-      "puesto": "NC"
-    }
-  ],
-  "resultadosMundiales": [
-    {
-      "anio": 2006,
-      "carrera": "European Championships Mu",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "24"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "18"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Mundial Contrarreloj",
-      "puesto": "43"
-    },
-    {
-      "anio": 2010,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2006,
-      "carrera": "World Championships Itt U23",
-      "puesto": "11"
-    }
-  ],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2012,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2006,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "50"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Tour de Omán",
-      "puesto": "92"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tour de Omán",
-      "puesto": "112"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tour de Romandía",
-      "puesto": "129"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Vuelta a Suiza",
-      "puesto": "142"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 7,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 8,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }
