@@ -1,336 +1,373 @@
 {
-  "id": "angelo_furlan",
-  "nombre": "Angelo Furlan",
-  "nacionalidad": "Italia",
-  "lugarNacimiento": "Arzignano",
-  "peso": "72 kg",
-  "altura": "1.72 m",
-  "anioNacimiento": 1977,
-  "activo": "2000-2013",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2000,
-      "equipo": "Alessio"
+    "id": "angelo_furlan",
+    "nombre": "Angelo Furlan",
+    "nacionalidad": "Italia",
+    "lugarNacimiento": "Arzignano",
+    "peso": "72 kg",
+    "altura": "1.72 m",
+    "anioNacimiento": 1977,
+    "activo": "2000-2013",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2000,
+            "equipo": "Alessio"
+        },
+        {
+            "anio": 2001,
+            "equipo": "Alessio"
+        },
+        {
+            "anio": 2002,
+            "equipo": "Alessio"
+        },
+        {
+            "anio": 2003,
+            "equipo": "Alessio"
+        },
+        {
+            "anio": 2004,
+            "equipo": "Alessio - Bianchi"
+        },
+        {
+            "anio": 2005,
+            "equipo": "Domina Vacanze"
+        },
+        {
+            "anio": 2006,
+            "equipo": "Selle Italia - Serramenti Diquigiovanni"
+        },
+        {
+            "anio": 2007,
+            "equipo": "Crédit Agricole"
+        },
+        {
+            "anio": 2008,
+            "equipo": "Crédit Agricole"
+        },
+        {
+            "anio": 2009,
+            "equipo": "Lampre - NGC"
+        },
+        {
+            "anio": 2010,
+            "equipo": "Lampre - Farnese Vini"
+        },
+        {
+            "anio": 2011,
+            "equipo": "Christina Watches-Onfone"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Christina Watches-Onfone"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Christina Watches-Onfone"
+        }
+    ],
+    "palmares": {
+        "2000": [
+            "La Popolarissima"
+        ],
+        "2001": [
+            "1 etapa del Tour de Polonia",
+            "2 etapas de la Vuelta a Serbia"
+        ],
+        "2002": [
+            "2 etapas de la Vuelta a España"
+        ],
+        "2004": [
+            "Coppa Bernocchi"
+        ],
+        "2007": [
+            "1 etapa de la Estrella de Bessèges",
+            "1 etapa del Circuito de la Sarthe"
+        ],
+        "2008": [
+            "1 etapa de la Estrella de Bessèges",
+            "1 etapa de la Vuelta al Distrito de Santarém",
+            "1 etapa del Tour de Polonia"
+        ],
+        "2009": [
+            "1 etapa de la Dauphiné Libéré",
+            "1 etapa del Tour de Polonia"
+        ],
+        "2011": [
+            "G. P. Tallin-Tartu",
+            "3 etapas de la Vuelta a Serbia"
+        ],
+        "2012": [
+            "Tour de Fyen"
+        ],
+        "2013": [
+            "1 etapa del Tour de Estonia"
+        ]
     },
-    {
-      "anio": 2001,
-      "equipo": "Alessio"
-    },
-    {
-      "anio": 2002,
-      "equipo": "Alessio"
-    },
-    {
-      "anio": 2003,
-      "equipo": "Alessio"
-    },
-    {
-      "anio": 2004,
-      "equipo": "Alessio - Bianchi"
-    },
-    {
-      "anio": 2005,
-      "equipo": "Domina Vacanze"
-    },
-    {
-      "anio": 2006,
-      "equipo": "Selle Italia - Serramenti Diquigiovanni"
-    },
-    {
-      "anio": 2007,
-      "equipo": "Crédit Agricole"
-    },
-    {
-      "anio": 2008,
-      "equipo": "Crédit Agricole"
-    },
-    {
-      "anio": 2009,
-      "equipo": "Lampre - NGC"
-    },
-    {
-      "anio": 2010,
-      "equipo": "Lampre - Farnese Vini"
-    },
-    {
-      "anio": 2011,
-      "equipo": "Christina Watches-Onfone"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Christina Watches-Onfone"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Christina Watches-Onfone"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2002,
+            "carrera": "Giro d'Italia",
+            "puesto": "128"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Giro d'Italia",
+            "puesto": "128"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Giro d'Italia",
+            "puesto": "116"
+        },
+        {
+            "anio": 2002,
+            "carrera": "Vuelta a España",
+            "puesto": "121"
+        },
+        {
+            "anio": 2003,
+            "carrera": "Vuelta a España",
+            "puesto": "150"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Vuelta a España",
+            "puesto": "136"
+        }
+    ],
+    "resultadosMonumentos": [
+        {
+            "anio": 2004,
+            "carrera": "A Través de Flandes",
+            "puesto": "63"
+        },
+        {
+            "anio": 2007,
+            "carrera": "A Través de Flandes",
+            "puesto": "100"
+        },
+        {
+            "anio": 2009,
+            "carrera": "A Través de Flandes",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Clásica Brujas-La Panne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Clásica Brujas-La Panne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2004,
+            "carrera": "E3 Harelbeke",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2005,
+            "carrera": "E3 Harelbeke",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "E3 Harelbeke",
+            "puesto": "56"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "51"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "73"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "137"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2006,
+            "carrera": "París-Camembert",
+            "puesto": "59"
+        },
+        {
+            "anio": 2003,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2005,
+            "carrera": "París-Roubaix",
+            "puesto": "66"
+        },
+        {
+            "anio": 2007,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "París-Roubaix",
+            "puesto": "23"
+        },
+        {
+            "anio": 2001,
+            "carrera": "París-Tours",
+            "puesto": "52"
+        },
+        {
+            "anio": 2004,
+            "carrera": "París-Tours",
+            "puesto": "75"
+        },
+        {
+            "anio": 2005,
+            "carrera": "París-Tours",
+            "puesto": "51"
+        },
+        {
+            "anio": 2007,
+            "carrera": "París-Tours",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "París-Tours",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2010,
+            "carrera": "París-Tours",
+            "puesto": "2"
+        },
+        {
+            "anio": 2005,
+            "carrera": "Tour de Flandes",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Tour de Flandes",
+            "puesto": "NC"
+        }
+    ],
+    "resultadosMundiales": [],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2007,
+            "carrera": "Criterium International",
+            "puesto": "103"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Criterium International",
+            "puesto": "55"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "135"
+        },
+        {
+            "anio": 2004,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "114"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "114"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Tour Of Turkey",
+            "puesto": "44"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Volta a Cataluña",
+            "puesto": "139"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Volta a Cataluña",
+            "puesto": "152"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Vuelta a Alemania",
+            "puesto": "146"
+        },
+        {
+            "anio": 2001,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "35"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "65"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "121"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "150"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 7,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 10,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [
-    {
-      "anio": 2002,
-      "carrera": "Giro d'Italia",
-      "puesto": "128"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Giro d'Italia",
-      "puesto": "128"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Giro d'Italia",
-      "puesto": "116"
-    },
-    {
-      "anio": 2002,
-      "carrera": "Vuelta a España",
-      "puesto": "121"
-    },
-    {
-      "anio": 2003,
-      "carrera": "Vuelta a España",
-      "puesto": "150"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Vuelta a España",
-      "puesto": "136"
-    }
-  ],
-  "resultadosMonumentos": [
-    {
-      "anio": 2004,
-      "carrera": "A Través de Flandes",
-      "puesto": "63"
-    },
-    {
-      "anio": 2007,
-      "carrera": "A Través de Flandes",
-      "puesto": "100"
-    },
-    {
-      "anio": 2009,
-      "carrera": "A Través de Flandes",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Clásica Brujas-La Panne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Clásica Brujas-La Panne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2004,
-      "carrera": "E3 Harelbeke",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2005,
-      "carrera": "E3 Harelbeke",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "E3 Harelbeke",
-      "puesto": "56"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "51"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "73"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "137"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2006,
-      "carrera": "París-Camembert",
-      "puesto": "59"
-    },
-    {
-      "anio": 2003,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2005,
-      "carrera": "París-Roubaix",
-      "puesto": "66"
-    },
-    {
-      "anio": 2007,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "París-Roubaix",
-      "puesto": "23"
-    },
-    {
-      "anio": 2001,
-      "carrera": "París-Tours",
-      "puesto": "52"
-    },
-    {
-      "anio": 2004,
-      "carrera": "París-Tours",
-      "puesto": "75"
-    },
-    {
-      "anio": 2005,
-      "carrera": "París-Tours",
-      "puesto": "51"
-    },
-    {
-      "anio": 2007,
-      "carrera": "París-Tours",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "París-Tours",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2010,
-      "carrera": "París-Tours",
-      "puesto": "2"
-    },
-    {
-      "anio": 2005,
-      "carrera": "Tour de Flandes",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Tour de Flandes",
-      "puesto": "NC"
-    }
-  ],
-  "resultadosMundiales": [],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2007,
-      "carrera": "Criterium International",
-      "puesto": "103"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Criterium International",
-      "puesto": "55"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "135"
-    },
-    {
-      "anio": 2004,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "114"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "114"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Tour Of Turkey",
-      "puesto": "44"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Volta a Cataluña",
-      "puesto": "139"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Volta a Cataluña",
-      "puesto": "152"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Vuelta a Alemania",
-      "puesto": "146"
-    },
-    {
-      "anio": 2001,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "35"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "65"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "121"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "150"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 7,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 10,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }

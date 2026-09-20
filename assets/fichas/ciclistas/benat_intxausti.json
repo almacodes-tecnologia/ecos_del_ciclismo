@@ -1,393 +1,408 @@
 {
-  "id": "benat_intxausti",
-  "nombre": "Beñat Intxausti",
-  "nacionalidad": "España",
-  "lugarNacimiento": "Amorebieta-Etxano",
-  "peso": "61 kg",
-  "altura": "1.75 m",
-  "anioNacimiento": 1986,
-  "activo": "2007-2019",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2007,
-      "equipo": "Grupo Nicolás Mateos"
+    "id": "benat_intxausti",
+    "nombre": "Beñat Intxausti",
+    "nacionalidad": "España",
+    "lugarNacimiento": "Amorebieta-Etxano",
+    "peso": "61 kg",
+    "altura": "1.75 m",
+    "anioNacimiento": 1986,
+    "activo": "2007-2019",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2007,
+            "equipo": "Grupo Nicolás Mateos"
+        },
+        {
+            "anio": 2008,
+            "equipo": "Scott - American Beef"
+        },
+        {
+            "anio": 2009,
+            "equipo": "Fuji-Servetto"
+        },
+        {
+            "anio": 2010,
+            "equipo": "Euskaltel - Euskadi"
+        },
+        {
+            "anio": 2011,
+            "equipo": "Movistar Team"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Movistar Team"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Movistar Team"
+        },
+        {
+            "anio": 2014,
+            "equipo": "Movistar Team"
+        },
+        {
+            "anio": 2015,
+            "equipo": "Movistar Team"
+        },
+        {
+            "anio": 2016,
+            "equipo": "Team Sky"
+        },
+        {
+            "anio": 2017,
+            "equipo": "Team Sky"
+        },
+        {
+            "anio": 2018,
+            "equipo": "Team Sky"
+        },
+        {
+            "anio": 2019,
+            "equipo": "Euskadi Basque Country - Murias"
+        }
+    ],
+    "palmares": {
+        "2010": [
+            "1 etapa de la Vuelta a Asturias"
+        ],
+        "2012": [
+            "Vuelta a Asturias"
+        ],
+        "2013": [
+            "1 etapa del Giro de Italia",
+            "Tour de Pekín,",
+            "1 etapa"
+        ],
+        "2015": [
+            "1 etapa del Giro de Italia"
+        ]
     },
-    {
-      "anio": 2008,
-      "equipo": "Scott - American Beef"
-    },
-    {
-      "anio": 2009,
-      "equipo": "Fuji-Servetto"
-    },
-    {
-      "anio": 2010,
-      "equipo": "Euskaltel - Euskadi"
-    },
-    {
-      "anio": 2011,
-      "equipo": "Movistar Team"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Movistar Team"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Movistar Team"
-    },
-    {
-      "anio": 2014,
-      "equipo": "Movistar Team"
-    },
-    {
-      "anio": 2015,
-      "equipo": "Movistar Team"
-    },
-    {
-      "anio": 2016,
-      "equipo": "Team Sky"
-    },
-    {
-      "anio": 2017,
-      "equipo": "Team Sky"
-    },
-    {
-      "anio": 2018,
-      "equipo": "Team Sky"
-    },
-    {
-      "anio": 2019,
-      "equipo": "Euskadi Basque Country - Murias"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2012,
+            "carrera": "Giro d'Italia",
+            "puesto": "38"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Giro d'Italia",
+            "puesto": "8"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Giro d'Italia",
+            "puesto": "29"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tour de Francia",
+            "puesto": "114"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Vuelta a España",
+            "puesto": "60"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Vuelta a España",
+            "puesto": "85"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Vuelta a España",
+            "puesto": "10"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Vuelta a España",
+            "puesto": "87"
+        }
+    ],
+    "resultadosMonumentos": [
+        {
+            "anio": 2014,
+            "carrera": "A Través de Flandes",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Amstel Gold Race",
+            "puesto": "101"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Amstel Gold Race",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Bretagne Classic",
+            "puesto": "82"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Bretagne Classic",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Clásica de San Sebastián",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Clásica de San Sebastián",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Clásica de San Sebastián",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Flecha Valona",
+            "puesto": "112"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Flecha Valona",
+            "puesto": "19"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Flecha Valona",
+            "puesto": "121"
+        },
+        {
+            "anio": 2014,
+            "carrera": "GP de Montreal",
+            "puesto": "95"
+        },
+        {
+            "anio": 2014,
+            "carrera": "GP de Quebec",
+            "puesto": "83"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Giro de Lombardía",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "73"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Lieja-Bastoña-Lieja",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Milán-Turín",
+            "puesto": "113"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Milán-Turín",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Strade Bianche",
+            "puesto": "43"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Subida al Naranco",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Subida al Naranco",
+            "puesto": "21"
+        }
+    ],
+    "resultadosMundiales": [
+        {
+            "anio": 2006,
+            "carrera": "European Championships Mu",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2006,
+            "carrera": "World Championships U23",
+            "puesto": "62"
+        },
+        {
+            "anio": 2007,
+            "carrera": "World Championships U23",
+            "puesto": "60"
+        }
+    ],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2010,
+            "carrera": "Criterium International",
+            "puesto": "10"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "102"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Critérium del Dauphiné",
+            "puesto": "4"
+        },
+        {
+            "anio": 2008,
+            "carrera": "París-Niza",
+            "puesto": "69"
+        },
+        {
+            "anio": 2010,
+            "carrera": "París-Niza",
+            "puesto": "72"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "24"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "46"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "32"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Tour Of Turkey",
+            "puesto": "53"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "33"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Tour de Romandía",
+            "puesto": "5"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tour de Romandía",
+            "puesto": "6"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Volta a Cataluña",
+            "puesto": "134"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Volta a Cataluña",
+            "puesto": "31"
+        },
+        {
+            "anio": 2009,
+            "carrera": "Vuelta a Austria",
+            "puesto": "43"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Vuelta a Austria",
+            "puesto": "57"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "50"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "3"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Vuelta a Portugal",
+            "puesto": "100"
+        },
+        {
+            "anio": 2008,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "83"
+        },
+        {
+            "anio": 2010,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "2"
+        },
+        {
+            "anio": 2011,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "4"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "8"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "48"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Vuelta al País Vasco",
+            "puesto": "30"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 5,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 8,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [
-    {
-      "anio": 2012,
-      "carrera": "Giro d'Italia",
-      "puesto": "38"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Giro d'Italia",
-      "puesto": "8"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Giro d'Italia",
-      "puesto": "29"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tour de Francia",
-      "puesto": "114"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Vuelta a España",
-      "puesto": "60"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Vuelta a España",
-      "puesto": "85"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Vuelta a España",
-      "puesto": "10"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Vuelta a España",
-      "puesto": "87"
-    }
-  ],
-  "resultadosMonumentos": [
-    {
-      "anio": 2014,
-      "carrera": "A Través de Flandes",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Amstel Gold Race",
-      "puesto": "101"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Amstel Gold Race",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Bretagne Classic",
-      "puesto": "82"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Bretagne Classic",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Clásica de San Sebastián",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Clásica de San Sebastián",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Clásica de San Sebastián",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Flecha Valona",
-      "puesto": "112"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Flecha Valona",
-      "puesto": "19"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Flecha Valona",
-      "puesto": "121"
-    },
-    {
-      "anio": 2014,
-      "carrera": "GP de Montreal",
-      "puesto": "95"
-    },
-    {
-      "anio": 2014,
-      "carrera": "GP de Quebec",
-      "puesto": "83"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Giro de Lombardía",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "73"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Lieja-Bastoña-Lieja",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Milán-Turín",
-      "puesto": "113"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Milán-Turín",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Strade Bianche",
-      "puesto": "43"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Subida al Naranco",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Subida al Naranco",
-      "puesto": "21"
-    }
-  ],
-  "resultadosMundiales": [
-    {
-      "anio": 2006,
-      "carrera": "European Championships Mu",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2006,
-      "carrera": "World Championships U23",
-      "puesto": "62"
-    },
-    {
-      "anio": 2007,
-      "carrera": "World Championships U23",
-      "puesto": "60"
-    }
-  ],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2010,
-      "carrera": "Criterium International",
-      "puesto": "10"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "102"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Critérium del Dauphiné",
-      "puesto": "4"
-    },
-    {
-      "anio": 2008,
-      "carrera": "París-Niza",
-      "puesto": "69"
-    },
-    {
-      "anio": 2010,
-      "carrera": "París-Niza",
-      "puesto": "72"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "24"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "46"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "32"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Tour Of Turkey",
-      "puesto": "53"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "33"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Tour de Romandía",
-      "puesto": "5"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tour de Romandía",
-      "puesto": "6"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Volta a Cataluña",
-      "puesto": "134"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Volta a Cataluña",
-      "puesto": "31"
-    },
-    {
-      "anio": 2009,
-      "carrera": "Vuelta a Austria",
-      "puesto": "43"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Vuelta a Austria",
-      "puesto": "57"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "50"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "3"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Vuelta a Portugal",
-      "puesto": "100"
-    },
-    {
-      "anio": 2008,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "83"
-    },
-    {
-      "anio": 2010,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "2"
-    },
-    {
-      "anio": 2011,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "4"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "8"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "48"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Vuelta al País Vasco",
-      "puesto": "30"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 8,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }

@@ -1,174 +1,184 @@
 {
-  "id": "bernard_sulzberger",
-  "nombre": "Bernard Sulzberger",
-  "nacionalidad": "Australia",
-  "lugarNacimiento": "Beaconsfield",
-  "peso": "67 kg",
-  "altura": "1.77 m",
-  "anioNacimiento": 1983,
-  "activo": "2006-2016",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2006,
-      "equipo": "DFL-Cyclingnews-Litespeed"
+    "id": "bernard_sulzberger",
+    "nombre": "Bernard Sulzberger",
+    "nacionalidad": "Australia",
+    "lugarNacimiento": "Beaconsfield",
+    "peso": "67 kg",
+    "altura": "1.77 m",
+    "anioNacimiento": 1983,
+    "activo": "2006-2016",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2006,
+            "equipo": "DFL-Cyclingnews-Litespeed"
+        },
+        {
+            "anio": 2007,
+            "equipo": "DFL-Cyclingnews-Litespeed"
+        },
+        {
+            "anio": 2008,
+            "equipo": "Letua Cycling Team"
+        },
+        {
+            "anio": 2009,
+            "equipo": "Fly V Australia P/b Successful Living Foundation"
+        },
+        {
+            "anio": 2010,
+            "equipo": "Fly V Australia Pro Cycling Team"
+        },
+        {
+            "anio": 2011,
+            "equipo": "V Australia"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Team Raleigh - GAC"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Drapac Cycling Team"
+        },
+        {
+            "anio": 2014,
+            "equipo": "Drapac Professional Cycling"
+        },
+        {
+            "anio": 2015,
+            "equipo": "Drapac Professional Cycling"
+        },
+        {
+            "anio": 2016,
+            "equipo": "Drapac Professional Cycling"
+        }
+    ],
+    "palmares": {
+        "2009": [
+            "1 etapa del Tour de Beauce"
+        ],
+        "2013": [
+            "Tour de Taiwán"
+        ],
+        "2014": [
+            "3.º en el Campeonato Oceánico en Ruta"
+        ]
     },
-    {
-      "anio": 2007,
-      "equipo": "DFL-Cyclingnews-Litespeed"
-    },
-    {
-      "anio": 2008,
-      "equipo": "Letua Cycling Team"
-    },
-    {
-      "anio": 2009,
-      "equipo": "Fly V Australia P/b Successful Living Foundation"
-    },
-    {
-      "anio": 2010,
-      "equipo": "Fly V Australia Pro Cycling Team"
-    },
-    {
-      "anio": 2011,
-      "equipo": "V Australia"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Team Raleigh - GAC"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Drapac Cycling Team"
-    },
-    {
-      "anio": 2014,
-      "equipo": "Drapac Professional Cycling"
-    },
-    {
-      "anio": 2015,
-      "equipo": "Drapac Professional Cycling"
-    },
-    {
-      "anio": 2016,
-      "equipo": "Drapac Professional Cycling"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [],
+    "resultadosMonumentos": [
+        {
+            "anio": 2007,
+            "carrera": "A Través de Flandes",
+            "puesto": "126"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "31"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Clásica Brujas-La Panne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2015,
+            "carrera": "GP de Montreal",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2015,
+            "carrera": "GP de Quebec",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "109"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "NC"
+        }
+    ],
+    "resultadosMundiales": [
+        {
+            "anio": 2000,
+            "carrera": "Uci World Championships Mj",
+            "puesto": "30"
+        },
+        {
+            "anio": 2001,
+            "carrera": "Uci World Championships Mj",
+            "puesto": "108"
+        }
+    ],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2004,
+            "carrera": "Tour Down Under",
+            "puesto": "65"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tour Down Under",
+            "puesto": "23"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Tour Down Under",
+            "puesto": "35"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tour Down Under",
+            "puesto": "30"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tour Of Turkey",
+            "puesto": "95"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Tour Of Turkey",
+            "puesto": "98"
+        },
+        {
+            "anio": 2007,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "21"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "22"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 5,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 8,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [],
-  "resultadosMonumentos": [
-    {
-      "anio": 2007,
-      "carrera": "A Través de Flandes",
-      "puesto": "126"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "31"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Clásica Brujas-La Panne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2015,
-      "carrera": "GP de Montreal",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2015,
-      "carrera": "GP de Quebec",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "109"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "NC"
-    }
-  ],
-  "resultadosMundiales": [
-    {
-      "anio": 2000,
-      "carrera": "Uci World Championships Mj",
-      "puesto": "30"
-    },
-    {
-      "anio": 2001,
-      "carrera": "Uci World Championships Mj",
-      "puesto": "108"
-    }
-  ],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2004,
-      "carrera": "Tour Down Under",
-      "puesto": "65"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tour Down Under",
-      "puesto": "23"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Tour Down Under",
-      "puesto": "35"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tour Down Under",
-      "puesto": "30"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tour Of Turkey",
-      "puesto": "95"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Tour Of Turkey",
-      "puesto": "98"
-    },
-    {
-      "anio": 2007,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "21"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "22"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 8,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }

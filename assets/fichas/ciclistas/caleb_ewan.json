@@ -1,408 +1,503 @@
 {
-  "id": "caleb_ewan",
-  "nombre": "Caleb Ewan",
-  "nacionalidad": "Australia",
-  "lugarNacimiento": "Sydney",
-  "peso": "69 kg",
-  "altura": "1.65 m",
-  "anioNacimiento": 1994,
-  "activo": "2013-2025",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2013,
-      "equipo": "Jayco-AIS Cycling"
+    "id": "caleb_ewan",
+    "nombre": "Caleb Ewan",
+    "nacionalidad": "Australia",
+    "lugarNacimiento": "Sydney",
+    "peso": "69 kg",
+    "altura": "1.65 m",
+    "anioNacimiento": 1994,
+    "activo": "2013-2025",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2013,
+            "equipo": "Jayco-AIS Cycling"
+        },
+        {
+            "anio": 2014,
+            "equipo": "Jayco-AIS World Tour Academy"
+        },
+        {
+            "anio": 2015,
+            "equipo": "Orica GreenEDGE"
+        },
+        {
+            "anio": 2016,
+            "equipo": "ORICA-BikeExchange"
+        },
+        {
+            "anio": 2017,
+            "equipo": "ORICA-Scott"
+        },
+        {
+            "anio": 2018,
+            "equipo": "Mitchelton-Scott"
+        },
+        {
+            "anio": 2019,
+            "equipo": "Lotto Soudal"
+        },
+        {
+            "anio": 2020,
+            "equipo": "Lotto Soudal"
+        },
+        {
+            "anio": 2021,
+            "equipo": "Lotto Soudal"
+        },
+        {
+            "anio": 2022,
+            "equipo": "Lotto Soudal"
+        },
+        {
+            "anio": 2023,
+            "equipo": "Lotto Dstny"
+        },
+        {
+            "anio": 2024,
+            "equipo": "Team Jayco AlUla"
+        },
+        {
+            "anio": 2025,
+            "equipo": "INEOS Grenadiersfrom"
+        }
+    ],
+    "palmares": {
+        "2007": [
+            "Oro en la carrera a los puntos de Los Ángeles",
+            "Campeonato de Oceanía en puntuación",
+            "Campeonato de Oceanía en persecución por equipos",
+            "2.º en el Campeonato de Oceanía en madison",
+            "1 etapa del Tour of Gippsland",
+            "Tour de Tasmania,",
+            "2 etapas"
+        ],
+        "2008": [
+            "Oro en la carrera a los puntos de Los Ángeles",
+            "Bronce en la carrera a los puntos en Pekín",
+            "Bronce en la carrera a los puntos en Sídney",
+            "Bronce en persecución por equipos en Copenhague",
+            "Campeonato de Oceanía en puntuación",
+            "Tour de Japón",
+            "3.º en el Campeonato Mundial Contrarreloj sub-23"
+        ],
+        "2009": [
+            "Campeonato del mundo en puntuación",
+            "2.º en el Campeonato del mundo en americana",
+            "2.º en el Campeonato del mundo en persecución por equipos (con Leigh Howard)",
+            "Plata en americana en Melbourne (con Christopher Sutton)",
+            "Campeonato de Australia en persecución por equipos (con Travis Meyer, Michael Freiberg y Luke Durbridge)",
+            "Campeonato de Australia en americana (con Glenn O'Shea)",
+            "2.º en el Campeonato de Australia Contrarreloj"
+        ],
+        "2010": [
+            "Campeonato del mundo en puntuación",
+            "Campeonato del mundo en persecución por equipos (con Jack Bobridge, Michael Hepburn y Leigh Howard)",
+            "Campeonato del mundo en americana (con Leigh Howard)",
+            "Oro en persecución por equipos de Melbourne (con Rohan Dennis, Michael Hepburn y Luke Durbridge)",
+            "Oro en persecución por equipos en Pekín (con Leigh Howard, Luke Durbridge y Michael Hepburn)",
+            "Oro en la carrera a los puntos de Melbourne",
+            "Juegos de la Mancomunidad en puntuación",
+            "Juegos de la Mancomunidad en scratch",
+            "Campeonato de Oceanía en madison (con Leigh Howard)",
+            "Campeonato de Oceanía en persecución por equipos (con Jack Bobridge, Leigh Howard y Michael Hepburn)",
+            "Campeonato de Australia en americana (con Jack Bobridge)",
+            "Campeonato de Australia Contrarreloj"
+        ],
+        "2011": [
+            "Campeonato del mundo en americana (con Leigh Howard)",
+            "2.º en el Campeonato del mundo en puntuación",
+            "Oro en madison en Melbourne (con Leigh Howard)",
+            "Oro en persecución por equipos en Melbourne (con Leigh Howard, Jack Bobridge y Michael Hepburn)",
+            "Campeonato de Australia en americana (con Leigh Howard)",
+            "Campeonato de Australia Contrarreloj",
+            "Tour Down Under,",
+            "1 etapa"
+        ],
+        "2012": [
+            "Campeonato del mundo en puntuación",
+            "3.º en el Campeonato del mundo en americana (con Leigh Howard)",
+            "2.º en el Campeonato de Australia Contrarreloj"
+        ],
+        "2017": [
+            "Campeonato del mundo en puntuación",
+            "Campeonato del mundo en persecución por equipos (con Sam Welsford, Alexander Porter y Nicholas Yallouris)",
+            "2.º en el Campeonato del mundo en madison",
+            "Campeón de Australia en americana (con Sam Welsford)",
+            "Campeón de Australia en persecución por equipos (con Sam Welsford, Michael Freiberg y Stephen Hall)",
+            "Dwars door de Vlaamse Ardennen"
+        ],
+        "2018": [
+            "Campeonato del mundo en puntuación",
+            "3.º en el Campeonato del mundo en madison (con Callum Scotson)",
+            "Palmarés en ruta",
+            "1 etapa de la Vuelta a Gran Bretaña"
+        ],
+        "2013": [
+            "Campeonato Oceánico en Ruta",
+            "1 etapa de la Vuelta a Suiza"
+        ],
+        "2014": [
+            "1 etapa de la Vuelta a Suiza"
+        ],
+        "2015": [
+            "Herald Sun Tour,",
+            "1 etapa"
+        ],
+        "2016": [
+            "2.º en el Campeonato de Australia en Ruta"
+        ],
+        "2019": [
+            "3.º en el Campeonato de Australia en Ruta",
+            "3.º en el Campeonato de Australia Contrarreloj"
+        ],
+        "2020": [
+            "Campeonato de Australia en Ruta"
+        ],
+        "2021": [
+            "Campeonato de Australia en Ruta"
+        ]
     },
-    {
-      "anio": 2014,
-      "equipo": "Jayco-AIS World Tour Academy"
-    },
-    {
-      "anio": 2015,
-      "equipo": "Orica GreenEDGE"
-    },
-    {
-      "anio": 2016,
-      "equipo": "ORICA-BikeExchange"
-    },
-    {
-      "anio": 2017,
-      "equipo": "ORICA-Scott"
-    },
-    {
-      "anio": 2018,
-      "equipo": "Mitchelton-Scott"
-    },
-    {
-      "anio": 2019,
-      "equipo": "Lotto Soudal"
-    },
-    {
-      "anio": 2020,
-      "equipo": "Lotto Soudal"
-    },
-    {
-      "anio": 2021,
-      "equipo": "Lotto Soudal"
-    },
-    {
-      "anio": 2022,
-      "equipo": "Lotto Soudal"
-    },
-    {
-      "anio": 2023,
-      "equipo": "Lotto Dstny"
-    },
-    {
-      "anio": 2024,
-      "equipo": "Team Jayco AlUla"
-    },
-    {
-      "anio": 2025,
-      "equipo": "INEOS Grenadiersfrom"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [
+        {
+            "anio": 2024,
+            "carrera": "Giro d'Italia",
+            "puesto": "120"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Tour de Francia",
+            "puesto": "132"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Tour de Francia",
+            "puesto": "144"
+        },
+        {
+            "anio": 2022,
+            "carrera": "Tour de Francia",
+            "puesto": "134"
+        }
+    ],
+    "resultadosMonumentos": [
+        {
+            "anio": 2017,
+            "carrera": "A Través de Flandes",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2023,
+            "carrera": "A Través de Flandes",
+            "puesto": "83"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Bretagne Classic",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "2"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "7"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "6"
+        },
+        {
+            "anio": 2024,
+            "carrera": "Cadel Evans Great Ocean Road Race",
+            "puesto": "33"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Clásica Brujas-La Panne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Clásica Brujas-La Panne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "1"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "34"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "2"
+        },
+        {
+            "anio": 2022,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2024,
+            "carrera": "Cyclassics Hamburgo",
+            "puesto": "103"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "101"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Gante-Wevelgem",
+            "puesto": "66"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "15"
+        },
+        {
+            "anio": 2022,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "2"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Milán-San Remo",
+            "puesto": "10"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Milán-San Remo",
+            "puesto": "2"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Milán-San Remo",
+            "puesto": "29"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Milán-San Remo",
+            "puesto": "112"
+        },
+        {
+            "anio": 2021,
+            "carrera": "Milán-San Remo",
+            "puesto": "2"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Milán-San Remo",
+            "puesto": "16"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Milán-Turín",
+            "puesto": "2"
+        },
+        {
+            "anio": 2016,
+            "carrera": "París-Tours",
+            "puesto": "178"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Scheldeprijs",
+            "puesto": "1"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Scheldeprijs",
+            "puesto": "7"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Tour de Flandes",
+            "puesto": "NC"
+        }
+    ],
+    "resultadosMundiales": [
+        {
+            "anio": 2012,
+            "carrera": "Uci World Championships Mj",
+            "puesto": "2"
+        },
+        {
+            "anio": 2016,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2021,
+            "carrera": "World Championship",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2013,
+            "carrera": "World Championships U23",
+            "puesto": "4"
+        },
+        {
+            "anio": 2014,
+            "carrera": "World Championships U23",
+            "puesto": "2"
+        }
+    ],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2016,
+            "carrera": "Tirreno-Adriático",
+            "puesto": "158"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Tour Down Under",
+            "puesto": "98"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Tour Down Under",
+            "puesto": "124"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Tour Down Under",
+            "puesto": "89"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Tour Down Under",
+            "puesto": "77"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Tour Down Under",
+            "puesto": "95"
+        },
+        {
+            "anio": 2020,
+            "carrera": "Tour Down Under",
+            "puesto": "51"
+        },
+        {
+            "anio": 2023,
+            "carrera": "Tour Down Under",
+            "puesto": "100"
+        },
+        {
+            "anio": 2024,
+            "carrera": "Tour Down Under",
+            "puesto": "103"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Tour Of Turkey",
+            "puesto": "118"
+        },
+        {
+            "anio": 2019,
+            "carrera": "Tour Of Turkey",
+            "puesto": "57"
+        },
+        {
+            "anio": 2022,
+            "carrera": "Tour Of Turkey",
+            "puesto": "50"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Tour de California",
+            "puesto": "76"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "74"
+        },
+        {
+            "anio": 2018,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "59"
+        },
+        {
+            "anio": 2024,
+            "carrera": "Tour de Omán",
+            "puesto": "76"
+        },
+        {
+            "anio": 2019,
+            "carrera": "UAE Tour",
+            "puesto": "79"
+        },
+        {
+            "anio": 2020,
+            "carrera": "UAE Tour",
+            "puesto": "95"
+        },
+        {
+            "anio": 2021,
+            "carrera": "UAE Tour",
+            "puesto": "100"
+        },
+        {
+            "anio": 2023,
+            "carrera": "UAE Tour",
+            "puesto": "93"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "100"
+        },
+        {
+            "anio": 2017,
+            "carrera": "Vuelta a Polonia",
+            "puesto": "95"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 5,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 10,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [
-    {
-      "anio": 2024,
-      "carrera": "Giro d'Italia",
-      "puesto": "120"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Tour de Francia",
-      "puesto": "132"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Tour de Francia",
-      "puesto": "144"
-    },
-    {
-      "anio": 2022,
-      "carrera": "Tour de Francia",
-      "puesto": "134"
-    }
-  ],
-  "resultadosMonumentos": [
-    {
-      "anio": 2017,
-      "carrera": "A Través de Flandes",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2023,
-      "carrera": "A Través de Flandes",
-      "puesto": "83"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Bretagne Classic",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "2"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "7"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "6"
-    },
-    {
-      "anio": 2024,
-      "carrera": "Cadel Evans Great Ocean Road Race",
-      "puesto": "33"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Clásica Brujas-La Panne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Clásica Brujas-La Panne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "1"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "34"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "2"
-    },
-    {
-      "anio": 2022,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2024,
-      "carrera": "Cyclassics Hamburgo",
-      "puesto": "103"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "101"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Gante-Wevelgem",
-      "puesto": "66"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "15"
-    },
-    {
-      "anio": 2022,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "2"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Milán-San Remo",
-      "puesto": "10"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Milán-San Remo",
-      "puesto": "2"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Milán-San Remo",
-      "puesto": "29"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Milán-San Remo",
-      "puesto": "112"
-    },
-    {
-      "anio": 2021,
-      "carrera": "Milán-San Remo",
-      "puesto": "2"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Milán-San Remo",
-      "puesto": "16"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Milán-Turín",
-      "puesto": "2"
-    },
-    {
-      "anio": 2016,
-      "carrera": "París-Tours",
-      "puesto": "178"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Scheldeprijs",
-      "puesto": "1"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Scheldeprijs",
-      "puesto": "7"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Tour de Flandes",
-      "puesto": "NC"
-    }
-  ],
-  "resultadosMundiales": [
-    {
-      "anio": 2012,
-      "carrera": "Uci World Championships Mj",
-      "puesto": "2"
-    },
-    {
-      "anio": 2016,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2021,
-      "carrera": "World Championship",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2013,
-      "carrera": "World Championships U23",
-      "puesto": "4"
-    },
-    {
-      "anio": 2014,
-      "carrera": "World Championships U23",
-      "puesto": "2"
-    }
-  ],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2016,
-      "carrera": "Tirreno-Adriático",
-      "puesto": "158"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Tour Down Under",
-      "puesto": "98"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Tour Down Under",
-      "puesto": "124"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Tour Down Under",
-      "puesto": "89"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Tour Down Under",
-      "puesto": "77"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Tour Down Under",
-      "puesto": "95"
-    },
-    {
-      "anio": 2020,
-      "carrera": "Tour Down Under",
-      "puesto": "51"
-    },
-    {
-      "anio": 2023,
-      "carrera": "Tour Down Under",
-      "puesto": "100"
-    },
-    {
-      "anio": 2024,
-      "carrera": "Tour Down Under",
-      "puesto": "103"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Tour Of Turkey",
-      "puesto": "118"
-    },
-    {
-      "anio": 2019,
-      "carrera": "Tour Of Turkey",
-      "puesto": "57"
-    },
-    {
-      "anio": 2022,
-      "carrera": "Tour Of Turkey",
-      "puesto": "50"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Tour de California",
-      "puesto": "76"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "74"
-    },
-    {
-      "anio": 2018,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "59"
-    },
-    {
-      "anio": 2024,
-      "carrera": "Tour de Omán",
-      "puesto": "76"
-    },
-    {
-      "anio": 2019,
-      "carrera": "UAE Tour",
-      "puesto": "79"
-    },
-    {
-      "anio": 2020,
-      "carrera": "UAE Tour",
-      "puesto": "95"
-    },
-    {
-      "anio": 2021,
-      "carrera": "UAE Tour",
-      "puesto": "100"
-    },
-    {
-      "anio": 2023,
-      "carrera": "UAE Tour",
-      "puesto": "93"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "100"
-    },
-    {
-      "anio": 2017,
-      "carrera": "Vuelta a Polonia",
-      "puesto": "95"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 10,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }
