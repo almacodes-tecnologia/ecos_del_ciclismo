@@ -1,216 +1,220 @@
 {
-  "id": "christophe_laborie",
-  "nombre": "Christophe Laborie",
-  "nacionalidad": "Francia",
-  "lugarNacimiento": "Aurillac",
-  "peso": "67 kg",
-  "altura": "1.81 m",
-  "anioNacimiento": 1986,
-  "activo": "2010-2017",
-  "especialidad": [
-    "clasicómano",
-    "vueltómano"
-  ],
-  "equipos": [
-    {
-      "anio": 2010,
-      "equipo": "Saur - Sojasun"
+    "id": "christophe_laborie",
+    "nombre": "Christophe Laborie",
+    "nacionalidad": "Francia",
+    "lugarNacimiento": "Aurillac",
+    "peso": "67 kg",
+    "altura": "1.81 m",
+    "anioNacimiento": 1986,
+    "activo": "2010-2017",
+    "especialidad": [
+        "clasicómano",
+        "vueltómano"
+    ],
+    "equipos": [
+        {
+            "anio": 2010,
+            "equipo": "Saur - Sojasun"
+        },
+        {
+            "anio": 2011,
+            "equipo": "Saur - Sojasun"
+        },
+        {
+            "anio": 2012,
+            "equipo": "Saur - Sojasun"
+        },
+        {
+            "anio": 2013,
+            "equipo": "Sojasun"
+        },
+        {
+            "anio": 2014,
+            "equipo": "Bretagne - Séché Environnement"
+        },
+        {
+            "anio": 2015,
+            "equipo": "Bretagne - Séché Environnement"
+        },
+        {
+            "anio": 2016,
+            "equipo": "Delko Marseille Provence KTM"
+        },
+        {
+            "anio": 2017,
+            "equipo": "WB - Fybolia Locminé"
+        }
+    ],
+    "palmares": {
+        "2009": [
+            "1 etapa de la Mi-Août en Bretagne"
+        ]
     },
-    {
-      "anio": 2011,
-      "equipo": "Saur - Sojasun"
-    },
-    {
-      "anio": 2012,
-      "equipo": "Saur - Sojasun"
-    },
-    {
-      "anio": 2013,
-      "equipo": "Sojasun"
-    },
-    {
-      "anio": 2014,
-      "equipo": "Bretagne - Séché Environnement"
-    },
-    {
-      "anio": 2015,
-      "equipo": "Bretagne - Séché Environnement"
-    },
-    {
-      "anio": 2016,
-      "equipo": "Delko Marseille Provence KTM"
-    },
-    {
-      "anio": 2017,
-      "equipo": "WB - Fybolia Locminé"
+    "resumenPalmares": [],
+    "resultadosGrandesVueltas": [],
+    "resultadosMonumentos": [
+        {
+            "anio": 2013,
+            "carrera": "Bretagne Classic",
+            "puesto": "110"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Bretagne Classic",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "55"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "103"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Kuurne-Bruselas-Kuurne",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "119"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "125"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "23"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Omloop Het Nieuwsblad",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2012,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2013,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2014,
+            "carrera": "París-Roubaix",
+            "puesto": "NC"
+        },
+        {
+            "anio": 2015,
+            "carrera": "París-Roubaix",
+            "puesto": "122"
+        },
+        {
+            "anio": 2016,
+            "carrera": "París-Roubaix",
+            "puesto": "81"
+        },
+        {
+            "anio": 2012,
+            "carrera": "París-Tours",
+            "puesto": "30"
+        },
+        {
+            "anio": 2013,
+            "carrera": "París-Tours",
+            "puesto": "102"
+        },
+        {
+            "anio": 2014,
+            "carrera": "París-Tours",
+            "puesto": "91"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Scheldeprijs",
+            "puesto": "83"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Scheldeprijs",
+            "puesto": "38"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Trofeo Laigueglia",
+            "puesto": "49"
+        }
+    ],
+    "resultadosMundiales": [],
+    "resultadosVueltasMenores": [
+        {
+            "anio": 2012,
+            "carrera": "Criterium International",
+            "puesto": "78"
+        },
+        {
+            "anio": 2014,
+            "carrera": "Criterium International",
+            "puesto": "34"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Criterium International",
+            "puesto": "48"
+        },
+        {
+            "anio": 2014,
+            "carrera": "París-Niza",
+            "puesto": "87"
+        },
+        {
+            "anio": 2016,
+            "carrera": "Tour Of Turkey",
+            "puesto": "43"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Tour de Gran Bretaña",
+            "puesto": "52"
+        },
+        {
+            "anio": 2013,
+            "carrera": "Volta a Cataluña",
+            "puesto": "72"
+        },
+        {
+            "anio": 2015,
+            "carrera": "Volta a Cataluña",
+            "puesto": "114"
+        },
+        {
+            "anio": 2012,
+            "carrera": "Vuelta a Portugal",
+            "puesto": "106"
+        }
+    ],
+    "habilidades": {
+        "llano": 5,
+        "montana": 7,
+        "media_montana": 5,
+        "muros": 5,
+        "pave": 5,
+        "sprint": 5,
+        "aceleracion": 5,
+        "resistencia_gran_vuelta": 8,
+        "resistencia_clasicas": 8,
+        "combatividad": 5,
+        "contrarreloj": 5,
+        "pista": 5,
+        "tierra": 5
     }
-  ],
-  "palmares": {},
-  "resumenPalmares": [],
-  "resultadosGrandesVueltas": [],
-  "resultadosMonumentos": [
-    {
-      "anio": 2013,
-      "carrera": "Bretagne Classic",
-      "puesto": "110"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Bretagne Classic",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "55"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "103"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Kuurne-Bruselas-Kuurne",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "119"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "125"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "23"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Omloop Het Nieuwsblad",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2012,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2013,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2014,
-      "carrera": "París-Roubaix",
-      "puesto": "NC"
-    },
-    {
-      "anio": 2015,
-      "carrera": "París-Roubaix",
-      "puesto": "122"
-    },
-    {
-      "anio": 2016,
-      "carrera": "París-Roubaix",
-      "puesto": "81"
-    },
-    {
-      "anio": 2012,
-      "carrera": "París-Tours",
-      "puesto": "30"
-    },
-    {
-      "anio": 2013,
-      "carrera": "París-Tours",
-      "puesto": "102"
-    },
-    {
-      "anio": 2014,
-      "carrera": "París-Tours",
-      "puesto": "91"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Scheldeprijs",
-      "puesto": "83"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Scheldeprijs",
-      "puesto": "38"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Trofeo Laigueglia",
-      "puesto": "49"
-    }
-  ],
-  "resultadosMundiales": [],
-  "resultadosVueltasMenores": [
-    {
-      "anio": 2012,
-      "carrera": "Criterium International",
-      "puesto": "78"
-    },
-    {
-      "anio": 2014,
-      "carrera": "Criterium International",
-      "puesto": "34"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Criterium International",
-      "puesto": "48"
-    },
-    {
-      "anio": 2014,
-      "carrera": "París-Niza",
-      "puesto": "87"
-    },
-    {
-      "anio": 2016,
-      "carrera": "Tour Of Turkey",
-      "puesto": "43"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Tour de Gran Bretaña",
-      "puesto": "52"
-    },
-    {
-      "anio": 2013,
-      "carrera": "Volta a Cataluña",
-      "puesto": "72"
-    },
-    {
-      "anio": 2015,
-      "carrera": "Volta a Cataluña",
-      "puesto": "114"
-    },
-    {
-      "anio": 2012,
-      "carrera": "Vuelta a Portugal",
-      "puesto": "106"
-    }
-  ],
-  "habilidades": {
-    "llano": 5,
-    "montana": 7,
-    "media_montana": 5,
-    "muros": 5,
-    "pave": 5,
-    "sprint": 5,
-    "aceleracion": 5,
-    "resistencia_gran_vuelta": 8,
-    "resistencia_clasicas": 8,
-    "combatividad": 5,
-    "contrarreloj": 5,
-    "pista": 5,
-    "tierra": 5
-  }
 }
