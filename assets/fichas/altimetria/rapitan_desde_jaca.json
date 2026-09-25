@@ -1,0 +1,185 @@
+{
+  "id": "rapitan_desde_jaca",
+  "nombre": "Rapitán",
+  "punto_inicio": "Jaca",
+  "categoria": "D",
+  "vertiente": "desde Jaca",
+  "pais": "España",
+    "region": "Huesca",
+  "zona": "Pirineos",
+  "coordenadas_inicio": {
+    "lat": 42.58079,
+    "lon": -0.544407
+  },
+  "coordenadas_final": {
+    "lat": 42.588606,
+    "lon": -0.533828
+  },
+  "longitud_km": 3.6,
+  "desnivel_m": 287,
+  "altura_maxima_m": 1100,
+  "pendiente_media_porcentaje": 8.0,
+  "pendiente_maxima_porcentaje": 10.2,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "19/07/2026",
+    "descripcion": "Corta pero exigente ascensión desde Jaca hasta el monte de Rapitán, con una pendiente muy regular cercana al 8% y numerosas curvas de herradura. La carretera asfaltada asciende entre zonas arboladas hasta alcanzar el entorno del Fuerte de Rapitán, desde donde se obtiene una amplia panorámica de Jaca y del valle del Aragón. Es una subida muy conocida en el ciclismo español, ya que fue final de etapa de la Vuelta a España en 2012."
+},
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 826
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 830
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 833
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 840
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 845
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 850
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 857
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 864
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 872
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 880
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 888
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 896
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 904
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 913
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 922
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 932
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 941
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 950
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 960
+    },
+    {
+      "kilometro": 1.9,
+      "altitud": 968
+    },
+    {
+      "kilometro": 2.0,
+      "altitud": 976
+    },
+    {
+      "kilometro": 2.1,
+      "altitud": 984
+    },
+    {
+      "kilometro": 2.2,
+      "altitud": 993
+    },
+    {
+      "kilometro": 2.3,
+      "altitud": 1002
+    },
+    {
+      "kilometro": 2.4,
+      "altitud": 1011
+    },
+    {
+      "kilometro": 2.5,
+      "altitud": 1019
+    },
+    {
+      "kilometro": 2.6,
+      "altitud": 1027
+    },
+    {
+      "kilometro": 2.7,
+      "altitud": 1035
+    },
+    {
+      "kilometro": 2.8,
+      "altitud": 1043
+    },
+    {
+      "kilometro": 2.9,
+      "altitud": 1051
+    },
+    {
+      "kilometro": 3.0,
+      "altitud": 1058
+    },
+    {
+      "kilometro": 3.1,
+      "altitud": 1066
+    },
+    {
+      "kilometro": 3.2,
+      "altitud": 1075
+    },
+    {
+      "kilometro": 3.3,
+      "altitud": 1084
+    },
+    {
+      "kilometro": 3.4,
+      "altitud": 1089
+    },
+    {
+      "kilometro": 3.5,
+      "altitud": 1094
+    },
+ {
+      "kilometro": 3.6,
+      "altitud": 1100
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": "rapitan.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}

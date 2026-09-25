@@ -1,0 +1,117 @@
+{
+  "id": "colle_della_guardia_san_luca_desde_bologna",
+  "nombre": "Colle della Guardia San Luca",
+  "punto_inicio": "Bolonia",
+  "categoria": "D",
+  "vertiente": "desde Bologna",
+  "pais": "Italia",
+    "region": "Emilia-Romaña",
+  "zona": "Apeninos Emilianos",
+  "coordenadas_inicio": {
+    "lat": 44.490136,
+    "lon": 11.310852
+  },
+  "coordenadas_final": {
+    "lat": 44.479425,
+    "lon": 11.296868
+  },
+  "longitud_km": 1.9,
+  "desnivel_m": 175,
+  "altura_maxima_m": 254,
+  "pendiente_media_porcentaje": 9.3,
+  "pendiente_maxima_porcentaje": 15.8,
+  "superficie": "asfalto",
+  "tags": [],
+  "ultima_revision": "23/09/2026",
+  "descripcion": "Corta pero intensa ascensión desde Bolonia hasta el Colle della Guardia, coronada por el emblemático Santuario de San Luca. La subida presenta una pendiente elevada y bastante sostenida, con varias rampas de dos dígitos y un breve tramo más llevadero antes de afrontar la parte final. La carretera discurre junto al famoso pórtico de San Luca y ofrece vistas sobre Bolonia y la llanura emiliana. Es una ascensión muy conocida en el ciclismo italiano, protagonista habitual del Giro dell'Emilia y de diferentes etapas y cronos. Asfalto."
+},
+  "altimetria_puntos": [
+    {
+      "kilometro": 0.0,
+      "altitud": 81
+    },
+    {
+      "kilometro": 0.1,
+      "altitud": 89
+    },
+    {
+      "kilometro": 0.2,
+      "altitud": 96
+    },
+    {
+      "kilometro": 0.3,
+      "altitud": 107
+    },
+    {
+      "kilometro": 0.4,
+      "altitud": 119
+    },
+    {
+      "kilometro": 0.5,
+      "altitud": 130
+    },
+    {
+      "kilometro": 0.6,
+      "altitud": 138
+    },
+    {
+      "kilometro": 0.7,
+      "altitud": 147
+    },
+    {
+      "kilometro": 0.8,
+      "altitud": 157
+    },
+    {
+      "kilometro": 0.9,
+      "altitud": 168
+    },
+    {
+      "kilometro": 1.0,
+      "altitud": 181
+    },
+    {
+      "kilometro": 1.1,
+      "altitud": 194
+    },
+    {
+      "kilometro": 1.2,
+      "altitud": 206
+    },
+    {
+      "kilometro": 1.3,
+      "altitud": 216
+    },
+    {
+      "kilometro": 1.4,
+      "altitud": 226
+    },
+    {
+      "kilometro": 1.5,
+      "altitud": 235
+    },
+    {
+      "kilometro": 1.6,
+      "altitud": 241
+    },
+    {
+      "kilometro": 1.7,
+      "altitud": 246
+    },
+    {
+      "kilometro": 1.8,
+      "altitud": 250
+    },
+  {
+      "kilometro": 1.9,
+      "altitud": 254
+    }
+  ],
+  "puntos_clave": [],
+  "fuente": {
+    "tipo": "gpx",
+    "referencia": " San Luca desde Bologna.gpx"
+  },
+  "interpolado": false,
+  "version_json": ""
+}
